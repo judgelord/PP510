@@ -1,0 +1,491 @@
+---
+title: "Public Policy 510.002"
+subtitle: "The Politics of Public Policy, 1120 Weill Hall"
+date: "Tuesdays and Thursdays 8:30-9:50"
+author: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
+urlcolor: blue
+editor_options: 
+   chunk_output_type: console
+output:
+  #pdf_document
+    html_document:
+      toc: true
+      toc_float: true
+  # xaringan::moon_reader:
+  #   lib_dir: libs
+  #   mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+  #   css: xaringan-themer.css
+  #   nature:
+  #     highlightStyle: github
+  #     highlightLines: true
+  #     countIncrementalSlides: false
+
+---
+
+<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear the goals and requirements for this class; If we have time, we will start in on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be water quality issues in the great lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
+
+I grew up on a small farm in central Wisconsin, where rainfall and groundwater make all the difference. Did anyone else grow up on a farm? A diary? Does anyone have hogs? 
+
+After college, I worked in local government. Specifically, I worked on regulatory affairs for wastewater treatment facilities. Working in a sewage treatment plant may not sound like the most glamorous work, but we were a major regulated entity, i.e., a major source of pollution, and as such, we were a key stakeholder, which gave me a seat at the table with state and federal agencies in charge of water quality regulations. I helped revise some of those regulations and even wrote pieces of state legislation. 
+
+Anyone thinking about law school. Public policy. I went on to do a joint master's in law and environmental science between Yale Law School and Foresty School (Which is really more of a policy school).
+
+Then I went to the UN for a few years. Comparing forestry laws around the world for the Food and Agriculture Organization. The UN does great work, and in some ways is really inspiring, but the slow pace and rampant censorship left me very frustrated, so I came back for my PhD
+
+Five years later, I am working on a book about whether regular people's voices matter in government--that is, if policymakers act differently when lots of people are paying attention versus when they are not. I also have major research projects looking at the role of money in politics, which members of congress really work for behind the scenes, federal budgeting, and forms of non-governmental regulation.
+
+![](figs/syllabus.gif)
+
+
+<img src="figs/voting_referendum.png" style="width: 65%" /> 
+--> 
+
+
+---
+
+
+### Office hours: Tuesday and Thursday 9:30-10:30, 3215 Weill Hall
+
+
+---
+
+## Overview 
+
+Public policy is defined in many ways.  I think of public policy as the government’s statement of what it intends to do. The government part makes it public, and the stated course of action makes it policy. Policy is more than a single decision, it is a statement about how future decisions will be made. Public policy is made at the international, national, state, regional, county, city, and even more local levels.  <!--Some public policies address large problems (e.g., international treaties on climate change).  Other public policies focus on highly local problems (e.g., the University of Wisconsin Student Union’s decision to remove from public spaces the names of two men identified as members of the KKK during the 1920s when they were undergraduates at UW-Madison.)
+These very different policy initiatives share a common impetus:  Governmental or quasi-governmental entities have concluded that a problem exists and that it requires the allocation of public resources to mitigate or prevent the resulting harms.  -->
+
+Learning about public policy---what it is, the legal frameworks within which it is made, the tools available to policymakers, the policymaking process, and how to evaluate public policies---will strengthen your writing, analytical, research, and advocacy skills, and will inform your participation in our society. 
+
+---
+
+Public policy is inexorably linked to questions of power. Policy emerges from and shapes politics, but it also involves evidence. Political debates define problems, goals, and agendas, but to achieve any goal through policy, evidence about the effects of different policy tools is indispensable. Evidence must come from sources that your audience will trust. Good evidence ought to be convincing to reasonable opponents of one's policy goals. Good arguments clarify your logic, even to those who may oppose your goals.
+
+---
+
+## Required Texts
+
+Two texts are on reserve at the Library. **Any edition is fine**, but more recent editions have more contemporary examples. I will post other readings on Canvass or the class website.
+
+> Dan Egan, *The Death and Life of the Great Lakes* 
+
+<!--> Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition (Armonk, NY: M.E. Sharpe). --> 
+
+> Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
+
+
+---
+
+## #Goals
+
+1. Engage with public policy scholars and practitioners
+1. Understand the history and language of policy studies (Birkland)
+1. Understand how scholarly and public debates inform policy (Stone)
+1. Conduct policy-relevant research
+1. Write for a policy audience
+1. Engage in public policymaking
+1. Engaging others in the policy process
+
+
+---
+
+> "Practical wisdom includes a knowledge of particular facts, and this is derived from experience" - Aristotle, Nicomachean Ethics
+
+
+<!-- Really there are three kinds of knowledge. 
+1. key terms -- I want you to be able to converse with policy scholars and practitioners - talk the talk
+2. practice influencing policy
+3. see-through public debates to underlying policy conflicts and see the underlying debates that underly policy conflicts
+
+I think the most interesting questions are those without clear answers, so most of the questions I will ask in class are open--no wrong answers. The same is true for your memos--good research and good arguments, not right or wrong conclusions.
+
+However, standardization is important, so the Final exam will test book knowledge, more on that in a minute. 
+--> 
+
+---
+
+### Learning Outcomes
+
+My objective in teaching this course is to encourage your understanding of the policy-making process in the United States.
+
+- You will understand the provisions of the United States Constitution most related to the development and execution of public policy in the United States: Delegation of powers, separation of powers, federalism, and the allocation of powers within the states.
+- You will understand the difference between federalism and the allocation of authorities in the State of Wisconsin between state, county, and municipal governments.
+- You will learn to define and frame problems as an essential first step in the development of public policy.
+
+---
+
+- You will learn to develop, analyze, and advocate policy alternatives.
+- You will learn how to write a policy memo.
+- You will learn about executive, administrative, legislative, judicial, and other governmental authorities and their respective roles in making public policy.
+- You will understand the role of politics in policy development.
+- You will learn various approaches to policy analysis.
+- You will learn about different tools and functions available to public policy-makers.
+- You will learn various approaches to evaluate the success of public policy initiatives.
+- You will learn about the role of norms and values in public policy formulation.
+
+---
+
+No screens in class (unless I give permission). Research shows that they inhibit learning and distract your colleagues.
+
+---
+
+## Requirements
+
+### Attendance
+
+Class attendance is required.  I will take attendance at the beginning of each class. If you are going to miss class, please notify me by email in advance. 
+
+<!-- otherwise, I'll be looking for you. 
+In part, this is an accountability mechanism, but it is also a way for me to know when people are struggling. 
+
+Every semester, there are case where someone stops showing up, and it turns out something in their life went really wrong--I need to know so that we don't miss withdrawal deadlines, etc.--so look at as a way for me to get to know you and to keep an eye out for people who may be struggling. --> 
+
+---
+
+### Learning environment
+
+Learning from each other is only possible if we show the respect due to our fellow citizens of this class.
+
+---
+
+<!--
+ <font size="4">
+ 
+> "The University of Wisconsin-Madison endeavors to maintain an environment that challenges students, faculty, and staff to develop their critical thinking capacities to their fullest potential-an environment in which controversial, provocative, and unpopular ideas can safely be introduced and discussed. The university is, therefore, unswervingly committed to freedom of speech as guaranteed under the First Amendment to the Constitution of the United States and to the principle of academic freedom adopted by the Board of Regents in 1894, which states in part: “whatever may be the limitations which trammel inquiry elsewhere, we believe that the great state University of Wisconsin should ever encourage that continual and fearless sifting and winnowing by which alone truth can be found."....The maintenance of intellectual freedom through the open expression of ideas will sometimes be unavoidably hurtful. Some hurtful expressions, however, play no meaningful role in the free exchange of ideas; they may, indeed, inhibit that exchange, thereby denying some individuals full participation in the learning experience. These expressions are those that clearly derogate and debase a student or students in the class on the basis of gender, gender identity and expression, race, religion, ethnicity, sexual orientation, or disability."-[UW-Madison Faculty Policy](https://secfac.wisc.edu/governance/faculty-legislation/ii-303-prohibited-harassment-definitions-and-rules-governing-the-conduct-of-uw-madison-faculty-and-academic-staff/)
+
+---
+
+> “Diversity is a source of strength, creativity, and innovation for UW-Madison. We value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich the university community. We commit ourselves to the pursuit of excellence in teaching, research, outreach, and diversity as inextricably linked goals.
+The University of Wisconsin-Madison fulfills its public mission by creating a welcoming and inclusive community for people from every background – people who as students, faculty, and staff serve Wisconsin and the world.”-[UW-Madison statement on diversity](https://diversity.wisc.edu/)
+
+</font>
+
+---
+
+--> 
+
+To realize these goals, I expect us to respect our colleagues and cultivate inclusive discussions. This means that we must be careful not to mislead, degrade, interrupt someone who does not speak as much, or enforce hierarchies based on race, religion, ethnicity, nationality, gender expression, sexual orientation, or ability.
+
+---
+
+## Basis for Assessment
+
+Credit hours will be earned by attending two classes of 1.25 hours each, reading and preparing written work outside of class for 6 to 9 hours per week, submitting three policy memos, and round table presentations.  
+
+---
+
+### Participation (15 X 1% = 15%) 
+
+#### Participation posts to Canvas are due by 7 p.m. every Tuesday
+
+
+- Weeks 2 and 3: **Ask a question:** post a question from the readings of least 100 words AND respond to at least one other post
+- Week 4: **Gather evidence:** Find a policy-relevant peer-review research paper and post at least 100 words about it on Canvas  
+- Week 5: **Ask a question about how our local government works** (for example, about the relative authority of the Dane County Executive vs. County Board of Supervisors)
+- Week 6: **Engage in policymaking:** Write to a public official or agency. Post at least 100 words about it and a link to the opportunity on Canvas (e.g. [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://docs.legis.wisconsin.gov/code/chr/comment), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
+- Week 7: **Engage others in policymaking**: Write at least 100 words about why it is important to engage in a particular policy process and link to the opportunity on Canvass OR Write no more 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people--post a link or screenshot to Canvas
+- Weeks 8-14: Choose one of the above options. Early posts set the agenda!
+- Every week: Attend lectures or let me know *ahead of time* if you must miss.
+
+---
+
+### Agenda setting 
+
+The first assignment is your opportunity to set the agenda for this course. 
+
+---
+
+### Policy memoranda (3 X 20% = 60%)
+
+You will write three policy memos to public officials following [the memo template](https://judgelord.github.io/PS501/memos.html) exactly.
+
+Memo #1 topic announced February 3, due by 5 p.m. February 21.
+
+Memo #2 topic announced February 24, due by 5 p.m. March 13.
+
+Memo #3 topic announced March 23, due by 5 p.m. April 17.
+
+---
+
+### 
+
+---
+
+### Grades 
+
+I will comment on your memos (click on the "rubric" button to see my comments). I expect you to take my comments into account in your next memo and write more effectively each time. If my comments are unclear, please come to office hours.
+
+Assignments must be submitted on time. Grades will be reduced by a full grade after the deadline and an additional grade per 24-hour period for which the assignment is late.
+
+A: 94-100  
+A-: 90-93  
+B+: 87-89  
+B: 84-86  
+B-: 80-83  
+C+: 77-79  
+C: 74-76  
+C-: 70-73  
+D+: 67-69  
+D: 64-66  
+D-: 60-63  
+F: 0-59  
+
+---
+
+### Policy on Academic Dishonesty/Plagiarism
+
+Academic dishonesty is broadly defined as submitting work that is not your own without attribution. This is not acceptable in any academic course. I use software tools to detect plagiarism. If you submit written work containing plagiarized material, you will receive a failing grade for the course and be reported to the University.
+
+---
+
+### Generative Text Tools using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
+
+You learn by doing work and I assess your learning by the work you do. You may use tools to help craft your writing assignments, but you must learn the craft of policy writing to get credit in for this class. To add value to a future employer, you must craft policy recommendations that are significantly better than they would get by asking an LLM. I expect the same. 
+
+Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse that worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have significant work to do to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
+
+At then end of the day, I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning that craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that are already linked somewhere on the internet. 
+
+---
+
+## Reading
+
+You are expected to do all assigned readings for each week before Tuesday’s class. I will call on students during class.
+
+Each week, we will read some original research and portions of a book for a broader context. 
+
+<!-- Day calculator: http://wcaleb.rice.edu/syllabusmaker/classes/ -->
+
+---
+
+## Advice from my previous students
+
+- Understand federalism and the structure of local government. (Hint: the readings help!)
+- Start early on policy memos and come to office hours. 
+- Policy memos are short but not easy!
+- Memos take a lot of research. 
+- It is key to understand basic public policy and political science concepts. Please stop me for clarification anytime.
+
+---
+
+## Week one: Federalism
+
+Wednesday, January 22
+
+> Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
+
+
+---
+
+## Week two: The Policy Process
+
+
+> Research: Egan, Part 1
+
+> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) (Note: this episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 51. It is not graphic.)
+
+---
+
+## Week three: Institutions
+
+> Research: Egan, Part 2
+
+> Listen: [The Federalist Society "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
+
+> Context reading: Birkland, Chapter 1-3
+
+---
+
+## Week four: Policy Actors and Evidence
+
+<!-- whymail + FERC + CBFA + SOFO--> 
+
+> Research: Egan, Part 3
+
+> Listen: [Moonshots-Thomas Kalil](https://scholars.org/podcast/moonshots)
+
+> Listen: [Informing Policy-Jenni W. Owen](https://scholars.org/podcast/informing-policy)
+
+> Context:  Birkland Part II, Chapters 4-7
+
+**Policy Memo Research Assistance with Thomas Durkin:**
+
+- Monday, February 10th from 6:00-7:00 pm in Memorial Library room 231
+- Tuesday, February 11th from 5:30-6:30 pm in Memorial Library room 231
+- Wednesday, February 12th from 5:30-6:30 pm in Memorial Library room 231
+
+---
+
+## Week five: Policy Tools
+
+<!-- FSC --> 
+
+Monday, February 17  
+Wednesday, February 19: **Guests: Cap Times reporters Natalie Yahr and Abigail Becker**
+
+> Listen: [SSN: Paying for Pollution-Leigh Raymond](https://scholars.org/podcast/paying-pollution)
+
+<!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
+
+> Context:  Birkland Part III, Chapters 8-11, Bardach Appendix B (PDF online)
+
+
+> Optional Listen: [When pop culture and local government collide: local government reporters review Parks and Recreation, Sim City, The Simsons, The Wire, and Gilmore Girls](https://omny.fm/shows/madsplainers/when-pop-culture-and-local-government-collide)
+
+
+---
+
+## Week six: Policy Tools
+
+Monday, February 24: *Guest Speaker: Dane County Executive, Joe Parisi*  
+Wednesday, February 26
+
+<!-- Listen to guest speaker for implicit theories of the policy process + correspondence (elites vs representation) + budgeting (agenda setting)--> 
+
+> Context:  Bardach Appendix B (PDF online)
+
+---
+
+## Week seven: Theories of the Policy Process
+
+Monday, March 2  
+Wednesday, March 4 
+
+> Research: [There are too many lawyers in politics. Here’s what to do about it.-Lee Drutman](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
+
+> Listen: [SSN: Lawyers, Lawyers, and More Lawyers-Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
+
+> Context:  Birkland Part IV, Chapters 12-13
+
+---
+
+## Week eight: Politics and Rationality
+
+Monday, March 9  
+Wednesday, March 11
+
+
+<!-- chevron + dissertation 
+
+> Research: TBD --> 
+
+> Listen: [NPR: Obama Office Alters More Federal Rules Than Bush](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
+
+> Context:  Stone, Introduction and Chapter 1
+
+
+### Memo 2 due by 5 p.m., March 13.
+
+
+<!--https://www.newyorker.com/magazine/2013/08/12/taken-->
+
+---
+
+## Week nine: Policy Goals and Tradeoffs
+
+Monday, March 23
+Wednesday, March 25: *Guest Speaker: Rep. Katrina Shankland*  
+
+<!-- > Research: TBD -->
+
+> Listen: [SSN: Death by a Thousand Cuts](https://scholars.org/podcast/death-thousand-cuts)
+
+> Context:  Stone, Part II
+
+
+---
+
+## Week ten: Framing Problems
+
+
+Monday, March 30  
+Wednesday, April 1
+
+<!-- > Research: TBD -->
+
+> Context:  Stone, Part III
+
+
+<!-- EJ results --> 
+
+---
+
+## Week eleven: Solutions
+
+Monday, April 6  
+Wednesday, April 8
+
+<!-- > Research: TBD -->
+
+> Context:  Stone, Part IV
+
+
+---
+
+## Week twelve: Policy Feedback 
+
+Monday, April 13  
+Wednesday, April 15
+
+> Research: Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.
+
+> Research: [How Mass Imprisonment Burdens the United States with a Distrustful Underclass-Vesla M. Weaver](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
+
+> Listen: [SSN: 147: In Government We Distrust-Suzanne Mettler](https://scholars.org/podcast/government-we-distrust)
+
+
+
+<!--
+> Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
+-->
+
+---
+
+## Week thirteen: Laws that Govern Lawmaking
+
+Monday, April 20: 
+Wednesday, April 22
+
+> Research: *Beyond Adversary Democracy*-Jane Mansbridge
+
+> Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
+
+> Listen: [What is the Local Voices Network?](https://omny.fm/shows/madsplainers/playlists/podcast/embed?style=artwork)
+
+
+### Memo 3 due by 5 p.m., April 24
+
+<!-- chevron, guidance debate, etc. 
+oversight-correspondence + Madsplainers On the cover: Vos steps up scrutiny of state agencies
+
+> Listen: [The Madsplainers: Robin Vos steps up scrutiny of state agencies](https://omny.fm/shows/madsplainers/on-the-cover-robin-vos-steps-up-scrutiny-of-state)
+
+
+--> 
+
+---
+
+## Week fourteen: "Best" Practices
+
+
+Monday, April 27   
+Wednesday, April 29: Final exam review
+
+> Research: "[Rethinking Representation](https://canvas.wisc.edu/courses/187920/files/12580467/download)" - Jane Mansbridge
+
+
+
+
+
+
+
+---
+
+## Academic Integrity
+
+By enrolling in this course, each student assumes the responsibilities of an active participant in UW-Madison’s community of scholars in which everyone’s academic work and behavior are held to the highest academic integrity standards. Academic misconduct compromises the integrity of the university. Cheating, fabrication, plagiarism, unauthorized collaboration, and helping others commit these acts are examples of academic misconduct, which can result in disciplinary action. This includes but is not limited to failure on the assignment/course, disciplinary probation, or suspension. Substantial or repeated cases of misconduct will be forwarded to the Office of Student Conduct & Community Standards for additional review. More information at <http://studentconduct.wiscweb.wisc.edu/academic-integrity>.
+
+---
+
+## Accommodations for Students with Disabilities
+
+Reasonable accommodations for students with disabilities is a shared faculty and student responsibility. Students are expected to inform me of their need for instructional accommodations by the end of the third week of the semester, or as soon as possible after a disability has been incurred or recognized. I will work either directly with you or in coordination with the [McBurney Center](http://mcburney.wisc.edu/facstaffother/faculty/syllabus.php) to identify and provide reasonable instructional accommodations. Disability information, including instructional accommodations as part of a student's educational record, is confidential and protected under FERPA. The University of Wisconsin-Madison supports the right of all enrolled students to a full and equal educational opportunity. The Americans with Disabilities Act (ADA), Wisconsin State Statute (36.12), and UW-Madison policy (Faculty Document 1071) require that students with disabilities be reasonably accommodated in instruction and campus life.  <!--http://mcburney.wisc.edu/facstaffother/faculty/syllabus.php>-->

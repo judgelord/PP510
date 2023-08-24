@@ -1,0 +1,432 @@
+---
+title: "The Death and Life of the Great Lakes"
+subtitle: "by Dan Egan"
+author: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE, cache = TRUE, echo = FALSE}
+# chunks options:
+# hide code and messages by default (warning, message)
+# cache everything 
+knitr::opts_chunk$set(eval = TRUE, 
+                      warning = FALSE, message = FALSE,
+                      cache = TRUE,
+                      fig.retina = 2,
+                      fig.align = "center", dpi = 100)
+# Xaringan: https://slides.yihui.name/xaringan/
+library("xaringan")
+library("xaringanthemer")
+library("here")
+
+
+style_mono_light(#base_color = "#003333",
+          link_color = "#0000EE",
+          #background_color = "#FAF0E6", # linen
+          header_font_google = google_font("PT Sans"), 
+          text_font_google = google_font("Old Standard"), 
+          text_font_size = "26px",
+          padding = "5px",
+          code_font_google = google_font("Inconsolata"), 
+          code_inline_background_color    = "#F5F5F5", 
+          table_row_even_background_color = "#E6F0FA",
+          extra_css = 
+            list(".remark-slide-number" = list("display" = "none")))
+
+```
+
+```{r, eval = FALSE, include= FALSE}
+# setup
+devtools::install_github("yihui/xaringan")
+devtools::install_github("gadenbuie/xaringanthemer")
+install.packages("webshot")
+# webshot::install_phantomjs()
+
+library(webshot)
+
+# export to pdf
+file <- here("talk/constitution.html")
+webshot(file, "talk/constitution.pdf")
+```
+
+
+# Governing water 
+
+- At what level should which decisions be made (federal, state, local?)  
+
+--
+
+- How should authority be allocated among branches (legislative, executive, judicial) within each level? 
+
+--
+
+- What are the best policy tools for each policy goal? 
+
+--
+
+- On what principle(s) should decisions be made (welfare/utility maximization? Some type of democracy? National security? Right of first possession?)
+
+
+<!--
+Water is one of may interesting topics that challenge some of the core principles 
+-->
+
+---
+
+# Examples from *The Death and Life of the Great Lakes*
+
+<!-- Remember, one of my goals is for you all to see clearly the policy debates and implications of a situation. Let's see what we find in part 1, I hope we can start training your eye like an ecologist trains their eye to see shifts, and tensions and interdependencies in a stream, we want to look at this story as policy analysts. What in this story reveals policy tradeoffs, causes, and consequences. --> 
+
+## Federalism
+
+- Michigan Fisheries Managers vs. Federal Fisheries Scientists
+- Missouri petitioned the Supreme Court to block the Chicago canal (Egan pg. 163)
+- "Great Lakes Czar" (Egan, pg. 176)
+
+---
+
+## Delegation
+- In 1972, Congress overrode President Nixon's veto to pass the Clean Water Act, but when the EPA wrote the rules, they exempted waste from vessels (Egan, pgs. 117-118)  
+- In 1990, Congress instructed the U.S. Coast Gaurd to begin regulating ballast water in overseas ships visiting the Great Lakes (Egan, pg. 131)
+
+---
+
+## The Fifth Amendment's "takings clause"
+
+ > About 10 families were subject to eminent domain in order to make way for a new school.  While, of course, they were offered a decent amount of money for their property, they essentially had no choice about whether or not to move.  Considering how insistent the founding fathers were on the rights of property owners, I wonder what they would think of these situations.
+ 
+ 
+
+---
+
+## Winners and losers  
+- Moulinette "Sacrifice zones." 
+
+> How do you think the government came up with the idea to move people away from their homes for economic advancement? Do you think this was the best course of action for the government to make? Even with providing money or moving houses, do you think this should have been allowed?
+
+--
+
+> The government assumed the Seaway would be a much bigger success than it was, so I can see how they felt it was justified to ask people to leave.
+
+--
+
+>  It did not seem like a democratic decision at all...This should have been something voted upon by the people already in the area, not just something forced upon them.
+
+
+
+---
+
+background-image: url(figs/moulinette.jpg)
+background-size: cover
+
+---
+
+background-image: url(figs/nyc-flood.gif)
+background-size: cover
+
+<!--Manhattan seawall would flood Brooklyn.--> 
+
+<!--
+
+## Policy Actors
+
+-->
+
+
+
+
+---
+
+## Interests - cities and states
+- Ports of Chicago vs. NYC
+- Chicago sewage vs. downstream states (Egan, Ch. 5)
+- Chicago canal vs. other great lakes states (Egan, Ch. 5)
+
+> "I've been lobbying 25 years on behalf of industry," said Mark Biel, the executive director of the Chemical Industry Council of Illinois. "I'm pretty good at killing bills and ideas" (Egan, pg. 183)
+
+---
+
+## Interests - commercal
+
+- Seaway shipping vs. rail (public investments)
+- If the seaway is closed, should taxpayers compensate salties? (Egan, pg. 145)
+- Seaway shipping vs. boating (inspections, Egan pgs. 208-11)
+- Commercial fishing vs. sport fishing (industrial policy)
+
+> the U.S. Bureau of Commercial Fisheries office had "demanded" authorization from the state of Michigan to build fish meal plants
+
+--
+
+> The Bureau of Commercial Fisheries regional office was shuttered in Michigan. (Egan, pg. 96)
+
+--
+
+> "We created a constituency for the lakes"-Tanner (Egan pg. 97)
+
+
+---
+
+background-image: url(figs/lakes.jpg)
+background-size: cover
+class: inverse
+
+# What are lakes for? 
+
+## That is, what is the *public interest*? 
+
+---
+
+background-image: url(figs/stclair.jpg)
+background-size: cover
+
+---
+
+# Who ought to have a say? 
+
+> "thousands of government bodies--from township boards, to state environmental departments to Native American tribes to federal fishery agencies to the US and Canadian International Joint Commission--that have some role in managing the interconnected lakes for the sake of the 50 million people."
+
+---
+
+# Who ought to have what kind of authority?
+
+> "the original idea was to give the bi-national commission authority over the Great Lakes fisheries in a manner that would jeopardize the individual states' rights to act independently within their own waters."
+
+For example, what kind of rights to water ought to exist (use rights, property rights?). Who should have these rights (individuals, companies, municipalities?)   
+
+---
+
+# Questions about *The Death and Life of the Great Lakes*
+
+## Authority 
+
+> Would the lack of involvement or involvement of the federal government be more successful in addressing the environmental issues described in The Death and Life of the Great Lakes?
+
+---
+
+### Lawsuits 
+
+> I want to know if fishing companies were able to sue the government. Did fishermen like Smith receive any form of justice from the government's oversight? Is it even possible to sue the government for something like this?
+
+---
+
+### Citizen suits 
+
+> Have environmental groups sued the US Government or the EPA to act under the commerce clause to protect Great Lakes Interests and infrastructure?
+
+--
+
+Conservation groups sued the EPA in 2001 to regulate ballast water and then again claiming that the EPA's 2013 ballast rules failed to require "best available technology" (BAT) as required by (CWA §304(b)(2))
+
+---
+
+### Regulation
+
+> Egan mentioned how the FDA allowed the sale of carp that were in sewage ponds— were consumers aware of where the fish were prior? Were the fish tested to be safe for consumption? 
+
+--
+
+>"Roosevelt era conservation policies."
+
+--
+
+>  Who, or how many people are tasked to make and enforce regulatory policies?
+
+---
+
+
+## Interests 
+
+> Would you fine the one with the bigger chance of contaminating the water? Do you think there are other factors to not fine the business ships as much as the local skier? 
+
+--
+
+> Greed and profit were definite driving motives behind this, the government allowed it, and it had disastrous consequences. 
+
+> Part of the reason most of the facts were ignored was due to economic reasons
+
+---
+
+## Focusing Events
+
+> Does "human nature lead to ignoring issues until they explode? (as explained shown by the burning of the Cuyahoga River)"
+
+---
+
+## Public pressure
+
+> "What would the public response be like today while building a canal like this?"
+
+--
+
+> "Would the public response today have a significant effect due to the new ways we have in communicating with others?"
+
+--
+
+> "I feel like this would never happen today because people would be so infuriated with the government's carelessness."
+
+--
+
+> Where the state or federal government was during the Alewives die-off? I could not imagine the impact this could have had on the local economies.
+
+---
+
+## Consequences
+
+> It seems as though Arkansas did not truly examine long-term consequences. 
+
+--
+
+> People in positions of responsibility and power like quick solutions that have added benefits more than long, costly endeavors for the same outcome, so they are more willing to take risks.
+
+---
+
+## Tradeoffs
+
+> The seaway was built to assist industry, but actually decimated part of it, specifically with fisheries.
+
+--
+
+> Using other invasive species to take care of another reflects an early attempt at avoiding chemicals and other harmful toxins on the environment.
+
+--
+
+> Preservation should've been a priority as opposed to tourism and introducing new fish. 
+
+--
+
+> People were thinking about their short term economic gains than their long term, sustainable prosperity through rational foresight.
+
+---
+
+## Uncertainty 
+> The problem was/is that policymakers were too reckless with moving forward with plans that they did not even completely know what the long term consequences would be.
+
+---
+
+## Science in policy
+
+> Decisions are usually more rushed than what any scientific community would prefer
+
+--
+
+> "When there were so many warning signs and risks of failure, why did the governments of Canada and the US go ahead with the project (and were there any restrictions in place at the time that were ignored)?"
+
+--
+
+> At what point would studies on the water be considered compelling evidence in order to take legislative action? 
+
+--
+
+> What would you suggest policymakers do in order to use data and science to create a valid and active argument for new regulations?
+
+---
+
+> Are environmental impact reports required? How does this change on the state and federal levels?
+
+>(1) Is regulation within the race of invasive species ultimately futile, or is there another direction we should be focusing our energy in as regulators and scientists? (2) Is the most diligent form of environmental policy and advocacy based on storytelling and emotional cues, or will statistics become the driving force? 
+
+
+
+---
+
+> What is the appropriate amount of time and involvement needed to make an environmental policy? 
+
+--
+
+- For what timescale should policy be made?  
+- How quickly should policy be made?
+
+---
+
+## Policy evaluation and learning
+
+> Has there been any successful policy proposal that has stopped invasive species from spreading and reversed their damaging effects? Is there a consistent solution, or what will it take to stop plants, animals, and other organisms to be halted in their destructive wake? I almost think of it as a new virus or disease when I hear about these sorts of things.
+
+---
+
+> Are there other countries or states that have passed policy and been able to get rid of an invasive species? If so, what made this policy successful compared to others that have failed? 
+
+---
+
+>What policy tools are at the disposal of the government to make sure farming practices don't contribute to the spread of algae?
+
+---
+
+> Has there been any success with controlling larger corporations moving contaminated water?
+
+---
+
+## Policy communication 
+
+> Often, policies are explained and written in ways where the average person on the street can not understand what is happening, which in turn takes power and understanding from the individual and gives it to the gatekeepers of these niche topics like journalists, politicians, and executives. 
+
+---
+
+# Technocracy 
+
+> Would a slightly more technocratic form of government be healthier for the Great Lakes? Why or why not? How would this influence the health of our democracy at large?
+
+---
+
+# "Safe"
+
+## What is a "**safe** number of organisms that could be discharged per cubic meter of water?"...
+--
+"The scientists said they couldn't do it" (Egan, pg. 141)
+
+Further reading on science and "safe" standards: 
+- [The Science Charade in Toxic Risk Regulation by Wendy Wagner](https://law.utexas.edu/faculty/publications/1995-The-Science-Charade-in-Toxic-Risk-Regulation)
+
+---
+
+<!-- algae 
+
+
+
+sm 
+
+With advancing tech and inequality, this kind of thing is only more common in your lifetimes--worth thinking about how you want to confront it. what kind of policy tools and allocations of authority are most compatible with your goals --> 
+
+# To what end? 
+
+> "Converting the Great Lakes fishery from one that was essentially managed as a self-sustaining public food supply into one that was intensively managed for the thrill of recreational anglers was, for Tanner, a natural evolution. "You manage the resource to produce the greatest good for the greatest number for the longest period of time," Tanner said, borrowing the axiom of the first boss of the U.S. Forest Service, Gifford Pinchot" - Egan, p. 84
+
+
+
+---
+
+## Is the aim of government to "produce the greatest good for the greatest number for the longest period of time?"
+
+--
+
+Further reading on Gifford Pinchot (founder of the Forest Service), Harvey W. Wiley (founder of the Food and Drug Administration). and utilitarian management:  
+- *The Forging of Bureaucratic Autonomy: Reputations, Networks, and Policy Innovation in Executive Agencies, 1862-1928* By Daniel Carpenter.  
+- *After Nature* by Jedediah Purdy
+
+---
+
+# "Nature" 
+
+## Politics or anti-politics? 
+
+> "upgrading" the fish stock
+
+>  humankind trying to warp nature to its will
+
+> "a new ecosystem may have to be engineered" (Egan pg. 207)
+
+---
+
+## Public interest
+> in the name of the interest of America at large

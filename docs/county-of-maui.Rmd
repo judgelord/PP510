@@ -1,0 +1,123 @@
+---
+title: "County of Maui v. Hawaii Wildlife Fund"
+subtitle: ""
+author: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE, cache = TRUE, echo = FALSE}
+# chunks options:
+# hide code and messages by default (warning, message)
+# cache everything 
+knitr::opts_chunk$set(eval = TRUE, 
+                      warning = FALSE, message = FALSE,
+                      cache = TRUE,
+                      fig.retina = 2,
+                      fig.align = "center", dpi = 100)
+# Xaringan: https://slides.yihui.name/xaringan/
+library("xaringan")
+library("xaringanthemer")
+library("here")
+
+
+mono_light(#base_color = "#003333",
+          link_color = "#0000EE",
+          #background_color = "#FAF0E6", # linen
+          header_font_google = google_font("PT Sans"), 
+          text_font_google = google_font("Old Standard"), 
+          text_font_size = "30px",
+          padding = "10px",
+          code_font_google = google_font("Inconsolata"), 
+          code_inline_background_color    = "#F5F5F5", 
+          table_row_even_background_color = "#E6F0FA",
+          extra_css = 
+            list(".remark-slide-number" = list("display" = "none")))
+
+```
+
+```{r, eval = FALSE, include= FALSE}
+# setup
+devtools::install_github("yihui/xaringan")
+devtools::install_github("gadenbuie/xaringanthemer")
+install.packages("webshot")
+# webshot::install_phantomjs()
+
+library(webshot)
+
+# export to pdf
+file <- here("talk/constitution.html")
+webshot(file, "talk/constitution.pdf")
+```
+
+background-image: url(figs/from.jpg)
+background-size: contain
+
+---
+
+[County of Maui v. Hawaii Wildlife Fund](https://www.scotusblog.com/2019/11/argument-analysis-context-trumps-text-as-justices-debate-reach-of-clean-water-act/)
+
+Key concepts: 
+- statutory provision, structure, interpretation
+- interpretive guidance 
+- deference
+- citizen suit 
+
+Other legalese: 
+- cert. (*certiorari*)
+- plaintiff, respondent, Solicitor General, amici briefs
+- textual argument (textualism vs. originalism)
+- bright line
+- proximate cause 
+- judgment to reverse/affirm 
+- majority, plurality, dissent, dicta
+- settle
+
+
+---
+
+background-image: url(figs/maui.jpg)
+background-size: contain
+
+---
+
+Clean Water Act (1972)
+
+> 502(12) The term "discharge of a pollutant" and the term "discharge of pollutants" each means (A) any addition of any pollutant to navigable waters from any point source, (B) any addition of any pollutant to the waters of the contiguous zone or the ocean from any point source other than a vessel or other floating craft.
+
+- *point sources* that discharge to (necessarily "into" or "directly into"?) Waters of the United States require an NPDES permit  
+- *nonpoint sources* are covered by separate policies (e.g., grants for farmers to manage runoff)
+
+Safe Drinking Water Act (1974)
+- injection wells
+
+---
+
+# *Rapanos* 4-1-4 split
+
+- Four justices for "do nothing" and let stand the Army Corps "hydrological connection" test  
+- Justice Kennedy for a new (more limited?) "significant nexus" test  
+- Four justices for a new (much more limited) "permanent surface waters only" test
+
+Kennedy joined the "surface waters only" justices in *judgement*/*outcome* (ruling for Mr. Rapanos) but did not join their opinion, making it a *plurality opinion* not a *majority opinion* and thus not *precidental*--i.e., not binding policy. 
+
+---
+
+background-image: url(figs/rapanos.jpg)
+background-size: contain
+
+
+---
+
+background-image: url(figs/mauitime.jpg)
+background-size: contain
