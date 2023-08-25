@@ -180,42 +180,45 @@ Credit hours will be earned by attending two classes of 1.25 hours each, reading
 
 - Weeks 2 and 3: **Ask a question:** post a question from the readings of least 100 words AND respond to at least one other post
 - Week 4: **Gather evidence:** Find a policy-relevant peer-review research paper and post at least 100 words about it on Canvas  
-- Week 5: **Ask a question about how our local government works** (for example, about the relative authority of the Dane County Executive vs. County Board of Supervisors)
-- Week 6: **Engage in policymaking:** Write to a public official or agency. Post at least 100 words about it and a link to the opportunity on Canvas (e.g. [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://docs.legis.wisconsin.gov/code/chr/comment), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
+- Week 5: **Ask a question about how local government works** 
+- Week 6: **Engage in policymaking:** Write to a public official or agency. Post at least 100 words about it and a link to the opportunity on Canvas (e.g. [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
 - Week 7: **Engage others in policymaking**: Write at least 100 words about why it is important to engage in a particular policy process and link to the opportunity on Canvass OR Write no more 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people--post a link or screenshot to Canvas
 - Weeks 8-14: Choose one of the above options. Early posts set the agenda!
 - Every week: Attend lectures or let me know *ahead of time* if you must miss.
 
 ---
 
-### Agenda setting 
+### Agenda setting issues memo 5% 
 
-The first assignment is your opportunity to set the agenda for this course. 
+The first assignment is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
+
+Please submit a 1 page memo on the following question: 
+
+What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
 
 ---
 
 ### Policy memoranda (3 X 20% = 60%)
 
-You will write three policy memos to public officials following [the memo template](https://judgelord.github.io/PS501/memos.html) exactly.
-
-Memo #1 topic announced February 3, due by 5 p.m. February 21.
-
-Memo #2 topic announced February 24, due by 5 p.m. March 13.
-
-Memo #3 topic announced March 23, due by 5 p.m. April 17.
+You will write three policy memos to public officials following [the memo template](https://judgelord.github.io/PS510/memos.html) exactly.
 
 ---
 
-### 
+### Roundtable 15% (+5% peer reviews)
+
+The last three class periods are reserved for you present your policy recommendations on an expert panel. You will have about 10 minutes to present and answer questions. 
+
+You will closely observe and comment on your peers' presentations, writing a one-page peer critique for each of the other five panels.  
 
 ---
 
 ### Grades 
 
-I will comment on your memos (click on the "rubric" button to see my comments). I expect you to take my comments into account in your next memo and write more effectively each time. If my comments are unclear, please come to office hours.
+Your GSI and I will comment on your memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
 
 Assignments must be submitted on time. Grades will be reduced by a full grade after the deadline and an additional grade per 24-hour period for which the assignment is late.
 
+<!--
 A: 94-100  
 A-: 90-93  
 B+: 87-89  
@@ -228,6 +231,7 @@ D+: 67-69
 D: 64-66  
 D-: 60-63  
 F: 0-59  
+--> 
 
 ---
 
@@ -237,13 +241,13 @@ Academic dishonesty is broadly defined as submitting work that is not your own w
 
 ---
 
-### Generative Text Tools using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
+### Generative Text Tools Using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
 
 You learn by doing work and I assess your learning by the work you do. You may use tools to help craft your writing assignments, but you must learn the craft of policy writing to get credit in for this class. To add value to a future employer, you must craft policy recommendations that are significantly better than they would get by asking an LLM. I expect the same. 
 
 Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse that worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have significant work to do to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
 
-At then end of the day, I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning that craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that are already linked somewhere on the internet. 
+I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that  already exist and have already been frequently linked in the source material on which the LLMs are trained.  
 
 ---
 
@@ -269,7 +273,11 @@ Each week, we will read some original research and portions of a book for a broa
 
 ## Week one: Federalism
 
-Wednesday, January 22
+Tuesday: Course goals and expectations
+
+> Syllabus
+
+Thursday: Crash course in the distribution of authority in the U.S. federal system
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
@@ -291,11 +299,15 @@ Wednesday, January 22
 
 > Listen: [The Federalist Society "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
-> Context reading: Birkland, Chapter 1-3
+
+
+<!-- > Context reading: Birkland, Chapter 1-3 --> 
 
 ---
 
 ## Week four: Policy Actors and Evidence
+
+> **Agenda setting memo due Monday**
 
 <!-- whymail + FERC + CBFA + SOFO--> 
 
@@ -305,63 +317,38 @@ Wednesday, January 22
 
 > Listen: [Informing Policy-Jenni W. Owen](https://scholars.org/podcast/informing-policy)
 
-> Context:  Birkland Part II, Chapters 4-7
+<!-- > Context:  Birkland Part II, Chapters 4-7 --> 
 
-**Policy Memo Research Assistance with Thomas Durkin:**
-
-- Monday, February 10th from 6:00-7:00 pm in Memorial Library room 231
-- Tuesday, February 11th from 5:30-6:30 pm in Memorial Library room 231
-- Wednesday, February 12th from 5:30-6:30 pm in Memorial Library room 231
+**Policy memo research and writing assistance with Writing Center staff:**
 
 ---
 
 ## Week five: Policy Tools
 
-<!-- FSC --> 
+> **Memo assignments and round table groups announced Tuesday**
 
-Monday, February 17  
-Wednesday, February 19: **Guests: Cap Times reporters Natalie Yahr and Abigail Becker**
+<!-- FSC --> 
 
 > Listen: [SSN: Paying for Pollution-Leigh Raymond](https://scholars.org/podcast/paying-pollution)
 
 <!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
 
-> Context:  Birkland Part III, Chapters 8-11, Bardach Appendix B (PDF online)
+> Context:  Bardach Appendix B (PDF online)
 
+<!-- Birkland Part III, Chapters 8-11, --> 
 
 > Optional Listen: [When pop culture and local government collide: local government reporters review Parks and Recreation, Sim City, The Simsons, The Wire, and Gilmore Girls](https://omny.fm/shows/madsplainers/when-pop-culture-and-local-government-collide)
 
 
 ---
 
-## Week six: Policy Tools
-
-Monday, February 24: *Guest Speaker: Dane County Executive, Joe Parisi*  
-Wednesday, February 26
-
-<!-- Listen to guest speaker for implicit theories of the policy process + correspondence (elites vs representation) + budgeting (agenda setting)--> 
-
-> Context:  Bardach Appendix B (PDF online)
-
----
-
-## Week seven: Theories of the Policy Process
-
-Monday, March 2  
-Wednesday, March 4 
+## Week six: Theories of the Policy Process: : Politics and Rationality
 
 > Research: [There are too many lawyers in politics. Here’s what to do about it.-Lee Drutman](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers-Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
-> Context:  Birkland Part IV, Chapters 12-13
-
----
-
-## Week eight: Politics and Rationality
-
-Monday, March 9  
-Wednesday, March 11
+<!-- > Context:  Birkland Part IV, Chapters 12-13 --> 
 
 
 <!-- chevron + dissertation 
@@ -372,18 +359,13 @@ Wednesday, March 11
 
 > Context:  Stone, Introduction and Chapter 1
 
-
-### Memo 2 due by 5 p.m., March 13.
-
-
 <!--https://www.newyorker.com/magazine/2013/08/12/taken-->
 
 ---
 
-## Week nine: Policy Goals and Tradeoffs
+## Week seven: Policy Goals and Tradeoffs
 
-Monday, March 23
-Wednesday, March 25: *Guest Speaker: Rep. Katrina Shankland*  
+> **Memo 1 due Tuesday 7 PM**
 
 <!-- > Research: TBD -->
 
@@ -394,11 +376,7 @@ Wednesday, March 25: *Guest Speaker: Rep. Katrina Shankland*
 
 ---
 
-## Week ten: Framing Problems
-
-
-Monday, March 30  
-Wednesday, April 1
+## Week eight: Framing Problems
 
 <!-- > Research: TBD -->
 
@@ -409,10 +387,9 @@ Wednesday, April 1
 
 ---
 
-## Week eleven: Solutions
+## Week nine: Solutions
 
-Monday, April 6  
-Wednesday, April 8
+> **Memo 2 due Tuesday 7 PM**
 
 <!-- > Research: TBD -->
 
@@ -421,10 +398,7 @@ Wednesday, April 8
 
 ---
 
-## Week twelve: Policy Feedback 
-
-Monday, April 13  
-Wednesday, April 15
+## Week ten: Policy Feedback 
 
 > Research: Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.
 
@@ -432,27 +406,26 @@ Wednesday, April 15
 
 > Listen: [SSN: 147: In Government We Distrust-Suzanne Mettler](https://scholars.org/podcast/government-we-distrust)
 
-
-
 <!--
 > Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
 -->
 
 ---
 
-## Week thirteen: Laws that Govern Lawmaking
+## Week eleven: Laws that Govern Lawmaking
 
-Monday, April 20: 
-Wednesday, April 22
+> **Memo 3 due Tuesday 7 PM**
 
 > Research: *Beyond Adversary Democracy*-Jane Mansbridge
+
+> Research: "[Rethinking Representation](https://canvas.wisc.edu/courses/187920/files/12580467/download)" - Jane Mansbridge
+
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
 > Listen: [What is the Local Voices Network?](https://omny.fm/shows/madsplainers/playlists/podcast/embed?style=artwork)
 
 
-### Memo 3 due by 5 p.m., April 24
 
 <!-- chevron, guidance debate, etc. 
 oversight-correspondence + Madsplainers On the cover: Vos steps up scrutiny of state agencies
@@ -461,21 +434,6 @@ oversight-correspondence + Madsplainers On the cover: Vos steps up scrutiny of s
 
 
 --> 
-
----
-
-## Week fourteen: "Best" Practices
-
-
-Monday, April 27   
-Wednesday, April 29: Final exam review
-
-> Research: "[Rethinking Representation](https://canvas.wisc.edu/courses/187920/files/12580467/download)" - Jane Mansbridge
-
-
-
-
-
 
 
 ---
