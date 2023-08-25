@@ -130,13 +130,18 @@ Two texts are required. **Any edition of Stone is fine**, but more recent editio
 
 > Dan Egan, *The Death and Life of the Great Lakes* 
 
-<!-- Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition (Armonk, NY: M.E. Sharpe). --> 
-
 > Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
 
 We will post other readings on Canvass or the class website. 
 
 We will read several chapters from Weimer and Vining's *Policy Analysis* (5th or 6th ed.), a classic text that you will likely read in other courses as well. We will also read several chapters from Deva Woodly's *The Politics of Common Sense*, which I highly recommend, but you will not need to procure these texts. 
+
+#### Recommended
+
+For background on the U.S. policy-making system and and policy analysis, I recommend two additional textbooks: 
+
+- Michael E. Kraft and Scott R. Furlong, *Public Policy: Politics, Analysis, and Alternatives*. Any Edition.
+- Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition.
 
 ---
 
@@ -208,7 +213,7 @@ You may access counselors and urgent services at Counseling and Psychological Se
 **Accommodations for Students with Disabilities:**  If you believe you need accommodation for a disability, please reach out to the UM Services for Students with Disabilities (SSD) office to help determine appropriate academic accommodations and how to communicate about your accommodations with your professors. Any information you provide will be treated as private and confidential. 
 
 
-**Academic Integrity:** The Ford School academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. We hold all members of our community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the Ford School promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty, plagiarism, and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Plagiarism involves representing the words, ideas, or work of others as one’s own in writing or presentations, and failing to give full and proper credit to the original source. Conduct, without regard to motive, that violates the academic integrity and ethical standards will result in serious consequences and disciplinary action. The Ford School's policy of academic integrity can be found in the MPP/MPA, BA, and PhD Program handbooks. Additional information regarding academic dishonesty, plagiarism, and misconduct and their consequences is available at:   
+**Academic Integrity:** The Ford School academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. We hold all members of our community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the Ford School promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty, plagiarism, and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Plagiarism involves representing the words, ideas, or work of others as one’s own in writing or presentations, and failing to give full and proper credit to the original source. Conduct, without regard to motive, that violates academic integrity and ethical standards will result in serious consequences and disciplinary action. The Ford School's policy of academic integrity can be found in the MPP/MPA, BA, and PhD Program handbooks. Additional information regarding academic dishonesty, plagiarism, and misconduct and their consequences is available at:   
 http://www.rackham.umich.edu/current-students/policies/academic-policies/section11#112
 
 
@@ -301,7 +306,11 @@ You learn by doing work and I assess your learning by the work you do. You may u
 
 Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made-up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse than worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have significant work to do to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
 
-I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained.  
+I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained.  Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
+
+As mentioned in the memo template, references must be hyperlinked whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
+
+I reserve the right to discuss your papers in length with you if I have questions about the content and provenance.
 
 ---
 
