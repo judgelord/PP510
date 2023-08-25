@@ -3,17 +3,17 @@ title: "Public Policy 510.002"
 subtitle: The Politics of Public Policy
 date: 
 author: | 
-  Tuesdays and Thursdays 8:30-9:50, 1120 Weill Hall
+  Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
   
   <br>
 
-  Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
+  Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
   
-  Office hours: Tuesday and Thursday 9:30-10:30, 3215 Weill Hall
+  Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
   
   <br>
   
-  Caroline Leland, <chleland@umich.edu>
+  GSI: Caroline Leland, <chleland@umich.edu>
   
   Office hours: TBD
 urlcolor: blue
@@ -34,7 +34,7 @@ output:
   #     countIncrementalSlides: false
 ---
 
-<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
+<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
 I grew up on a small farm in central Wisconsin, where rainfall and groundwater make all the difference. Did anyone else grow up on a farm? A diary? Does anyone have hogs? 
 
@@ -59,9 +59,13 @@ Five years later, I am working on a book about whether regular people's voices m
 
 ## Overview 
 
-Public policy is defined in many ways.  I think of public policy as the government’s statement of what it intends to do. The government part makes it public, and the stated course of action makes it policy. Policy is more than a single decision, it is a statement about how future decisions will be made. Public policy is made at the international, national, state, regional, county, city, and even more local levels.  
+The primary objective of this core course in the MPP curriculum is to equip students with the knowledge and skills needed for effective political analysis of public policy issues and decisions.  The course covers conceptual and analytic frameworks for understanding political processes, institutions, stakeholders, contexts, and policy decision making.  In addition, the course builds written and verbal communication skills, emphasizing the ability to convey clear and concise political analyses in a variety of formats, including policy memos.  
 
-Learning about public policy---what it is, the legal frameworks within which it is made, the tools available to policymakers, the policymaking process, and how to evaluate public policies---will strengthen your writing, analytical, research, and advocacy skills, and will inform your participation in our society. 
+This section of 510 focuses on the politics of policymaking in the U.S. federal system, with special emphasis on environmental policy.  Students will learn how policy agendas are shaped and enacted within and across institutions of local, state, and U.S. federal government, as well as Native nations. We will study the roles of different actors, types of authority, and advocacy strategies and develop skills required to inform and influence policy. We will apply this conceptual understanding to policy challenges related to water quality in the Great Lakes region, which we will use as working examples throughout the semester.
+
+Public policy is defined in many ways.  I think of public policy as the government’s statement of what it intends to do. The government part makes it public, and the stated course of action makes it policy. Policy is more than a single decision, it is a statement about how future decisions will be made. Public policy is made at the international, national, state, regional, county, city, and even more local levels and across different types of institutions (legislative, executive, judicial, etc.) at each level.  
+
+Learning about public policy---what it is, the legal frameworks within which it is made, the tools available to policymakers, the policymaking process, and how to evaluate public policies---will strengthen your writing, analytical, research, and advocacy skills. 
 
 ---
 
@@ -71,7 +75,7 @@ Public policy is inexorably linked to questions of power. Policy emerges from an
 
 ## Required Texts
 
-Two texts are on reserve at the Library. **Any edition is fine**, but more recent editions have more contemporary examples. I will post other readings on Canvass or the class website.
+Two texts are required. **Any edition of Stone is fine**, but more recent editions have more contemporary examples. We will post other readings on Canvass or the class website.
 
 > Dan Egan, *The Death and Life of the Great Lakes* 
 
@@ -79,14 +83,17 @@ Two texts are on reserve at the Library. **Any edition is fine**, but more recen
 
 > Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
 
+We will post other readings on Canvass or the class website. 
+
+We will read several chapters from Weimer and Vining's *Policy Analysis* (5th or 6th ed.), a classic text that you will likely read in other courses. We will also read several chapters from Deva Woodly's *The Politics of Common Sense*, which I highly recommend, but you will not need to procure these texts. 
 
 ---
 
 ## #Goals
 
 1. Engage with public policy scholars and practitioners
-1. Understand the history and language of policy studies (Birkland)
-1. Understand how scholarly and public debates inform policy (Stone)
+1. Understand the history and language of policy studies
+1. Understand how scholarly and public debates inform policy
 1. Conduct policy-relevant research
 1. Write for a policy audience
 1. Engage in public policymaking
@@ -99,9 +106,9 @@ Two texts are on reserve at the Library. **Any edition is fine**, but more recen
 
 
 <!-- Really there are three kinds of knowledge. 
-1. key terms -- I want you to be able to converse with policy scholars and practitioners - talk the talk
-2. practice influencing policy
-3. see-through public debates to underlying policy conflicts and see the underlying debates that underly policy conflicts
+1. Key terms -- I want you to be able to converse with policy scholars and practitioners - talk the talk
+2. Practice influencing policy
+3. See-through public debates to underlying policy conflicts and see the underlying debates that underly policy conflicts
 
 I think the most interesting questions are those without clear answers, so most of the questions I will ask in class are open--no wrong answers. The same is true for your memos--good research and good arguments, not right or wrong conclusions.
 
@@ -112,7 +119,7 @@ However, standardization is important, so the Final exam will test book knowledg
 
 ### Learning Outcomes
 
-My objective in teaching this course is to encourage your understanding of the policy-making process in the United States.
+My objective in teaching this course is to encourage your understanding of the policy-making process.
 
 - You will understand the provisions of the United States Constitution most related to the development and execution of public policy in the United States: Delegation of powers, separation of powers, federalism, and the allocation of powers within the states.
 - You will understand the difference between federalism and the allocation of authorities between state, county, and municipal governments.
@@ -139,7 +146,7 @@ No screens in class (unless I give permission). Research shows that they inhibit
 
 ### Attendance
 
-Class attendance is required.  I will take attendance at the beginning of each class. If you are going to miss class, please notify me by email in advance. 
+Class attendance is required.  We will take attendance at the beginning of each class. If you are going to miss class, please notify me by email in advance. 
 
 <!-- otherwise, I'll be looking for you. 
 In part, this is an accountability mechanism, but it is also a way for me to know when people are struggling. 
@@ -177,8 +184,9 @@ Credit hours will be earned by attending two classes of 1.25 hours each, reading
 
 #### Participation posts to Canvas are due by 7 p.m. every Tuesday
 
+In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
-- Weeks 2 and 3: **Ask a question:** Post a question from the readings of least 100 words AND respond to at least one other post
+- Weeks 2 and 3: **Ask a question:** Post a question from the readings of least 100 words
 - Week 4: **Gather evidence:** Find a policy-relevant peer-review research paper and post at least 100 words about it on Canvas  
 - Week 5: **Ask a question about how local government works** 
 - Week 6: **Engage in policymaking:** Write to a public official or agency. Post at least 100 words about it and a link to the opportunity on Canvas (e.g. [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
@@ -192,7 +200,7 @@ Credit hours will be earned by attending two classes of 1.25 hours each, reading
 
 The first assignment is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
 
-Please submit a 1 page memo on the following question: 
+Please submit a 1-page memo on the following question: 
 
 What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
 
@@ -206,7 +214,7 @@ You will write three policy memos to public officials following [the memo templa
 
 ### Roundtable 15% (+5% peer reviews)
 
-The last three class periods are reserved for you to present your policy recommendations on an expert panel. You will have about 10 minutes to present and answer questions. 
+The last three class periods are reserved for you to present your policy recommendations on an expert panel.
 
 You will closely observe and comment on your peers' presentations, writing a one-page peer critique for each of the other five panels.  
 
@@ -214,7 +222,7 @@ You will closely observe and comment on your peers' presentations, writing a one
 
 ### Grades 
 
-Your GSI and I will comment on your memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
+We will comment on your memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
 
 Assignments must be submitted on time. Grades will be reduced by a full grade after the deadline and an additional grade per 24-hour period for which the assignment is late.
 
@@ -253,7 +261,7 @@ I am not yet sure if LLMs are a helpful tool for the craft of writing policy mem
 
 ## Reading
 
-You are expected to do all assigned readings for each week before Tuesday’s class. I will call on students during class.
+After the first week, you are expected to do all assigned readings for each week before Tuesday’s class. I will call on students during class.
 
 Each week, we will read some original research and portions of a book for a broader context. 
 
@@ -296,9 +304,11 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ## Week three: Institutions
 
+> Research: [Maggie Blackhawk, “Federal Indian Law as Paradigm within Public Law” *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
+
 > Research: Egan, Part 2
 
-> Listen: [The Federalist Society "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
+> Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
 > Listen: [Sackett v. EPA Decision: What the Justices Said and What this Means for Water with Jody Freeman, Richard Lazarus, and Steph Tai](https://eelp.law.harvard.edu/cleanlaw-our-podcast/)
 
@@ -313,6 +323,8 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 <!-- whymail + FERC + CBFA + SOFO--> 
 
 > Research: Egan, Part 3
+
+> Research: Leech, Beth. 2010. *Lobbying and Influence.* In The Oxford Handbook of American Political Parties and Interest Groups, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. Oxford University Press pp. 696–719.
 
 > Listen: [Moonshots-Thomas Kalil](https://scholars.org/podcast/moonshots)
 
@@ -336,14 +348,13 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Context:  Bardach Appendix B (PDF online)
 
+> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition.
+
 <!-- Birkland Part III, Chapters 8-11, --> 
-
-> Optional Listen: [When pop culture and local government collide: local government reporters review Parks and Recreation, Sim City, The Simsons, The Wire, and Gilmore Girls](https://omny.fm/shows/madsplainers/when-pop-culture-and-local-government-collide)
-
 
 ---
 
-## Week six: Theories of the Policy Process:: Politics and Rationality
+## Week six: Politics and Rationality
 
 > Research: [There are too many lawyers in politics. Here’s what to do about it.-Lee Drutman](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
@@ -357,6 +368,8 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 > Research: TBD --> 
 
 > Listen: [NPR: Obama Office Alters More Federal Rules Than Bush](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
+
+> Context: Weimer and Vining, Chapters 3 and 3
 
 > Context:  Stone, Introduction and Chapter 1
 
@@ -379,7 +392,7 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ## Week eight: Framing Problems
 
-<!-- > Research: TBD -->
+> Research: Deva Woodly. 2015. [The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
 
 > Context:  Stone, Part III
 
@@ -419,26 +432,21 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Research: *Beyond Adversary Democracy*-Jane Mansbridge
 
-> Research: [Rethinking Representation]() - Jane Mansbridge
+> Research: [Mansbridge, “Clarifying the Concept of Representation” American Political Science Review, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+
+<!-- rethinking representation -->
 
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
-> Listen: [What is the Local Voices Network?](https://omny.fm/shows/madsplainers/playlists/podcast/embed?style=artwork)
-
-
 
 <!-- chevron, guidance debate, etc. 
-oversight-correspondence + Madsplainers On the cover: Vos steps up scrutiny of state agencies
-
-> Listen: [The Madsplainers: Robin Vos steps up scrutiny of state agencies](https://omny.fm/shows/madsplainers/on-the-cover-robin-vos-steps-up-scrutiny-of-state)
-
-
+oversight-correspondence
 --> 
 
 ---
 
-## Weeks 13-15: Roundtables
+## Weeks twelve, thirteen, and fourteen: Roundtables
 
 ---
 
