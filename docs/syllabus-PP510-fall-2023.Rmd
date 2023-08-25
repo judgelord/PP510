@@ -57,9 +57,10 @@ Five years later, I am working on a book about whether regular people's voices m
 
 ---
 
-## Overview 
+## Course Description and Objectives
+ 
 
-The primary objective of this core course in the MPP curriculum is to equip students with the knowledge and skills needed for effective political analysis of public policy issues and decisions.  The course covers conceptual and analytic frameworks for understanding political processes, institutions, stakeholders, contexts, and policy decision making.  In addition, the course builds written and verbal communication skills, emphasizing the ability to convey clear and concise political analyses in a variety of formats, including policy memos.  
+The primary objective of this core course in the MPP curriculum is to equip students with the knowledge and skills needed for effective political analysis of public policy issues and decisions.  The course covers conceptual and analytic frameworks for understanding political processes, institutions, stakeholders, contexts, and policy decision-making.  In addition, the course builds written and verbal communication skills, emphasizing the ability to convey clear and concise political analyses in a variety of formats, including policy memos.  
 
 This section of 510 focuses on the politics of policymaking in the U.S. federal system, with special emphasis on environmental policy.  Students will learn how policy agendas are shaped and enacted within and across institutions of local, state, and U.S. federal government, as well as Native nations. We will study the roles of different actors, types of authority, and advocacy strategies and develop skills required to inform and influence policy. We will apply this conceptual understanding to policy challenges related to water quality in the Great Lakes region, which we will use as working examples throughout the semester.
 
@@ -73,7 +74,7 @@ Public policy is inexorably linked to questions of power. Policy emerges from an
 
 ---
 
-## #Goals
+### #Goals
 
 1. Engage with public policy scholars and practitioners
 1. Understand the history and language of policy studies
@@ -200,26 +201,26 @@ You may access counselors and urgent services at Counseling and Psychological Se
 - To document meeting times with students so that this record can be reviewed;
 - To meet students individually only at university venues;
 - To conduct off-campus meetings only at places where alcohol is not served;
-- To communicate electronically with students only on university platforms and not on social media, text, and non-university apps.
+- To communicate electronically with students only on university platforms and not on social media, text, or non-university apps.
 - For more information on resources for reporting sexual misconduct, please see here and here.
 
 
-**Accommodations for Students with Disabilities:**  If you believe you need an accommodation for a disability, please reach out to U-M Services for Students with Disabilities (SSD) office to help determine appropriate academic accommodations and how to communicate about your accommodations with your professors. Any information you provide will be treated as private and confidential. 
+**Accommodations for Students with Disabilities:**  If you believe you need accommodation for a disability, please reach out to the UM Services for Students with Disabilities (SSD) office to help determine appropriate academic accommodations and how to communicate about your accommodations with your professors. Any information you provide will be treated as private and confidential. 
 
 
-**Academic Integrity:** The Ford School academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. We hold all members of our community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the Ford School promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty, plagiarism and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Plagiarism involves representing the words, ideas, or work of others as one’s own in writing or presentations, and failing to give full and proper credit to the original source. Conduct, without regard to motive, that violates the academic integrity and ethical standards will result in serious consequences and disciplinary action. The Ford School's policy of academic integrity can be found in the MPP/MPA, BA, and PhD Program handbooks. Additional information regarding academic dishonesty, plagiarism and misconduct and their consequences is available at:   
+**Academic Integrity:** The Ford School academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. We hold all members of our community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the Ford School promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty, plagiarism, and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Plagiarism involves representing the words, ideas, or work of others as one’s own in writing or presentations, and failing to give full and proper credit to the original source. Conduct, without regard to motive, that violates the academic integrity and ethical standards will result in serious consequences and disciplinary action. The Ford School's policy of academic integrity can be found in the MPP/MPA, BA, and PhD Program handbooks. Additional information regarding academic dishonesty, plagiarism, and misconduct and their consequences is available at:   
 http://www.rackham.umich.edu/current-students/policies/academic-policies/section11#112
 
 
-**Use of Technology:**  Students should follow instructions from their instructor as to acceptable use of technology in the classroom, including laptops, in each course. All course materials (including slides, assignments, handouts, pre-recorded lectures or recordings of class) are to be considered confidential material and are not to be shared in full or part with anyone outside of the course participants. Likewise, your own personal recording (audio or video) of your classes or office hour sessions is allowed only with the express written permission of your instructor.  If you wish to post course materials or photographs/videos of classmates or your instructor to third-party sites (e.g. social media), you must first have informed consent. Without explicit permission from the instructor and in some cases your classmates, the public distribution or posting of any photos, audio/video recordings or pre-recordings from class, discussion section or office hours, even if you have permission to record, is not allowed and could be considered academic misconduct.
+**Use of Technology:**  Students should follow instructions from their instructor as to acceptable use of technology in the classroom, including laptops, in each course. All course materials (including slides, assignments, handouts, pre-recorded lectures, or recordings of class) are to be considered confidential material and are not to be shared in full or part with anyone outside of the course participants. Likewise, your own personal recording (audio or video) of your classes or office hour sessions is allowed only with the express written permission of your instructor.  If you wish to post course materials or photographs/videos of classmates or your instructor to third-party sites (e.g. social media), you must first have informed consent. Without explicit permission from the instructor and in some cases your classmates, the public distribution or posting of any photos, audio/video recordings, or pre-recordings from class, discussion section, or office hours, even if you have permission to record, is not allowed and could be considered academic misconduct.
 
 
-Please see the end of the syllabus for information about our commitment ot best practices of instructor/student interactions. 
+Please see the end of the syllabus for information about our commitment to best practices of instructor/student interactions. 
 
 
 ---
 
-## Basis for Assessment
+## Course Assignments and Basis for Assessment
 
 Credit hours will be earned by attending two classes of 1.25 hours each, reading and preparing written work outside of class for 6 to 9 hours per week, submitting three policy memos, and round table presentations.  
 
@@ -377,13 +378,23 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 <!-- > Context:  Birkland Part II, Chapters 4-7 --> 
 
-**Policy memo research and writing assistance with Writing Center staff**
+**Policy memo research and writing assistance resources from Writing Center staff**
 
 ---
 
-## Week five: Policy Tools
+## Week five: Policy Writing
 
 > **Memo assignments and round table groups announced Tuesday**
+
+> [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
+
+> [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
+
+---
+
+
+## Week six: Policy Tools
+
 
 <!-- FSC --> 
 
@@ -399,7 +410,10 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week six: Politics and Rationality
+## Week seven: Politics and Rationality
+
+> **Memo 1 due Tuesday 7 PM**
+
 
 > Research: [There are too many lawyers in politics. Here’s what to do about it.-Lee Drutman](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
@@ -414,7 +428,7 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Listen: [NPR: Obama Office Alters More Federal Rules Than Bush](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
 
-> Context: Weimer and Vining, Chapters 3 and 3
+> Context: Weimer and Vining, Chapters 2 and 3 (5th or 5th ed.)
 
 > Context:  Stone, Introduction and Chapter 1
 
@@ -422,11 +436,13 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week seven: Policy Goals and Tradeoffs
+## Week eight: Policy Goals and Tradeoffs
 
-> **Memo 1 due Tuesday 7 PM**
+Tuesday: **FALL BREAK**
 
 <!-- > Research: TBD -->
+
+Thursday:
 
 > Listen: [SSN: Death by a Thousand Cuts](https://scholars.org/podcast/death-thousand-cuts)
 
@@ -435,9 +451,10 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week eight: Framing Problems
+## Week nine: Framing Problems
 
-> Research: Deva Woodly. 2015. [The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
+> **Memo 2 due Tuesday 7 PM**
+
 
 > Context:  Stone, Part III
 
@@ -446,9 +463,10 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week nine: Solutions
+## Week ten: Solutions
 
-> **Memo 2 due Tuesday 7 PM**
+> Research: Deva Woodly. 2015. [The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
+
 
 <!-- > Research: TBD -->
 
@@ -457,7 +475,9 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week ten: Policy Feedback 
+## Week eleven: Policy Feedback 
+
+> **Memo 3 due Tuesday 7 PM**
 
 > Research: Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.
 
@@ -471,9 +491,8 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week eleven: Laws that Govern Lawmaking
+## Week twelve: Laws that Govern Lawmaking
 
-> **Memo 3 due Tuesday 7 PM**
 
 > Research: *Beyond Adversary Democracy*-Jane Mansbridge
 
@@ -491,8 +510,15 @@ oversight-correspondence
 
 ---
 
-## Weeks twelve, thirteen, and fourteen: Roundtables
+## Weeks thirteen and fourteen: Roundtables
 
+---
+
+## Week fifteen 
+
+Tuesday: Course wrap-up, reflection, and responses to roundtable presentations
+
+Thursday: No class, Winter Break
 
 ---
 
