@@ -1,26 +1,13 @@
 ---
 title: "Public Policy 510.002"
 subtitle: The Politics of Public Policy
-date: 
-author: | 
-  Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
-  
-  <br>
-
-  Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
-  
-  Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
-  
-  <br>
-  
-  GSI: Caroline Leland, <chleland@umich.edu>
-  
-  Office hours: TBD
+date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
+author:
 urlcolor: blue
 editor_options: 
    chunk_output_type: console
 output:
-  #pdf_document
+   # pdf_document
     html_document:
       toc: true
       toc_float: true
@@ -53,7 +40,16 @@ Five years later, I am working on a book about whether regular people's voices m
 --> 
 
 
+Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
+Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
+
+
+---
+
+  GSI: Caroline Leland, <chleland@umich.edu>
+  
+  Office hours: TBD
 
 ---
 
