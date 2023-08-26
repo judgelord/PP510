@@ -38,11 +38,17 @@ Public policy is inexorably linked to questions of power. Other classes cover ho
 
 **4. How to distinguish background facts from issue analysis:** We might distinguish evidence about the state of the world (problems and conditions) from evidence about causes (see Bardach on causal models and Stone on causal stories). Both types of evidence are needed to assess options against evaluative criteria (the real policy analysis that gets us from options to a recommendation). In a good policy memo, there is very little room for evidence that is not essential to the ultimate analysis (even if it is super interesting!).
 
-**5. Take advantage of free help:** [Librarians]() have superhuman abilities to find good sources for you. The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
+**5. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw.) The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
 
 
 # Resources 
+
+
+[Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
+
+[The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
+
 
 [Writing theory-driven policy analysis by Paul Cairney](https://paulcairney.wordpress.com/2017/11/13/how-to-write-theory-driven-policy-analysis/)
 
