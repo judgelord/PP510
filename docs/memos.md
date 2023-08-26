@@ -40,13 +40,48 @@ Public policy is inexorably linked to questions of power. Other classes cover ho
 
 **5. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw.) The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
-# Talking Points Memo Instructions
-
-🚧👷🚧
+---
 
 # Issues Memo Instructions
 
-🚧👷🚧
+The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
+
+You will craft a 1-page memo on the following question: 
+
+What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
+
+
+---
+
+## Issues Memo Template 
+
+Issue 1 
+
+- Policymaker 1.a: Legal authority to address issue 1
+- Policymaker 1.b: Legal authority to address issue 1
+- Policymaker 1.c: Legal authority to address issue 1
+
+Issue 2
+
+- Policymaker 2.a: Legal authority to address issue 2
+- Policymaker 2.b: Legal authority to address issue 2
+- Policymaker 2.c: Legal authority to address issue 2
+
+Issue 3
+
+- Policymaker 3.a: Legal authority to address issue 3
+- Policymaker 3.b: Legal authority to address issue 3
+- Policymaker 3.c: Legal authority to address issue 3
+
+---
+
+# Talking Points Memo Instructions
+
+This purpose of this memo is to guide your roundtable presentation and responses to questions. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
+
+🚧👷🚧 [Template to come]
+
+---
 
 # Resources 
 
