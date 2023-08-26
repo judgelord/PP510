@@ -42,7 +42,7 @@ Public policy is inexorably linked to questions of power. Other classes cover ho
 
 🚧👷🚧
 
-# Agenda Setting Memo Instructions
+# Issues Memo Instructions
 
 🚧👷🚧
 
