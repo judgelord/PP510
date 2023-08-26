@@ -50,9 +50,6 @@ You will craft a 1-page memo on the following question:
 
 What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
 
-
----
-
 ## Issues Memo Template 
 
 Issue 1 
@@ -77,7 +74,7 @@ Issue 3
 
 # Talking Points Memo Instructions
 
-This purpose of this memo is to guide your roundtable presentation and responses to questions. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
+The purpose of this memo is to guide your roundtable presentation and responses to questions. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
 
 🚧👷🚧 [Template to come]
 
