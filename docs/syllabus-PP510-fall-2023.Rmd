@@ -9,7 +9,7 @@ author: |
 
   Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
   
-  Office hours: Tuesday and Thursday 9:30-10:30, 3215 Weill Hall
+  Office hours: Tuesday and Thursday 10-10:30, 3215 Weill Hall
   
   <br>
   
@@ -139,7 +139,7 @@ No screens in class (unless I give permission). Research shows that they inhibit
 
 ### Attendance
 
-Class attendance is required.  I will take attendance at the beginning of each class. If you are going to miss class, please notify me by email in advance. 
+Class attendance is required.  We will take attendance at the beginning of each class. If you are going to miss class, please notify **BOTH CAROLINE AND I** by email in advance. 
 
 <!-- otherwise, I'll be looking for you. 
 In part, this is an accountability mechanism, but it is also a way for me to know when people are struggling. 
@@ -451,3 +451,5 @@ By enrolling in this course, each student assumes the responsibilities of an act
 ## Accommodations for Students with Disabilities
 
 Reasonable accommodations for students with disabilities are a shared faculty and student responsibility. Students are expected to inform me of their need for instructional accommodations by the end of the third week of the semester, or as soon as possible after a disability has been incurred or recognized.
+
+If you require accommodations from SSD, please start that process quickly because it takes time. 
