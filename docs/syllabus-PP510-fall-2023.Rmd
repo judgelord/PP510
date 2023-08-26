@@ -6,10 +6,10 @@ urlcolor: blue
 editor_options: 
    chunk_output_type: console
 output:
-    pdf_document
-    # html_document:
-    #   toc: true
-    #   toc_float: true
+    #pdf_document
+    html_document:
+      toc: true
+      toc_float: true
 ---
 
 <!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
@@ -250,7 +250,7 @@ What are the most pressing water quality issues in the Great Lakes region? Pleas
 
 ### Policy memoranda (3 X 20% = 60%)
 
-You will write three 4-page policy memos to public officials following [the memo template](https://judgelord.github.io/PS510.html) exactly.
+You will write three 4-page policy memos to public officials following [the memo template](https://judgelord.github.io/PS510/memos.html) exactly.
 
 ---
 
