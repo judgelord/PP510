@@ -1,40 +1,18 @@
 ---
 title: "Public Policy 510.002"
 subtitle: The Politics of Public Policy
-date: 
-author: | 
-  Tuesdays and Thursdays 8:30-9:50, 1120 Weill Hall
-  
-  <br>
-
-  Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
-  
-  Office hours: Tuesday and Thursday 10-10:30, 3215 Weill Hall
-  
-  <br>
-  
-  Caroline Leland, <chleland@umich.edu>
-  
-  Office hours: TBD
+date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
 urlcolor: blue
 editor_options: 
    chunk_output_type: console
 output:
-  #pdf_document
-    html_document:
-      toc: true
-      toc_float: true
-  # xaringan::moon_reader:
-  #   lib_dir: libs
-  #   mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
-  #   css: xaringan-themer.css
-  #   nature:
-  #     highlightStyle: github
-  #     highlightLines: true
-  #     countIncrementalSlides: false
+    pdf_document
+    # html_document:
+    #   toc: true
+    #   toc_float: true
 ---
 
-<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
+<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
 I grew up on a small farm in central Wisconsin, where rainfall and groundwater make all the difference. Did anyone else grow up on a farm? A diary? Does anyone have hogs? 
 
@@ -53,15 +31,29 @@ Five years later, I am working on a book about whether regular people's voices m
 --> 
 
 
+Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
+
+Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
 
 ---
 
-## Overview 
+  GSI: Caroline Leland, <chleland@umich.edu>
+  
+  Office hours: TBD
 
-Public policy is defined in many ways.  I think of public policy as the government’s statement of what it intends to do. The government part makes it public, and the stated course of action makes it policy. Policy is more than a single decision, it is a statement about how future decisions will be made. Public policy is made at the international, national, state, regional, county, city, and even more local levels.  
+---
 
-Learning about public policy---what it is, the legal frameworks within which it is made, the tools available to policymakers, the policymaking process, and how to evaluate public policies---will strengthen your writing, analytical, research, and advocacy skills, and will inform your participation in our society. 
+## Course Description and Objectives
+ 
+
+The primary objective of this core course in the MPP curriculum is to equip students with the knowledge and skills needed for effective political analysis of public policy issues and decisions.  The course covers conceptual and analytic frameworks for understanding political processes, institutions, stakeholders, contexts, and policy decision-making.  In addition, the course builds written and verbal communication skills, emphasizing the ability to convey clear and concise political analyses in a variety of formats, including policy memos.  
+
+This section of 510 focuses on the politics of policymaking in the U.S. federal system, with special emphasis on environmental policy.  Students will learn how policy agendas are shaped and enacted within and across institutions of local, state, and U.S. federal government, as well as Native nations. We will study the roles of different actors, types of authority, and advocacy strategies and develop skills required to inform and influence policy. We will apply this conceptual understanding to policy challenges related to water quality in the Great Lakes region, which we will use as working examples throughout the semester.
+
+Public policy is defined in many ways.  I think of public policy as the government’s statement of what it intends to do. The government part makes it public, and the stated course of action makes it policy. Policy is more than a single decision, it is a statement about how future decisions will be made. Public policy is made at the international, national, state, regional, county, city, and even more local levels and across different types of institutions (legislative, executive, judicial, etc.) at each level.  
+
+Learning about public policy---what it is, the legal frameworks within which it is made, the tools available to policymakers, the policymaking process, and how to evaluate public policies---will strengthen your writing, analytical, research, and advocacy skills. 
 
 ---
 
@@ -69,24 +61,11 @@ Public policy is inexorably linked to questions of power. Policy emerges from an
 
 ---
 
-## Required Texts
-
-Two texts are on reserve at the Library. **Any edition is fine**, but more recent editions have more contemporary examples. I will post other readings on Canvass or the class website.
-
-> Dan Egan, *The Death and Life of the Great Lakes* 
-
-<!-- Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition (Armonk, NY: M.E. Sharpe). --> 
-
-> Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
-
-
----
-
-## #Goals
+### #Goals
 
 1. Engage with public policy scholars and practitioners
-1. Understand the history and language of policy studies (Birkland)
-1. Understand how scholarly and public debates inform policy (Stone)
+1. Understand the history and language of policy studies
+1. Understand how scholarly and public debates inform policy
 1. Conduct policy-relevant research
 1. Write for a policy audience
 1. Engage in public policymaking
@@ -99,9 +78,9 @@ Two texts are on reserve at the Library. **Any edition is fine**, but more recen
 
 
 <!-- Really there are three kinds of knowledge. 
-1. key terms -- I want you to be able to converse with policy scholars and practitioners - talk the talk
-2. practice influencing policy
-3. see-through public debates to underlying policy conflicts and see the underlying debates that underly policy conflicts
+1. Key terms -- I want you to be able to converse with policy scholars and practitioners - talk the talk
+2. Practice influencing policy
+3. See-through public debates to underlying policy conflicts and see the underlying debates that underly policy conflicts
 
 I think the most interesting questions are those without clear answers, so most of the questions I will ask in class are open--no wrong answers. The same is true for your memos--good research and good arguments, not right or wrong conclusions.
 
@@ -112,14 +91,11 @@ However, standardization is important, so the Final exam will test book knowledg
 
 ### Learning Outcomes
 
-My objective in teaching this course is to encourage your understanding of the policy-making process in the United States.
+My objective in teaching this course is to encourage your understanding of the policy-making process.
 
 - You will understand the provisions of the United States Constitution most related to the development and execution of public policy in the United States: Delegation of powers, separation of powers, federalism, and the allocation of powers within the states.
 - You will understand the difference between federalism and the allocation of authorities between state, county, and municipal governments.
 - You will learn to define and frame problems as an essential first step in the development of public policy.
-
----
-
 - You will learn to develop, analyze, and advocate policy alternatives.
 - You will learn how to write a policy memo.
 - You will learn about executive, administrative, legislative, judicial, and other governmental authorities and their respective roles in making public policy.
@@ -129,13 +105,39 @@ My objective in teaching this course is to encourage your understanding of the p
 - You will learn various approaches to evaluate the success of public policy initiatives.
 - You will learn about the role of norms and values in public policy formulation.
 
----
 
-No screens in class (unless I give permission). Research shows that they inhibit learning and distract your colleagues.
 
 ---
 
 ## Requirements
+
+### Required Texts
+
+Two texts are required. **Any edition of Stone is fine**, but more recent editions have more contemporary examples. We will post other readings on Canvas or the class website.
+
+> Dan Egan, *The Death and Life of the Great Lakes* 
+
+> Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
+
+We will post other readings on Canvas or the class website. 
+
+We will read several chapters from Weimer and Vining's *Policy Analysis* (5th or 6th ed.), a classic text that you will likely read in other courses as well. We will also read several chapters from Deva Woodly's *The Politics of Common Sense*, which I highly recommend, but you will not need to procure these texts. 
+
+#### Recommended
+
+For background on the U.S. policy-making system and policy analysis, I recommend two additional textbooks: 
+
+- Michael E. Kraft and Scott R. Furlong, *Public Policy: Politics, Analysis, and Alternatives*. Any Edition.
+- Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition.
+
+---
+
+### Technology in Class
+
+No screens in class (unless I give permission). Research shows that they inhibit learning and distract your colleagues. Out of respect to the instructor and your fellow students, put your cell phone away for the duration of class. 
+
+
+---
 
 ### Attendance
 
@@ -148,26 +150,73 @@ Every semester, there are cases where someone stops showing up, and it turns out
 
 ---
 
+### Academic Integrity
+
+By enrolling in this course, each student assumes the responsibilities of an active participant in the Ford School's community of scholars in which everyone’s academic work and behavior are held to the highest academic integrity standards. Academic misconduct compromises the integrity of the university. Cheating, fabrication, plagiarism, unauthorized collaboration, and helping others commit these acts are examples of academic misconduct, which can result in disciplinary action. This includes but is not limited to failure on the assignment/course, disciplinary probation, or suspension. 
+
+---
+
 ### Learning environment
 
 Learning from each other is only possible if we show the respect due to our fellow citizens of this class.
 
-<!--
-
- <font size="4">
- 
-
-</font>
+To realize this goal, I expect us to respect our colleagues and cultivate inclusive discussions. This means that we must be careful not to mislead, degrade, interrupt someone who does not speak as much, or enforce hierarchies based on race, religion, ethnicity, nationality, gender expression, sexual orientation, or ability.
 
 ---
 
---> 
+### Ford School and University of Michigan Policies
 
-To realize these goals, I expect us to respect our colleagues and cultivate inclusive discussions. This means that we must be careful not to mislead, degrade, interrupt someone who does not speak as much, or enforce hierarchies based on race, religion, ethnicity, nationality, gender expression, sexual orientation, or ability.
+**Ford School Inclusivity Statement:**
+Members of the Ford School community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity. While working together to build this community we ask all members to: 
+
+- share their unique experiences, values, and beliefs
+- be open to the views of others
+- honor the uniqueness of their colleagues
+- appreciate the opportunity that we have to learn from each other in this community
+- value one another’s opinions and communicate in a respectful manner
+- keep confidential discussions that the community has of a personal (or professional) nature
+- use this opportunity together to discuss ways in which we can create an inclusive environment in Ford - classes and across the UM community
+
+
+**Ford School Public Health Protection Policy.**  In order to participate in any in-person aspects of this course---including meeting with other students to study or work on a team project---you must follow all the public health safety measures and policies put in place by the State of Michigan, Washtenaw County, the University of Michigan, and the Ford School. Up-to-date information on U-M policies can be found here.  It is expected that you will protect and enhance the health of everyone in the Ford School community by staying home and following self-isolation guidelines if you are experiencing any symptoms of COVID-19. 
+
+
+**Student Mental Health and Wellbeing.**  The University of Michigan is committed to advancing the mental health and wellbeing of its students.  We acknowledge that a variety of issues, both those relating to the pandemic and other issues such as strained relationships, increased anxiety, alcohol/drug problems, and depression, can directly impact students’ academic performance and overall wellbeing. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. 
+
+
+You may access counselors and urgent services at Counseling and Psychological Services (CAPS) and/or University Health Service (UHS).  Students may also use the Crisis Text Line (text '4UMICH' to 741741) to be connected to a trained crisis volunteer.  You can find additional resources both on and off campus through the University Health Service and through CAPS.
+
+
+**Student/Faculty Interaction Best Practices.** We strive to ensure a safe learning environment free from gender-based and sexual harassment, sexual violence, retaliation, and a hostile environment based on discrimination and intimidation. We make the following commitments:  
+
+- To conduct office hours with the door open unless the student requests a closed-door meeting;
+- To document meeting times with students so that this record can be reviewed;
+- To meet students individually only at university venues;
+- To conduct off-campus meetings only at places where alcohol is not served;
+- To communicate electronically with students only on university platforms and not on social media, text, or non-university apps.
+- For more information on resources for reporting sexual misconduct, please see here and here.
+
+
+**Accommodations for Students with Disabilities:**  If you believe you need accommodation for a disability, please reach out to the UM Services for Students with Disabilities (SSD) office to help determine appropriate academic accommodations and how to communicate about your accommodations with your professors. Any information you provide will be treated as private and confidential. 
+
+> **If you require accommodations from SSD, please start that process quickly because it takes time. **
+
+**Academic Integrity:** The Ford School academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. We hold all members of our community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the Ford School promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty, plagiarism, and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Plagiarism involves representing the words, ideas, or work of others as one’s own in writing or presentations, and failing to give full and proper credit to the original source. Conduct, without regard to motive, that violates academic integrity and ethical standards will result in serious consequences and disciplinary action. The Ford School's policy of academic integrity can be found in the MPP/MPA, BA, and PhD Program handbooks. Additional information regarding academic dishonesty, plagiarism, and misconduct and their consequences is available at:   
+http://www.rackham.umich.edu/current-students/policies/academic-policies/section11#112
+
+
+**Use of Technology:**  Students should follow instructions from their instructor as to acceptable use of technology in the classroom, including laptops, in each course. All course materials (including slides, assignments, handouts, pre-recorded lectures, or recordings of class) are to be considered confidential material and are not to be shared in full or part with anyone outside of the course participants. Likewise, your own personal recording (audio or video) of your classes or office hour sessions is allowed only with the express written permission of your instructor.  If you wish to post course materials or photographs/videos of classmates or your instructor to third-party sites (e.g. social media), you must first have informed consent. Without explicit permission from the instructor and in some cases your classmates, the public distribution or posting of any photos, audio/video recordings, or pre-recordings from class, discussion section, or office hours, even if you have permission to record, is not allowed and could be considered academic misconduct.
+
+
+Please see the end of the syllabus for information about our commitment to best practices of instructor/student interactions. 
 
 ---
 
-## Basis for Assessment
+
+
+---
+
+## Course Assignments and Basis for Assessment
 
 Credit hours will be earned by attending two classes of 1.25 hours each, reading and preparing written work outside of class for 6 to 9 hours per week, submitting three policy memos, and round table presentations.  
 
@@ -177,12 +226,13 @@ Credit hours will be earned by attending two classes of 1.25 hours each, reading
 
 #### Participation posts to Canvas are due by 7 p.m. every Tuesday
 
+In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
-- Weeks 2 and 3: **Ask a question:** Post a question from the readings of least 100 words AND respond to at least one other post
+- Weeks 2 and 3: **Ask a question:** Post a question from the readings of least 100 words
 - Week 4: **Gather evidence:** Find a policy-relevant peer-review research paper and post at least 100 words about it on Canvas  
 - Week 5: **Ask a question about how local government works** 
 - Week 6: **Engage in policymaking:** Write to a public official or agency. Post at least 100 words about it and a link to the opportunity on Canvas (e.g. [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
-- Week 7: **Engage others in policymaking**: Write at least 100 words about why it is important to engage in a particular policy process and link to the opportunity on Canvass OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people--post a link or screenshot to Canvas
+- Week 7: **Engage others in policymaking**: Write at least 100 words about why it is important to engage in a particular policy process and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people--post a link or screenshot to Canvas
 - Weeks 8-14: Choose one of the above options. Early posts set the agenda!
 - Every week: Attend lectures or let me know *ahead of time* if you must miss.
 
@@ -192,7 +242,7 @@ Credit hours will be earned by attending two classes of 1.25 hours each, reading
 
 The first assignment is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
 
-Please submit a 1 page memo on the following question: 
+Please submit a 1-page memo on the following question: 
 
 What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
 
@@ -200,13 +250,13 @@ What are the most pressing water quality issues in the Great Lakes region? Pleas
 
 ### Policy memoranda (3 X 20% = 60%)
 
-You will write three policy memos to public officials following [the memo template](https://judgelord.github.io/PS510/memos.html) exactly.
+You will write three 4-page policy memos to public officials following [the memo template](https://judgelord.github.io/PS510.html) exactly.
 
 ---
 
 ### Roundtable 15% (+5% peer reviews)
 
-The last three class periods are reserved for you to present your policy recommendations on an expert panel. You will have about 10 minutes to present and answer questions. 
+The last three class periods are reserved for you to present your policy recommendations on an expert panel. A 1-page talking points memo is due 24 hours before your presentation.
 
 You will closely observe and comment on your peers' presentations, writing a one-page peer critique for each of the other five panels.  
 
@@ -214,7 +264,7 @@ You will closely observe and comment on your peers' presentations, writing a one
 
 ### Grades 
 
-Your GSI and I will comment on your memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
+We will comment on your memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
 
 Assignments must be submitted on time. Grades will be reduced by a full grade after the deadline and an additional grade per 24-hour period for which the assignment is late.
 
@@ -247,13 +297,17 @@ You learn by doing work and I assess your learning by the work you do. You may u
 
 Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made-up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse than worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have significant work to do to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
 
-I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained.  
+I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained.  Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
+
+As mentioned in the memo template, references must be hyperlinked whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
+
+I reserve the right to discuss your papers in length with you if I have questions about the content and provenance.
 
 ---
 
 ## Reading
 
-You are expected to do all assigned readings for each week before Tuesday’s class. I will call on students during class.
+After the first week, you are expected to do all assigned readings for each week before Tuesday’s class. I will call on students during class.
 
 Each week, we will read some original research and portions of a book for a broader context. 
 
@@ -281,6 +335,7 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
+> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) (Note: this episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 51. It is not graphic.)
 
 ---
 
@@ -290,15 +345,15 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Research: Egan, Part 1
 
-> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) (Note: this episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 51. It is not graphic.)
-
 ---
 
 ## Week three: Institutions
 
+> Research: [Maggie Blackhawk, “Federal Indian Law as Paradigm within Public Law” *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
+
 > Research: Egan, Part 2
 
-> Listen: [The Federalist Society "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
+> Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
 > Listen: [Sackett v. EPA Decision: What the Justices Said and What this Means for Water with Jody Freeman, Richard Lazarus, and Steph Tai](https://eelp.law.harvard.edu/cleanlaw-our-podcast/)
 
@@ -308,11 +363,13 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ## Week four: Policy Actors and Evidence
 
-> **Agenda setting memo due Monday**
+> **Agenda setting memo due Monday at 7 PM**
 
 <!-- whymail + FERC + CBFA + SOFO--> 
 
 > Research: Egan, Part 3
+
+> Research: Leech, Beth. 2010. *Lobbying and Influence.* In The Oxford Handbook of American Political Parties and Interest Groups, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. Oxford University Press pp. 696–719.
 
 > Listen: [Moonshots-Thomas Kalil](https://scholars.org/podcast/moonshots)
 
@@ -320,13 +377,25 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 <!-- > Context:  Birkland Part II, Chapters 4-7 --> 
 
-**Policy memo research and writing assistance with Writing Center staff**
 
 ---
 
-## Week five: Policy Tools
+## Week five: Policy Writing
 
 > **Memo assignments and round table groups announced Tuesday**
+
+**Review policy memo research and writing assistance resources from Writing Center staff**
+
+> [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
+
+> [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
+
+
+---
+
+
+## Week six: Policy Tools
+
 
 <!-- FSC --> 
 
@@ -336,14 +405,16 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Context:  Bardach Appendix B (PDF online)
 
+> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition.
+
 <!-- Birkland Part III, Chapters 8-11, --> 
-
-> Optional Listen: [When pop culture and local government collide: local government reporters review Parks and Recreation, Sim City, The Simsons, The Wire, and Gilmore Girls](https://omny.fm/shows/madsplainers/when-pop-culture-and-local-government-collide)
-
 
 ---
 
-## Week six: Theories of the Policy Process:: Politics and Rationality
+## Week seven: Politics and Rationality
+
+> **Memo 1 due Tuesday 7 PM**
+
 
 > Research: [There are too many lawyers in politics. Here’s what to do about it.-Lee Drutman](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
@@ -358,17 +429,21 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Listen: [NPR: Obama Office Alters More Federal Rules Than Bush](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
 
+> Context: Weimer and Vining, Chapters 2 and 3 (5th or 5th ed.)
+
 > Context:  Stone, Introduction and Chapter 1
 
 <!--https://www.newyorker.com/magazine/2013/08/12/taken-->
 
 ---
 
-## Week seven: Policy Goals and Tradeoffs
+## Week eight: Policy Goals and Tradeoffs
 
-> **Memo 1 due Tuesday 7 PM**
+Tuesday: **FALL BREAK**
 
 <!-- > Research: TBD -->
+
+Thursday:
 
 > Listen: [SSN: Death by a Thousand Cuts](https://scholars.org/podcast/death-thousand-cuts)
 
@@ -377,9 +452,10 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week eight: Framing Problems
+## Week nine: Framing Problems
 
-<!-- > Research: TBD -->
+> **Memo 2 due Tuesday 7 PM**
+
 
 > Context:  Stone, Part III
 
@@ -388,9 +464,10 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week nine: Solutions
+## Week ten: Solutions
 
-> **Memo 2 due Tuesday 7 PM**
+> Research: Deva Woodly. 2015. [The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
+
 
 <!-- > Research: TBD -->
 
@@ -399,7 +476,9 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week ten: Policy Feedback 
+## Week eleven: Policy Feedback 
+
+> **Memo 3 due Tuesday 7 PM**
 
 > Research: Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.
 
@@ -413,43 +492,65 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ---
 
-## Week eleven: Laws that Govern Lawmaking
+## Week twelve: Laws that Govern Lawmaking
 
-> **Memo 3 due Tuesday 7 PM**
 
 > Research: *Beyond Adversary Democracy*-Jane Mansbridge
 
-> Research: [Rethinking Representation]() - Jane Mansbridge
+> Research: [Mansbridge, “Clarifying the Concept of Representation” American Political Science Review, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+
+<!-- rethinking representation -->
 
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
-> Listen: [What is the Local Voices Network?](https://omny.fm/shows/madsplainers/playlists/podcast/embed?style=artwork)
-
-
 
 <!-- chevron, guidance debate, etc. 
-oversight-correspondence + Madsplainers On the cover: Vos steps up scrutiny of state agencies
-
-> Listen: [The Madsplainers: Robin Vos steps up scrutiny of state agencies](https://omny.fm/shows/madsplainers/on-the-cover-robin-vos-steps-up-scrutiny-of-state)
-
-
+oversight-correspondence
 --> 
 
 ---
 
-## Weeks 13-15: Roundtables
+## Weeks thirteen and fourteen: Roundtables
+
+> **Talking Points Memo due 24 hours before your roundtable presentation**
 
 ---
 
-## Academic Integrity
+## Week fifteen 
 
-By enrolling in this course, each student assumes the responsibilities of an active participant in the Ford School's community of scholars in which everyone’s academic work and behavior are held to the highest academic integrity standards. Academic misconduct compromises the integrity of the university. Cheating, fabrication, plagiarism, unauthorized collaboration, and helping others commit these acts are examples of academic misconduct, which can result in disciplinary action. This includes but is not limited to failure on the assignment/course, disciplinary probation, or suspension. 
+Tuesday: Course wrap-up, reflection, and responses to roundtable presentations
+
+Thursday: No class, Winter Break
 
 ---
 
-## Accommodations for Students with Disabilities
+## Ammendments 
 
-Reasonable accommodations for students with disabilities are a shared faculty and student responsibility. Students are expected to inform me of their need for instructional accommodations by the end of the third week of the semester, or as soon as possible after a disability has been incurred or recognized.
+Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will always notify you in advance of any changes.
 
-If you require accommodations from SSD, please start that process quickly because it takes time. 
+---
+
+## More Information on Student Instructor Best Practices.
+
+We will conduct office hours with my door open.
+
+Students who wish to have confidential conversations with me may schedule a private meeting via Zoom or may ask to have a closed-door meeting. But this closed-door meeting must be made on your request in writing, even on the spot. I will never suggest a closed-door meeting myself because of the power dynamic.
+
+We will document all pre-scheduled meetings between the instructor and the student via Google Calendar (or other software) and/or university email.
+
+Students who email to request an office hour appointment should expect to receive an email confirmation or a Google Calendar (or other software) invitation from me, or, upon my email confirmation and request, may send me a Google Calendar (or other software) invitation for this meeting. The purpose is to provide a permanent record of the meeting and to ensure that all class activities are documented and transparent. Students who choose to drop by for informal meetings are welcome to do so, but there will be no documentation provided. (See above for open-door policy.)
+
+We will choose meeting locations and conduct meetings with student and instructor safety in mind.
+
+We will ensure that all individual meetings between instructor/student will take place at university venues.
+
+We will ensure that all off-campus meetings, trips, or events must engage with course material.
+
+Off-campus meetings will not involve alcohol or take place at locations that serve alcohol. If the class goes out for a meal, it will be at a cafe or restaurant that does not serve alcohol. The location/day/time of any off-campus meetings between the instructor and students will be documented in Google Calendar (or other software).
+
+We the instructors, will conduct all individual communications using the University platforms of email, Canvas, Slack, or Piazza, with the caveat that we may use non-University platforms set up by students (such as GroupMe) only if they include all students in the class.
+
+There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, personal phone numbers, What’s App, etc.
+
+For more information on resources for reporting sexual misconduct, please see [here](https://facultysenate.umich.edu/wp-content/uploads/2022/08/BEST-PRACTICES-FOR-FACULTY-_-STUDENT-INTERACTIONS.pdf) and [here](https://sexualmisconduct.umich.edu/).	
