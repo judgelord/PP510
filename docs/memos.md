@@ -4,14 +4,12 @@
 
 In preparing your memo, consider your reader.  What does the reader already know?  What does your reader need to know to understand your analysis and recommendation?  Because policy memoranda are brief--no more than a few pages--avoid restating the obvious or discussing at any length that is well known or well understood by your reader.  Your job is not to tell the reader everything that you know on the issue; it is to tell the reader **what they need to know to make a policy decision**.  
 
-# Policy Memo Template
+## Policy Memo Template
 
 TO: 501 Students, Fall Term 2023  
 FROM: Devin Judge-Lord  
 DATE: September 1, 2023 
-RE: Policy Memo Template
-
-
+RE: Policy Memo Templates
 
 **Executive Summary:**  Your executive summary should be brief.  It should state the problem, provide an overview of your memo's organization, and summarize your recommendation.
 
@@ -26,7 +24,7 @@ RE: Policy Memo Template
 **Conclusion:**  Here is your one brief opportunity for rhetoric.  A conclusion should not rehash of what you've written.  You might, in one sentence, summarize your recommendation.  This is your opportunity to leave your audience with some compelling impetus to act on the problem by adopting your strategy.  A quote, a statistic, a brief parable:  Use the conclusion to catalyze your audience.
 
 
-# Tips for writing policy memos:
+## Tips for writing policy memos:
 
 **1. Structure matters:** Every year, I have seen brilliant students do a ton of good research but still write ineffective memos because they did not follow the template. A policy memo is not a research paper. A memo is the result of taking a 14-page research paper and refining it into 4 pages that a policymaker can digest in the 10 minutes they have before their next meeting. The template forces you to refine your writing to its essential points. This does not diminish the importance of research; good research is critical. A policy memo conveys the essential points, citing the research in which it is grounded.
 
@@ -40,7 +38,13 @@ Public policy is inexorably linked to questions of power. Other classes cover ho
 
 **5. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw.) The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
+# Talking Points Memo Instructions
 
+🚧👷🚧
+
+# Agenda Setting Memo Instructions
+
+🚧👷🚧
 
 # Resources 
 
