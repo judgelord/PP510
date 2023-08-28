@@ -225,13 +225,15 @@ Please see the end of the syllabus for information about our commitment to best 
 
 ## Assignments
 
-Credit hours will be earned by attending two classes of 1.25 hours each, reading and preparing written work outside of class for 6 to 9 hours per week, submitting three policy memos, and round table presentations.  
+Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, round table presentations, one issues memo, three policy memos, one talking points memo, and five roudtable critiques.  
+
+> <mark>**All assignments are to be submitted on Canvas.** </mark>
 
 ---
 
 ### Participation (15 X 1% = 15%) 
 
-#### Participation posts to Canvas are due by 7 p.m. every Tuesday
+#### Participation posts to Canvas are <mark>due by 7 p.m. every Tuesday</mark>
 
 In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
@@ -250,7 +252,7 @@ Every week: Attend lectures or let me know *ahead of time* if you must miss.
 
 The first assignment is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
 
-Please submit a **1-page** (single-spaced) [issues memo](https://judgelord.github.io/PP510/memos.html) on the following question: 
+Please submit a <mark>**1-page** single-spaced</mark> [issues memo](https://judgelord.github.io/PP510/memos.html) on the following question: 
 
 What are the most pressing water quality issues in the Great Lakes region? Please identify **three issues** and **three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials** who are in a position to advance policies addressing each issue.
 
@@ -258,13 +260,13 @@ What are the most pressing water quality issues in the Great Lakes region? Pleas
 
 ### Policy memoranda (3 X 20% = 60%)
 
-You will write three **4-page** (double-spaced) policy memos to public officials following [the policy memo template](https://judgelord.github.io/PP510/memos.html) exactly.
+You will write three <mark>**4-page** double-spaced</mark> policy memos to public officials following [the policy memo template](https://judgelord.github.io/PP510/memos.html) exactly.
 
 ---
 
 ### Roundtable (15% + 5% for peer reviews = 20%)
 
-The penultimate three class periods are reserved for you to present your policy recommendations on an expert panel. A **1-page** (single-spaced) [talking points memo](https://judgelord.github.io/PP510/memos.html) is due 24 hours before your presentation.
+The penultimate three class periods are reserved for you to present your policy recommendations on an expert panel. A <mark>**1-page** single-spaced</mark> [talking points memo](https://judgelord.github.io/PP510/memos.html) is due 24 hours before your presentation.
 
 You will closely observe and comment on your peers' presentations, writing a one-page (single-spaced) peer critique for each of the other five panels.  
 
@@ -272,7 +274,7 @@ You will closely observe and comment on your peers' presentations, writing a one
 
 ### Grades 
 
-Each assignment builds on the prior assignment. We will comment on your policy memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
+Each assignment builds on the prior assignment. We will comment on your policy memos (click on the "rubric" button in Canvas to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
 
 #### Late work
 
@@ -311,7 +313,7 @@ Good policy rests on good evidence. Many LLMs may fabricate evidence. If you tur
 
 I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
 
-As mentioned in the memo template, **references must be hyperlinked** whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
+As mentioned in the memo template, <mark>**references must be hyperlinked**</mark> whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
 
 I reserve the right to discuss your papers in length with you if I have questions about the content and provenance.
 
