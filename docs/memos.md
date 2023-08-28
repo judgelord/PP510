@@ -74,9 +74,7 @@ Issue 3
 
 # Talking Points Memo Instructions
 
-The purpose of this memo is to guide your roundtable presentation and responses to questions. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
-
-🚧👷🚧 [Template to come]
+The purpose of this memo is to guide your roundtable presentation ***and responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
 
 ---
 

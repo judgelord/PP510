@@ -44,7 +44,9 @@ Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
 ---
 
-## Course Description and Objectives
+> [Updated `r Sys.Date() |> format("%B %d, %Y")`](https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)
+
+## Objectives
  
 
 The primary objective of this core course in the MPP curriculum is to equip students with the knowledge and skills needed for effective political analysis of public policy issues and decisions.  The course covers conceptual and analytic frameworks for understanding political processes, institutions, stakeholders, contexts, and policy decision-making.  In addition, the course builds written and verbal communication skills, emphasizing the ability to convey clear and concise political analyses in a variety of formats, including policy memos.  
@@ -105,6 +107,16 @@ My objective in teaching this course is to encourage your understanding of the p
 - You will learn various approaches to evaluate the success of public policy initiatives.
 - You will learn about the role of norms and values in public policy formulation.
 
+
+---
+
+### Advice from my previous students
+
+- Understand federalism and the structure of local government. (Hint: the readings help!)
+- Start early on policy memos and come to office hours. 
+- Policy memos are short but not easy!
+- Memos take a lot of research. 
+- It is key to understand basic public policy and political science concepts. Please stop me for clarification anytime.
 
 
 ---
@@ -211,7 +223,7 @@ Please see the end of the syllabus for information about our commitment to best 
 
 ---
 
-## Course Assignments and Basis for Assessment
+## Assignments
 
 Credit hours will be earned by attending two classes of 1.25 hours each, reading and preparing written work outside of class for 6 to 9 hours per week, submitting three policy memos, and round table presentations.  
 
@@ -223,43 +235,46 @@ Credit hours will be earned by attending two classes of 1.25 hours each, reading
 
 In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
-- Weeks 2 and 3: **Ask a question:** Post a question from the readings of least 100 words
-- Week 4: **Gather evidence:** Find a policy-relevant peer-review research paper and post at least 100 words about it on Canvas  
-- Week 5: **Ask a question about how local government works** 
-- Week 6: **Engage in policymaking:** Write to a public official or agency. Post at least 100 words about it and a link to the opportunity on Canvas (e.g. [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
-- Week 7: **Engage others in policymaking**: Write at least 100 words about why it is important to engage in a particular policy process and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people--post a link or screenshot to Canvas
-- Weeks 8-14: Choose one of the above options. Early posts set the agenda!
-- Every week: Attend lectures or let me know *ahead of time* if you must miss.
+- Weeks 2 and 3: **Ask a question:** Post a response and question **from the readings** ( 100-200 words). 
+- Week 4: **Gather evidence:** Find a policy-relevant peer-reviewed research paper and post 100-200 words about it on Canvas  
+- Week 5: **Ask a question about federalism or how local government works in practice**  
+- Week 6: **Engage in policymaking:** Write to a public official or agency (not one to whom you are writing a memo). Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
+- Week 7: **Engage others in policymaking**: Write 100-200 words about why it is important to engage in a particular policy process (not one on which you are writing a memo) and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people on a public forum---post a link or screenshots to Canvas
+- Weeks 8-15: Choose one of the above options. Early posts set the agenda!
+
+Every week: Attend lectures or let me know *ahead of time* if you must miss.
 
 ---
 
-### Agenda setting issues memo 5% 
+### Agenda setting issues memo (5%) 
 
 The first assignment is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
 
-Please submit a 1-page memo on the following question: 
+Please submit a **1-page** (single-spaced) [issues memo](https://judgelord.github.io/PP510/memos.html) on the following question: 
 
-What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
+What are the most pressing water quality issues in the Great Lakes region? Please identify **three issues** and **three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials** who are in a position to advance policies addressing each issue.
 
 ---
 
 ### Policy memoranda (3 X 20% = 60%)
 
-You will write three 4-page policy memos to public officials following [the memo template](https://judgelord.github.io/PP510/memos.html) exactly.
+You will write three **4-page** (double-spaced) policy memos to public officials following [the policy memo template](https://judgelord.github.io/PP510/memos.html) exactly.
 
 ---
 
-### Roundtable 15% (+5% peer reviews)
+### Roundtable (15% + 5% for peer reviews = 20%)
 
-The last three class periods are reserved for you to present your policy recommendations on an expert panel. A 1-page talking points memo is due 24 hours before your presentation.
+The penultimate three class periods are reserved for you to present your policy recommendations on an expert panel. A **1-page** (single-spaced) [talking points memo](https://judgelord.github.io/PP510/memos.html) is due 24 hours before your presentation.
 
-You will closely observe and comment on your peers' presentations, writing a one-page peer critique for each of the other five panels.  
+You will closely observe and comment on your peers' presentations, writing a one-page (single-spaced) peer critique for each of the other five panels.  
 
 ---
 
 ### Grades 
 
-We will comment on your memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
+Each assignment builds on the prior assignment. We will comment on your policy memos (click on the "rubric" button to see our comments). I expect you to take our comments into account in your next memo and write more effectively each time. If our comments are unclear, please come to office hours.
+
+#### Late work
 
 Assignments must be submitted on time. **Grades will be reduced by a full grade after the deadline and an additional grade per 24-hour period for which the assignment is late.** 
 
@@ -290,13 +305,13 @@ Academic dishonesty is broadly defined as submitting work that is not your own w
 
 ### Generative Text Tools Using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
 
-You learn by doing work and I assess your learning by the work you do. You may use tools to help craft your writing assignments, but you must learn the craft of policy writing to get credit for this class. To add value to a future employer, you must craft policy recommendations that are significantly better than they would get by asking an LLM. I expect the same. 
+You learn by doing work and I assess your learning by the work you do. You may use tools to help craft your writing assignments, but you must learn the craft of policy writing to get credit for this class. To add value to a future employer or cause, you must craft policy recommendations that are significantly better than they would get by asking an LLM. I expect the same. 
 
-Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made-up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse than worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have significant work to do to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
+Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made-up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse than worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
 
-I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained.  Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
+I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
 
-As mentioned in the memo template, references must be hyperlinked whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
+As mentioned in the memo template, **references must be hyperlinked** whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
 
 I reserve the right to discuss your papers in length with you if I have questions about the content and provenance.
 
@@ -310,15 +325,6 @@ Each week, we will read some original research and portions of a book for a broa
 
 <!-- Day calculator: http://wcaleb.rice.edu/syllabusmaker/classes/ -->
 
----
-
-## Advice from my previous students
-
-- Understand federalism and the structure of local government. (Hint: the readings help!)
-- Start early on policy memos and come to office hours. 
-- Policy memos are short but not easy!
-- Memos take a lot of research. 
-- It is key to understand basic public policy and political science concepts. Please stop me for clarification anytime.
 
 ---
 
@@ -326,7 +332,7 @@ Each week, we will read some original research and portions of a book for a broa
 
 Tuesday: Course goals and expectations
 
-> Syllabus
+> [Syllabus](https://judgelord.github.io/PP510/) and [memo assigment guide](https://judgelord.github.io/PP510/memos.html)
 
 Thursday: Crash course in the distribution of authority in the U.S. federal system
 
@@ -338,23 +344,24 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ## Week two: The Policy Process
 
-> Research: [Agenda Democracy](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter, *Annual Review of Political Science* 2023, Vol. 26:193-212 
+> Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter,
 
 > Research: Egan, Part 1
+
+Recommended Context: Birkland, Chapter 1-3
 
 ---
 
 ## Week three: Institutions
 
-> Research: [Maggie Blackhawk, “Federal Indian Law as Paradigm within Public Law” *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
+> Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
 
 > Research: Egan, Part 2
 
 > Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
-> Listen: [Sackett v. EPA Decision: What the Justices Said and What this Means for Water with Jody Freeman, Richard Lazarus, and Steph Tai](https://eelp.law.harvard.edu/cleanlaw-our-podcast/)
+> Listen: [Harvard Environmental & Energy Law Program: Sackett v. EPA Decision: What the Justices Said and What this Means for Water](https://eelp.law.harvard.edu/cleanlaw-our-podcast/)
 
-<!-- > Context reading: Birkland, Chapter 1-3 --> 
 
 ---
 
@@ -366,13 +373,15 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Research: Egan, Part 3
 
-> Research: Leech, Beth. 2010. *Lobbying and Influence.* In The Oxford Handbook of American Political Parties and Interest Groups, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. Oxford University Press pp. 696–719.
+> Research: [Leech, Beth. 2010. Lobbying and Influence. In *The Oxford Handbook of American Political Parties and Interest Groups*, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. *Oxford University Press* pp. 696–719.](https://doi.org/10.1093/oxfordhb/9780199542628.001.0001)
 
-> Listen: [Moonshots-Thomas Kalil](https://scholars.org/podcast/moonshots)
+> Research: [Dwidar, Miraam. 2022. "Coalitional Lobbying and Intersectional Representation in American Rulemaking." *American Political Science Review*, 116(1), 301-321](http://doi.org/10.1017/S0003055421000794)
 
-> Listen: [Informing Policy-Jenni W. Owen](https://scholars.org/podcast/informing-policy)
+> Listen: [SSN: Moonshots - Thomas Kalil](https://scholars.org/podcast/moonshots)
 
-<!-- > Context:  Birkland Part II, Chapters 4-7 --> 
+> Listen: [SSN: Informing Policy - Jenni W. Owen](https://scholars.org/podcast/informing-policy)
+
+Recommended Context:  Birkland, Part II, Chapters 4-7
 
 
 ---
@@ -393,18 +402,17 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 ## Week six: Policy Tools
 
-
-<!-- FSC --> 
+> Research: [Judge-Lord, McDermott, and Cashore - *Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change*](https://judgelord.github.io/research/fsc-sfi/) 
 
 > Listen: [SSN: Paying for Pollution-Leigh Raymond](https://scholars.org/podcast/paying-pollution)
 
 <!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
 
-> Context:  Bardach Appendix B (PDF online)
+> Context:  Bardach, Appendix B (PDF online)
 
 > Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition.
 
-<!-- Birkland Part III, Chapters 8-11, --> 
+Recommended Context: Birkland Part III, Chapters 8-11
 
 ---
 
@@ -412,29 +420,27 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > **Memo 1 due Tuesday 7 PM**
 
+> Research: [Drutman, Lee. There are too many lawyers in politics. Here’s what to do about it.-](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
-> Research: [There are too many lawyers in politics. Here’s what to do about it.-Lee Drutman](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
-
-> Listen: [SSN: Lawyers, Lawyers, and More Lawyers-Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
-
-<!-- > Context:  Birkland Part IV, Chapters 12-13 --> 
-
+> Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
 <!-- chevron + dissertation 
 
 > Research: TBD --> 
 
-> Listen: [NPR: Obama Office Alters More Federal Rules Than Bush](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
+> Listen: [NPR: Obama Office Alters More Federal Rules Than Bush - Ari Shapiro](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
 
-> Context: Weimer and Vining, Chapters 2 and 3 (5th or 5th ed.)
+> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)
 
 > Context:  Stone, Introduction and Chapter 1
 
 <!--https://www.newyorker.com/magazine/2013/08/12/taken-->
 
+Recommended Context: Birkland, Part IV, Chapters 12-13
+
 ---
 
-## Week eight: Policy Goals and Tradeoffs
+## Week eight: Goals and Tradeoffs
 
 Tuesday: **FALL BREAK**
 
@@ -442,7 +448,7 @@ Tuesday: **FALL BREAK**
 
 Thursday:
 
-> Listen: [SSN: Death by a Thousand Cuts](https://scholars.org/podcast/death-thousand-cuts)
+> Listen: [SSN: Death by a Thousand Cuts - Ashley E. Nickels](https://scholars.org/podcast/death-thousand-cuts)
 
 > Context:  Stone, Part II
 
@@ -453,23 +459,17 @@ Thursday:
 
 > **Memo 2 due Tuesday 7 PM**
 
+> Research: [Judge-Lord. *Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking*](https://judgelord.github.io/research/ej/)
 
 > Context:  Stone, Part III
-
-
-<!-- EJ results --> 
 
 ---
 
 ## Week ten: Solutions
 
-> Research: Deva Woodly. 2015. [The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
-
-
-<!-- > Research: TBD -->
+> Research: [Woodly, Deva. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance. Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
 
 > Context:  Stone, Part IV
-
 
 ---
 
@@ -477,7 +477,7 @@ Thursday:
 
 > **Memo 3 due Tuesday 7 PM**
 
-> Research: Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.
+> Research: [Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
 
 > Research: [How Mass Imprisonment Burdens the United States with a Distrustful Underclass-Vesla M. Weaver](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
 
@@ -491,16 +491,14 @@ Thursday:
 
 ## Week twelve: Laws that Govern Lawmaking
 
-
-> Research: *Beyond Adversary Democracy*-Jane Mansbridge
-
-> Research: [Mansbridge, “Clarifying the Concept of Representation” American Political Science Review, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
-
-<!-- rethinking representation -->
-
+> Research: [Seifter. 2016. "Second-Order Participation in Administrative Law." *UCLA Law Review* 63](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662504)
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
+> Context: [Mansbridge, “Clarifying the Concept of Representation” American Political Science Review, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+
+
+<!--> Context: *Beyond Adversary Democracy*-Jane Mansbridge
 
 <!-- chevron, guidance debate, etc. 
 oversight-correspondence
@@ -514,7 +512,7 @@ oversight-correspondence
 
 ---
 
-## Week fifteen 
+## Week fifteen: Reflection
 
 Tuesday: Course wrap-up, reflection, and responses to roundtable presentations
 
@@ -524,7 +522,7 @@ Thursday: No class, Winter Break
 
 ## Ammendments 
 
-Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will always notify you in advance of any changes.
+Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [here]((https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)).
 
 ---
 
