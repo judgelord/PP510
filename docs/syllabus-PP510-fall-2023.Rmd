@@ -93,7 +93,7 @@ However, standardization is important, so the Final exam will test book knowledg
 
 ### Learning Outcomes
 
-My objective in teaching this course is to encourage your understanding of the policy-making process.
+My objective in teaching this course is to encourage your understanding of the policymaking process.
 
 - You will understand the provisions of the United States Constitution most related to the development and execution of public policy in the United States: Delegation of powers, separation of powers, federalism, and the allocation of powers within the states.
 - You will understand the difference between federalism and the allocation of authorities between state, county, and municipal governments.
@@ -103,7 +103,7 @@ My objective in teaching this course is to encourage your understanding of the p
 - You will learn about executive, administrative, legislative, judicial, and other governmental authorities and their respective roles in making public policy.
 - You will understand the role of politics in policy development.
 - You will learn various approaches to policy analysis.
-- You will learn about different tools and functions available to public policy-makers.
+- You will learn about different tools and functions available to public policymakers.
 - You will learn various approaches to evaluate the success of public policy initiatives.
 - You will learn about the role of norms and values in public policy formulation.
 
@@ -137,7 +137,7 @@ We will read several chapters from Weimer and Vining's *Policy Analysis* (5th or
 
 #### Recommended
 
-For background on the U.S. policy-making system and policy analysis, I recommend two additional textbooks: 
+For background on the U.S. policymaking system and policy analysis, I recommend two additional textbooks: 
 
 - Michael E. Kraft and Scott R. Furlong, *Public Policy: Politics, Analysis, and Alternatives*. Any Edition.
 - Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition.
@@ -356,6 +356,8 @@ Recommended Context: Birkland, Chapter 1-3
 
 > Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
 
+<!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
+
 > Research: Egan, Part 2
 
 > Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
@@ -402,9 +404,9 @@ Recommended Context:  Birkland, Part II, Chapters 4-7
 
 ## Week six: Policy Tools
 
-> Research: [Judge-Lord, McDermott, and Cashore - *Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change*](https://judgelord.github.io/research/fsc-sfi/) 
+> Research: [Judge-Lord, McDermott, and Cashore. 2020. *Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change." *Organization & Environment*, 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
 
-> Listen: [SSN: Paying for Pollution-Leigh Raymond](https://scholars.org/podcast/paying-pollution)
+> Listen: [SSN: Paying for Pollution - Leigh Raymond](https://scholars.org/podcast/paying-pollution)
 
 <!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
 
@@ -420,7 +422,7 @@ Recommended Context: Birkland Part III, Chapters 8-11
 
 > **Memo 1 due Tuesday 7 PM**
 
-> Research: [Drutman, Lee. There are too many lawyers in politics. Here’s what to do about it.-](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
+> Research: [Drutman, Lee. There are too many lawyers in politics. Here’s what to do about it.](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
@@ -459,7 +461,7 @@ Thursday:
 
 > **Memo 2 due Tuesday 7 PM**
 
-> Research: [Judge-Lord. *Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking*](https://judgelord.github.io/research/ej/)
+> Research: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
 
 > Context:  Stone, Part III
 
@@ -477,11 +479,11 @@ Thursday:
 
 > **Memo 3 due Tuesday 7 PM**
 
-> Research: [Mettler, Suzanne. 2002. Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans. American Political Science Review 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
+> Research: [Mettler, Suzanne. 2002. "Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans." *American Political Science Review* 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
 
-> Research: [How Mass Imprisonment Burdens the United States with a Distrustful Underclass-Vesla M. Weaver](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
+> Research: [Weaver, Vesla M. "How Mass Imprisonment Burdens the United States with a Distrustful Underclass"](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
 
-> Listen: [SSN: 147: In Government We Distrust-Suzanne Mettler](https://scholars.org/podcast/government-we-distrust)
+> Listen: [SSN: 147: In Government We Distrust - Suzanne Mettler](https://scholars.org/podcast/government-we-distrust)
 
 <!--
 > Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
@@ -495,10 +497,10 @@ Thursday:
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
-> Context: [Mansbridge, “Clarifying the Concept of Representation” American Political Science Review, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+> Context: [Mansbridge, "Clarifying the Concept of Representation." *American Political Science Review*, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
 
 
-<!--> Context: *Beyond Adversary Democracy*-Jane Mansbridge
+<!-- Context: *Beyond Adversary Democracy*-Jane Mansbridge--> 
 
 <!-- chevron, guidance debate, etc. 
 oversight-correspondence
