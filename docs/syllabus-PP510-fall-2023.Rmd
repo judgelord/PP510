@@ -6,7 +6,7 @@ urlcolor: blue
 editor_options: 
    chunk_output_type: console
 output:
-    # #pdf_document
+    #pdf_document
     html_document:
       toc: true
       toc_float: true
@@ -65,7 +65,7 @@ Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
   GSI: Caroline Leland, <chleland@umich.edu>
   
-  Office hours: TBD
+  Office hours: Tuesday and Thursday 11:30am-12:30pm, 3204  Weill Hall. 
 
 ---
 
