@@ -6,12 +6,37 @@ urlcolor: blue
 editor_options: 
    chunk_output_type: console
 output:
-    #pdf_document
+    # #pdf_document
     html_document:
       toc: true
       toc_float: true
+  # xaringan::moon_reader:
+  #   lib_dir: libs
+  #   mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+  #   css: "syl.css"
+  #   nature:
+  #     ratio: '16:9'
+  #     highlightStyle: github
+  #     highlightLines: true
+  #     countIncrementalSlides: false
 ---
 
+```{r, eval=FALSE, include=FALSE, echo=FALSE}
+style_mono_light(base_color = "#00274C",
+          link_color = "#006EB2",
+          code_highlight_color	= "#FFCB05",
+          background_color = "#EFF0F1", # linen
+          header_font_google = google_font("PT Sans"), 
+          text_font_google = google_font("Old Standard"), 
+          #text_font_size = "30px",
+          #padding = "10px",
+          code_font_google = google_font("Inconsolata"), 
+          table_row_even_background_color = "#E6F0FA",
+          outfile = "syl.css"
+          #extra_css = list(".remark-slide-number" = list("display" = "none"))
+          )
+
+```
 <!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
 I grew up on a small farm in central Wisconsin, where rainfall and groundwater make all the difference. Did anyone else grow up on a farm? A diary? Does anyone have hogs? 
@@ -44,6 +69,8 @@ Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
 ---
 
+<!--exclude: true-->
+
 > [Updated `r Sys.Date() |> format("%B %d, %Y")`](https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)
 
 ## Objectives
@@ -57,7 +84,6 @@ Public policy is defined in many ways.  I think of public policy as the governme
 
 Learning about public policy---what it is, the legal frameworks within which it is made, the tools available to policymakers, the policymaking process, and how to evaluate public policies---will strengthen your writing, analytical, research, and advocacy skills. 
 
----
 
 Public policy is inexorably linked to questions of power. Policy emerges from and shapes politics, but it also involves evidence. Political debates define problems, goals, and agendas, but to achieve any goal through policy, evidence about the effects of different policy tools is indispensable. Evidence must come from sources that your audience will trust. Good evidence ought to be convincing to reasonable opponents of one's policy goals. Good arguments clarify your logic, even to those who may oppose your goals.
 
@@ -74,8 +100,6 @@ Public policy is inexorably linked to questions of power. Policy emerges from an
 1. Engaging others in the policy process
 
 
----
-
 > "Practical wisdom includes a knowledge of particular facts, and this is derived from experience" - Aristotle, Nicomachean Ethics
 
 
@@ -90,6 +114,8 @@ However, standardization is important, so the Final exam will test book knowledg
 --> 
 
 ---
+
+<!--exclude: true-->
 
 ### Learning Outcomes
 
@@ -106,6 +132,7 @@ My objective in teaching this course is to encourage your understanding of the p
 - You will learn about different tools and functions available to public policymakers.
 - You will learn various approaches to evaluate the success of public policy initiatives.
 - You will learn about the role of norms and values in public policy formulation.
+
 
 
 ---
@@ -131,9 +158,17 @@ Two texts are required. **Any edition of Stone is fine**, but more recent editio
 
 > Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
 
-We will post other readings on Canvas or the class website. 
 
-We will read several chapters from Weimer and Vining's *Policy Analysis* (5th or 6th ed.), a classic text that you will likely read in other courses as well. We will also read several chapters from Deva Woodly's *The Politics of Common Sense*, which I highly recommend, but you will not need to procure these texts. 
+We will read several chapters from 
+
+- Weimer and Vining's *Policy Analysis* (5th or 6th ed.), a classic text that you will likely read in other courses as well. 
+
+- Deva Woodly's *The Politics of Common Sense*, which I highly recommend.
+
+We will post these selected chapters and other readings on Canvas or the class website. 
+
+
+---
 
 #### Recommended
 
@@ -153,7 +188,11 @@ No screens in class (unless I give permission). Research shows that they inhibit
 
 ### Attendance
 
-Class attendance is required.  We will take attendance at the beginning of each class. If you are going to miss class, please **notify BOTH CAROLINE AND ME by email in advance**. 
+Class attendance is required.  
+
+We will take attendance at the beginning of each class. 
+
+If you are going to miss class, please **notify BOTH CAROLINE AND ME by email in advance**. 
 
 <!-- otherwise, I'll be looking for you. 
 In part, this is an accountability mechanism, but it is also a way for me to know when people are struggling. 
@@ -168,7 +207,12 @@ Learning from each other is only possible if we show the respect due to our fell
 
 To realize this goal, I expect us to respect our colleagues and cultivate inclusive discussions. This means that we must be careful not to mislead, degrade, interrupt someone who does not speak as much, or enforce hierarchies based on race, religion, ethnicity, nationality, gender expression, sexual orientation, or ability.
 
+<!--[Best Practices for Navigating the Classroom Environment - 
+Fall 2022](https://docs.google.com/document/d/1uSAbeIoEHqZwBzBlbDsz_jl5J_mapwoRxyOK1OGhBdM)--> 
+
 ---
+
+<!--exclude: true-->
 
 ### Ford School and University of Michigan Policies
 
@@ -242,6 +286,11 @@ In addition to attending class, we will continue the conversation by discussing 
 - Week 5: **Ask a question about federalism or how local government works in practice**  
 - Week 6: **Engage in policymaking:** Write to a public official or agency (not one to whom you are writing a memo). Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
 - Week 7: **Engage others in policymaking**: Write 100-200 words about why it is important to engage in a particular policy process (not one on which you are writing a memo) and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people on a public forum---post a link or screenshots to Canvas
+
+---
+
+<!--exclude: true--> 
+
 - Weeks 8-15: Choose one of the above options. Early posts set the agenda!
 
 Every week: Attend lectures or let me know *ahead of time* if you must miss.
@@ -307,15 +356,15 @@ Academic dishonesty is broadly defined as submitting work that is not your own w
 
 ### Generative Text Tools Using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
 
-You learn by doing work and I assess your learning by the work you do. You may use tools to help craft your writing assignments, but you must learn the craft of policy writing to get credit for this class. To add value to a future employer or cause, you must craft policy recommendations that are significantly better than they would get by asking an LLM. I expect the same. 
+You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the craft of policy writing to succeed in class. To add value to any employer or cause, you must craft policy recommendations that are significantly better than they would get by asking an LLM. I expect the same. 
 
-Good policy rests on good evidence. Many LLMs may fabricate evidence. If you turn in work with fake sources or made-up facts, it will get a 0 for similar reasons that other forms of academic dishonesty make your work worse than worthless. The key recommendation of experts studying how students can effectively use LLMs is that you craft a solid bibliography first and constrain generative tools to use only those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and then making sure it is used and cited correctly. 
+Good policy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make your work worse than worthless. The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly. 
 
 I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
 
 As mentioned in the memo template, <mark>**references must be hyperlinked**</mark> whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
 
-I reserve the right to discuss your papers in length with you if I have questions about the content and provenance.
+I reserve the right to discuss your papers in length with you if I have concerns.
 
 ---
 
@@ -340,7 +389,9 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
-> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) (Note: this episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 51. It is not graphic.)
+> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) (Note: this episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 48. It is not graphic.)
+
+<!-- the bosses constitution--> 
 
 ---
 
@@ -349,6 +400,8 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 > Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter,
 
 > Research: Egan, Part 1
+
+Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting.” American Political Science Review 114:638-659
 
 Recommended Context: Birkland, Chapter 1-3
 
@@ -526,9 +579,11 @@ Thursday: No class, Winter Break
 
 ## Ammendments 
 
-Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [here]((https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)).
+Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [here](https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html).
 
 ---
+
+<!--exclude: true-->
 
 ## More Information on Student Instructor Best Practices.
 
