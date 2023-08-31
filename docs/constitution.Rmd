@@ -50,7 +50,7 @@ style_mono_light(base_color = "#00274C",
           code_font_google = google_font("Inconsolata"), 
           code_inline_background_color    = "#F5F5F5", 
           table_row_even_background_color = "#E6F0FA",
-          outfile = "docs/slides.css",
+          #outfile = "docs/slides.css",
           extra_css = 
             list(".remark-slide-number" = list("display" = "none")))
 
