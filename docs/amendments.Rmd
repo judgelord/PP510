@@ -1,0 +1,245 @@
+---
+title: "Amendments to the U.S. Constitution"
+subtitle: ""
+author: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+    css: slides.css
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE, cache = TRUE, echo = FALSE}
+# chunks options:
+# hide code and messages by default (warning, message)
+# cache everything 
+knitr::opts_chunk$set(eval = TRUE, 
+                      warning = FALSE, message = FALSE,
+                      cache = TRUE,
+                      fig.retina = 2,
+                      fig.align = "center", dpi = 100)
+# Xaringan: https://slides.yihui.name/xaringan/
+library("xaringan")
+library("xaringanthemer")
+library("here")
+
+
+style_mono_light(base_color = "#00274C",
+          link_color = "#006EB2",
+          code_highlight_color	= "#FFCB05",
+          background_color = "#EFF0F1",
+          header_font_google = google_font("Open Sans"), 
+          text_font_google = google_font("Open Sans"), 
+ #text_font_family = "cm-web-fonts",
+ #text_font_url = "https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css",
+          base_font_size = "30px",
+  text_font_size = "1rem",
+ code_font_size = "1rem",
+ header_h1_font_size = "1.75rem",
+  header_h2_font_size = "1.5rem",
+  header_h3_font_size = "1.25rem",
+          code_font_google = google_font("Inconsolata"), 
+          code_inline_background_color    = "#F5F5F5", 
+          table_row_even_background_color = "#E6F0FA",
+          outfile = "docs/slides.css",
+          extra_css = 
+            list(".remark-slide-number" = list("display" = "none")))
+
+```
+
+
+background-image: url(figs/amendments.png)
+background-size: contain
+
+---
+
+Bill of Rights  
+- Individual rights (Amendments 1-8)  
+- Unenumerated powers (9)
+- Reserved powers (10)
+
+---
+
+## Amendment 1
+
+> Congress shall make no law respecting an establishment of *religion*, or prohibiting the free exercise thereof; or abridging the freedom of *speech*, or of the *press*; or the right of the people peaceably to *assemble*, and to *petition* the government for a redress of grievances.
+
+---
+
+## Amendment 2
+
+> "A well regulated militia, being necessary to the security of a free state, the right of the people to keep and bear arms, shall not be infringed."
+
+In the 2008 case *District of Columbia v. Heller*, the Supreme Court held that
+> "the Second Amendment protects an individual right to possess a firearm unconnected with service in a militia, and to use that arm for traditionally lawful purposes, such as self-defense within the home."
+
+See [More Perfect - The Gun Show](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-presents-more-perfect-gun-show)
+
+---
+
+## Amendment 3 - No Quartering Soldiers
+
+## Amendment 4 - No Unreasonable Search and Seizure 
+
+---
+
+## Amendment 5 - Rights of Persons
+
+> No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a *Grand Jury*, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offense to be *twice put in jeopardy* of life or limb; nor shall be compelled in any criminal case to be a *witness against himself*, nor be deprived of *life, liberty, or **property**,* without *due process* of law; nor shall *private property be taken for public use, without just compensation*.
+
+Heavily influenced by John Locke's *Two Treatises of Government* (1690)
+
+---
+
+## Amendment 6 - Rights of the Accused in Criminal Trials
+
+## Amendment 7 - Civil Trials
+
+## Amendment 6 - No excessive bail or cruel or unusual punishments
+
+---
+
+
+## Amendment 9 - Unenumerated Rights
+
+> "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people." 
+
+## Amendment 10 - Reserved Powers
+
+> "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people."
+
+(An Anti-federalist compromise.)
+
+---
+
+## Amendment 11 - Suits against the states
+
+- Federal courts have no jurisdiction in suits against state governments
+
+## Amendment 12 - President and vice president run together
+
+---
+
+## Amendment 13 (1865)
+
+> "Neither slavery nor involuntary servitude, *except as a punishment for crime* whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."
+
+---
+
+
+
+background-image: url(figs/13th.png)
+background-size: cover
+
+## Amendment 13 (1865) - Slavery only in prisons
+
+
+---
+
+## Amendment 14 (1868) - Due process and equal protection
+
+1 - "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the state wherein they reside. *No state shall* make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; *nor shall any state* deprive any person of life, liberty, or property, without *due process* of law; nor deny to any person within its jurisdiction the *equal protection* of the laws."
+
+2 - "Representatives shall be apportioned among the several states according to their respective numbers, counting the *whole number of persons in each state*, excluding Indians not taxed." 
+
+---
+
+## Amendment 15 - Rights of Citizens* to Vote (1870)
+
+> "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any state on account of race, color, or previous condition of servitude."
+
+---
+
+## Amendment 16 - Federal Income Tax
+
+## Amendment 17 - Popular Election of Senators
+
+## Amendment 18 - ~~Prohibition~~
+
+---
+
+## Amendment 19 - Women's Suffrage (1919)
+
+- Husted and Kenny (1997) find it led to a rise in welfare spending.
+- Miller (2008) shows that child mortality was reduced since women's suffrage resulted in increasing state-level spending on programs related to the health of infants and children. 
+- Zhang (2019) finds that it decreased polarization (Southern dem.
+
+[More research here.](https://www.aeaweb.org/conference/2019/preliminary/paper/sDrRHn5Z)
+
+---
+
+background-image: url(figs/19th.jpg)
+background-size: contain
+
+
+---
+
+## Amendment 20 - Shorter "Lame Duck" Sessions
+
+## Amendment 21 - Prohibition repealed
+
+## Amendment 22 - Presidential Term Limits
+
+## Amendment 23 - DC Electors
+
+---
+
+## Amendment 24 - Abolition of the Poll Tax (1964)
+
+--
+
+1870 - Federal troops withdraw from states re-admitted to the U.S.
+
+> “We came here to exclude the Negro” - President of 1890 Mississippi Constitutional Convention
+
+1898 - Wilmington insurrection
+
+Further reading: [Democracy Betrayed (2000)](https://uncpress.org/book/9780807847558/democracy-betrayed/)
+
+---
+
+background-image: url(figs/poll-tax.jpg)
+background-size: contain
+
+.left-column[
+Black 
+and 
+White 
+Turnout 
+Rates 1868-1912
+]
+
+---
+
+## Amendment 25 - Presidential Vacancy or Inability
+
+
+---
+
+
+background-image: url(figs/wilson.jpg)
+background-size: contain
+
+---
+
+## Amendment 26 - Voting at 18 (1971)
+
+## Amendment 27 - Congress can't raise its own pay
+
+---
+
+## Amendment 28
+
+
+
+<!-- has anyone heard about a potential 28th amendment? --> 
+
+
