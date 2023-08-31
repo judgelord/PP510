@@ -32,3 +32,4 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 PP510.Rproj
+.DS_Store
