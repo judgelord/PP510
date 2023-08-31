@@ -9,6 +9,7 @@ output:
     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
     css: slides.css
     nature:
+      self_contained: true
       ratio: '16:9'
       highlightStyle: github
       highlightLines: true
@@ -168,9 +169,11 @@ background-size: cover
 
 ## Amendment 19 - Women's Suffrage (1919)
 
-- Husted and Kenny (1997) find it led to a rise in welfare spending.
-- Miller (2008) shows that child mortality was reduced since women's suffrage resulted in increasing state-level spending on programs related to the health of infants and children. 
-- Zhang (2019) finds that it decreased polarization (Southern dem.
+- Husted and Kenny (1997) find women's suffrage led to a rise in welfare spending.
+
+- Miller (2008) shows that child mortality has reduced since women's suffrage, increasing spending on programs related to the health of infants and children.
+
+- Zhang (2019) finds that it decreased polarization.
 
 [More research here.](https://www.aeaweb.org/conference/2019/preliminary/paper/sDrRHn5Z)
 
@@ -232,7 +235,7 @@ background-size: contain
 
 ## Amendment 26 - Voting at 18 (1971)
 
-## Amendment 27 - Congress can't raise its own pay
+## Amendment 27 - Congress can't raise its pay
 
 ---
 
@@ -240,6 +243,6 @@ background-size: contain
 
 
 
-<!-- has anyone heard about a potential 28th amendment? --> 
+<!-- Has anyone heard about a potential 28th amendment? --> 
 
 
