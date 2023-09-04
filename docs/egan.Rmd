@@ -84,9 +84,30 @@ Water is one of may interesting topics that challenge some of the core principle
 
 ---
 
+class: inverse center middle 
+
 # Examples from *The Death and Life of the Great Lakes*
 
 <!-- Remember, one of my goals is for you all to see clearly the policy debates and implications of a situation. Let's see what we find in part 1, I hope we can start training your eye like an ecologist trains their eye to see shifts, and tensions and interdependencies in a stream, we want to look at this story as policy analysts. What in this story reveals policy tradeoffs, causes, and consequences. --> 
+
+---
+
+## The Erie Canal: Agendas, Federalism, and Poliicy Entrepenuers 
+
+- 1807: From prison, Jesse Hawley wrote to the *Genesee Messenger*.  
+- 1816: NYC mayor, Clinton DeWitt "sold the canal as essential to the economic future of the nation and had won financial backing for it from Congress, thou that support was snuffedby a veto from President James Madison
+- Clinton, now NY governor, pushes forward as a state project
+- Mocked in the press as "Clinton's Folly"
+- 1825: Canal opens 
+
+
+---
+
+class: inverse center middle 
+
+# Egan Part 2
+
+---
 
 ## Federalism
 
@@ -133,7 +154,7 @@ background-size: cover
 ---
 
 background-image: url(figs/nyc-flood.gif)
-background-size: cover
+background-size: contain
 
 <!--Manhattan seawall would flood Brooklyn.--> 
 
@@ -143,8 +164,18 @@ background-size: cover
 
 -->
 
+---
+
+background-image: url(figs/nyc-news.png)
+background-size: contain
+
+---
+
+<iframe src="https://www.npr.org/player/embed/1193726251/1193795295" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
 
+
+---
 
 ---
 
@@ -222,9 +253,10 @@ For example, what kind of rights to water ought to exist (use rights, property r
 
 ### Citizen suits 
 
+<!--
 > Have environmental groups sued the US Government or the EPA to act under the commerce clause to protect Great Lakes Interests and infrastructure?
 
---
+-->
 
 Conservation groups sued the EPA in 2001 to regulate ballast water and then again claiming that the EPA's 2013 ballast rules failed to require "best available technology" (BAT) as required by (CWA §304(b)(2))
 
@@ -232,6 +264,7 @@ Conservation groups sued the EPA in 2001 to regulate ballast water and then agai
 
 ### Regulation
 
+<!--
 > Egan mentioned how the FDA allowed the sale of carp that were in sewage ponds— were consumers aware of where the fish were prior? Were the fish tested to be safe for consumption? 
 
 --
@@ -241,6 +274,8 @@ Conservation groups sued the EPA in 2001 to regulate ballast water and then agai
 --
 
 >  Who, or how many people are tasked to make and enforce regulatory policies?
+
+--> 
 
 ---
 

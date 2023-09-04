@@ -1,0 +1,168 @@
+---
+title: "The Policy Process"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  Agenda Democracy by Daniel Carpenter
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "/figs/stages.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Defining Public Policy {.scrollable}
+
+
+| Public Policy | Author | 
+|:-----|:-----| 
+|"the actions of government and the intentions that determine those actions" | Cochran et al. (2010) |
+| "the outcome of the struggle in government of who gets what" | Cochran et al. (2010) citing Lasswell's (1936) definition of politics as the struggle over "who gets what, when, and how" |
+| "whatever governments choose to do or not to do" | Dye (2013) |
+| "political decisions for implementing programs to achieve societal goals" | Cochran and Malone (2010) |
+| the sum of government activity, whether acting directly or through agents" | Peters (2010) |
+| "statements by a government of what it intends to do...the lack of such statements may also be an *implicit* statement of policy" | Birkland (2020) |
+| "texts, practices, and symbols, and discourses that define and deliver values" | Schneider and Ingram (1997) | 
+
+---
+
+## Explicit policy
+
+- Constitution
+- Statute  
+- Rule  
+- Court precedent  
+- Executive order
+- Budget
+- etc.
+
+
+## Implicit policy 
+
+### (1) in the form of <mark>rights</mark>
+
+- Unlike some countries, U.S. law does not explicitly guarantee rights such as healthcare, housing, or a living wage. Such ommissions imply a policy.
+
+
+- [*Juliana, et al. v. United States*](https://climatecasechart.com/case/juliana-v-united-states/): plaintiffs argue the U.S. government is violating their right to life and liberty. 
+
+- The *Public Trust Doctrine* and other *common law* doctrines are rooted in rights claims.
+
+(More on rights claims in policymaking in Stone, Ch. 15)
+
+
+::: {.notes}
+While the Ninth Circuit panel found the government is violating the plaintiffs' constitutional rights, two of the three judges said that the requested remedies should be addressed by the executive and legislative branches.
+:::
+
+
+
+## Implicit policy
+
+### (2) in the form of <mark>practices</mark>
+
+- "street-level bureaucrats" such as teachers, election officials, and police officers (Lipsky 2010) 
+
+
+
+# The Policy Process 
+
+problem definition $\rightarrow$ agenda setting $\rightarrow$ policy making $\rightarrow$ implementation
+
+(or something like this)
+
+
+---
+
+## {background-image="figs/stages-fig.jpg" background-size="contain"}
+
+---
+
+
+### Where do policy priorities come from? 
+
+i.e., who ranks the issues and alternatives? 
+
+---
+
+### Where do policy priorities come from? 
+
+i.e., who ranks the menu of problems and policy choices? 
+
+---
+
+### Where do policy priorities come from? 
+
+i.e., who sets the policy agenda? 
+
+- Policymakers  
+- Advisory committees 
+- Institutions designed to inform policy like the Congressional Budget Office (CBO), Congressional Research Service (CRS), and Government Accountability Office (GAO) and research arms of executive agencies (DARPA, ARS, CEQ, etc.).
+- Crises - "focusing events" (e.g., the Cuyahoga River)
+
+---
+
+# The Policy Environment
+
+---
+
+## The Structural Context 
+
+- Separation of Powers
+
+- Federalism
+
+- *Substantive policies*: A policy that explains how the government will go about its policy goals in a particular area.
+
+- *Procedural policies* (e.g., Administrative Procedures Act)
+
+- *Transparency requirements* (Open public meetings laws, Freedom of Information Act)
+
+---
+
+## The Socio-economic Context 
+
+- Demographics (population age, gender, race, class, etc.)
+
+
+::: {.notes}
+As I said, I chose this book because it is an excellent overview of the field. It is not a critical perspective of the field. 
+You may have noticed that he sometimes says "we" and "people" and "Americans" and "our national experience" when he means "White Americans" and "those people" and "their cultures" when he refers to people who are not White. 
+
+Surely, I am part of this as well. I often say things like "the kind of people who are on the Supreme Court" rather than "old white men born to wealthy families that got them into prestigious law schools"--This probably obscures what is going on. Still, honestly, that is a mouthful, and I trust you to know what I mean. 
+:::
+
+---
+
+## The Political Context
+
+"Most important issue" polls
+
+Forced choice:
+
+![](figs/mip.png)
+
+---
+
+### Issue opinion polls
+
+![](figs/age-gnd.jpeg)
+
+---
+
+## {background-image="figs/cc-gop.png" background-size="contain"}
+
+---
+
+## Politics 
+
+- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
+
+- the process by which a society determines who gets, what, when, and how (Laswell 1936) $\rightarrow$ critiqued as implying zero-sum
+
+- the art or science of government 
+
+- collective action (politics and policy as a means to net benefits)  
+
+- participation in civic life
