@@ -12,7 +12,6 @@ output:
       countIncrementalSlides: false
 ---
 
-
 # Why do we make laws? 
 
 ---
