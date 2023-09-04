@@ -1,0 +1,105 @@
+---
+title: "Agenda Democracy"
+subtitle: ""
+author: "" # "Daniel Carpenter"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      footer:  Agenda Democracy by Daniel Carpenter
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "/figs/prohibition.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Agendas and Democratic Politics
+
+
+The agenda
+
+- a menu of final policy choices
+- <mark>the shortlist of the possible</mark>
+  - “what politics is” (Schattschneider 1975)
+  - “common sense.” (Woodly 2015)
+
+---
+
+<a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051921-102533"><img src="https://i.imgflip.com/7y04h0.jpg" title="the agenda"/></a><div><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051921-102533"></a></div>
+
+---
+
+> The definition of the alternatives is the supreme instrument of power; the antagonist can rarely agree on what the issues are because power is involved in the definition. He who determines what politics is runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power.
+
+-- E. E. Schattschneider, The Semisovereign People (1975), 66. 
+
+
+
+---
+
+## The agenda of policy agenda research
+
+
+(1) How the agenda will be limited and restricted, often by elites or collective attention dynamics 
+   - limiting [the scope of conflict](), e.g. via the definition of what is “public” versus what is “private” (Schattschneider 1975)
+     - [second face of power]() (Bachrach and Baratz 1962)
+   - "the [premises]() of decision-making" (Simon 1976)
+   - process: [negative agenda power]()  (e.g., Cox and McCubbins 1993, "procedural cartel" model of Congress) 
+
+
+::: {.notes}
+(Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
+:::
+
+---
+
+## The agenda of policy agenda research
+
+
+(2)
+
+
+---
+
+## Implications
+
+
+> We have excluded central processes in the generation and maintenance of political and economic inequality.
+
+---
+
+
+## Political intermediaries
+
+- protest campaigns
+- social organizations
+- advocacy campaigns
+- grievance mechanisms
+
+
+
+## Agenda-democratizing processes and institutions {.nonincremental}
+
+::: {.nonincremental}
+- petitions
+- protests
+- advocacy campaigns 
+- organized political collectives (e.g., labor unions)
+- non-electoral elite interventions (e.g., courts)
+:::
+Many begin as attempts to address issues of non-democracy in agenda setting, but campaigns may also be illiberal or anti-democratic.
+
+
+
+## Success 
+
+“success” of these campaigns should consider not merely whether they changed policy or laws in the short run, but whether they shifted agendas and discourse 
+
+---
+
+Gillion
+
+---
+
+(Lee 2002, Schickler 2016; Gillion 2020; Carpenter 2021; LaGause 2022)
