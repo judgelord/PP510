@@ -145,15 +145,16 @@ $\rightarrow$ Agenda coordination by Americans for Prosperity (AFP), the America
 
 ### Political intermediaries
 
-- protest campaigns
-- social organizations
-- advocacy campaigns
-- grievance mechanisms
+- protest & advocacy campaigns (Gillion 2013, 2020; Woodly 2021)
+- social & syndicalist organizations (Ansell 2001)
+- local politicians (Schickler 2016)
+- parties (Schickler 2016)
 
 ###  Intersections of state and society 
 
 - petitioning
 - complaint-making
+- grievance mechanisms
 - public comment
 - hearings
 
@@ -195,5 +196,24 @@ Gillion
 (Lee 2002, Schickler 2016; Gillion 2020; Carpenter 2021; LaGause 2022)
 
 
+# Questions 
 
+Does Carpenter believe that certain agenda-restricting mechanisms should remain to prevent malicious/antiliberal actors from using petitions, complaint forums, and other agenda-democratizing systems to harm their fellow citizens, when “social-shaming or democratic republican virtue” does not work?
+
+
+
+"logic of appropriateness" 
+March and Olson
+
+"third face of power" (Lukes)
+
+"ideological power" 
+
+ Carpenter brings up Lukes work on page 201, but I wasn't entirely tracking what he was saying differentiates this from his understanding of agenda. Won't the kinds of things Carpenter brings up that have the possibility of democratizing agenda--party transformation, claims-making, public demonstration, bargaining, etc.--also possibly have the impact of changing some core preferences?
+ 
+ 1. As Forrester says, movements do shape preferneces ("constituencies") by setting the horizon of the possible 
+ 
+ 2. Lukes understands ideological power in Marx's idea of "false consciousness" such that  ideological work is either emancipatory or manipulative judged by some material standard. In carpenter's world agenda power is not so much about true or false consciousness.
+ 
+ 
 -->
