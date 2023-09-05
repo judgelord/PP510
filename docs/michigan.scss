@@ -34,15 +34,15 @@ $header_h2_font_size: 1.5rem;
 $header_h3_font_size: 1.25rem;
 $code_inline_background_color: #E6F0FA;
 $table_row_even_background_color:#E6F0FA;
-$presentation-font-size-root: 40px !default;
-$base_font_size: 40px !default;
+$presentation-font-size-root: 35px !default;
+$base_font_size: 35px !default;
 
 /*-- scss:rules --*/
 .reveal pre code {
   background-color: #E6F0FA;
   font-size: 1em;
-  padding: 0.5em;
-  line-height: 1.2em;
+  padding: 0.1em;
+  line-height: 1.1em;
 }
 
 
@@ -81,17 +81,6 @@ $base_font_size: 40px !default;
 
 
 
-.slide-logo {
-  display: block !important;
-  position: fixed !important;
-  top: 0 !important;
-  right: 10px !important;
-  max-height: 15% !important;
-  height: 100% !important;
-  width: auto !important;
-  color: $body-color !important;
-}
-
 
 
 mark {
@@ -111,7 +100,7 @@ $font-family-monospace: 'Open Sans', monospace  !default;
 
 .reveal blockquote {
   border-left: 3px solid;
-  padding-left: 0.5em;
+  padding-left: 0.1em;
   font-style: italic;
   font-weight: bold;
   color: #003c76;

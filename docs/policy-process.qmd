@@ -12,6 +12,22 @@ format:
         data-background-opacity: "0.5"
 ---
 
+
+## Defining Politics 
+
+- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
+
+- the process by which a society determines who gets, what, when, and how (Laswell 1936) $\rightarrow$ critiqued as implying zero-sum
+
+- the art or science of government 
+
+- collective action (politics and policy as a means to net benefits)  
+
+- participation in civic life
+
+---
+
+
 ## Defining Public Policy {.scrollable}
 
 
@@ -27,7 +43,7 @@ format:
 
 ---
 
-## Explicit policy
+## Explicit Policy
 
 - Constitution
 - Statute  
@@ -38,7 +54,7 @@ format:
 - etc.
 
 
-## Implicit policy 
+## Implicit Policy 
 
 ### (1) in the form of <mark>rights</mark>
 
@@ -63,6 +79,59 @@ While the Ninth Circuit panel found the government is violating the plaintiffs' 
 ### (2) in the form of <mark>practices</mark>
 
 - "street-level bureaucrats" such as teachers, election officials, and police officers (Lipsky 2010) 
+
+# The Policy Environment
+
+---
+
+## The Structural Context 
+
+- Separation of Powers
+
+- Federalism
+
+- *Substantive policies*: A policy that explains how the government will go about its policy goals in a particular area.
+
+- *Procedural policies* (e.g., Administrative Procedures Act)
+
+- *Transparency requirements* (Open public meetings laws, Freedom of Information Act)
+
+---
+
+## The Socio-economic Context 
+
+- Demographics (population age, gender, race, class, etc.)
+
+
+::: {.notes}
+As I said, I chose this book because it is an excellent overview of the field. It is not a critical perspective of the field. 
+You may have noticed that he sometimes says "we" and "people" and "Americans" and "our national experience" when he means "White Americans" and "those people" and "their cultures" when he refers to people who are not White. 
+
+Surely, I am part of this as well. I often say things like "the kind of people who are on the Supreme Court" rather than "old white men born to wealthy families that got them into prestigious law schools"--This probably obscures what is going on. Still, honestly, that is a mouthful, and I trust you to know what I mean. 
+:::
+
+---
+
+## The Political Context
+
+
+<img src="figs/mip.png" alt="most important problem poll" style="width:100%">
+
+::: {.notes}
+
+- "Most important issue" polls
+
+Forced choice:
+:::
+
+---
+
+
+Issue opinion polls
+
+<img src="figs/age-gnd.jpeg" alt="support for green new deal by age" style="width:100%">
+
+<!--## {background-image="figs/cc-gop.png" background-size="contain"}--> 
 
 
 
@@ -102,66 +171,91 @@ i.e., who sets the policy agenda?
 - Crises - "focusing events" (e.g., the Cuyahoga River)
 
 
-# The Policy Environment
+
+# Agenda Setting
 
 ---
 
-## The Structural Context 
+:::: {.columns}
 
-- Separation of Powers
+::: {.column width="30%"}
 
-- Federalism
-
-- *Substantive policies*: A policy that explains how the government will go about its policy goals in a particular area.
-
-- *Procedural policies* (e.g., Administrative Procedures Act)
-
-- *Transparency requirements* (Open public meetings laws, Freedom of Information Act)
-
----
-
-## The Socio-economic Context 
-
-- Demographics (population age, gender, race, class, etc.)
+The process by which problems and alternative solutions gain or lose public and elite attention (including the activities or actors to prevent problems or solutions from gaining attention)
 
 
-::: {.notes}
-As I said, I chose this book because it is an excellent overview of the field. It is not a critical perspective of the field. 
-You may have noticed that he sometimes says "we" and "people" and "Americans" and "our national experience" when he means "White Americans" and "those people" and "their cultures" when he refers to people who are not White. 
-
-Surely, I am part of this as well. I often say things like "the kind of people who are on the Supreme Court" rather than "old white men born to wealthy families that got them into prestigious law schools"--This probably obscures what is going on. Still, honestly, that is a mouthful, and I trust you to know what I mean. 
 :::
 
----
+::: {.column width="70%"}
 
-## The Political Context
+<img src="figs/agendas.jpg" alt="agendas" style="width:100%">
 
-"Most important issue" polls
+:::
 
-Forced choice:
+::::
 
-![](figs/mip.png)
-
----
-
-### Issue opinion polls
-
-![](figs/age-gnd.jpeg)
 
 ---
 
-## {background-image="figs/cc-gop.png" background-size="contain"}
+vs. **Enactment:** The act of putting a decision, such as legislation or regulation, into effect. 
+
+<img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2017_51/2271596/171222-trump-tax-signature-cover-ew-150p.jpg" alt="agendas" style="width:100%">
+
+::: {.notes}
+Statues are generally enacted in the United States when the President or governor signs a bill or when a legislature overrides their veto. Agency rules are enacted when published as "final rules" (vs. draft rules). 
+:::
+
 
 ---
 
-## Politics 
+Fully comprehensive and "rational" agenda-setting is unrealistic. 
 
-- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
+**Garbage can model:** A model of decision-making developed by Cohen, March, and Olsen, who argue that organizations are "organized anarchies" and make decisions based on the flow of problems, solutions, and participants into the choice opportunities they call "garbage cans." This is the foundation of Kingdon's Multiple Streams metaphor. 
 
-- the process by which a society determines who gets, what, when, and how (Laswell 1936) $\rightarrow$ critiqued as implying zero-sum
 
-- the art or science of government 
+![](figs/trash.jpg) ![](https://media.giphy.com/media/QLyhWVTvAHbAbAdWcp/giphy.gif)
 
-- collective action (politics and policy as a means to net benefits)  
+---
 
-- participation in civic life
+**Policy Window** The point in time at which policy change becomes more likely (from Kingdon's streams metaphor)
+
+![](figs/kingdon-streams.jpg)
+
+---
+
+"Problem streams" and "political streams" may change rapidly due to a **focusing event:** A sudden event that can generate attention to public problems or issues, particularly issues and problems that are actually or potentially harmful. 
+
+The resulting pattern of policymaking is often called **punctuated equilibrium**.
+
+![](figs/punctuated.png)
+
+---
+
+## {background-image="figs/carson.jpg" background-size="contain"}
+
+---
+
+## {background-image="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/e4/13/e4136a97-b510-432c-8089-15a4d7ba50f7/gettyimages-515303088.jpg" background-size="cover"}
+
+---
+
+
+## {background-image="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780197603956.jpg" background-size="contain"}
+
+
+---
+
+<!--
+
+"The Origin of Ideas" by Jennifer Bookhart and Alex Tahk
+
+![](figs/brookhart1.png)
+
+---
+
+![](figs/brookhart2.png)
+
+---
+
+## {background-image="figs/brookhart3.png" background-size="contain"}
+
+--> 

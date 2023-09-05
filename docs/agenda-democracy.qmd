@@ -20,9 +20,13 @@ format:
 The agenda
 
 - a menu of final policy choices
+- the most important problems 
 - <mark>the shortlist of the possible</mark>
+  - the set of things open to public contestation
   - “what politics is” (Schattschneider 1975)
   - “common sense.” (Woodly 2015)
+    - what is acceptable 
+    - how to think about problems
 
 ---
 
@@ -30,23 +34,107 @@ The agenda
 
 ---
 
-> The definition of the alternatives is the supreme instrument of power; the antagonist can rarely agree on what the issues are because power is involved in the definition. He who determines what politics is runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power.
+> The definition of the alternatives is the supreme instrument of power; the antagonist can rarely agree on what the issues are because power is involved in the definition. 
 
--- E. E. Schattschneider, The Semisovereign People (1975), 66. 
+>He who determines what politics is runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power.
 
+-- E. E. Schattschneider, The Semisovereign People (1975)
 
 
 ---
 
-## The agenda of policy agenda research
+## Policy agenda research
 
 
-(1) How the agenda will be limited and restricted, often by elites or collective attention dynamics 
-   - limiting [the scope of conflict](), e.g. via the definition of what is “public” versus what is “private” (Schattschneider 1975)
-     - [second face of power]() (Bachrach and Baratz 1962)
-   - "the [premises]() of decision-making" (Simon 1976)
-   - process: [negative agenda power]()  (e.g., Cox and McCubbins 1993, "procedural cartel" model of Congress) 
+How the agenda is limited, often by elites or attention dynamics 
 
+   - limiting [the scope of conflict]() (Schattschneider 1975)
+   
+   Bounded rationality
+   
+   1. limiting [the scope of attention]()---"the second face of power" (Bachrach and Baratz 1962)
+   2. "the [premises]() of decision-making" (Simon 1976)
+   
+   Agenda control 
+   
+   - [negative agenda power]()  (e.g., Cox and McCubbins 1993, "procedural cartel" model of Congress) 
+
+
+::: {.notes}
+ e.g. via what is “public” vs. “private”
+(Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
+:::
+
+---
+
+## limiting the scope of conflicts
+
+Defining appropriate spheres 
+
+- better left to the individual
+- better left to the family 
+- better left to the market
+- better left to experts
+
+---
+
+## Problem definitions and public meaning
+
+The premises of decision-making + the scope *and meaning* of conflicts
+
+> If a problem is an "environmental" issue does it implicate efficiency questions, questions of the common good, or matters of justice? Why?
+
+
+<!---
+
+
+## The set of people
+
+---> 
+
+
+# Implications
+
+> We have missed the normative and equity dimensions. 
+
+::: {.notes}
+Take for grated who the players are 
+:::
+
+---
+
+> We have ignored fundamental mechanisms of transformational change in institutions and policies.
+
+::: {.notes}
+Sufferage 
+:::
+
+---
+
+> We have excluded central processes in the generation and maintenance of political and economic inequality.
+
+
+**How** are things are excluded from being “political” or eligible for political disputation and problem-solving? 
+
+---
+
+The structure of policymaking institutions and advocacy organizations shapes agenda setting because *all* organizations systematically privilege some issues/ideas/conflicts/solutions over others.  
+
+> "All forms of political organization have a bias in favor of the exploitation of some kinds of conflict and the suppression of others because *organization is the mobilization of bias*. Some issues are organized into politics, while others are organized out." - E. E. Schattshneider
+
+---
+
+Legislators receiving more support from business and other wealthy interests were more likely to discuss upper-class priorities.
+
+<img src="https://www.russellsage.org/sites/default/files/9780871545732.jpg" alt="Hijacking the Agenda book cover" style="width:40%">
+
+---
+
+Why did many states advance the same proposals at the same time? 
+
+<img src="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780190870799.jpg" alt="tate Capture book cover" style="width:40%">
+
+$\rightarrow$ Agenda coordination by Americans for Prosperity (AFP), the American Legislative Exchange Council (ALEC), and the State Policy Network (SPN).
 
 ::: {.notes}
 (Romer and Rosenthal 1978; Kingdon 1984; Baumgartner and Jones 1993)
@@ -54,32 +142,23 @@ The agenda
 
 ---
 
-## The agenda of policy agenda research
 
-
-(2)
-
-
----
-
-## Implications
-
-
-> We have excluded central processes in the generation and maintenance of political and economic inequality.
-
----
-
-
-## Political intermediaries
+### Political intermediaries
 
 - protest campaigns
 - social organizations
 - advocacy campaigns
 - grievance mechanisms
 
+###  Intersections of state and society 
+
+- petitioning
+- complaint-making
+- public comment
+- hearings
 
 
-## Agenda-democratizing processes and institutions {.nonincremental}
+## (potentially) Agenda-democratizing processes and institutions {.nonincremental}
 
 ::: {.nonincremental}
 - petitions
@@ -98,8 +177,23 @@ Many begin as attempts to address issues of non-democracy in agenda setting, but
 
 ---
 
+## Equality 
+
+Equality in lawmaking 
+
+vs.
+
+Equality in deliberation and voice 
+
+
+<!--
+
 Gillion
 
 ---
 
 (Lee 2002, Schickler 2016; Gillion 2020; Carpenter 2021; LaGause 2022)
+
+
+
+-->
