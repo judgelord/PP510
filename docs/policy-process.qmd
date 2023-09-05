@@ -119,7 +119,7 @@ Surely, I am part of this as well. I often say things like "the kind of people w
 
 ::: {.notes}
 
-- "Most important issue" polls
+- "Most important issue" (Baumgartner & Jones 1993)
 
 Forced choice:
 :::
@@ -230,19 +230,16 @@ The resulting pattern of policymaking is often called **punctuated equilibrium**
 
 ---
 
-## {background-image="figs/carson.jpg" background-size="contain"}
+##  {#carson data-menu-title="Carson" background-image="figs/carson.jpg" background-size="contain"}
 
 ---
 
-## {background-image="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/e4/13/e4136a97-b510-432c-8089-15a4d7ba50f7/gettyimages-515303088.jpg" background-size="cover"}
+##  {#river-fire data-menu-title="Fire" background-image="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/e4/13/e4136a97-b510-432c-8089-15a4d7ba50f7/gettyimages-515303088.jpg" background-size="cover"}
 
 ---
 
+##  {#woodly data-menu-title="Woodly" background-image="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780197603956.jpg" background-size="contain"}
 
-## {background-image="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780197603956.jpg" background-size="contain"}
-
-
----
 
 <!--
 
