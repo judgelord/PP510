@@ -14,6 +14,14 @@ format:
         data-background-opacity: "0.5"
 ---
 
+> Towards the end of chapter 4 Egan discusses how the ballast treatment system requirement for incoming cargo ships won't go into effect until 2021 at the earliest. I was wondering what the progress has been with implementing that policy?
+
+::: {.notes}
+Farah  and Katrina 
+:::
+
+---
+
 ## 2017 {background-image="https://img.thriftbooks.com/api/images/m/3adf2172abd781e5a6283ca484eba342d7d63f0e.jpg" background-size="contain"}
 
 
@@ -95,3 +103,12 @@ for EPA to publish rules
 
 - presumably under the 2013 Vessel General Permit 
 - "ballast water discharge, inspection, monitoring, and reporting violations"
+
+---
+
+
+> In this case, ballast water standards are already on the “agenda,” but there is no urgency to act on the agenda item. Especially when the agency has been mandated to strengthen their standards and there is an existing body of scientific research, why has it taken more than eight years to actually act? Are the obstacles primarily internal to the EPA or are they primarily external political or corporate pressures?
+
+::: {.notes}
+Katrina
+:::
