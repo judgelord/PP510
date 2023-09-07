@@ -61,7 +61,7 @@ for EPA to publish rules
 
 <iframe src="https://giphy.com/embed/H5C8CevNMbpBqNqFjl" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-monkey-side-eye-sideeye-H5C8CevNMbpBqNqFjl"></a></p>
 
-## 2020: [draft EPA regulations](https://www.regulations.gov/document/EPA-HQ-OW-2019-0482-0001) (a "rule")
+## 2020: [draft EPA rule](https://www.regulations.gov/document/EPA-HQ-OW-2019-0482-0001) (a regulation)
 
 > under the authority of Clean Water Act Sections 301, 304, 307, 308, 312, and 501 as amended by the Vessel Incidental Discharge Act. 33 U.S.C. 1311, 1314, 1317, 1322, and 1361.
 
@@ -69,18 +69,18 @@ for EPA to publish rules
 -  "in coordination with the USCG and interested Governors"
 - "streamline the current patchwork of federal, state, and local vessel discharge requirements."
 - "procedures for states to follow if they choose to petition EPA to issue an emergency order"
-- [Unified Agenda timetable](https://www.regulations.gov/docket/EPA-HQ-OW-2019-0482/unified-agenda), says a Supplemental draft rule is expected in <mark>September 2023</mark>
+- [Unified Agenda timetable](https://www.regulations.gov/docket/EPA-HQ-OW-2019-0482/unified-agenda), says a Supplemental draft rule is expected in <mark>September 2023</mark> 👀 
 
 
-## 2020: US Department of Energy (DOE) revises rules ["eliminating unnecessary environmental documentation"](https://www.regulations.gov/document/DOE-HQ-2020-0017-0020) for Liquified Natural Gas (LNG) shipping
+## 2020: US Department of Energy (DOE) rule ["eliminating unnecessary environmental documentation"](https://www.regulations.gov/document/DOE-HQ-2020-0017-0020) for Liquified Natural Gas (LNG) shipping
 
 > updating its National Environmental Policy Act (NEPA) implementing procedures pertaining to authorizations issued under the Natural Gas Act (NGA)
 
-- 16 comments
+- 16 comments on the proposed (i.e., draft) rule (a.k.a. NPRM)
 - Some commenters complain that ships don't need to assess ballast water impacts
-- DOE says its only a few ships  🤷 
+- DOE says its only a few ships, how much harm can they do?  🤷 
 
-## 2022: Coast Gaurd Regulations (a "[policy letter](https://www.regulations.gov/document/USCG-2019-0477-0041)" on *testing* for invasives 
+## 2022: Coast Gaurd Regulations (a "[policy letter](https://www.regulations.gov/document/USCG-2019-0477-0041)") on *testing* for invasives 
 
 > The Vessel Incidental Discharge Act of 2018 (VIDA), Public Law 115-282, amended Section 312(p) of the Federal Water Pollution Control Act (33 U.S.C. 1322). Pursuant to 33 U.S.C. 1322(p)(6)(D)(ii)), the Coast Guard published a draft policy letter in the Federal Register on July 31, 2019 (84 FR 37330)
 
