@@ -202,31 +202,18 @@ Gillion
 
 
 <!--
-
-"logic of appropriateness" 
-March and Olson
-
-"third face of power" (Lukes)
-
-"ideological power" 
-
- Carpenter brings up Lukes work on page 201, but I wasn't entirely tracking what he was saying differentiates this from his understanding of agenda. Won't the kinds of things Carpenter brings up that have the possibility of democratizing agenda--party transformation, claims-making, public demonstration, bargaining, etc.--also possibly have the impact of changing some core preferences?
- 
- 1. As Forester says, movements do shape preferneces ("constituencies") by setting the horizon of the possible 
- 
- 2. Lukes understands ideological power similar to Marx's idea of "false consciousness" such that  ideological work is either emancipatory or manipulative judged by some objective material standard. In Carpenter's world, agenda power is not so much about true or false consciousness.
  
 --> 
 
-##  “agenda democracy” 
+##  “Agenda democracy” 
 
 > Who are "the people" and what is their agenda? 
 
-> is it even possible to achieve?
+> Is it even possible to achieve?
 
 > What exactly would a permanent deviation from the people's agenda look like?
 
-> what process would allow you to capture what “the majority” of the public believes should be escalated to the top? 
+> What process would allow you to capture what “the majority” of the public believes should be escalated to the top? 
 
 
 ## "The people" (continued) 
@@ -237,12 +224,12 @@ March and Olson
 - vs. "the greatest good for the greatest number for the longest period of time?"
 
 ::: {.notes}
-- How do Tanner or Applegate's policy work implicate democracy differently? 
+- How does Tanner or Applegate's policy work implicate democracy differently? 
 :::
 
 ## Safegaurds
 
-> Does Carpenter believe that certain agenda-restricting mechanisms should remain to prevent malicious/antiliberal actors from using petitions, complaint forums, and other agenda-democratizing systems to harm their fellow citizens, when “social-shaming or democratic republican virtue” does not work?
+> Does Carpenter believe that certain agenda-restricting mechanisms should remain to prevent malicious/antiliberal actors from using petitions, complaint forums, and other agenda-democratizing systems to harm their fellow citizens, when “social-shaming or democratic-republican virtue” does not work?
 
 > Do we have adequate safeguards in place to allow for unlimited agenda democracy while safeguarding foundational liberal values and principles? Are the courts and constitution enough?
 
@@ -250,13 +237,13 @@ March and Olson
 
 ##  How to set the agenda 
 
-> if you are trying to make changes to a policy agenda, do you always need to democratize agenda setting?
+> If you are trying to make changes to a policy agenda, do you always need to democratize agenda setting?
 
 ## How to reform institutions 
 
-> there is often a pushback against protest through the lens of civility? How should those seeking to democratize agenda react to the civility critique?
+> There is often a pushback against protest through the lens of civility. How should those seeking to democratize the agenda react to the civility critique?
 
-> how can environmental concerns have more stake in agenda setting
+> How can environmental concerns have more stake in agenda-setting
 
 <!-- depends on what you are trying to do  --> 
  
@@ -267,12 +254,24 @@ March and Olson
  
  Should one (unelected) state official have the ability to make such impactful decisions?
  
- - one official vs many veto points 
+ - one official vs. many veto points 
  
 ## Federalism 
  Since the introduction of the salmon undeniably affected commerce, shouldn't the House or another federal agency have been in charge of what species are introduced to any of the lakes? 
 -->
 
+
+
+## Agenda vs. "logic of appropriateness" (March and Olson)/"third face of power" (Lukes)/"ideological power" 
+
+> Won't the kinds of things Carpenter brings up that have the possibility of democratizing agenda---party transformation, claims-making, public demonstration, bargaining, etc.---also possibly have the impact of changing some core preferences?
+ 
+ 1. As Forester says, movements do shape preferences ("constituencies") by setting the horizon of the possible 
+ 
+ 2. In Carpenter's world, agenda power is not so much about true or false consciousness.
+ 
+ <!--Lukes understands ideological power similar to Marx's idea of "false consciousness" such that ideological work is either emancipatory or manipulative, judged by some objective material standard.--> 
+
 ## Quote of the week 
 
-> and don’t even start me on the alewives
+> ...and don’t even start me on the alewives
