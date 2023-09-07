@@ -14,7 +14,7 @@ format:
         data-background-opacity: "0.5"
 ---
 
-> Towards the end of chapter 4 Egan discusses how the ballast treatment system requirement for incoming cargo ships won't go into effect until 2021 at the earliest. I was wondering what the progress has been with implementing that policy?
+> Towards the end of Chapter 4, Egan discusses how the ballast treatment system requirement for incoming cargo ships won't go into effect until 2021 at the earliest. What progress has been made with implementing that policy?
 
 ::: {.notes}
 Farah  and Katrina 
