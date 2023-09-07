@@ -1,0 +1,97 @@
+---
+title: New Policy on Invasive Species in Ballast Water
+subtitle: ""
+author: "" # "Daniel Carpenter"
+format: 
+  revealjs:
+      incremental: false  
+      theme: [default, michigan.scss]
+      footer:  ""
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://www.gannett-cdn.com/presto/2021/08/10/PMJS/204e80c7-32bc-42ef-b7ea-7178ae564327-St._Lawrence_St._Lawrence_nws_lynn_14.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## 2017 {background-image="https://img.thriftbooks.com/api/images/m/3adf2172abd781e5a6283ca484eba342d7d63f0e.jpg" background-size="contain"}
+
+
+## 2018: The [Vessel Incidental Discharge Act (VIDA)](https://www.congress.gov/115/bills/s140/BILLS-115s140enr.pdf)
+
+
+
+<!--
+
+might just assign this in the future: https://www.jsonline.com/in-depth/archives/2021/09/02/formidable-invasive-species-wont-easy-keep-out-great-lakes/5561755001/
+
+First, I searched "ballast water" on  [regulations.gov](https://www.regulations.gov/search?documentTypes=Rule&filter=%22ballast%20water%22&postedDateFrom=2020-09-01)
+
+I didn't find any EPA rules, so I searched EPA.gov for "ballast water treatment" https://search.epa.gov/epasearch/?querytext=ballast+water+treatment+&areaname=&areacontacts=&areasearchurl=&typeofsearch=epa&result_template=2col.ftl#/
+
+I discovered
+--> 
+
+::: {.incremental}
+
+
+- [requires the Environmental Protection Agency (EPA)](https://www.epa.gov/vessels-marinas-and-ports/vessels-vgp)  to develop new national standards of performance discharges 
+- [requires the U.S. Coast Guard](https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Commercial-Regulations-Standards-CG-5PS/Office-of-Operating-and-Environmental-Standards-CG-OES/Environmental-Standards/VIDA/) (USCG) to develop   regulations on "testing methods, if any, for ballast water management systems (BWMS) that render organisms nonviable"
+- until then, the EPA 2013 Vessel General Permit and the USCG ballast water regulations, including 2015 EPA [guidance](https://www.epa.gov/sites/default/files/2015-08/documents/vesselgeneralpermit-erp.pdf) saying that it is a "low enforcement priority" 
+. . .
+- repealed the Small Vessel General Permit --- "neither EPA nor the states shall require an NPDES permit for any discharge, other than ballast water, from a small vessel or fishing vessel"
+
+:::
+
+<!--, effective immediately upon enactment of the VIDA."-->
+
+## 2019: **Statutory deadline**  
+
+for EPA to publish rules
+
+. . .
+
+<iframe src="https://giphy.com/embed/H5C8CevNMbpBqNqFjl" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-monkey-side-eye-sideeye-H5C8CevNMbpBqNqFjl"></a></p>
+
+## 2020: [draft EPA regulations](https://www.regulations.gov/document/EPA-HQ-OW-2019-0482-0001) (a "rule")
+
+> under the authority of Clean Water Act Sections 301, 304, 307, 308, 312, and 501 as amended by the Vessel Incidental Discharge Act. 33 U.S.C. 1311, 1314, 1317, 1322, and 1361.
+
+- 28,701 comments!
+-  "in coordination with the USCG and interested Governors"
+- "streamline the current patchwork of federal, state, and local vessel discharge requirements."
+- "procedures for states to follow if they choose to petition EPA to issue an emergency order"
+- [Unified Agenda timetable](https://www.regulations.gov/docket/EPA-HQ-OW-2019-0482/unified-agenda), says a Supplemental draft rule is expected in <mark>September 2023</mark>
+
+
+## 2020: US Department of Energy (DOE) revises rules ["eliminating unnecessary environmental documentation"](https://www.regulations.gov/document/DOE-HQ-2020-0017-0020) for Liquified Natural Gas (LNG) shipping
+
+- 16 comments
+- Some commenters complain that ships don't need to assess ballast water impacts
+- DOE says its only a few ships  🤷 
+
+## 2022: Coast Gaurd Regulations (a "[policy letter](https://www.regulations.gov/document/USCG-2019-0477-0041)" on *testing* for invasives 
+
+- 38 public comments
+- no approved test for invasives
+- this matters because testing is a legal alternative to treating ballast water under VIDA
+
+## 2020-2021: Canadian regulations on ballast water treatment
+
+- effective 2024
+- delayed until 2030 for vessels built before 2009
+
+###  In response to Canadian regulations, industry  [petitions the US Federal Maritime Commission](https://www.federalregister.gov/documents/2022/02/03/2022-02186/investigation-into-conditions-created-by-canadian-ballast-water-regulations-in-the-uscanada-great) to retaliate by charging $300,000 each time a Canadian vessel enters any U.S. port.
+
+---
+
+
+
+## 2022: [US Federal Maritime Commission](https://www.federalregister.gov/documents/2022/02/03/2022-02186/investigation-into-conditions-created-by-canadian-ballast-water-regulations-in-the-uscanada-great) asks for additional public comment, now that regulations are (might soon be) more equal
+
+---
+
+## 2023: [EPA Settles with Shipping Companies over Claims of Clean Water Act Violations](https://www.epa.gov/newsreleases/epa-settles-shipping-companies-over-claims-clean-water-act-violations)
+
+- presumably under the 2013 Vessel General Permit 
+- "ballast water discharge, inspection, monitoring, and reporting violations"
