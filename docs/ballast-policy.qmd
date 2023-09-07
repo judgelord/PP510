@@ -74,11 +74,15 @@ for EPA to publish rules
 
 ## 2020: US Department of Energy (DOE) revises rules ["eliminating unnecessary environmental documentation"](https://www.regulations.gov/document/DOE-HQ-2020-0017-0020) for Liquified Natural Gas (LNG) shipping
 
+> updating its National Environmental Policy Act (NEPA) implementing procedures pertaining to authorizations issued under the Natural Gas Act (NGA)
+
 - 16 comments
 - Some commenters complain that ships don't need to assess ballast water impacts
 - DOE says its only a few ships  🤷 
 
 ## 2022: Coast Gaurd Regulations (a "[policy letter](https://www.regulations.gov/document/USCG-2019-0477-0041)" on *testing* for invasives 
+
+> The Vessel Incidental Discharge Act of 2018 (VIDA), Public Law 115-282, amended Section 312(p) of the Federal Water Pollution Control Act (33 U.S.C. 1322). Pursuant to 33 U.S.C. 1322(p)(6)(D)(ii)), the Coast Guard published a draft policy letter in the Federal Register on July 31, 2019 (84 FR 37330)
 
 - 38 public comments
 - no approved test for invasives
@@ -86,16 +90,17 @@ for EPA to publish rules
 
 ## 2020-2021: Canadian regulations on ballast water treatment
 
-- effective 2024
-- delayed until 2030 for vessels built before 2009
+- effective 2024, delayed until 2030 for vessels built before 2009
 
 ###  In response to Canadian regulations, industry  [petitions the US Federal Maritime Commission](https://www.federalregister.gov/documents/2022/02/03/2022-02186/investigation-into-conditions-created-by-canadian-ballast-water-regulations-in-the-uscanada-great) to retaliate by charging $300,000 each time a Canadian vessel enters any U.S. port.
+
+> Section 19(1)(b) of the Merchant Marine Act, 1920 codified in 46 U.S.C. 42101, authorizes the Federal Maritime Commission (Commission) to investigate these conditions and to adopt regulations to “adjust or meet general or special conditions unfavorable to shipping in foreign trade”
 
 ---
 
 
 
-## 2022: [US Federal Maritime Commission](https://www.federalregister.gov/documents/2022/02/03/2022-02186/investigation-into-conditions-created-by-canadian-ballast-water-regulations-in-the-uscanada-great) asks for additional public comment, now that regulations are (might soon be) more equal
+## 2022: [US Federal Maritime Commission](https://www.federalregister.gov/documents/2022/02/03/2022-02186/investigation-into-conditions-created-by-canadian-ballast-water-regulations-in-the-uscanada-great) asks for additional public comment, now that regulations might soon be more equal
 
 ---
 
