@@ -7,8 +7,9 @@ output:
   xaringan::moon_reader:
     lib_dir: libs
     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
-    css: xaringan-themer.css
+    css: slides.css
     nature:
+      ratio: '16:9'
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -103,12 +104,6 @@ class: inverse center middle
 
 ---
 
-class: inverse center middle 
-
-# Egan Part 2
-
----
-
 ## Federalism
 
 - Michigan Fisheries Managers vs. Federal Fisheries Scientists
@@ -132,9 +127,10 @@ class: inverse center middle
 ---
 
 ## Winners and losers  
+
 - Moulinette "Sacrifice zones." 
 
-> How do you think the government came up with the idea to move people away from their homes for economic advancement? Do you think this was the best course of action for the government to make? Even with providing money or moving houses, do you think this should have been allowed?
+> How do you think the government came up with the idea to move people away from their homes? Even with providing money or moving houses, do you think this should have been allowed?
 
 --
 
@@ -173,9 +169,6 @@ background-size: contain
 
 <iframe src="https://www.npr.org/player/embed/1193726251/1193795295" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-
-
----
 
 ---
 
@@ -267,11 +260,10 @@ Conservation groups sued the EPA in 2001 to regulate ballast water and then agai
 <!--
 > Egan mentioned how the FDA allowed the sale of carp that were in sewage ponds— were consumers aware of where the fish were prior? Were the fish tested to be safe for consumption? 
 
---
+
 
 >"Roosevelt era conservation policies."
 
---
 
 >  Who, or how many people are tasked to make and enforce regulatory policies?
 
@@ -465,3 +457,8 @@ Further reading on Gifford Pinchot (founder of the Forest Service), Harvey W. Wi
 
 ## Public interest
 > in the name of the interest of America at large
+
+
+---
+
+

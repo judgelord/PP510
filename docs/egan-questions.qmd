@@ -1,13 +1,33 @@
+---
+title: "Questions about The Death and Life of the Great Lakes"
+subtitle: ""
+author: "" # "Daniel Carpenter"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  Agenda Democracy by Daniel Carpenter
+      fontsize: "40px"
+      title-slide-attributes:
+        #data-background-image: "/figs/prohibition.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
 # Part 1
 
 
 ## (final) authority
 
-Who has the final authority when it comes to the Great Lakes, is it the US federal government or is the Canadian federal government? Should only the US and Canadian state/provincial governments have a say? Or do the smaller municipalities on the coast deserve the role? 
+> Who has the final authority when it comes to the Great Lakes, is it the US federal government or is the Canadian federal government? Should only the US and Canadian state/provincial governments have a say? Or do the smaller municipalities on the coast deserve the role? 
 
+> Why don’t we just halt the use of the Seaway by overseas freighters?  For an industry that only accounts for 5% of the Great Lakes tonnage, while causing $1.5 billion in damages over 25 years,  it seems like a pretty simple tradeoff to me.
+
+<!--
 ## Interdependence
 
-Moreover, the natural environment is not predetermined by our arbitrary borders, and the issues that the Great Lakes face extends beyond the coastlines and the natural boundaries of their watershed. I
+Moreover, the natural environment is not predetermined by our arbitrary borders, and the issues that the Great Lakes face extends beyond the coastlines and the natural boundaries of their watershed. 
+-->
 
 ## Individual vs collective 
 
@@ -18,3 +38,6 @@ Moreover, the natural environment is not predetermined by our arbitrary borders,
 
 Egan did mention how the public, after the Cuyahoga River fire of the late 1960s, impacted policy by demanding the federal government did something until Congress passed the Clean Water Act in 1972. After this brief mention of how the general public impacted this issue, I found myself curious whether there were other instances of the public directly influencing the agenda setting process in regard to the policies regarding the upkeep of the Great Lakes. 
 
+## Powerful actors 
+
+why was preserving the dominance of other trade cities sufficient to hinder progress?
