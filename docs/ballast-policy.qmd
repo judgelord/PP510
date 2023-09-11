@@ -20,6 +20,20 @@ format:
 Farah  and Katrina 
 :::
 
+# Authority, Delegation, & Discretion
+
+- In 1972, Congress overrode President Nixon's **veto** to pass the Clean Water Act, but when the EPA wrote the rules, they exempted waste from vessels (Egan, p. 117-118)  
+- In 1990, Congress instructed the U.S. Coast Guard to begin regulating ballast water in overseas ships visiting the Great Lakes (p. 131)
+
+## Citizen suits 
+
+<!--
+> Have environmental groups sued the US Government or the EPA to act under the commerce clause to protect Great Lakes Interests and infrastructure?
+
+-->
+
+Conservation groups sued the EPA in 2001 to regulate ballast water and then again claiming that the EPA's 2013 ballast rules failed to require "best available technology" (BAT) as required by CWA §304(b)(2)
+
 ---
 
 ## 2017 {background-image="https://img.thriftbooks.com/api/images/m/3adf2172abd781e5a6283ca484eba342d7d63f0e.jpg" background-size="contain"}
