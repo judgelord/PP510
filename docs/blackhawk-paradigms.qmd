@@ -1,0 +1,42 @@
+---
+title: "FEDERAL INDIAN LAW AS PARADIGM WITHIN PUBLIC LAW"
+subtitle: ""
+author: "Maggie Blackhawk"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      footer:  ""
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: ""
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+
+## Normative questions
+
+How should we distribute and limit power?
+
+ - in order to prevent government abuse of minorities.
+ - in order to protect ecosystems
+ - etc.
+
+
+## Empirical questions
+
+Causes
+
+> What drives variation in power amongst branches and institutions? Is it just political context and the present social institutions or is there something that is baked in to create these dynamics?
+
+<!--Major-->
+
+## Empirical questions
+
+
+Effects
+
+> What impact would a shift in regard for these doctrines—in this case, from canonical to anti-canonical—have on our interpretation and implementation of future policies and laws? Would there be more of an emphasis on sovereignty for the "minority"? Would this simply establish a precedent for judges to consider, or something more transformative at the systems level?
+
+<!--Natalia-->
