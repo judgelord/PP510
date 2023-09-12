@@ -31,13 +31,18 @@ format:
 
 ## [*County of Maui v. Hawaii Wildlife Fund*](https://www.scotusblog.com/2019/11/argument-analysis-context-trumps-text-as-justices-debate-reach-of-clean-water-act/)
 
-- The Trump EPA published guidance that all releases of pollutants to groundwater are categorically excluded from the Clean Water Act’s permitting program
+- The Trump EPA published guidance that no releases of pollutants to groundwater require a permit.
 
-- The Supreme Court disagreed 
-  - ~~"directly into navigable waters.”~~
+- The lower court ruled that permits are required where pollution is fairly traceable.
+
+- The Supreme Court disagreed with both
+  - ~~"directly into navigable waters”~~
+  - ~~"fairly traceable"~~
   - “the functional equivalent of a direct discharge” 
+  
+---
 
-- Key concepts
+## Key concepts
 
   - statutory provision, structure, interpretation
   - interpretive guidance 
@@ -45,7 +50,7 @@ format:
 
 ---
 
-Other legalese
+## Other legalese
 
 ::: {.nonincremental}
 
