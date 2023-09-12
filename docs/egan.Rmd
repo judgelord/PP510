@@ -8,6 +8,7 @@ output:
     lib_dir: libs
     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
     css: slides.css
+    background-image: figs/lakes.jpg
     nature:
       ratio: '16:9'
       highlightStyle: github
@@ -16,6 +17,7 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
+
 
 
 # Governing water 
@@ -32,37 +34,21 @@ editor_options:
 
 --
 
-- On what principle(s) should decisions be made (welfare/utility maximization? Some type of democracy? National security? Right of first possession?)
+- On what principle(s) should decisions be made? (welfare/utility maximization? Some type of democracy? National security? Right of first possession?)
 
 
 <!--
-Water is one of may interesting topics that challenge some of the core principles 
+Water is one of many interesting topics that challenge some of the core principles 
 -->
 
----
 
-class: inverse center middle 
-
-# Examples from *The Death and Life of the Great Lakes*
-
-<!-- Remember, one of my goals is for you all to see clearly the policy debates and implications of a situation. Let's see what we find in part 1, I hope we can start training your eye like an ecologist trains their eye to see shifts, and tensions and interdependencies in a stream, we want to look at this story as policy analysts. What in this story reveals policy tradeoffs, causes, and consequences. --> 
-
----
-
-## The Erie Canal: Agendas, Federalism, and Poliicy Entrepenuers 
-
-- 1807: From prison, Jesse Hawley wrote to the *Genesee Messenger*.  
-- 1816: NYC mayor, Clinton DeWitt "sold the canal as essential to the economic future of the nation and had won financial backing for it from Congress, thou that support was snuffedby a veto from President James Madison
-- Clinton, now NY governor, pushes forward as a state project
-- Mocked in the press as "Clinton's Folly"
-- 1825: Canal opens 
-
+<!-- Remember, one of my goals is for you all to see clearly the policy debates and implications of a situation. Let's see what we find in part 1, I hope we can start training your eye like an ecologist trains their eye to see shifts, tensions, and interdependencies in a stream, we want to look at this story as policy analysts. What in this story reveals policy tradeoffs, causes, and consequences? --> 
 
 ---
 
 ## "Safe"
 
-## What is a "**safe** number of organisms that could be discharged per cubic meter of water?"...
+What is a "**safe** number of organisms that could be discharged per cubic meter of water?"...
 --
 "The scientists said they couldn't do it" (p. 141)
 
@@ -71,25 +57,59 @@ Further reading on science and "safe" standards:
 
 ---
 
-# Federalism
+## Who ought to have a say? 
 
-## Fishery managment
+> "Thousands of government bodies---from township boards, to state environmental departments to Native American tribes to federal fishery agencies to the U.S. and Canadian International Joint Commission---have some role in managing the interconnected lakes for the sake of the 50 million people."
+
+
+---
+
+## Federalism, Policy Entrepreneurs, and Agenda setting in building the Erie Canal
+
+- 1807: From prison, Jesse Hawley wrote to the *Genesee Messenger*
+- 1816: NYC mayor, Clinton DeWitt 
+> "sold the canal as essential to the economic future of the nation and had won financial backing for it from Congress, though that support was snuffed by a veto from President James Madison"
+
+- 1817: Clinton, now NY governor, pushes forward as a state project
+  - Mocked in the press as "Clinton's Folly"
+- 1825: Canal opens
+
+---
+
+## Federalism in fishery management
 
 - Michigan Fisheries Managers vs. Federal Fisheries Scientists (Ch. 3)
 
-## Carp in the Chicago Canal (Ch. 5)
+---
+
+background-image: url(https://archive.jsonline.com/Services/image.ashx?domain=www.jsonline.com&file=glchicago.jpg&resize=)
+background-size: cover 
+class: inverse
+
+## Federalism and carp in the Chicago Canal
+
+---
+
+## Federalism and carp in the Chicago Canal (Ch. 5)
 
 - Missouri petitioned the Supreme Court to block the Chicago canal (p. 163)
 - Obama's "Great Lakes Czar" (p. 176)
 - Attorneys general from five Great Lakes states went to federal court to force the U.S. Army Corps and State of Illinois to close the locks (p. 178) and expedite a congressionally ordered carp barrier study (. 181)
-
 - Obama's chief of staff, later Mayor of Chicago, Rahm Emanuel (p. 179)
 - U.S. Fish and Wildlife Service
 - Illinois Department of Natural Resources
 
 ---
 
-## Mussels spreading west
+background-image: url(https://www.gannett-cdn.com/presto/2021/08/30/PMJS/25daac3e-c510-4b8a-b9f4-189921435f8d-MJS_GREATLAKES-2.jpg?width=2400)
+class: inverse
+
+## Federalism as mussels spread west
+
+---
+
+## Federalism as mussels spread west
+
 
 - U.S. Bureau of Land Management 
   - Water for electricity, farms, and cities (e.g., Hoover Dam)
@@ -97,12 +117,43 @@ Further reading on science and "safe" standards:
   - No authority to drain Lake Mead 
   - Inspected 15,000 boats at Lake Powell (voluntary $\rightarrow$ mandatory) 
 - Western state legislatures (p. 198)
-- Utah Division of Wildlife officials inspected 260,000 boats by 2015 (208), put the Fiesta Queen in boat jail (p 202)
-
-"a new ecosystem may have to be enghineered" (p. 207)
+- Utah Division of Wildlife officials inspected 260,000 boats by 2015 (208) and put the Fiesta Queen in boat jail (p 202)
 - City and regional water districts 
    - e.g., the Metropolitan Water District of Southern California disconnected from the Colorado
-- 
+   
+--
+
+"A new ecosystem may have to be engineered" (p. 207)
+
+---
+
+background-image: url(figs/stclair.jpg)
+background-size: cover
+class: inverse
+
+## Federalism in nutrient management
+
+
+---
+
+
+## Federalism in nutrient management
+
+- 1972 U.S. Canadian treaty on phosphorus in Lake Erie
+- Clean Water Act funds & requirements for wastewater ("point sources")
+- Federal "Farm Bill" funds for farm practices 
+  - drain tile
+  - no-till
+  - cover crops 
+  - buffers near streams
+  - Soil and water conservation districts
+- State laws regulating soap and funding farming practices
+- National Oceanic and Atmospheric Administration forecasts algal blooms 
+- Municipal water and sewer districts 
+
+
+
+---
 
 ## Delegation
 
@@ -113,20 +164,11 @@ Further reading on science and "safe" standards:
 
 ---
 
-## The Fifth Amendment's "takings clause"
-
- > About 10 families were subject to eminent domain in order to make way for a new school.  While, of course, they were offered a decent amount of money for their property, they essentially had no choice about whether or not to move.  Considering how insistent the founding fathers were on the rights of property owners, I wonder what they would think of these situations.
- 
- 
-
-- Moulinette "sacrifice zone" 
-
-
----
-
 background-image: url(figs/moulinette.jpg)
 background-size: cover
+class: inverse
 
+## The Fifth Amendment's "takings clause"
 
 
 <!-- class comments 
@@ -166,11 +208,28 @@ background-size: contain
 
 ---
 
+## Treaties 
+
+Land  
+- [1795 Treaty of Greenville](https://aacimotaatiiyankwi.org/2016/10/03/the-treaty-of-greenville-1795-part-1/)
+
+Transboundary pollution
+
+- 1972 U.S. Canadian treaty on phosphorus in Lake Erie
+
+---
+
+background-image: url(https://historyincharts.com/wp-content/uploads/2022/12/Treaty-of-Greenville-1795-map.jpg)
+background-size: contain
+
+
+---
+
 ## Interests - cities and states
 
 - Ports of Chicago vs. NYC
 - Chicago sewage vs. downstream states (Ch. 5)
-- Chicago canal vs. other great lakes states (Ch. 5)
+- Chicago Canal vs. other Great Lakes states (Ch. 5)
 
 ---
 
@@ -187,7 +246,7 @@ background-size: contain
 - Seaway shipping vs. boating (inspections, ps. 208-11)
 - Commercial fishing vs. sport fishing (industrial policy)
 
-> the U.S. Bureau of Commercial Fisheries office had "demanded" authorization from the state of Michigan to build fish meal plants
+> The U.S. Bureau of Commercial Fisheries office had "demanded" authorization from the state of Michigan to build fish meal plants
 
 --
 
@@ -198,40 +257,22 @@ background-size: contain
 > "We created a constituency for the lakes"-Tanner (p. 97)
 
 
----
-
-# Treaties 
-
-Land  
-- [1795 Treaty of Greenville](https://aacimotaatiiyankwi.org/2016/10/03/the-treaty-of-greenville-1795-part-1/)
-
-Nutrient management 
-- 1972 U.S. Canadian treaty on phosphorus in Lake Erie
-
----
-
-# Nutrients 
-- Clean Water Act funds & requirements for wastewater ("point sources")
-- Federal "Farm Bill" funds for farm practices 
-  - drain tile
-  - no-till
-  - cover crops 
-  - buffers near streams
-  - Soil and water conservation districts
-- State laws regulating saop and funding farming practices
-- National Oceanic and Atmospheric Administration forcasts algal blooms 
-- Municipal water and sewer districts 
 
 
 ---
 
-background-image: url(https://historyincharts.com/wp-content/uploads/2022/12/Treaty-of-Greenville-1795-map.jpg)
-background-size: contain
+## Who ought to have a say? 
 
-
+> "Thousands of government bodies---from township boards, to state environmental departments to Native American tribes to federal fishery agencies to the U.S. and Canadian International Joint Commission---have some role in managing the interconnected lakes for the sake of the 50 million people."
 
 ---
 
+## Who ought to have what kind of authority?
+
+
+For example, what kind of rights to water ought to exist? (use rights, property rights?). Who should have these rights? (individuals, companies, municipalities?)   
+
+---
 
 background-image: url(figs/lakes.jpg)
 background-size: cover
@@ -240,25 +281,3 @@ class: inverse
 ## What are lakes for? 
 
 That is, what is the *public interest*? 
-
----
-
-background-image: url(figs/stclair.jpg)
-background-size: cover
-
----
-
-## Who ought to have a say? 
-
-> "thousands of government bodies--from township boards, to state environmental departments to Native American tribes to federal fishery agencies to the US and Canadian International Joint Commission--that have some role in managing the interconnected lakes for the sake of the 50 million people."
-
----
-
-## Who ought to have what kind of authority?
-
-> "the original idea was to give the bi-national commission authority over the Great Lakes fisheries in a manner that would jeopardize the individual states' rights to act independently within their own waters."
-
-For example, what kind of rights to water ought to exist (use rights, property rights?). Who should have these rights (individuals, companies, municipalities?)   
-
----
-

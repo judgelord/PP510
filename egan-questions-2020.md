@@ -105,6 +105,7 @@ Conservation groups sued the EPA in 2001 to regulate ballast water and then agai
 ---
 
 ## Uncertainty 
+
 > The problem was/is that policymakers were too reckless with moving forward with plans that they did not even completely know what the long term consequences would be.
 
 ---
@@ -154,7 +155,7 @@ Conservation groups sued the EPA in 2001 to regulate ballast water and then agai
 
 ---
 
->What policy tools are at the disposal of the government to make sure farming practices don't contribute to the spread of algae?
+> What policy tools are at the disposal of the government to make sure farming practices don't contribute to the spread of algae?
 
 ---
 

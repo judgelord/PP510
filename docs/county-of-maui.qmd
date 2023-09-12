@@ -1,0 +1,92 @@
+---
+title: "County of Maui v. Hawaii Wildlife Fund"
+subtitle: ""
+author: ""
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      footer:  ""
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1110/quality/100/?url=https://static.politico.com/a5/09/14a854c743a2aa2450ecd8d0ba45/9753582ca5b24158a8f8d337c8cc284d.jpeg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## {background-image="figs/mauitime.jpg" background-size="contain" #slide2-id data-menu-title="Mauitime"}
+
+## Clean Water Act (1972)
+
+> 502(12) The term "discharge of a pollutant" and the term "discharge of pollutants" each means (A) any addition of any pollutant to navigable waters from any point source, (B) any addition of any pollutant to the waters of the contiguous zone or the ocean from any point source other than a vessel or other floating craft.
+
+- *point sources* that discharge to (necessarily "into" or "directly into"?) Waters of the United States require an NPDES permit  
+- *nonpoint sources* are covered by separate parts of the act (e.g., watershed plans, grants for farmers to manage runoff)
+- "adjacent wetlands" are also covered by separate parts of the act
+
+<!--Safe Drinking Water Act (1974)
+- injection wells-->
+
+## {background-image="figs/from.jpg" background-size="contain" title="from" #slide7-id data-menu-title="From"}
+
+## [*County of Maui v. Hawaii Wildlife Fund*](https://www.scotusblog.com/2019/11/argument-analysis-context-trumps-text-as-justices-debate-reach-of-clean-water-act/)
+
+- The Trump EPA published guidance that all releases of pollutants to groundwater are categorically excluded from the Clean Water Act’s permitting program
+
+- The Supreme Court disagreed 
+  - ~~"directly into navigable waters.”~~
+  - “the functional equivalent of a direct discharge” 
+
+- Key concepts
+
+  - statutory provision, structure, interpretation
+  - interpretive guidance 
+  - citizen suit 
+
+---
+
+Other legalese
+
+::: {.nonincremental}
+
+- cert. (*certiorari*)  
+- plaintiff, respondent, Solicitor General, amici briefs 
+- textual argument (textualism vs. originalism) 
+- bright line 
+- proximate cause  
+- judgment to reverse/affirm  
+- majority, plurality, dissent, dicta 
+- settle 
+:::
+
+## {background-image="figs/maui.jpg" background-size="contain" title="maui" #slide8-id data-menu-title="Watewater wells"}
+
+
+
+## Sovereignty
+
+## Federalism
+
+## Vertical and horizontal separation of powers
+
+## How a statute is constructed
+
+## The structure of government power
+
+## Jurisdiction
+
+## Plenary power
+
+## Deligation
+
+## Judicial review
+
+## The rulemaking process
+
+## Substantive vs. procedural policies 
+
+## Public vs. private law
+
+## How government agencies participate in court cases 
+
+## The relationships between constitutions, treaties, statutes, rules, guidance, executive orders, judicial interpretations (case law), legal codes, and other forms of policy

@@ -4,7 +4,7 @@ subtitle: ""
 author: ""
 format: 
   revealjs:
-      incremental: false  
+      incremental: true  
       theme: [default, michigan.scss]
       footer:  ""
       fontsize: "40px"
@@ -14,7 +14,37 @@ format:
         data-background-opacity: "0.5"
 ---
 
+
+
+
+
+
+## [*Rapanos*](https://www.oyez.org/cases/2005/04-1034) 4-1-4 split (2006)
+
+- Four justices for "do nothing" and let stand the Army Corps "hydrological connection" test  
+- Justice Kennedy for a new (more limited?) "significant nexus" test  
+- Four justices for a new (much much much more limited) "permanent surface waters only" test
+
+- Kennedy joined the "surface waters only" justices in *judgment* (ruling for Mr. Rapanos) but did not join their opinion, making it a *plurality opinion* not a *majority opinion* and thus not *precidental*---i.e., not binding policy (sort of). 
+
+## {background-image="figs/rapanos.jpg" background-size="contain" title="Rapanos" #slide4-id data-menu-title="Rapanos"}
+
+
+# Sackett v. EPA 
+
 ## {background-image="https://earthjustice.org/wp-content/uploads/2023/05/kalispell-photo.jpg" background-size="contain"}
+
+---
+
+## Outcome: "Significant nexus" $\rightarrow$ "abutting"
+
+- ~~Hydrological connection~~
+- ~~Significant nexus~~
+- Continuous surface water connection 
+- Continuous (navigable?!) surface water
+
+
+## {background-image="figs/wetlands.png" background-size="contain" data-menu-title="Wetland loss"}
 
 ## Wetland loss in Michigan (2001-2016) {background-image="https://www.canr.msu.edu/dA/081b6c418d/Figure1_wetlandloss.png" background-size="contain"}
 
@@ -22,3 +52,30 @@ format:
 ## + $490,000/yr Michigan flood damages {background-image="https://www.canr.msu.edu/dA/081b6c418d/Figure1_wetlandloss.png" background-size="contain"}
 
 
+## Sovereignty
+
+## Federalism
+
+## Vertical and horizontal separation of powers
+
+## How a statute is constructed
+
+## The structure of government power
+
+## Jurisdiction
+
+## Plenary power
+
+## Deligation
+
+## Judicial review
+
+## The rulemaking process
+
+## Substantive vs. procedural policies 
+
+## Public vs. private law
+
+## How government agencies participate in court cases 
+
+## The relationships between constitutions, treaties, statutes, rules, guidance, executive orders, judicial interpretations (case law), legal codes, and other forms of policy

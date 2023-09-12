@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+$body-bg: #191919;
+$body-color: #fff;
+$link-color: #42affa;
+$link_color = #006EB2,
+$code_highlight_color	= #FFCB05,
+$background_color = #EFF0F1,
+$base_font_size = 30px,
+$text_font_size = 1rem,
+$code_font_size = 1rem,
+$header_h1_font_size = 1.75rem,
+$header_h2_font_size = 1.5rem,
+$header_h3_font_size = 1.25rem,
+$code_font_google = google_font(Inconsolata), 
+$code_inline_background_color    = #F5F5F5, 
+$table_row_even_background_color = #E6F0FA,
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
