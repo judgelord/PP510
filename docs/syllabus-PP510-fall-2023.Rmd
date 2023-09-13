@@ -35,7 +35,6 @@ style_mono_light(base_color = "#00274C",
           outfile = "syl.css"
           #extra_css = list(".remark-slide-number" = list("display" = "none"))
           )
-
 ```
 <!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
@@ -65,7 +64,7 @@ Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
   GSI: Caroline Leland, <chleland@umich.edu>
   
-  Office hours: Tuesday and Thursday 11:30am-12:30pm, 3204  Weill Hall. 
+  Office hours: Tuesday and Thursday 11:30 am-12:30 pm, 3204  Weill Hall. 
 
 ---
 
@@ -233,7 +232,7 @@ Members of the Ford School community represent a rich variety of backgrounds and
 
 **Student Mental Health and Wellbeing.**  The University of Michigan is committed to advancing the mental health and wellbeing of its students.  We acknowledge that a variety of issues, both those relating to the pandemic and other issues such as strained relationships, increased anxiety, alcohol/drug problems, and depression, can directly impact students’ academic performance and overall wellbeing. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. 
 
-Student Mental Health and Wellbeing:  The University of Michigan is committed to advancing the mental health and wellbeing of its students.  We acknowledge that a variety of issues, both those relating to the pandemic and other issues such as strained relationships, increased anxiety, alcohol/drug problems, and depression, can directly impact students’ academic performance and overall wellbeing. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. 
+Student Mental Health and Wellbeing:  The University of Michigan is committed to advancing the mental health and well-being of its students.  We acknowledge that a variety of issues, both those relating to the pandemic and other issues such as strained relationships, increased anxiety, alcohol/drug problems, and depression, can directly impact students’ academic performance and overall wellbeing. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. 
 
 
 You may access the Ford School’s embedded counselor Paige Ziegler (contact information TBD) and/or counselors and urgent services at [Counseling and Psychological Services (CAPS)](https://caps.umich.edu/) and/or [University Health Service (UHS)](https://www.uhs.umich.edu/mentalhealthsvcs).  Students may also use the Crisis Text Line (text '4UMICH' to 741741) to be connected to a trained crisis volunteer.  You can find additional resources both on and off campus through the [University Health Service](https://uhs.umich.edu/stressresources) and through [CAPS](https://caps.umich.edu/article/um-mental-health-resources).
@@ -269,7 +268,7 @@ Please see the end of the syllabus for information about our commitment to best 
 
 ## Assignments
 
-Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, round table presentations, one issues memo, three policy memos, one talking points memo, and five roudtable critiques.  
+Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, round table presentations, one issues memo, three policy memos, one talking points memo, and five roundtable critiques.  
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
@@ -392,17 +391,35 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
-> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) (Note: this episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 48. It is not graphic.)
+The foundation structure of the policymaking system in the United States, the Constitution sets out, in broad (ambiguous) language, which institutions have what kind of authority to make policy. 
+
+> Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) 
+
+An example of how policy and the power to make policy across institutions shifts over time. 
+
+(Note: This episode includes a brief mention of sexual assault in the context of the Violence Against Women Act at minute 48. It is not graphic.)
 
 <!-- the bosses constitution--> 
+
+Additional listening: 
+
+[More episodes from Radiolab's More Perfect](https://www.wnycstudios.org/podcasts/radiolabmoreperfect)
+
+[More Perfect - The Most Perfect Album](https://project.wnyc.org/themostperfectalbum/) (songs and notes about the amendments to the U.S. Constitution)
+
+[Constitutional Primers from Pantsuit Politics](https://www.pantsuitpoliticsshow.com/primers)
 
 ---
 
 ## Week two: The Policy Process
 
-> Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter,
+> Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
+
+Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
 
 > Research: Egan, Part 1
+
+Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
 
 Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting.” American Political Science Review 114:638-659
 
@@ -414,13 +431,19 @@ Recommended Context: Birkland, Chapter 1-3
 
 > Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
 
+How should we distribute and limit power across institutions? Why does power to make policy shift among institutions over time? Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
+
 <!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
 
 > Research: Egan, Part 2
 
 > Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
+Differing views of the approach that the Supreme Court should take on water pollution, specifically who requires a permit under the Clean Water Act. 
+
 > Listen: [Harvard Environmental & Energy Law Program: Sackett v. EPA Decision: What the Justices Said and What this Means for Water](https://eelp.law.harvard.edu/cleanlaw-our-podcast/)
+
+A post-decision review of big changes in water quality and wetlands protection law as a result of new Justices being appointed to the Supreme Court. These new interpretations (policies) constraining which wetlands and streams federal agencies can regulate under authority delegated in the Clean Water Act and what Congress can do with Commerce Clause authority reflect broader shifts in the distribution of policymaking power across institutions.   
 
 
 ---
@@ -435,11 +458,19 @@ Recommended Context: Birkland, Chapter 1-3
 
 > Research: [Leech, Beth. 2010. Lobbying and Influence. In *The Oxford Handbook of American Political Parties and Interest Groups*, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. *Oxford University Press* pp. 696–719.](https://doi.org/10.1093/oxfordhb/9780199542628.001.0001)
 
+How do actors outside government shape policy? Leech reviews what social science has learned to date.
+
 > Research: [Dwidar, Miraam. 2022. "Coalitional Lobbying and Intersectional Representation in American Rulemaking." *American Political Science Review*, 116(1), 301-321](http://doi.org/10.1017/S0003055421000794)
+
+How do minority groups get heard in the policy process? Dwidar examines the role of lobbying coalitions in advancing minority views. 
 
 > Listen: [SSN: Moonshots - Thomas Kalil](https://scholars.org/podcast/moonshots)
 
+Practical lessons on policy advocacy from Kalil's experience in the White House.
+
 > Listen: [SSN: Informing Policy - Jenni W. Owen](https://scholars.org/podcast/informing-policy)
+
+How is evidence used in the policy process? 
 
 Recommended Context:  Birkland, Part II, Chapters 4-7
 
@@ -456,21 +487,39 @@ Recommended Context:  Birkland, Part II, Chapters 4-7
 
 > [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
 
+Resources: 
+
+- [Library Research Guide: Local News Sources](https://guides.lib.umich.edu/c.php?g=283063&p=1885958)  to find issues currently being discussed in Michigan.
+
+- [University of Michigan Library Databases - Local News](https://search.lib.umich.edu/databases?filter.academic_discipline=Michigan+News&sort=title_asc) to find issues currently being discussed in Michigan.
+
+- [Harvard Kennedy School Library Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) to find think tank policy briefs with keyword search. 
+
+
+
 
 ---
 
 
 ## Week six: Policy Tools
 
-> Research: [Judge-Lord, McDermott, and Cashore. 2020. *Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change." *Organization & Environment*, 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
+> Research: [Judge-Lord, McDermott, and Cashore. 2020. Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change."   *Organization & Environment* 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
+
+Most policies are bundles of various policy tools. To assess how a policy (e.g., a forestry certification standard) is changing, we must disaggregate and first assess change in its component parts. 
 
 > Listen: [SSN: Paying for Pollution - Leigh Raymond](https://scholars.org/podcast/paying-pollution)
 
+Different policy tools face different political and implementation challenges. Raymond reviews the case of pollution credit markets as a policy approach. 
+
 <!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
 
-> Context:  Bardach, Appendix B (PDF online)
+> Context:  [Bardach, Appendix B](https://umich.instructure.com/courses/625083/files/folder/reading?preview=31825264) 
 
-> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition. The [google books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas for next week.
+A helpful list of policy tools you might think about using to solve problems. 
+
+> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition. 
+
+The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas for next week.
 
 Recommended Context: Birkland Part III, Chapters 8-11
 
@@ -484,19 +533,23 @@ Recommended Context: Birkland Part III, Chapters 8-11
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
+What are the biases of policymaking in the U.S.? One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like policy analysis based on economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
+
 <!-- chevron + dissertation 
+
+e Popp
 
 > Research: TBD --> 
 
 > Listen: [NPR: Obama Office Alters More Federal Rules Than Bush - Ari Shapiro](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
-
-> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)
 
 > Context:  Stone, Introduction and Chapter 1
 
 <!--https://www.newyorker.com/magazine/2013/08/12/taken-->
 
 Recommended Context: Birkland, Part IV, Chapters 12-13
+
+Recommended Research: [Thinking Like an Economist: How Economics Became the Language of U.S. Public Policy by Elizabeth Popp Berman](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist#preview)
 
 ---
 
@@ -512,6 +565,7 @@ Thursday:
 
 > Context:  Stone, Part II
 
+> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)
 
 ---
 
