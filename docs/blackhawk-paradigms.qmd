@@ -21,9 +21,11 @@ Key takeaways
 - The distribution of powers across policymaking institutions is rooted in the (told and untold) history of those institutions.
 - The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. 
   - For example:
-    - Civil rights success stories teach that protecting minorities requires strong national government whereas success in Indian Country was limiting national power.
-    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. 
+    - Civil rights success stories teach that protecting minorities requires strong national government whereas success in Indian Country required limiting national power.
+    
+<!--    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. -->
 
+- Reading law review articles is a useful skill, and this one is on the accessible side.
 
 ## 1. How colonialism shaped U.S. law
 
@@ -52,7 +54,7 @@ However, as sovereign nations, government-to-government agreements require treat
 ## Federal bureaucracy
 
 - "In the East, state governments exercised local control, the military consisted of state militias, and federal bureaucracy was limited to the Post Office and the customs house. In the West, the federal government governed all the way down to the local" (p. 1816)
-- "National power over Indian lands...also meant that the national government governed Indian lands within the borders of a state." (1817)
+- "National power over Indian lands...also meant that the national government governed Indian lands within the borders of a state." (p. 1817)
 
 
 ## *Johnson v. M’Intosh* (1823)
@@ -71,7 +73,7 @@ See [Carol Rose, "Possession as the Origin of Property"](https://www.law.yale.ed
 
 > "created out of whole cloth “Indian title” — or the notion that Native Nations retained their inherent sovereignty and retained domain over their lands after discovery" 
 
-Moved the sovereignty of Native Nations to the domain of domestic law (p. 1818-9)
+Moved the sovereignty of Native Nations to the domain of domestic law (p. 1818-9): "It brought the international power from the doctrine of discovery within constitutional limits, because the power would necessarily be exercised by the government constituted by that document."
 
 ## Judicial Review
 
@@ -100,7 +102,7 @@ Also related to the power of [metaphors and stories](https://wwnorton.com/books/
 
 $\rightsquigarrow$ "regulation by treaty" in the early 1800s
 
-> Rather than statutes, a complex web of treaty law formed the infrastructure of Indian law...Courts upheld treaties against delegation challenges and deferred to Department of Interior interpretations of treaty provisions. (1811)
+> Rather than statutes, a complex web of treaty law formed the infrastructure of Indian law...Courts upheld treaties against delegation challenges and deferred to Department of Interior interpretations of treaty provisions. (p. 1811)
 
 - collaborative lawmaking 
 - mitigating the effects of colonialism
@@ -111,7 +113,7 @@ $\rightsquigarrow$ "regulation by treaty" in the early 1800s
   - foreshadowed unilateral action in international affairs more generally
 - oppressive imposition of policies upon Native Nations without collaboration or consent
 - courts took this as evidence of diminished sovereignty 
-  - "none who would argue, however, that the use of an executive agreement to resolve an issue with Saudi Arabia or Vietnam, rather than an Article II treaty, would somehow indicate that the sovereignty of these nations was diminished." (1815)
+  - "none who would argue, however, that the use of an executive agreement to resolve an issue with Saudi Arabia or Vietnam, rather than an Article II treaty, would somehow indicate that the sovereignty of these nations was diminished." (p. 1815)
 
 ## Success: 
 
@@ -166,7 +168,7 @@ NLRA aimed to solve the subordination of labor
 
 How should we distribute and limit power?
 
- - in order to prevent government abuse of minorities.
+ - in order to prevent government abuse of minorities
  - in order to protect ecosystems
  - etc.
 
@@ -187,3 +189,7 @@ Effects
 > What impact would a shift in these doctrines—in this case, from canonical to anti-canonical—have on our interpretation and implementation of future policies and laws? Would there be more of an emphasis on sovereignty for the "minority"? Would this simply establish a precedent for judges to consider, or something more transformative at the systems level?
 
 <!--Natalia-->
+
+## Process
+
+> What is the process for implementing policy within what we "recognize" to be sovereign nations? If there was a watershed on both indigenous and US land, does the United States government hold power to regulate what happens within that watershed on indigenous land as it affects "waters of the United States?" How might a disagreement on the treatment be handled between the governments?
