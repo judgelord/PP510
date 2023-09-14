@@ -14,6 +14,153 @@ format:
         data-background-opacity: "0.5"
 ---
 
+## Why did I assign this? 
+
+Key takeaways
+
+- The distribution of powers across policymaking institutions is rooted in the (told and untold) history of those institutions.
+- The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. 
+  - For example:
+    - Civil rights success stories teach that protecting minorities requires strong national government whereas success in Indian Country was limiting national power.
+    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. 
+
+
+## 1. How colonialism shaped U.S. law
+
+- the diplomat vs. colonizer view of the U.S. Constitution (p. 1807-8)
+
+
+## Separation of powers
+
+The U.S. Constitution of the United States gives all authority in Indian affairs to Congress---no court of appeal.
+
+::: {.incremental}
+- Article II, section 8
+- "To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes"
+
+
+However, as sovereign nations, government-to-government agreements require treaties, so the president also has authority under ArtII.S2.C2.1.1 
+
+- And Article II prohibits states from making treaties
+
+:::
+
+## Federalism 
+
+> "[B]ecause our constitutional law shifted power over Natives up the vertical separation of powers to the national government, the exercise and development of national power played a more direct role in colonialism than it did in the context of slavery and segregation where constitutional law shifted power over enslaved peoples down to the states. " (p. 1808)
+
+## Federal bureaucracy
+
+- "In the East, state governments exercised local control, the military consisted of state militias, and federal bureaucracy was limited to the Post Office and the customs house. In the West, the federal government governed all the way down to the local" (p. 1816)
+- "National power over Indian lands...also meant that the national government governed Indian lands within the borders of a state." (1817)
+
+
+## *Johnson v. M’Intosh* (1823)
+
+- Johnson held a title from the local leaders of the Illinois (Illini) and Miami nations.
+- M'Intosh later bought the same land from the U.S. Federal Government.
+- The Supreme Court held that, even though Lockean principles of property uphold the earlier title, it could not uphold a principle over an actual title granted by the U.S. Government because the court was a part of that government. 
+
+> "Conquest gives a title which the court of the conqueror cannot deny" -- Justice Marshall
+
+See [Carol Rose, "Possession as the Origin of Property"](https://www.law.yale.edu/sites/default/files/documents/pdf/Faculty/propertypersuasion.pdf)
+
+## *Johnson v. M’Intosh* (1823)
+
+> "rooted national power over Indian affairs not in constitutional text or principles, but in domestic incorporation of the so-called “doctrine of discovery” 
+
+> "created out of whole cloth “Indian title” — or the notion that Native Nations retained their inherent sovereignty and retained domain over their lands after discovery" 
+
+Moved the sovereignty of Native Nations to the domain of domestic law (p. 1818-9)
+
+## Judicial Review
+
+- Georgia asserted authority over Cherokee land 
+- The Indian Removal Act of 1830  authorized President Jackson to unilaterally exchange land in the unorganized territories for land occupied by Native Nations within the borders of the states and appropriated $500,000 to facilitate the exchange.
+- The Supreme Court ruled that the land was Cherokee land by treaty
+- President Jackson refused to enforce the ruling
+  - “John Marshall has made his decision now let him enforce it.” 
+  - Led federal soldiers and state militiamen to force the Cherokee people down the Trail of Tears 
+
+
+## 2. "How federal Indian law ought to fit within the constitutional canon and anticanon, offering the doctrines of colonialism as constitutional failure."
+
+## Canon
+
+- pedagogy: the canon that we teach
+- cultural literacy: the canon that drives public discourse
+- academic: the canon on which rests constitutional theory
+
+Related concepts: [paradigm](https://www.thelivingphilosophy.com/kuhn-paradigm/) (Thomas Kuhn) and [common sense](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203993) (Deva Woodly) 
+
+Also related to the power of [metaphors and stories](https://wwnorton.com/books/Policy-Paradox) in the policy process (Deborah Stone)
+
+
+## Success: Constitutional recognition of Native sovereignty
+
+$\rightsquigarrow$ "regulation by treaty" in the early 1800s
+
+> Rather than statutes, a complex web of treaty law formed the infrastructure of Indian law...Courts upheld treaties against delegation challenges and deferred to Department of Interior interpretations of treaty provisions. (1811)
+
+- collaborative lawmaking 
+- mitigating the effects of colonialism
+
+## Failure: Turn to conquest in the late 1800s
+
+- unilateral lawmaking by Congress and the Executive
+  - foreshadowed unilateral action in international affairs more generally
+- oppressive imposition of policies upon Native Nations without collaboration or consent
+- courts took this as evidence of diminished sovereignty 
+  - "none who would argue, however, that the use of an executive agreement to resolve an issue with Saudi Arabia or Vietnam, rather than an Article II treaty, would somehow indicate that the sovereignty of these nations was diminished." (1815)
+
+## Success: 
+
+- Congress reshaped institutions to 
+  - foster power (self-governance)
+  - promote collective action 
+  - facilitated participation in executive-branch policymaking
+
+
+e.g. the Indian Reorganization Act, the centerpiece of the Indian New Deal (p. 1813)
+
+## {background-image="https://assets.editorial.aetnd.com/uploads/2023/04/GettyImages-515151022-2.jpg?width=3840&height=1920&crop=3840%3A1920%2Csmart&quality=75" background-size="cover" title="Confederated Tribes of the Flathead Indian Reservation (Salish and Kootenai)" #slide4-id data-menu-title="Rapanos"}
+
+## Indian Reorganization Act
+
+- ended allotment 
+- limited federal oversight and control
+- rebuild and recognize Native governments
+  - new constitutions 
+  - government-to-government relations 
+- restore lands 
+- hiring preference for Natives within the Department of the Interior
+
+
+## Addressing subordination 
+
+IRA aimed to solve the longstanding subordination of colonized peoples
+
+NLRA aimed to solve the subordination of labor
+
+-  self-governance supported by rights and an administrative enforcement scheme (p. 1814)
+
+
+## Key concepts 
+
+- treaty power
+- legal doctrines
+- plenary power doctrine
+- public law
+- federal Indian Law
+- canon: examples of legal thinking to uphold and aspire to
+- anticanon: examples of legal thinking to avoid
+- “good law” 
+- *Brown*, *Plessy*, and *Dred Scott*
+- institutionalized violence 
+
+
+
+
 
 ## Normative questions
 
