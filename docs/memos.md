@@ -7,8 +7,8 @@ In preparing your memo, consider your reader. What does the reader already know?
 ## Policy Memo Template
 
 TO: 501 Students, Fall Term 2023  
-FROM: Devin Judge-Lord  
-DATE: September 1, 2023 
+FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the version of the first policy memo you submit on Canvas.)</mark>.  
+DATE: September 1, 2023   
 RE: Policy Memo Templates
 
 **Executive Summary:**  Your executive summary should be brief. It should state the problem, provide an overview of your memo's organization, and summarize your recommendation.
@@ -23,7 +23,7 @@ RE: Policy Memo Templates
 
 **Conclusion:**  Here is your one brief opportunity for rhetoric.  A conclusion should not rehash what you've written.  You might, in one sentence, summarize your recommendation.  This is your opportunity to leave your audience with some compelling impetus to act on the problem by adopting your strategy.  A quote, a statistic, a brief parable:  Use the conclusion to catalyze your audience.
 
-**References** (Do not count toward the 4-page limit). ***Must be hyperlinked wherever possible.*** We will be checking to make sure that the source is appropriate for a policy memo (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the text of the memo. Fabricated sources are unacceptable and the relationship between claim and evidence is critical. 
+**References** do not count toward the 4-page limit. ***References must be hyperlinked wherever possible.*** We will be checking to make sure that the source is appropriate for a policy memo (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the text of the memo. Fabricated sources are unacceptable and the relationship between claim and evidence is critical. 
 
 
 ## Tips for writing policy memos:
@@ -40,7 +40,7 @@ Public policy is inexorably linked to questions of power. Other classes cover ho
 
 **4. How to distinguish background facts from issue analysis:** We might distinguish evidence about the state of the world (problems and conditions) from evidence about causes (see Bardach on causal models and Stone on causal stories). Both types of evidence are needed to assess options against evaluative criteria (the real policy analysis that gets us from options to a recommendation). In a good policy memo, there is no room for evidence that is not essential to the ultimate analysis (even if it is super interesting!).
 
-**5. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw.) The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
+**5. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
 ---
 
@@ -53,6 +53,8 @@ You will craft a 1-page memo on the following question:
 What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
 
 ## Issues Memo Template 
+
+<mark> NO HEADER </mark>
 
 Issue 1 
 
