@@ -42,7 +42,7 @@ Water is one of many interesting topics that challenge some of the core principl
 -->
 
 
-<!-- Remember, one of my goals is for you all to see clearly the policy debates and implications of a situation. Let's see what we find in part 1, I hope we can start training your eye like an ecologist trains their eye to see shifts, tensions, and interdependencies in a stream, we want to look at this story as policy analysts. What in this story reveals policy tradeoffs, causes, and consequences? --> 
+<!-- Remember, one of my goals is for you all to see the policy debates and implications of a situation. Let's see what we find in part 1, I hope we can start training your eye like an ecologist trains their eye to see shifts, tensions, and interdependencies in a stream, we want to look at this story as policy analysts. What in this story reveals policy tradeoffs, causes, and consequences? --> 
 
 ---
 
@@ -230,6 +230,7 @@ background-size: contain
 - Ports of Chicago vs. NYC
 - Chicago sewage vs. downstream states (Ch. 5)
 - Chicago Canal vs. other Great Lakes states (Ch. 5)
+- Water withdrawals (Ch. 8)
 
 ---
 
@@ -272,7 +273,7 @@ background-size: cover
 
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Great_Lakes_Compact_members.svg/333px-Great_Lakes_Compact_members.svg.png)
 background-size: contain
-class:center
+class: center
 
 ## Great Lakes Compact
 
@@ -327,7 +328,7 @@ background-size: contain
 
 background-image: url(https://www.fws.gov/sites/default/files/2022-03/fws_reg_map.jpg)
 background-size: contain
-class:center
+class: center
 
 US Fish and Wildlife (USFWS)
 
@@ -335,21 +336,21 @@ US Fish and Wildlife (USFWS)
 
 background-image: url(https://www.fs.usda.gov/foresthealth/images/FS_regions.gif)
 background-size: contain
-class:center
+class: center
 
 ---
 
 
 background-image: url(https://www.hcn.org/articles/public-lands-a-new-structure-for-the-department-of-the-interior-takes-shape/blm-regions-nohi-jpg/image)
 background-size: contain
-class:center
+class: center
 
 
 ---
 
 background-image: url(https://www.hcn.org/articles/public-lands-a-new-structure-for-the-department-of-the-interior-takes-shape/doi-new-regions-jpg/image)
 background-size: contain
-class:center
+class: center
 
 
 
@@ -358,7 +359,7 @@ class:center
 
 background-image: url(https://www.fws.gov/sites/default/files/styles/scale_width_1200/public/2021-11/12-unified-regions-map_0.jpg.webp?itok=aqipahur)
 background-size: contain
-class:center
+class: center
 
 Department of Interior
 
@@ -444,6 +445,8 @@ Regulation
 
 ## Baseline shift
 
+"New normal"
+
 > "now it's just average" (Egan, pg. 227)
 
 ---
@@ -465,7 +468,7 @@ background-image: url(https://www.economist.com/sites/default/files/images/print
 background-size: contain
 
 .left-column[
-China's $79 billion South–North Water Transfer Project project required resettling at least 330,000 people
+China's $79 billion South-North Water Transfer Project project required resettling at least 330,000 people
 ]
 
 ---
