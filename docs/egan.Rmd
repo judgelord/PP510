@@ -257,6 +257,135 @@ background-size: contain
 > "We created a constituency for the lakes"-Tanner (p. 97)
 
 
+---
+
+# Part 3
+
+---
+
+background-image: url(https://i.stack.imgur.com/wGX6s.jpg)
+background-size: cover
+
+## Jurisdiction
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Great_Lakes_Compact_members.svg/333px-Great_Lakes_Compact_members.svg.png)
+background-size: contain
+class:center
+
+## Great Lakes Compact
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/2b/Indian_reservations_in_the_Continental_United_States.png)
+background-size: contain
+class: center
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oklahoma_Tribal_Statistical_Area.svg/780px-Oklahoma_Tribal_Statistical_Area.svg.png)
+
+---
+
+
+background-image: url(https://saportakinsta.s3.amazonaws.com/wp-content/uploads/2016/04/Northern-and-western-boundaries.jpg)
+background-size: contain
+
+
+---
+
+background-image: url(https://water.usgs.gov/wsc/imageregions.jpg)
+background-size: contain
+
+
+US Geological Survey
+
+
+---
+
+
+background-image: url(https://www.epa.gov/sites/production/files/2013-06/us-regions.png)
+background-size: contain
+
+.left-column[
+## US EPA 
+]
+
+---
+
+
+background-image: url(https://www.usace.army.mil/portals/2/Images/Careers/map/USACE_World_Map_20220503_Huntsville_Edition.png?ver=VhWiKTxuGk0W5bo8G2BZ2Q%3D%3D)
+background-size: contain
+
+.left-column[
+## US Army Corps
+]
+
+---
+
+
+background-image: url(https://www.fws.gov/sites/default/files/2022-03/fws_reg_map.jpg)
+background-size: contain
+class:center
+
+US Fish and Wildlife (USFWS)
+
+---
+
+background-image: url(https://www.fs.usda.gov/foresthealth/images/FS_regions.gif)
+background-size: contain
+class:center
+
+---
+
+
+background-image: url(https://www.hcn.org/articles/public-lands-a-new-structure-for-the-department-of-the-interior-takes-shape/blm-regions-nohi-jpg/image)
+background-size: contain
+class:center
+
+
+---
+
+background-image: url(https://www.hcn.org/articles/public-lands-a-new-structure-for-the-department-of-the-interior-takes-shape/doi-new-regions-jpg/image)
+background-size: contain
+class:center
+
+
+
+
+---
+
+background-image: url(https://www.fws.gov/sites/default/files/styles/scale_width_1200/public/2021-11/12-unified-regions-map_0.jpg.webp?itok=aqipahur)
+background-size: contain
+class:center
+
+Department of Interior
+
+
+---
+
+background-image: url(https://www.uscourts.gov/sites/default/files/styles/lead/public/circuit_map_in_agency_palette-full-size.png)
+background-size: contain
+
+## US Courts 
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/113th_US_Congress_House_districts_color.svg/1242px-113th_US_Congress_House_districts_color.svg.png)
+background-size: contain
+class: center
+
+##Congress
+
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Map_of_USA_with_county_outlines_%28black_%26_white%29.png/1200px-Map_of_USA_with_county_outlines_%28black_%26_white%29.png)
+background-size: contain
+class: center
+
+##Counties
 
 
 ---
@@ -281,3 +410,66 @@ class: inverse
 ## What are lakes for? 
 
 That is, what is the *public interest*? 
+
+---
+
+## Policy Tools
+
+Funding
+- US Congress vs. Duluth 
+
+New governmental bodies 
+- Seaway commission
+- Great Lakes Compact
+- Great Lakes Fishery Commission
+- US-Canada agreement on phosphorus loading
+
+Regulation  
+- quarantining boats (Egan, pg. 204)
+
+---
+
+## Issue frame
+
+> Alewife - "invasive species" or "treasured forage fish" (Egan pg. 99) 
+
+---
+
+## Focusing event
+
+> "As late as the 1950s the flames on the oily surface of the water were still viewed as business as usual. But eventually, the public had enough, and when the river was set ablaze in 1969, it turned a nation livid and led to the passage of the Clean Water Act." (Egan, pg. 147)
+
+
+---
+
+## Baseline shift
+
+> "now it's just average" (Egan, pg. 227)
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AralSea1989_2014.jpg/640px-AralSea1989_2014.jpg)
+background-size: contain
+
+Aral sea
+
+
+---
+
+background-image: url(https://eurasianet.org/sites/default/files/styles/article/public/images/040814_01_0.JPG?itok=tSdI7C-W,https://eurasianet.org/og-twitter.png)
+background-size: cover
+
+---
+
+background-image: url(https://www.economist.com/sites/default/files/images/print-edition/20180407_CNM992.png)
+background-size: contain
+
+.left-column[
+China's $79 billion South–North Water Transfer Project project required resettling at least 330,000 people
+]
+
+---
+
+background-image: url(https://www.watercanada.net/wp-content/uploads/2016/02/waukesha-diversionjpg-a6bc16ae97d61107.jpg)
+background-size: contain
+
