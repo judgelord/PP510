@@ -34,7 +34,9 @@ editor_options:
 
 --
 
-- On what principle(s) should decisions be made? (welfare/utility maximization? Some type of democracy? National security? Right of first possession?)
+- On what principle(s) should decisions be made? 
+--
+(welfare/utility maximization? Some type of democracy? National security? Right of first possession?)
 
 
 <!--
@@ -46,7 +48,7 @@ Water is one of many interesting topics that challenge some of the core principl
 
 ---
 
-## "Safe"
+## The Limits of Evidence
 
 What is a "**safe** number of organisms that could be discharged per cubic meter of water?"...
 --
@@ -54,13 +56,6 @@ What is a "**safe** number of organisms that could be discharged per cubic meter
 
 Further reading on science and "safe" standards: 
 - [The Science Charade in Toxic Risk Regulation by Wendy Wagner](https://law.utexas.edu/faculty/publications/1995-The-Science-Charade-in-Toxic-Risk-Regulation)
-
----
-
-## Who ought to have a say? 
-
-> "Thousands of government bodies---from township boards, to state environmental departments to Native American tribes to federal fishery agencies to the U.S. and Canadian International Joint Commission---have some role in managing the interconnected lakes for the sake of the 50 million people."
-
 
 ---
 
