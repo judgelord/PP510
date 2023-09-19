@@ -80,6 +80,9 @@ Further reading on science and "safe" standards:
 
 - Michigan Fisheries Managers vs. Federal Fisheries Scientists (Ch. 3)
 
+> The U.S. Bureau of Commercial Fisheries office had "demanded" authorization from the state of Michigan to build fish meal plants
+
+
 ---
 
 background-image: url(https://archive.jsonline.com/Services/image.ashx?domain=www.jsonline.com&file=glchicago.jpg&resize=)
@@ -247,7 +250,6 @@ background-size: contain
 - Seaway shipping vs. boating (inspections, ps. 208-11)
 - Commercial fishing vs. sport fishing (industrial policy)
 
-> The U.S. Bureau of Commercial Fisheries office had "demanded" authorization from the state of Michigan to build fish meal plants
 
 --
 
