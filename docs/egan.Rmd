@@ -257,6 +257,8 @@ background-size: contain
 
 ---
 
+exclude: true
+
 # Part 3
 
 ---
