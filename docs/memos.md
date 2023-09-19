@@ -11,6 +11,8 @@ FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the versi
 DATE: September 1, 2023   
 RE: Policy Memo Templates
 
+<mark> The rest is double spaced (excluding references)  </mark>
+
 **Executive Summary:**  Your executive summary should be brief. It should state the problem, provide an overview of your memo's organization, and summarize your recommendation.
 
 **Background Summary:**  Your background summary should provide a brief history and context of the problem addressed. It might include a few facts to lend a sense of the magnitude/scope of the problem and some discussion of stakeholder interests. Background summaries generally answer who, what, and when questions.
@@ -23,7 +25,9 @@ RE: Policy Memo Templates
 
 **Conclusion:**  Here is your one brief opportunity for rhetoric.  A conclusion should not rehash what you've written.  You might, in one sentence, summarize your recommendation.  This is your opportunity to leave your audience with some compelling impetus to act on the problem by adopting your strategy.  A quote, a statistic, a brief parable:  Use the conclusion to catalyze your audience.
 
-**References** do not count toward the 4-page limit. ***References must be hyperlinked wherever possible.*** We will be checking to make sure that the source is appropriate for a policy memo (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the text of the memo. Fabricated sources are unacceptable and the relationship between claim and evidence is critical. 
+**References** do not count toward the 4-page limit and should be single spaced. ***References must be hyperlinked wherever possible.*** Please try to link to stable public URLs. For journal articles, DOI URLs are best (e.g., https://doi.org/10.1177/1086026619858874), then some other stable repository like JSTOR or the publisher's web page (e.g., https://www.jstor.org/stable/j.ctt7t5st or https://journals.sagepub.com/doi/10.1177/1086026619858874) if you can't find the DOI URL.
+
+We will be checking to make sure that the source is appropriate for a policy memo (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the text of the memo. Fabricated sources are unacceptable and the relationship between claim and evidence is critical. 
 
 
 ## Tips for writing policy memos:
@@ -56,6 +60,10 @@ What are the most pressing water quality issues in the Great Lakes region? Pleas
 
 <mark> NO HEADER </mark>
 
+<mark> Single spaced  </mark>
+
+<mark> A sentence or two about each issue and three bullets with a sentence or two about each policymaker: </mark>
+
 Issue 1 
 
 - Policymaker 1.a: Legal authority to address issue 1
@@ -78,6 +86,10 @@ Issue 3
 
 # Talking Points Memo Instructions
 
+<mark> NO HEADER </mark>
+
+<mark> Single spaced, mostly bullet points  </mark>
+
 The purpose of this memo is to guide your roundtable presentation ***and responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
 
 ---
@@ -96,3 +108,9 @@ Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 1995.
 The Craft of Research. Chicago: University of Chicago Press, Chapter 7: "Making Good Arguments: An Overview," pp. 88-93.
 
 From Electronic Hallway: "Memo Writing"; "Brief Guidelines for Writing Action Memos"; "Writing Effective Memoranda: Planning, Drafting, & Revising."
+
+- [Harvard Kennedy School Library Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) to find think tank policy briefs with keyword search. 
+
+
+
+
