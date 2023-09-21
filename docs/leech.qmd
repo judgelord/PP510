@@ -1,0 +1,56 @@
+---
+title: "Lobbying and Influence"
+subtitle: ""
+author: "Beth Leech"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      footer:  Lobbying and Influence by Beth Leech
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "/figs/prohibition.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Lobbying
+
+
+~~direct contacts of legislators by interest group representatives aimed at persuasion~~ $\rightarrow$ "all actions of interest groups that are aimed at influencing public policy"
+
+## Influence 
+
+
+- Votes and changes in final policy text 
+
+  - floor votes in Congress, final decisions in bureaucratic rule making, or court rulings
+
+- But also
+
+  - changing *the way an issue is talked about*
+  - gaining *access* to members of government
+  - getting an issue on the *agenda*
+  - getting members of government *active* on an issue
+
+
+## Why don't political scientists know what is going on?
+
+Other variables
+
+- visibility
+- technicality
+- partisanship
+- salience of the issue
+- how costs and benefits were distributed
+- the degree of organized opposition
+- electoral variables
+- public opinion
+- etc.
+
+## What do political scientists do wrong?
+
+- select on the dependent variable
+- focus on the end stage of the policy process
+- misunderstand what it is that interest groups actually do
+- misunderstand how the policy process actually works

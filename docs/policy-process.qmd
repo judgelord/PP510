@@ -172,7 +172,7 @@ i.e., who sets the policy agenda?
 
 
 
-# Agenda Setting
+## Agenda Setting
 
 ---
 
@@ -256,3 +256,132 @@ The resulting pattern of policymaking is often called **punctuated equilibrium**
 ## {background-image="figs/brookhart3.png" background-size="contain"}
 
 --> 
+
+
+# Input-Output Model of Policymaking
+
+---
+
+## Inputs to legislative-branch policymaking
+
+- Casework (constituents)  
+- Experts, including CBO, GAO, CRS, and advisory panels
+- Interest group pressure campaigns (constituents and non-constituents)  
+- Media (often informed by experts or pressure campaigns)
+- The threat of presidential veto or pocket veto
+- The threat of judicial review
+
+---
+
+### Government officials as "processors of inputs"
+
+![](figs/rochelle-anes1.png)
+
+Also see ["Do Politicians Racially Discriminate Against Constituents?"](https://www.jstor.org/stable/23024931?seq=15#metadata_info_tab_contents)
+
+<!--
+
+![](figs/rochelle-anes.png)
+
+--
+
+![](figs/rochelle-sabo.png)
+
+--
+
+![](figs/rochelle-income.png)
+
+--
+
+![](figs/rochelle-friend.png)
+
+-->
+
+---
+
+Acting on inputs: Roll Call Votes in Congress
+
+[![](figs/agendas-internet.png)](https://t.co/12TnMyb6iT?amp=1)
+
+---
+
+Acting on inputs: Roll Call Votes in Congress
+
+[![](figs/agendas-water.png)](https://t.co/pVGotUMoDi?amp=1)
+
+---
+
+Acting on inputs: Congressional Oversight of Agencies
+
+[![](figs/oversight-ferc.png)](https://twitter.com/SenSchumer/status/1167125835691806720)
+
+
+---
+
+## Inputs to executive-branch policymaking
+
+Congressional oversight
+
+- Statutory deadlines, reporting requirements, or budget restrictions, the threat of repeal under the Congressional Review Act 
+- CRS, CBO, GAO 
+- [Hearings](Clinton Lewis Selin 2014) and [Direct correspondence with legislators](https://judgelord.github.io/correspondence/APSA2018/APSA2018pres.pdf)  
+
+## {#hearing data-menu-title="hearing" background-image="figs/hearing-internet.jpg" background-size="contain"}
+
+
+## More inputs to executive-branch policymaking
+
+Public comments on proposed agency rules (e.g., regulations.gov) 
+
+  - Experts  
+  - [Public pressure campaigns](https://judgelord.github.io/dissertation/present/whyMail-APW.html#1) and [other interest group lobbying coalitions](https://www.niskanencenter.org/how-bureaucrats-make-good-policy/) 
+  
+Whitehouse oversight over the *career civil service*
+
+- Appoint and remove agency heads. 
+- OMB/OIRA Review  
+
+Judicial Oversight
+
+- Citizen suits and court-imposed deadlines
+
+
+## Inputs to judicial-branch policymaking
+
+- In selecting cases ("granting *cert.*")
+
+  - *Original jurisdiction*
+  - *Circuit splits* (where a court has *appellate jurisdiction*)
+  - *Test cases*, where [*“legal entrepreneurs”*](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/architect-edward-blum) recruit sympathetic plaintiffs to change precedent
+
+- In each case 
+
+  - briefs (plaintiff, respondent, Solicitor General, amicus)
+  - arguments (plaintiff, respondent and their designees)
+
+- The legal profession / Law Review articles 
+
+- Public opinion
+
+
+---
+
+## Outputs
+
+**statute laws**: Laws made by the legislature and signed by the executive, generally codified into *The U.S. Code (e.g., Title 5 U.S. Code § 706)* or state codes. 
+
+**administrative rules**: Often called regulations, but also include funding criteria, deregulatory policy, and many other kinds of policy. They usually have the force of law, are published in the *Federal Register (FR)*, and are codified in the *Code of Federal Regulations (CFR)* or state registers and codes (unlike informal *guidance*).
+
+**case law**: Policy made as a result of judicial decisions. "Judgements" in cases stating an "*interpretation*" of a constitution, law, or rule) that influence future decisions, called *legal precedent.*
+
+---
+
+### Legislative outputs (Birkland p. 117)
+
+- Bills (including authorizations and appropriations)
+- Joint resolutions
+- Concurrent resolutions
+
+See The University of Washington's [Legislative Explorer](http://www.legex.org/us/process/)
+
+See [More Effective Than We Thought: Accounting for Legislative Hitchhikers Reveals a More Inclusive and Productive Lawmaking Process](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12472)
