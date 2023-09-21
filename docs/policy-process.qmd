@@ -15,9 +15,11 @@ format:
 
 ## Defining Politics 
 
-- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
+- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/) 
+  -  politics is about winning, zero-sum, policy is a means to gain power rather than power as a means to make policy
 
-- the process by which a society determines who gets, what, when, and how (Laswell 1936) $\rightarrow$ critiqued as implying zero-sum
+- the process by which a society determines who gets, what, when, and how (Laswell 1936) 
+  - also critiqued as implying zero-sum
 
 - the art or science of government 
 
