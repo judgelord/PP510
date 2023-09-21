@@ -1,0 +1,290 @@
+---
+title: "Policy Actors"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  Agenda Democracy by Daniel Carpenter
+      fontsize: "40px"
+      # title-slide-attributes:
+      #   data-background-image: "/figs/prohibition.jpg"
+      #   data-background-size: cover
+      #   data-background-opacity: "0.5"
+---
+
+
+
+
+
+## Official Actors 
+
+- Elected officials 
+- Staff (Congressional, white house, county executive's policy advisor, etc.) 
+  - See [Legislative Staff and Representation in Congress](https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66)
+- Political appointees
+- Career civil service (General Schedule (GS), Senior Executive Service)
+  - See [Buzzfeed's leaked personal records](https://www.buzzfeednews.com/article/jsvine/sharing-hundreds-of-millions-of-federal-payroll-records)
+- Judges (supreme court, circuit court, administrative law)
+  - Clerks
+- Contractors? 
+
+---
+
+background-image: url(figs/staffers.jpeg)
+background-size: contain
+
+---
+
+## Unofficial Actors
+
+---
+
+
+background-image: url(figs/turnout-age.png)
+size: contain
+
+### Citizens
+
+
+---
+
+The ward anchored by Sellery Residence Hall on the southeast side of the campus saw 330 voters compared to 128 in 2014, and three times as many voters showed up in Ward 59, which serves the campus’ Lakeshore neighborhood. In Ward 54, which serves the Newell Smith Residence Hall, 136 voters showed up Tuesday compared to 39 in 2014.
+
+![](figs/turnout-uw.jpg)
+
+
+[Voter information](https://www.wisconsinvote.org/candidates-and-races)
+
+???
+
+### Constituents
+
+- Casework (Fiorina 1981, Johannas and McAdams 1981, Lowande 2019)
+- Policy opinions (DeCrescenso)
+
+
+---
+
+### Social movements
+
+See Theda Skocpol and Vanessa Williams on the [sucess of the tea party movement](https://scholar.harvard.edu/files/williamson/files/tea_party_pop_0.pdf) and Theda Skocpol on the [failure of the climate movement](https://scholars.org/sites/scholars/files/skocpol_captrade_report_january_2013_0.pdf)
+
+???
+
+Matto Mildenberger on the 
+
+---
+
+### The press 
+
+> “A popular Government, without popular information, or the means of acquiring it, is but a Prologue to a Farce or a Tragedy; or, perhaps both...And a people who mean to be their own Governors, must arm themselves with the power which knowledge gives.” - James Madison (1822)
+
+For example, [local papers uncovered problems with water in Flint, MI.](https://www.journalism.org/essay/searching-for-news/)
+
+
+---
+
+
+![](figs/oversight-nyt.png)
+
+
+
+
+---
+
+background-image: url(figs/oversight-budgets.png)
+background-size: contain
+
+---
+
+<iframe src="https://www.journalism.org/chart/sotnm-newspapers-newsroom-employment/iframe/" id="pew62613" scrolling="no" width="100%" height="500px" frameborder="0"></iframe> <script type='text/javascript'id='pew-iframe'>(function(){function async_load(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='https://www.journalism.org/wp-content/plugins/pew-refactor-shim/pew-scripts/js/iframeResizer.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;try{iFrameResize([],'iframe#pew62613')}catch(e){}};var embedder=document.getElementById('pew-iframe');embedder.parentNode.insertBefore(s,embedder)}if(window.attachEvent)window.attachEvent('onload',async_load);else window.addEventListener('load',async_load,false)})();</script>            
+
+---
+
+
+When newspapers close, voters have less information.
+
+- [Turnout decreases by ~8%](https://journals.sagepub.com/doi/10.1177/1078087409351947), [(one additional paper increases turnout by ~.3%, and, among readers, incrases turnout by 13%)](http://web.stanford.edu/~gentzkow/research/voting.pdf)
+- [Split ticket decreases by ~2%](https://academic.oup.com/joc/article/68/6/1007/5160090)
+- [Civic participation decreases](https://www.tandfonline.com/doi/full/10.1080/10584609.2012.762817)
+
+
+
+[Fewer local reporters](https://www.pewresearch.org/topics/newspapers/) lead to [fewer candidates and less competitive elections](https://journals.sagepub.com/doi/full/10.1177/1078087419838058?casa_token=M3-Rd_xUuhgAAAAA%3AMouibGXaJDk1CUpD5rdSeWUAjjtAlEl2OtqM0cV-_nFZz02CgYanxv71WAJOcZKvKJaGWTaCv1Ys&), and a [shift in focus from policy and institutions to "city life"](https://www.niemanlab.org/2019/11/damaged-newspapers-damaged-civic-life-how-the-gutting-of-local-newsrooms-has-led-to-a-less-informed-public/)
+
+Voters in districts with less campaign coverage were less able to evaluate their House incumbent and not as capable of identifying the candidates vying for office as liberal or conservative. They were also less likely to report that they planned to vote in the House election. [(Lawless and Hayes)](https://www.brookings.edu/blog/fixgov/2015/02/03/the-troubling-causes-and-consequences-of-diminished-local-news/)
+
+<!--Torres?-->
+
+---
+
+## Interest groups 
+
+- [Public interest groups](https://judgelord.github.io/dissertation/present/whyMail-APW.html#19)
+- Economic/private interest groups (e.g., industry associations)
+- Membership associations (e.g., professional associations)
+
+---
+
+## Lobbying via campaign donations
+
+![](figs/pac_amounts-3.png)
+
+---
+
+![](figs/FERC.png)
+
+---
+
+Estimated Effect of Energy-Sector PAC Donations on Legislator Advocacy
+![](figs/models-1.png)
+
+---
+
+[Why Do Agencies (Sometimes) Get So Much Mail?](https://judgelord.github.io/dissertation/present/whyMail-APW.html#34) 
+
+
+![](figs/ej_prob_top_agencies.png)
+
+---
+
+From [Trade's Progressive Opposition]() by Iain Osgood and Hyeon-Young Ro
+
+![](figs/trade.png)
+
+---
+
+**Advocacy coalition:** Groups that come together based on a shared set of beliefs about a particular issue or problem (read [more](https://paulcairney.wordpress.com/2013/10/30/policy-concepts-in-1000-words-the-advocacy-coalition-framework/))
+
+Related terms: *advocacy network*, *issue network*, *policy subsystem*, *policy regime*
+
+---
+
+
+# Elite Theory v. Pluralism
+
+**Group theories** of the relationship between political actors and policy outcomes.
+
+---
+
+**Pluralism:** Policy results from many groups competing and negotiating with each other in a relatively open political system.
+
+**Elite theory:** Policy results from negotiations among a relatively closed network of elites--those with high social status (elite educational credentials, wealth, etc.).
+
+ *Who Governs?* by Robert A. Dahl vs. *The Power Elite* by C. Wright Mills (building on Max Weber)
+ 
+These theories may also be stated normatively (policymaking ought to be pluralist) or positively (policymaking is pluralist). Empirically, pluralism focuses more on behavior, elite theory more on structure.
+ 
+---
+ 
+AP US GOV version: 
+
+![](figs/elitism-pluralism.png)
+
+
+---
+
+## Elite theory critiques
+
+"Iron triangle"
+
+"Capture"
+
+"Policy monopoly" 
+
+"Influence" 
+
+> "The flaw in the pluralist heaven is that the heavenly chorus sings with a strong upper-class accent." - E. E. Schattschneider
+
+
+---
+
+[A Bias Towards Business? Assessing Interest Group Influence on the U.S. Bureaucracy](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-2508.2006.00375.x) by Jason Webb Yackee and Susan Webb Yackee
+
+
+![](figs/yackee2006.png)
+
+---
+
+Businesses that comment on proposed regulations see significant bumps in profits.
+
+From [What’s at Stake in Rulemaking? Financial Market Evidence for Banks’ Influence on Administrative Agencies](https://libgober.files.wordpress.com/2018/09/libgober-and-carpenter-unblinded-what-at-stake-in-rulemaking.pdf) by Brian Libgober and Daniel Carpenter 
+
+![](figs/libgober1.png)
+
+---
+
+background-image: url(figs/bonica-lawers-income.png)
+background-size: contain
+
+From [Professional Networks, Early Fundraising, and Electoral Success](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics) by Adam Bonica
+
+---
+
+From [Professional Networks, Early Fundraising, and Electoral Success](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics) by Adam Bonica
+
+![](figs/bonica-lawyers-money.png)
+
+---
+
+[How Every Member Got to Congress](https://www.nytimes.com/interactive/2019/01/26/opinion/sunday/paths-to-congress.html) By Sahil Chinoy and Jessia Ma
+
+[The Cash Ceiling](https://www.vox.com/policy-and-politics/2018/10/24/18009856/working-class-income-inequality-randy-bryce-alexandria-ocasio-cortez) by Nick Carnes 
+
+![](figs/carnes-workers.png)
+
+
+
+---
+
+The likelihood that a policy change will be made is correlated with the preferences of high-income individuals (controlling for the preferences of low-income individuals), but the reverse is not true. 
+
+From [Affluence & Influence: Economic Inequality and Political Power in America](https://themonkeycage.org/2012/08/economic-inequality-and-political-power-part-1/) by Martin Gilens
+
+![](figs/gilens2.png)
+
+
+---
+
+
+background-image: url(figs/broockman-skovron.png)
+background-size: contain 
+
+
+From "Bias in  
+Perceptions of  
+Public Opinion  
+among Political  
+Elites" by  
+David Brookman  
+and  
+Chris Skovron  
+[Article here](https://web.stanford.edu/~dbroock/published%20paper%20PDFs/broockman_skovron_bias_in_perception_of_public_opinion_among_political_elites.pdf) 
+
+
+---
+
+[Can Learning Constituency Opinion Affect How Legislators Vote?](https://www.dropbox.com/s/lpq9og464z3kkzx/QJPS_Inform.pdf?dl=0) by David Butler and David Nickerson
+
+A randomly-assigned half of New Mexico state legislators were given the results of a survey of their constituents' opinions on a proposed tax rebate bill.
+
+![](figs/butler-tax-rebate.png)
+
+
+[more research like this](https://www.danielmarkbutler.com/research.html)
+
+
+---
+
+# Policy Tools and Typologies
+
+---
+
+# Wilson's Cost-Benefit Policy Typology
+
+Describes the kind of politics generated by different policy tools, pg. 267. (Building on Lowi's Policy Typology, pg. 260-264.)
+
+|                    | **Concentrated benefits**   | **Distributed Benefits**   |
+|--------------------|-------------------------|------------------------|
+| **Concentrated costs** | Interest group politics | Entrepeneurial politis |
+| **Distributed costs**  | Clintele politics       | Majoritarian politics  |
