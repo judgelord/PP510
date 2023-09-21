@@ -19,6 +19,11 @@ format:
 
 ~~direct contacts of legislators by interest group representatives aimed at persuasion~~ $\rightarrow$ "all actions of interest groups that are aimed at influencing public policy"
 
+- funding (e.g., PACs)
+- by providing information (signals) about constituency preferences
+- mobilize constituencies in support or opposition to a candidate
+- providing information, mobilizing publics, attracting media attention, and generally subsidizing the activities of government officials
+
 ## Influence 
 
 
@@ -36,7 +41,7 @@ format:
 
 ## Why don't political scientists know what is going on?
 
-Other variables
+Variables operating along side lobbying
 
 - visibility
 - technicality
@@ -48,9 +53,34 @@ Other variables
 - public opinion
 - etc.
 
+
+## Why don't political scientists know what is going on?
+
+Causality is complex
+
+- groups repeat the same arguments
+- groups lobby when they think they can win
+- etc.
+
 ## What do political scientists do wrong?
 
 - select on the dependent variable
 - focus on the end stage of the policy process
+- ask yes/no questions
 - misunderstand what it is that interest groups actually do
 - misunderstand how the policy process actually works
+   - rarely focus on agendas and policy formation
+   - focus on Congress
+
+## What do political scientists do wrong?
+
+> Thousands of bills are introduced each year in Congress, thousands of petitioners appeal to the court system, and there is a virtually unlimited range of issues on which an agency might decide to create a rule. With the exception of studies of agenda setting in the Supreme Court, however, too little work has been done on interest group efforts to affect the agendas of these decision-making bodies
+
+## What do we know? 
+
+-  interest group lobbyists spend far more time talking with policymakers who agree with them than those who disagree with them 
+  - lobbying as subsidy---interest groups provide information, facts, supporters, media coverage, or strategic expertise (not just money and meetings)
+- lobbying is often opposed
+- lobbying to stop change is easier
+- lobbying unopposed is most effective, especially if the broader political context is favorable
+- coalitions are often diverse
