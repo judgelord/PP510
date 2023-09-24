@@ -15,9 +15,11 @@ format:
 
 ## Defining Politics 
 
-- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
+- "playing politics" and "political hobbyism" [(Hersh 2020)](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/) 
+  -  politics is about winning, zero-sum, policy is a means to gain power rather than power as a means to make policy
 
-- the process by which a society determines who gets, what, when, and how (Laswell 1936) $\rightarrow$ critiqued as implying zero-sum
+- the process by which a society determines who gets, what, when, and how (Laswell 1936) 
+  - also critiqued as implying zero-sum
 
 - the art or science of government 
 
@@ -201,7 +203,7 @@ vs. **Enactment:** The act of putting a decision, such as legislation or regulat
 <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2017_51/2271596/171222-trump-tax-signature-cover-ew-150p.jpg" alt="agendas" style="width:100%">
 
 ::: {.notes}
-Statues are generally enacted in the United States when the President or governor signs a bill or when a legislature overrides their veto. Agency rules are enacted when published as "final rules" (vs. draft rules). 
+Statutes are generally enacted in the United States when the President or governor signs a bill or when a legislature overrides their veto. Agency rules are enacted when published as "final rules" (vs. draft rules). 
 :::
 
 
@@ -323,7 +325,7 @@ Acting on inputs: Congressional Oversight of Agencies
 Congressional oversight
 
 - Statutory deadlines, reporting requirements, or budget restrictions, the threat of repeal under the Congressional Review Act 
-- CRS, CBO, GAO 
+- CRS, CBO, GAO, Inspectors General, etc. 
 - [Hearings](Clinton Lewis Selin 2014) and [Direct correspondence with legislators](https://judgelord.github.io/correspondence/APSA2018/APSA2018pres.pdf)  
 
 ## {#hearing data-menu-title="hearing" background-image="figs/hearing-internet.jpg" background-size="contain"}
@@ -331,7 +333,7 @@ Congressional oversight
 
 ## More inputs to executive-branch policymaking
 
-Public comments on proposed agency rules (e.g., regulations.gov) 
+Public comments on proposed agency rules 
 
   - Experts  
   - [Public pressure campaigns](https://judgelord.github.io/dissertation/present/whyMail-APW.html#1) and [other interest group lobbying coalitions](https://www.niskanencenter.org/how-bureaucrats-make-good-policy/) 
@@ -339,7 +341,7 @@ Public comments on proposed agency rules (e.g., regulations.gov)
 Whitehouse oversight over the *career civil service*
 
 - Appoint and remove agency heads. 
-- OMB/OIRA Review  
+- Executive Office of the President OMB/OIRA Review  
 
 Judicial Oversight
 
@@ -357,7 +359,7 @@ Judicial Oversight
 - In each case 
 
   - briefs (plaintiff, respondent, Solicitor General, amicus)
-  - arguments (plaintiff, respondent and their designees)
+  - arguments (plaintiff, respondent, and their designees)
 
 - The legal profession / Law Review articles 
 
@@ -379,8 +381,8 @@ Judicial Oversight
 ### Legislative outputs (Birkland p. 117)
 
 - Bills (including authorizations and appropriations)
-- Joint resolutions
-- Concurrent resolutions
+- Joint resolutions (same as bills)
+- Concurrent resolutions (not legally binding)
 
 See The University of Washington's [Legislative Explorer](http://www.legex.org/us/process/)
 

@@ -1,0 +1,51 @@
+---
+title: "Coalitional Lobbying and Intersectional Representation in American Rulemaking"
+subtitle: ""
+author: "Maraam A. Dwidar"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      footer:  Coalitional Lobbying and Intersectional Representation by Maraam A. Dwidar
+      fontsize: "40px"
+      title-slide-attributes:
+        #data-background-image: "/figs/prohibition.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+
+## Background
+
+Organizations representing socially and politically marginalized individuals have smaller budgets, memberships, and staff and more-limited advocacy agendas than do private and professional groups.
+
+- Funded by paying members’ dues, charitable foundations, patrons, and government grant programs, and thus beholden to their preferences
+
+- State- and local-level interest groups largely perpetuate the same biases as national-level groups.
+
+## Theory 
+
+Intersectional advocacy is more influential when pursued as part of a coalition effort
+- credibility and expertise 
+- resources
+
+## Data
+
+475 public comments submitted by 75 interest groups active in national politics representing women, people of color, Native nations, and the poor.
+
+- not-for-profit organizations and Native American tribes, such as the Affordable Housing Centers of America and the Catawba Indian Nation. Advocacy groups and not-for-profit business leagues form the next-largest segment of the sample. Examples include the Asian American Justice Center, the Feminist Majority Foundation, and Immigration Voice.
+
+## Methods 
+
+- intersectional = policy recommendation pertaining to the interests of an intersectionally marginalized population.
+  - any population that contained multiply disadvantaged subgroups of marginalized groups.
+- coalition = more than one group
+- resources = revenue 
+- influence = copied text
+
+## Findings
+
+
+- coalitions help
+  - but not larger coalitions 
+- coalitions with more resources
