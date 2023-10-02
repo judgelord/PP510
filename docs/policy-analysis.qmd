@@ -1,0 +1,62 @@
+---
+title: "Policy Analysis"
+author: "Weimer and Vining"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      footer:  Policy Analysis by David L. Weimer and Aidan R. Vining
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://i.ebayimg.com/images/g/ApgAAOSwp69f~14S/s-l500.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## This book's aim
+
+> "Practical Advice about how to *do* policy analysis"
+
+> "The product of policy analysis is advice."
+
+Policy analysis, as a professional activity, is client oriented. Ethical issues flow from this orientation (see Chapter 3).
+
+---
+
+
+## The setup
+
+
+- authority
+  - small boat fishery (federal) v. farmed fish (provincial)
+- division of work
+  - domestic commercial vs sports fishery
+  - international agreements
+- one month
+
+
+## \#Goals
+
+- efficiency
+- biodiversity
+- equity
+- political feasibility
+
+## Tradeoffs 
+
+> While it would probably not be as **efficient** as the preferred alternative, it is probably more politically feasible, as indicated by the recent implementation of ITQs for other British Columbia fisheries.
+
+## Tools 
+
+Recommendation
+
+- allocation of exclusive rights (location-based)
+- change enforcement
+- compensation to incumbents
+
+Other tools 
+
+- allocation of transferable rights (entity-share-quota-based)
+- government-run market platform
+- change enforcement
+

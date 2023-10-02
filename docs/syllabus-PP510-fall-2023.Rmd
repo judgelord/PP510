@@ -524,7 +524,10 @@ A helpful list of policy tools you might think about using to solve problems.
 
 The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas for next week.
 
-Recommended Context: Birkland Part III, Chapters 8-11
+Recommended Context: 
+
+- Weimer and Vining, Chapter 10, "Generic Policies"
+- Birkland Part III, Chapters 8-11
 
 ---
 
@@ -645,7 +648,7 @@ Because many topics we cover are subjects of ongoing discussion, I may make occa
 
 <!--exclude: true-->
 
-## More Information on Student Instructor Best Practices.
+## More Information on Student Instructor Best Practices
 
 We will conduct office hours with my door open.
 
@@ -665,6 +668,6 @@ Off-campus meetings will not involve alcohol or take place at locations that ser
 
 We the instructors, will conduct all individual communications using the University platforms of email, Canvas, Slack, or Piazza, with the caveat that we may use non-University platforms set up by students (such as GroupMe) only if they include all students in the class.
 
-There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, personal phone numbers, What’s App, etc.
+There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, What’s App, etc.
 
 For more information on resources for reporting sexual misconduct, please see [the faculty senate best practices for faculty interactions](https://facultysenate.umich.edu/wp-content/uploads/2022/08/BEST-PRACTICES-FOR-FACULTY-_-STUDENT-INTERACTIONS.pdf) and [U-M's page on Sexual and Gender-Based Misconduct](https://sexualmisconduct.umich.edu/).
