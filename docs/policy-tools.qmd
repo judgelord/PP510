@@ -1,5 +1,5 @@
 ---
-title: "Programs are bundels of policy tools"
+title: "Programs are bundles of policy tools"
 author: ""
 format: 
   revealjs:
