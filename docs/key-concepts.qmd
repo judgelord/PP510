@@ -3,6 +3,12 @@ title: "Key concepts"
 format: html
 ---
 
+- Bolded "Key Terms" and example boxes in Birkland
+- Italicized terms and comparison boxes in Stone
+- Italicized terms and Appendix B in Bardach
+
+**TIP:** skim the index of Birkland, Stone, and Bardach books
+
 
 Sovereignty
 

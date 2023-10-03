@@ -1,0 +1,30 @@
+---
+title: "Programs are bundels of policy tools"
+author: ""
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: ""
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Comparing programs/policy proposals requires comparing their component parts
+
+## Examples
+
+from "Do Private Regulations Ratchet Up? How to distinguish types of regulatory stringency and patterns of change" in *Organization & Environment*
+
+## {#clearcut data-menu-title="clearcut" background-image="https://raw.githubusercontent.com/judgelord/FSC-SFI/master/Figs/clearcuts-1.png" background-size="contain"}
+
+
+## {#riparian data-menu-title="riparian" background-image="https://raw.githubusercontent.com/judgelord/FSC-SFI/master/Figs/riparian-1.png" background-size="contain"}
+
+## Some things can only be compared  [qualitatively](https://judgelord.github.io/FSC-SFI/summary.html#qualitative-comparison-of-selected-policy-settings) {#2x2 data-menu-title="2x2" background-image="https://raw.githubusercontent.com/judgelord/FSC-SFI/master/Figs/table2.png" background-size="contain"}
+
+
+

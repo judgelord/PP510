@@ -1,0 +1,240 @@
+---
+title: "A Practical Guide for Policy Analysis"
+author: "Eugene S. Bardach and Eric M. Patashnik"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://www.researchgate.net/publication/269410148/figure/fig5/AS:646059520970771@1531044001617/Bardach-Eight-Fold-Policy-Analysis-Model.png"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+
+
+
+# Appendix B
+
+
+## Taxes
+
+- add or abolish a tax
+- change tax rates
+- change who pays a tax
+- increase or reduce collection/enforcement
+
+---
+
+## {#irs data-menu-title="irs" background-image="figs/irs.png" background-size="contain"}
+
+---
+
+## {#tax-evasion data-menu-title="tax evasion" background-image="figs/taxes.jpeg" background-size="contain"}
+
+
+---
+
+## Regulation 
+
+- create or abolish a regulatory scheme
+- shift limits (e.g., speed, the concentration of a chemical)
+- ban something or lift a ban
+- add or remove exceptions
+- change reporting or auditing procedures
+- increase or decrease enforcement 
+- shift the targets of enforcement
+- raise or lower penalties
+- add or remove appeals procedures
+- add or remove complaint processes
+
+---
+
+## Subsidies and Grants
+
+- add or abolish a subsidy
+- change the level of a subsidy
+- expand or reduce outreach to potential beneficiaries
+- change the formula by which subsidies are allocated <!--farm subsidies-->
+- change eligibility conditions
+- change enforcement of compliance with conditions
+
+---
+
+## Service Provision
+
+- add or abolish a service
+- expand or reduce a service
+- expand or reduce outreach to potential beneficiaries
+- increase or decrease the ease of access ("[administrative burdens](https://twitter.com/search?q=%23administrativeburdens)")
+- expand or limit services to a particular population
+- increase or decrease the number of service providers
+- change eligibility conditions
+- change enforcement of compliance with conditions
+
+---
+
+## Agency Budgets
+
+See [40 years of budgets show
+shifting national priorities](https://www.washingtonpost.com/graphics/politics/budget-history/)
+
+- increase, decrease, or maintain funding levels 
+- shift allocation from one line item to another
+
+
+## {#EPA data-menu-title="EPA" background-image="figs/budget-epa-climate.png" background-size="contain"}
+
+
+## {#budget data-menu-title="Budget" background-image="figs/budget-2018.png" background-size="contain"}
+
+
+
+## The Structure of Rights
+
+- contract rights (rules governing which exchanges are backed by the government, the foundation of any legal market)
+- property rights and duties
+- liability (torts)
+- family rights and duties
+- constitutional rights
+- labor law (can workers strike or vote to form a union?)
+- corporate law (rules of incorporation, duties, liability)
+- criminal law
+- dispute resolving institutions
+
+
+## The Framework of Economic Activity
+- protect from competition
+- encourage competition (protect from anti-competitive practices)
+- set or modify minimum, maximum, or standardized prices, wages, or profits
+- set or modify limits on production
+- increase or decrease public-sector jobs
+
+
+
+## Information
+
+- require disclosure
+- require rating or certification 
+- make information accessible
+- fund the production of information
+- fund the dissemination of information
+
+
+## {#Smoking data-menu-title="Smoking" background-image="figs/smoking.jpg" background-size="cover"}
+
+---
+
+## Education and Consultation
+
+- warn of dangers
+- raise consciousness
+- provide technical assistance 
+- change values (e.g. loyalty, animosity)
+- require certification or licensing
+- increase or decrease funding for general education
+- increase or decrease funding for job skills training 
+- increase or decrease funding for civic education
+
+---
+
+## Financing and Contracting 
+
+- create or abolish a market
+- alter procurement practices
+- alter payment rates, criteria, or formulas
+- alter user fees for public resources
+- lease public assets (land, buildings, vehicles, etc.)
+- loan money or guarantee private loans
+- subsidize loans or modify interest rates
+- set up, dismantle, or modify government-provided insurance
+- set up or dismantle a public enterprise
+- privatize a public enterprise or [nationalize](https://thenextsystem.org/history-of-nationalization-in-the-us) a private enterprise
+
+---
+
+## {#nationalization data-menu-title="nationalization" background-image="figs/nationalization.png" background-size="contain"}
+
+
+---
+
+<div class="tns-plotly__iframe-wrapper" style="padding-top: 100%; position: relative; overflow: hidden; height: 0;"><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1sDjYVrbQRp9rbQGKBwDd1kEKM-xdZhlOnHeCZmVN4K0&font=Default&lang=en&initial_zoom=2&default_bg_color=fff6f6?autosize=True&modebar=false&link=false" style="position: absolute; display: block; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe></div><p><em>Source: <a href="https://thenextsystem.org/history-of-nationalization-in-the-us?mc_cid=924b478fba&mc_eid=dd42d5c1c5&fbclid=IwAR3W7QPGIMgttbNFpraR-jXiHMU03jri6d8aXkhuZ62EwCTygeLIHaLZd34">A History of Nationalization in the United States: 1917-2009</a></em></p>
+
+---
+
+## Institutional and Political Reforms 
+
+(Powers!)
+
+- create, abolish, or shift authority to make decisions
+- avoid making a decision
+- empower or disempower a group in the policy process
+   - Note: I filled this in for Bardarch, who simply says: "The number of possibilities is too great to list." Why does Bardach give relatively little attention to this? 
+   
+
+
+# Part III
+
+
+
+## "Best" practices
+
+-> Good ideas from somewhere else
+
+---
+
+## Free lunches
+
+<!-- Unlike sports, there are often win-win policies. For example, in my first job out of college, I worked for a county government in regulatory affairs. One of the big regulatory issues we faced was from the Clean Water Act--we were a major point source polluter--every time you shower or flush the toilet, that water goes to a wastewater treatment plant that discharges that water somewhere. 
+
+The first free lunch was getting regulators to agree to allow us to plant trees alongside farm fields. This was cheaper and had twice the benefit of water quality, so it was a win-win.
+
+The second thing they did was invest in research and technology. They found a way to turn human waste into this stuff, a high-grade fertilizer--pure phosphorus, which they then sold and made a ton of money for the county.
+
+I remember the head of the wastewater plant was this old, kind of sopranos boss kind of guy. To "prove" that this stuff was safe, he would take a few and eat them like candy. 
+
+
+education 
+
+preventative care
+
+--> 
+
+---
+
+## {#cws data-menu-title="cws" background-image="figs/cws.jpg" background-size="cover"}
+
+---
+
+## Functions 
+
+- setting 
+- verifying 
+- creating
+
+---
+
+## "Postbureaucratic" management's "core ideas"
+
+- service 
+- customer focus
+- quality
+- incentives 
+- creating value
+- empowerment
+
+<!-- This all sounds good enough at first blush. A lot of people might like them until you get into specifics. But what would Stone say about each of these?  -->
+
+---
+
+## "New Public Management" 
+
+- The government should provide quality services that citizens value 
+- The autonomy of public managers should be increased
+- Evaluate and reward for meeting performance targets
+- Managers should have the human and technological resources they need
+- Appreciate the value of competition and the private sphere
+
+<!-- what would Stone say about each of these?  -->
