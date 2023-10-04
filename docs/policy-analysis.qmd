@@ -17,12 +17,11 @@ format:
 
 > "Practical Advice about how to *do* policy analysis"
 
-> "The product of policy analysis is advice."
+> "The product of policy analysis is advice"
 
 Policy analysis, as a professional activity, is client oriented. Ethical issues flow from this orientation (see Chapter 3).
 
----
-
+# Chapter 1
 
 ## The setup
 
@@ -59,4 +58,14 @@ Other tools
 - allocation of transferable rights (entity-share-quota-based)
 - government-run market platform
 - change enforcement
+
+## Structure 
+
+- Executive Summary
+- Introduction
+  - Economics
+  - History
+  - Current state
+- Goals
+- 
 
