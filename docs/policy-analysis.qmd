@@ -57,11 +57,14 @@ Recommendation
   - preferential bidding rights
   - 50% subsidy
 
-Other tools 
+## Other tools 
 
 - allocation of transferable rights (entity-share-quota-based)
-- government-run market platform
+- government-run market platforms
+  - licenses
+  - quotas 
 - change enforcement
+- change taxes (royalties)
 
 ## Structure 
 
