@@ -19,7 +19,7 @@ format:
 
 > "The product of policy analysis is advice"
 
-Policy analysis, as a professional activity, is client oriented. Ethical issues flow from this orientation (see Chapter 3).
+Policy analysis, as a professional activity, is client-oriented. Ethical issues flow from this orientation (see Chapter 3).
 
 # Chapter 1
 
@@ -28,8 +28,8 @@ Policy analysis, as a professional activity, is client oriented. Ethical issues 
 
 - authority
   - small boat fishery (federal) v. farmed fish (provincial)
-- division of work
-  - domestic commercial vs sports fishery
+- a division of work
+  - domestic commercial vs. sports fishery
   - international agreements
 - one month
 
@@ -62,10 +62,12 @@ Other tools
 ## Structure 
 
 - Executive Summary
-- Introduction
+- Introduction (background and issue analysis)
   - Economics
   - History
   - Current state
 - Goals
-- 
+- Some New Ways of Organizing the Salmon Fishery (options)
+- Comparison of the Alternatives (pros and cons)
+- Assessment and Recommendation
 
