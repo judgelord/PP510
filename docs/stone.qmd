@@ -1,0 +1,261 @@
+---
+title: "Policy Paradox: The Art of Political Decision Making"
+subtitle: "Part 1: *Why this book?* and *The Market and the Polis*"
+author: "Deborah Stone"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: ""
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+
+
+# Any "effort to render policymaking more scientific and less political is itself a creature of politics."
+
+
+## Bias
+
+1 From a default 
+
+- descriptive representation
+- substantive representation
+
+2 Relative to others
+
+- e.g., professional biases
+   -  engineers vs. scientists vs. lawyers vs. social workers...
+
+
+## Critiques of Public Policy Scholarship
+
+
+
+Policy analysis
+
+- Rejects politics 
+- Imagines society as a "market" rather than a community
+- Lacks theory (production model fails to capture what policy arguments are really about)
+- Worships objectivity
+
+![](figs/stone.jpg)
+
+## Politics 
+
+Rationality project: 
+
+- "Power distorts *rational* decisionmaking."  
+- "An unfortunate obstacle to clear-headed, rational analysis and good policy...messy, foolish, and irrational." (Stone p. 10)
+
+Stone: 
+
+- "Struggles to define and realize goals through the government." 
+- "One way we help each other see from different perspectives." 
+- Any "effort to render policymaking more scientific and less political is itself a creature of politics."
+
+
+
+## Anti-politics 
+- "Politics disturbs the *way things are*"
+- "Political action is *futile*"
+
+> “The challenge of modernity is to live without illusions and without becoming disillusioned.” - Antonio Gramsci
+
+
+## The public interest
+
+- Assumed!
+
+### Asserted to be:
+
+According to the rationality project the public interest is 
+
+- discoverable
+
+According to Stone the public interst is
+
+- contested
+
+
+## Some of the ways one might try to identify what is in the public interst: 
+
+- Aggregated individual private interests 
+- Aggregated individual interests for their community--"public-spirited  self-interest" 
+- Goals on which there is consensus or a majority 
+- Things that are good for a community *as a community* (order, rules, stability, defense)
+
+---
+
+
+<!--class: inverse center--> 
+
+# Making policy decisions
+
+A science? An art? A random accident of our circumstances?
+
+---
+
+# The rationality project
+
+A model of reasoning: 
+1. Identify objectives
+1. Identify alternative courses of action for achieving objectives
+1. Predict the possible consequences of each alternative
+1. Evaluate the potential effects of each alternative 
+1. Select the option that maximizes the attainment of objectives
+
+---
+
+## History of the rationality project: 
+
+Enlightenment philosophers
+
+James Madison's constitutional design paradox (Federalist 10): How to protect democracy from majorities?
+
+U.S. Law Schools, Policy Schools, Neoclassical Economics
+
+Progressive reforms, soviet planners, neoliberal reforms
+
+Herbert Simon's "science of public administration" and Harold Lasswell's "science of policy formation"
+
+![](figs/madison.jpeg) ![](figs/lafollette.jpeg) ![](figs/simon.jpeg) ![](figs/lasswell.jpeg)
+
+
+
+
+# Metaphors
+
+-for Society (market vs. polis)
+
+-for Reasoning (rationality vs. political reasoning)
+
+-for Policymaking (the production model vs. the struggle over ideas)
+
+
+## Metaphors for Policymaking
+
+Stone wants policy analysts to think more about the struggle over ideas.
+
+"I aim to construct a mode of policy analysis that 
+
+- recognizes the dark, self-interested side of political conflict but also sees politics as a valuable creative process for social harmony.
+
+- recognizes analytical concepts, problem definitions, and policy instruments as political claims" Stone (p. 10) 
+
+---
+
+## Metaphors for Reasoning
+
+>"Political reasoning is metaphor-making and category-making, but not just for beauty's sake or insight's sake. It is strategic portrayal for persuasion's sake, and ultimately for policy's sake."
+
+> "It is trying to get others to see a situation as one thing rather than another" Stone (p. 11)
+
+---
+
+**Issue framing**: The process of focusing attention on a particular slice of an extended causal chain is called issue framing.
+
+Like it or not, Stone argues, any issue analysis also involves issue framing. Stone asks us to think carefully about how we frame problems and solutions because it matters. 
+
+---
+
+## Metaphors for Society 
+
+### Is society better imagined as a market or a polis? 
+
+
+How we see society affects the things we think about when making policy. 
+
+
+- "market failure" vs. market success at multiple goals
+
+
+- "government failure" vs. market success at multiple goals
+
+---
+
+
+<div style="font-size: 18px">
+
+|  | Market Metaphore | Community/*polis* Metaphore | 
+| ---| --- | --- |
+| Actors | autonomous | in social roles, groups, depend on one another | 
+| Relationships | unconstrained competition and transaction | loyalty, cooperation, influence (persuasion, force, inequality) | 
+| Aims | policy goals | policy and political goals | 
+| Membership | given | contested |
+| Problems | given | contested |
+| Inputs | facts | expectations, interpretations of facts, priorities among values | 
+| Information | perfect | interpretive, incomplete, strategically framed or withheld | 
+| Reasoning | rationality | bounded rationality, metaphor, passion, aesthetic judgment |
+| Rules | given | contested |
+| Public interest | derived from analysis | contested |
+| Policymaking | assembly line | messy struggle over ideas | 
+| Reason for change | maximize welfare* | contests of ideas (including welfare), the pursuit of power |
+</div>
+*In the utilitarian sense, not "welfare" policy
+
+(See Stone, page 34)
+
+
+<!--class: inverse center-->
+
+## Other Metaphors
+
+Stone presents these metaphors because she finds them to be powerful frames that shape policymaking and thus policy.
+
+- Is policymaking more like math or sports? 
+
+- ![](figs/math.png)
+
+## Math
+
+Similarities
+
+- inputs and outputs
+- solving problems in a structured system
+
+Differences 
+
+- math is deterministic
+
+
+## [Sports](https://projects.fivethirtyeight.com/political-quiz/)
+
+
+Similarities 
+
+- aesthetics
+- loyalty and teamwork
+- outcomes only somewhat predictable
+
+Differences 
+
+- contests over the rules of the game, the priority of goals, issue frames
+- life and death 
+- all can lose, all can win (sometimes), it is often unclear
+- multi-dimensional (people on opposite sides of an issue often have many other common interests)
+
+---
+
+
+
+![](figs/hobbyists.png)
+
+[Article here](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
+
+
+<!--class: inverse center-->
+
+# Problems
+
+---
+
+> "We all know the language of stories, but it is so deeply embedded in our political discourse that we are usually unaware of its presence."
+
+> "To become fluent in these languages is to learn to see problems from multiple perspectives and to identify the assumptions about both facts and values that political definitions don't usually make explicit." 
+
+
