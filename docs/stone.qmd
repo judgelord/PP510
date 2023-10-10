@@ -35,7 +35,6 @@ format:
 ## Critiques of Public Policy Scholarship
 
 
-
 Policy analysis
 
 - Rejects politics 
@@ -77,55 +76,49 @@ According to the rationality project the public interest is
 
 - discoverable
 
-According to Stone the public interst is
+According to Stone, the public interest is
 
 - contested
 
 
-## Some of the ways one might try to identify what is in the public interst: 
+## Some of the ways one might try to identify what is in the public interest: 
 
 - Aggregated individual private interests 
 - Aggregated individual interests for their community--"public-spirited  self-interest" 
 - Goals on which there is consensus or a majority 
 - Things that are good for a community *as a community* (order, rules, stability, defense)
 
----
 
-
-<!--class: inverse center--> 
 
 # Making policy decisions
 
 A science? An art? A random accident of our circumstances?
 
----
 
 # The rationality project
 
 A model of reasoning: 
+
 1. Identify objectives
 1. Identify alternative courses of action for achieving objectives
 1. Predict the possible consequences of each alternative
 1. Evaluate the potential effects of each alternative 
 1. Select the option that maximizes the attainment of objectives
 
----
 
 ## History of the rationality project: 
 
-Enlightenment philosophers
+- Enlightenment philosophers
 
-James Madison's constitutional design paradox (Federalist 10): How to protect democracy from majorities?
+- James Madison's constitutional design paradox (Federalist 10): How do we protect democracy from majorities?
 
-U.S. Law Schools, Policy Schools, Neoclassical Economics
+- U.S. Law Schools, Policy Schools, Neoclassical Economics
 
-Progressive reforms, soviet planners, neoliberal reforms
+- Progressive reforms, soviet planners, neoliberal reforms
 
-Herbert Simon's "science of public administration" and Harold Lasswell's "science of policy formation"
+- Herbert Simon's "science of public administration" and Harold Lasswell's "science of policy formation"
 
 ![](figs/madison.jpeg) ![](figs/lafollette.jpeg) ![](figs/simon.jpeg) ![](figs/lasswell.jpeg)
-
-
 
 
 # Metaphors
@@ -141,27 +134,30 @@ Herbert Simon's "science of public administration" and Harold Lasswell's "scienc
 
 Stone wants policy analysts to think more about the struggle over ideas.
 
-"I aim to construct a mode of policy analysis that 
+> "I aim to construct a mode of policy analysis that 
 
-- recognizes the dark, self-interested side of political conflict but also sees politics as a valuable creative process for social harmony.
+- > recognizes the dark, self-interested side of political conflict but also sees politics as a valuable creative process for social harmony.
+- > recognizes analytical concepts, problem definitions, and policy instruments as political claims" (Stone, p. 10) 
 
-- recognizes analytical concepts, problem definitions, and policy instruments as political claims" Stone (p. 10) 
 
----
 
 ## Metaphors for Reasoning
 
 >"Political reasoning is metaphor-making and category-making, but not just for beauty's sake or insight's sake. It is strategic portrayal for persuasion's sake, and ultimately for policy's sake."
 
-> "It is trying to get others to see a situation as one thing rather than another" Stone (p. 11)
+> "It is trying to get others to see a situation as one thing rather than another" (Stone, p. 11)
 
 ---
 
-**Issue framing**: The process of focusing attention on a particular slice of an extended causal chain is called issue framing.
+##  Issue framing
 
-Like it or not, Stone argues, any issue analysis also involves issue framing. Stone asks us to think carefully about how we frame problems and solutions because it matters. 
+- The process of focusing attention on a particular slice of an extended causal chain is called issue framing.
 
----
+- Like it or not, Stone argues, any issue analysis also involves issue framing. 
+
+- Stone asks us to think carefully about how we frame problems and solutions because it matters. 
+
+
 
 ## Metaphors for Society 
 
@@ -241,16 +237,8 @@ Differences
 
 ---
 
+## [Link]("https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/") {background-image="figs/hobbyists.png" background-size="contain"}
 
-
-![](figs/hobbyists.png)
-
-[Article here](https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/)
-
-
-<!--class: inverse center-->
-
-# Problems
 
 ---
 
