@@ -9,7 +9,7 @@ In preparing your memo, consider your reader. What does the reader already know?
 TO: 501 Students, Fall Term 2023  
 FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the version of the first policy memo you submit on Canvas.)</mark>.  
 DATE: September 1, 2023   
-RE: Policy Memo Templates
+RE: Policy Memo Template
 
 <mark> The rest is double spaced (excluding references)  </mark>
 
@@ -51,6 +51,66 @@ Alternatively, implementation questions might be addressed in a less analytic wa
 Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and new help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straight forward? 
 
 **6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
+
+## Notes that I frequently give on policy memos:
+
+**Clarity**
+
+- Avoid passive voice
+- Use a grammar checker like Microsoft Word or Grammarly to catch missing commas etc.
+- Have someone read your memo and mark each sentence as clear or not clear
+
+**Formatting**
+
+- Use numeric endnotes and hyperlinks, not roman numerals (it takes up less space)
+- Indent paragraphs to set them apart 
+- Single-space the header and endnotes
+- Make sure the header is within one-inch margins
+- Use bold and/or underline to highlight the most important things
+- Number and name options
+- Hyperlink text in the memo
+- Write out citations (author, year, title) in the endnotes unless the hyperlink is super-clear (i.e. unless the hyperlink contains the title of the article)
+
+ 
+### Section by section notes, divided into notes that require major or minor revisions:
+
+**Background research**
+
+Major: No research specific to the memo’s particular topic beyond what the policymaker already knows.
+
+Minor: Relevant research on the problem, but not on policy tools.
+
+Inclusion criteria: Is it necessary for *this policymaker* to (1) understand the issue or (2) decide among the options? Very few memos had enough of this second type of information. 
+
+Most memos can use more background research on policy tools, especially from the social sciences (economics, sociology, political science, law, management studies, policy studies). 
+
+The best memos are usually the most narrowly focused (a narrowly-focused problem definition also makes for easier research) and draw on academic studies of policies/programs implemented in other states. This has the advantage of synthesizing lessons learned (unlike information on another state’s website, academic research is written for an external audience like you) and provides an external analysis of the politics and challenges that may often be missing from reports from the people on the ground. 
+
+
+**Analysis**
+
+Major: There is little analysis of why this problem remains unsolved, only statements about the general causes or nature of the problem that the policymaker already knows and/or little discussion of stakeholders.
+
+Minor: There is a discussion of stakeholders and a focus on specific causes of the problem, but the lessons for how we should then evaluate options are not clear. 
+
+Almost every memo I read needs to focus more on *why* we are in this situation. Why do these problems exist? You don't need to cover *all* of the reasons that they exist, but your analysis should focus our attention on at least one very specific key cause of the problem that might be a target of policy intervention. Why have policymakers not already addressed this problem? This focuses us on stakeholders/politics that need to be addressed in the options and recommendations. 
+ 
+
+**Options**
+
+Major: Options are vague, and/or pros and cons are not robustly addressed.
+
+Minor: Pros and cons are addressed, but not systematically to facilitate comparison. 
+
+Ask yourself: Are these alternative paths to address the problem that I am focusing on? How do they compare *to each other* across all criteria that my analysis shows are important for any solution to address?
+
+ 
+
+**Recommendation**
+
+Major: It is unclear why you chose the option you chose.
+
+Minor: It is clear why you chose the option you chose, but more details are needed on implementation. 
 
 ---
 

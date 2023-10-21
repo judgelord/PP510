@@ -1,0 +1,73 @@
+---
+title: "Untitled"
+format: html
+---
+
+## 
+
+```{r}
+#| fig-height: 2
+#| fig-width: 2.5
+#| out-width: 100%
+
+library(tidyverse)
+library(magrittr)
+
+d <- read_csv(here::here("grades/2023-10-20T1216_Grades-PUBPOL_510_002_FA_2023.csv"))
+
+d %<>% janitor::clean_names() %>% 
+  mutate(policy_memo_1 = as.numeric( policy_memo_1_2142498),
+         point = point |> 
+           str_replace("d", "Devin") |> 
+           str_replace("c", "Caroline")
+           )%>% 
+  ungroup() 
+
+d %<>% 
+  drop_na(sis_user_id)
+
+d |>
+  ungroup() |>
+  # filter(policy_memo_1 > 15) |>
+  mutate(mean = mean(policy_memo_1) |> round(1)) |> # pull(mean)
+  ggplot() +
+  aes(x = policy_memo_1) + 
+  geom_density(alpha = .5, color = NA, fill = "black") +
+  geom_vline(aes(xintercept = mean)) + 
+  geom_label(y = 0.1, aes(x = mean, label = mean)) + 
+  scale_x_continuous( breaks = seq(10,20,1), limits = c(10,20)) +
+  theme_minimal() + 
+  labs(title = "Overall average") + 
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        axis.text.y = element_blank(),
+        axis.title.y = element_blank(),
+        legend.title = element_blank())
+
+gradeplot <- function(d, x){
+  d$x <- pull(d, x)
+d |>
+  group_by(x) |>
+  mutate(mean = mean(policy_memo_1)) |> 
+  ggplot() +
+  aes(x = policy_memo_1, fill = x, xintercept = mean) + 
+  geom_density(alpha = .5, color = NA) +
+  geom_vline(aes(xintercept = mean, color = x)) + 
+  scale_x_continuous( breaks = seq(10,20,1), limits = c(10,20)) +
+  theme_minimal() + 
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+    axis.text.y = element_blank(),
+        axis.title.y = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "top")
+}
+
+
+gradeplot(d, "point")+ 
+  labs(title = "Average score by grader")
+
+gradeplot(d, "group") +
+  theme(legend.position = "none") + 
+  labs(title = "Average score by group")
+```
