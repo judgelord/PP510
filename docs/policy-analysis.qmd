@@ -94,6 +94,8 @@ Weimer and Vining's definition:
 - relevant to public decisions 
 - informed by social values 
 
+> "Policy analysis is as much an art and a craft as a science" (p. 37)
+
 ## Tasks 
 
 Policy research 
@@ -101,9 +103,22 @@ Policy research
 - variables that reflect social problems 
 - variables that can be manipulated by policy
 
+Policy Analysis
+
+- the range of possible solutions 
+- the likely costs and benefits 
+
+Effective communication 
+
+- clear writing 
+- concise
+- convincing 
+
 # Chapter 3. Toward Professional Ethics
 
 ## What is the MPP's professional aim? 
+
+What does this mean for the MPP's role in politics?
 
 - Librarian -> Information
 - Law -> Justice
@@ -116,7 +131,8 @@ Policy research
 - Policy Analysis -> ?
 - Public administration -> ?
 
-## Idealized roles 
+
+## Idealized roles in politics 
 
 - The "Objective" Technician 
 - The Client's Advocate
@@ -127,14 +143,12 @@ Policy research
 ## {#issue-advocate data-menu-title="Issue advocate" background-image="https://pbs.twimg.com/media/F7MqgI3XcAAOz12?format=jpg&name=large" background-size="contain"}
 
 
-## Souces of Legitimacy 
+## Sources of Legitimacy 
 
 - skills 
 - clients 
 - outcomes
 
-
-## Delemas 
 
 
 
