@@ -15,7 +15,7 @@ format:
 ---
 
 
-- In part 1, Stone introduced the idea that the metaphors we use to understand society, reasoning, and policymaking shape policy outputs and outcomes.
+- In Part 1, Stone introduced the idea that the metaphors we use to understand society, reasoning, and policymaking shape policy outputs and outcomes.
 
 - In part 2, Stone introduced five big "goals" (more like values) that motivate policy demands.
 
@@ -52,7 +52,7 @@ format:
 For example, all maps are abstractions; they highlight some features of geography and ignore others.
 
 
-## {background-image="figs/isthmus.png" background-size="contain"}
+
 
 ---
 
@@ -66,7 +66,7 @@ This memo makes an argument by putting maps highlighting two different things (h
 
 Most definitions of policy problems have a narrative structure.
 
-- a beginning middle, and end
+- a beginning, middle, and end
 - heroes, villains, victims
 - good and evil
 - assert or imply how the world works
@@ -96,44 +96,53 @@ Stories about power:
 Stories about trust and wisdom:
 
 - revelation stories
-- parables and cautionary tales (I added this category, the others are in Stone, chapter 7)
+- parables and cautionary tales (I added this category; the others are in Stone, chapter 7)
 
-What symbols are used to frame an issue as each story? 
+Symbols are used to frame an issue as a given story. 
 
 
 ## Stories of change: decline and rising
 
+:::: {.columns}
+
+::: {.column width="60%"}
+
 ![](figs/inequality.png)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for joining us, east/central. West, you’re next! And, we’re back Monday night for a special edition of <a href="https://twitter.com/hashtag/ABC2020?src=hash&amp;ref_src=twsrc%5Etfw">#ABC2020</a> anchored by <a href="https://twitter.com/DavidMuir?ref_src=twsrc%5Etfw">@DavidMuir</a>, reporting on the extraordinary efforts by healthcare workers on the frontlines and the latest developments on the coronavirus pandemic. <a href="https://t.co/GzG87mjl3e">pic.twitter.com/GzG87mjl3e</a></p>&mdash; 20/20 (@ABC2020) <a href="https://twitter.com/ABC2020/status/1243735059355652096?ref_src=twsrc%5Etfw">March 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+:::
 
----
+::: {.column width="40%"}
 
-**Decline:**
+**Decline**
 
-> "In the beginning, things were pretty good. But they got worse. In fact, right now, they are nearly intolerable. Something must be done." - Stone, p. 160
+"In the beginning, things were pretty good. But they got worse. In fact, right now, they are nearly intolerable. Something must be done." - Stone, p. 160
+
+:::
+
+::::
+
+<!--
+![](https://imgs.xkcd.com/comics/scientific_briefing.png)--> 
 
 
-
-![](https://imgs.xkcd.com/comics/scientific_briefing.png)
-
----
 
 ## Stymied-progress:
 
 From *[Sidelining Scientists Can Only Make COVID-19 Worse: We need to hear about the risks directly from the experts, not through the filter of politicians](https://blogs.scientificamerican.com/observations/sidelining-scientists-can-only-make-covid-19-worse/)* <!--(Notice the title's use of a sports metaphor, "sidelining," and mechanical metaphor, "filter." Also note, the *Scientific American* and the *Union of Concerned Scientists* clearly represent an interest; they have a stake in science communication policy.)-->
 
-> "Over the [last] century, we developed complex disease monitoring systems. We created best practices for communicating disease risk. And we invested in the independence of government agencies, empowering government experts to openly share information about public health dangers. The Centers for Disease Control and Prevention are now well-practiced at risk communication. A 65-page manual details how the agency should communicate during a health crisis like the one we currently face. That’s why it’s so troubling that the White House has taken over communication around the coronavirus COVID-19."
+> "Over the [last] century, we developed complex disease monitoring systems. We created best practices for communicating disease risk. ..The Centers for Disease Control and Prevention are now well-practiced at-risk communication. A 65-page manual details how the agency should communicate during a health crisis like the one we currently face. That’s why it’s so troubling that the White House has taken over communication around COVID-19."
 
----
 
-### Stories of change: "change is only an illusion"
+
+## Stories of change: "change is only an illusion"
 
 From *[Clinton and Obama Laid the Groundwork for Donald Trump’s War on Immigrants: Trump’s rhetoric is shocking, but his immigration policy is nothing new.](https://www.thenation.com/article/archive/clinton-and-obama-laid-the-groundwork-for-donald-trumps-war-on-immigrants/)* (Notice the metaphors "laid the groundwork" and "war.")
 
-> "Non-criminal immigration arrests did indeed jump from 2,500 in the first three months of 2016 to 5,500 during the same period in 2017, while criminal arrests also rose, bringing the total to 21,000. Only 16,000 were arrested during the same months in 2016. The article, however, ignored the fact that 2016 was the all-time-low year for arrests under President Obama. In the first three months of 2014, for example, 29,000 were arrested, far more than Trump’s three-month “record.”"
+> Non-criminal immigration arrests did indeed jump from 2,500 in the first three months of 2016 to 5,500 during the same period in 2017, while criminal arrests also rose, bringing the total to 21,000. Only 16,000 were arrested during the same months in 2016. The article, however, ignored the fact that 2016 was the all-time-low year for arrests under President Obama. In the first three months of 2014, for example, 29,000 were arrested, far more than Trump’s three-month “record.”
 
-## Stories of power: helplessness and control
+## Stories of power
+
+Helplessness and control
 
 > What all these power stories have in common is their assertion that there is a choice. - Stone, p. 168
 
@@ -145,9 +154,11 @@ From *[Clinton and Obama Laid the Groundwork for Donald Trump’s War on Immigra
 
 <iframe width="600" height="300" src="https://www.youtube.com/embed/vgqG3ITMv1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
-**Blame-the-victim stories:** (I might have labeled these "personal responsibility stories" or "irresponsible victim stories")
+
+## Blame-the-victim stories
+
+(I would have labeled these "personal responsibility stories" or "irresponsible victim stories")
 
 - shift issues from fate to human control
 - locates control in the people who suffer from the problem
@@ -155,7 +166,7 @@ From *[Clinton and Obama Laid the Groundwork for Donald Trump’s War on Immigra
 
 From *[Mortgage Crisis: Stop Rewarding Irresponsible Consumers](https://www.nytimes.com/roomfordebate/2012/01/25/is-refinancing-the-best-way-to-fix-the-housing-market/mortgage-crisis-stop-rewarding-irresponsible-consumers)*:
 
-> During the State of the Union, President Obama called for a new era of responsibility, and declared that there will be “no bailouts,” yet he offered a supposed solution for the ongoing mortgage crisis that rewards irresponsibility by promising even more bailouts for “underwater” homeowners.
+> During the State of the Union, President Obama called for a new era of responsibility and declared that there would be “no bailouts,” yet he offered a supposed solution for the ongoing mortgage crisis that rewards irresponsibility by promising even more bailouts for “underwater” homeowners.
 
 
 ## Synecdoche
@@ -164,17 +175,16 @@ From *[Mortgage Crisis: Stop Rewarding Irresponsible Consumers](https://www.nyti
 
 Why did J.D. Harrison (Executive Director for *Strategic Communications* at the U.S. Chamber of Commerce) pick just five stories? 
 
----
+
 
 ## Horror stories
 
 > "generate fear that may temporarily suspend our inclination to ask factual and analytical questions." (p. 169)
 
----
 
-# Metaphors
+## Metaphors
 
-## Description implies prescription.
+Description implies prescription
 
 :::{.notes}
 (This is what I mean when I say that, in your policy memos, your policy options should flow from your analysis. This does not mean that you need to go out of your way to use metaphors; any description of a problem inevitably identifies like and unlike things. A policy memo flows well when the definition of the problem is consistent with the proposed prescription.)
@@ -182,9 +192,9 @@ Why did J.D. Harrison (Executive Director for *Strategic Communications* at the 
 
 > In a culture where the common understanding of fairness is "treating like things alike," to claim a likeness is also to posit an interpretation of equity and to demand equal treatment. (Stone, p. 171)
 
----
 
-Metaphors are powerful tools to affect policy. Thus we may see them as a rhetorical resource.
+
+## Metaphors as a rhetorical resource.
 
 What metaphors are providing **resources** to **shape policy** today?
 
@@ -198,15 +208,16 @@ What metaphors are providing **resources** to **shape policy** today?
 
 (Stone, p. 172-176)
 
----
+
 
 ## Ambiguity
 
 ### A symbol can mean different things to different people or in different contexts.
 
-This can unite people with different material interests.
+> The ambiguity of symbols helps transform individual strivings into collective decisions. Symbols can help unite people around ideals because they exist outside the realm of the practical and the real. Symbols allow coalitions to form when pure material interests would divide people. - Stone, p. 182
 
----
+
+
 
 ## Legislators use ambiguity when delegating power to administrative agencies, which must then hash out the details.
 
@@ -215,33 +226,31 @@ This can unite people with different material interests.
 <!--![](figs/bill-regulation.png)-->
 
 
-## Policymakers use ambiguity to do two things at once.
-
+::: {.notes}
 From *[A Sorry Saga: Obama Signs Native American Apology](https://indiancountrytoday.com/archive/a-sorry-saga-obama-signs-native-american-apology-K0_2JdB5vkea3lUmULTZEg)*:
 
 > "Is an apology that’s not said out loud really an apology? What if the person expressing the apology doesn’t draw attention to it?"
 
-::: {.notes}
 We saw how the commerce clause has been reinterpreted over time. Indeed, the U.S. Constitution can only govern a changing society because of its ambiguity. 
 
 Consider the ambiguity of "We the people"--how many different interpretations of those three words have existed over time? 
 
-Why do the White people in the audience look surprised and laugh uncomfortably when Charles points out the bi-partisan agreement on US policy toward Native American land and sovereignty? 
+Why do the White people in the audience look surprised and laugh uncomfortably when Charles points out the bi-partisan agreement on U.S. policy toward Native American land and sovereignty? 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HOktqY5wY4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 :::
 
 
-> The ambiguity of symbols helps transform individual strivings into collective decisions. Symbols can help unit people around ideals because they exist outside the realm of the practical and the real. Symbols allow coalitions to form when pure material interests would divide people. - Stone, p. 182
 
----
 
 # Numbers
 
 <!--![](https://imgs.xkcd.com/comics/million_billion_trillion.png)-->
 
-One common way to define a problem is to measure it. Bardach told us that problems are best stated as "too much" or "too little" of something. Numbers allow precise definitions of too much or too little.
+## Numbers imply problems
+
+One way to define a problem is to measure it. Bardach told us that problems are best stated as "too much" or "too little" of something. Numbers allow definitions of too much or too little.
 
 Yet, there are many possible ways to measure something, and the choice among them depends on one's purpose for measuring.
 
@@ -258,71 +267,89 @@ How many residents of our city are currently homeless? (Advocates are increasing
 
 - Is there a "natural" rate of homelessness?
 
-What does the language of "nature/natural" imply about our ability to solve problems in the story one is telling? Is it a story of helplessness or control?
+- What does the language of "nature/natural" imply about our ability to solve problems in the story one is telling?
 
----
+:::{.notes}
+Is it a story of helplessness or control?
+:::
+
+
 
 ## Counting begins with categorization
 
 - requires selecting important characteristics and boundaries in the form of rules or criteria for inclusion and exclusion.
+
 - resolves questions of similarity and difference by assigning things to one group or another. 
-- debates that appear to be about the tally are usually about the categories (recall the [Cost Benefit Analysis of Mercury Rule](https://judgelord.github.io/PS272/stone2.html#is_regulating_mercury_efficient))
+
+
+- debates that appear to be about the tally are usually about the categories 
+
+
+:::{.notes}
+(recall the [Cost Benefit Analysis of Mercury Rule](https://judgelord.github.io/PS272/stone2.html#is_regulating_mercury_efficient))
+:::
 
 
 ## Numbers are Metaphors
 
-> To categorize in counting or to analogize in metaphors is to select on a feature of something, assert a likeness on the basis of that feature, and ignore all other features. - Stone, p. 185
+> To categorize in counting or to analogize in metaphors is to select a feature of something, assert a likeness on the basis of that feature, and ignore all other features. - Stone, p. 185
 
-Who or what is counted can be challenged for **wrongful inclusion**. Who or what not counted can be challenged for **wrongful exclusion**.
+Who or what is counted can be challenged for **wrongful inclusion**. Who or what is not counted can be challenged for **wrongful exclusion**.
 
-???
+:::{.notes}
 
 One common policy goal is "jobs." What ought to count as a job? 
+:::
 
 
 
----
 
 ## Statistical communities
 
-Counting divides and unites: 
 
-> Sometimes numbers represent members of what we might call "natural communities" or "primary groups," people who actually interact regardless of whether they are counted. The population of a village, size of a family, or size of a school are examples. Other numbers represent artificial or statistical communities; they lump together people who have no relationship other than the shared characteristic that determined the count, such as age, occupation, or sexual orientation. 
+> Sometimes numbers represent members of what we might call "natural communities" or "primary groups," people who actually interact regardless of whether they are counted. The population of a village, the size of a family, or the size of a school are examples. Other numbers represent artificial or statistical communities; they lump together people who have no relationship other than the shared characteristic that determined the count, such as age, occupation, or sexual orientation. 
+
+(Note: rather than "natural communities," I might call these "social communities"  because "natural" implies something beyond human control.)
+
+## Counting divides and unites: 
 
 > Social movement leaders must convert statistical members (ones who share important characteristics but have no real relationship with the group) into natural members (ones who actually participate)...counting can be a deliberate tool for political mobilization. - Stone, p. 194
 
-(Note: rather than "natural communities," I might call these "social communities"  because "natural" implies something beyond human control.)
+
 
 ---
 
 For example, the Environmental Justice movement has tried to link *measures* of exposure to environmental hazards to demographic (race and class) *categories*: 
 
-This map highlights hazardous chemical facilities regulated under the Risk Management Plan (RMP) program (just one *measure* of environmental risk). It also highlights race (*as counted by* the Census): 
+This map highlights hazardous chemical facilities (one *measure* of environmental risk) and race (*as counted by* the Census): 
 
 ![](figs/ej.png)
 
----
+
 
 ## Numbers define the dimension of the conflict
 
 Numbers reduce conflicts to a single dimension. 
 
-For example, if we only considered the energy density of fuel sources (versus cost or safety), we might draft policy to build more nuclear power plants:
+---
+
+For example, if we only considered the energy density of fuel sources (versus cost or safety), we might focus policy on building more nuclear power plants:
 
 ![](https://imgs.xkcd.com/comics/log_scale.png)
 
----
+
 
 ## Numbers legitimize political decisions
 
-![](https://imgs.xkcd.com/comics/wikipedian_protester.png)
+<!--![](https://imgs.xkcd.com/comics/wikipedian_protester.png)--> 
 
 
 > Numbers symbolize precision, accuracy, and objectivity. They suggest mechanical selection, dictated by the nature of the objects, even though all counting involves judgments and discretion. - Stone 
 
-In doing so, numbers sometimes mask the political nature of a decision. For example, numbers suggest that safety can be defined though science (but recall the complexity and subjective nature of "Security"). 
+In doing so, numbers sometimes mask the political nature of a decision. 
+<!--For example, numbers suggest that safety can be defined through science (but recall the complexity and subjective nature of "Security"). --> 
 
----
+
 
 ## What is a "Safe" threshold?
 
@@ -330,36 +357,47 @@ Returning to questions raised by Egan:
 
 >What is a "safe number of organisms that could be discharged per cubic meter of water?"...
 
---
 
 >"The scientists said they couldn't do it" (Egan, pg. 141)
 
-Further reading on science and "safe" standards: 
+Further reading on science and "safe" standards:  [The Science Charade in Toxic Risk Regulation by Wendy Wagner](https://law.utexas.edu/faculty/publications/1995-The-Science-Charade-in-Toxic-Risk-Regulation)
 
-- [The Science Charade in Toxic Risk Regulation by Wendy Wagner](https://law.utexas.edu/faculty/publications/1995-The-Science-Charade-in-Toxic-Risk-Regulation)
 
----
 
 ## Reactive effects
 
 ![](https://imgs.xkcd.com/comics/decline.png)
 
-In science (especially social science), we confront *observer effects*--the fact that things, and especially people, behave differently when observed. 
+---
 
-> People change their behavior in response to being measured. Understanding reactivity is so important in policy analysis because, unlike deliberate falsification of numbers, it is an inextricable feature of social measurement. - Stone, p. 200, citing ["The Third Level of U.S. Welfare Reform"](https://www.tandfonline.com/doi/abs/10.1080/13621025.2010.522363?journalCode=ccst20) by Schram et al.
+In science (especially social science), we confront *observer effects*---the fact that things, and especially people, behave differently when observed. 
+
+> People change their behavior in response to being measured. Understanding reactivity is so important in policy analysis because, unlike the deliberate falsification of numbers, it is an inextricable feature of social measurement. - Stone, p. 200, citing ["The Third Level of U.S. Welfare Reform"](https://www.tandfonline.com/doi/abs/10.1080/13621025.2010.522363?journalCode=ccst20) by Schram et al.
+
+---
+
+## Policy feedback 
 
 Stone's concept of **reactive effects** incorporates concepts from studies of *policy feedback*, where the policy creates, empowers, and/or demobilizes political actors, thus affecting the political terrain (to use a metaphor) on which future policy is made. 
 
 By counting people as part of a group, a policy may induce them to act as a group (whereby policy that creates a **statistical community** leads to the formation of a **natural (social) community**). Group theories of politics (e.g., **pluralism**) tell us to expect these groups to then advocate for resources, privileges, or protection in future policy processes.
 
-???
+---
 
-If the Department of Justice Antitrust Division measures market concentration to decide whether to permit corporate mergers and acquisitions, how do you think this might affect how large companies lobby regarding the definition of the "market" they are in? 
+If the Department of Justice Antitrust Division measures market concentration to decide whether to permit corporate mergers and acquisitions, how might large companies lobby regarding the definition of the "market" they are in? 
+
+:::: {.columns}
+
+::: {.column width="50%"}
 
 ![](figs/market-concentration.jpg)
+:::
 
-![](figs/market-concentration-amazon.jpg)
+::: {.column width="55%"}
 
+:::
+
+::::
 ![](figs/market-concentration-healthcare.png)
 
 
@@ -368,7 +406,7 @@ If the Department of Justice Antitrust Division measures market concentration to
 
 > Every number, therefore, is an assertion about similarities and differences. No number is innocent, for it is impossible to count without making judgments about categorization. - Stone, p. 188
 
-Know: Numerical Strategies in Problem Definition (p. 203)
+See numerical Strategies in Problem Definition (p. 203)
 
 
 ---
@@ -377,6 +415,10 @@ Know: Numerical Strategies in Problem Definition (p. 203)
 # To Know the Causes of Things 
 
 (Or, to *feel* the causes of things?)
+
+---
+
+## Issue analysis
 
 I often say that issue analysis in policy memos must identify "root causes" that can be targeted by policy. Stone's critique demands that we see the *prescriptive* power in causal analysis. Like numbers, causes highlight some aspects of a problem and ignore others. Causal chains are stories that define problems and assign blame.
 
@@ -388,19 +430,20 @@ I often say that issue analysis in policy memos must identify "root causes" that
 
 ![](https://imgs.xkcd.com/comics/correlation.png)
 
-???
+## Are causes determined more by science or rhetoric? 
 
-Are causes determined more by science or rhetoric? 
+. . .
 
-Perhaps this question is unfair because rhetoric often uses the cultural authority of science and numbers, and, conversely, science must be communicated in language that has been shaped by political rhetoric. This does not mean that science worthless. On the contrary, political rhetoric uses science whenever possible, precisely because of the broad trust in scientists to provide the most reliable answers to questions. This trust exists for good reasons. 
+Perhaps this question is unfair because rhetoric often uses the cultural authority of science and numbers, and conversely, science must be communicated in language that has been shaped by political rhetoric. This does not mean that science is worthless. On the contrary, political rhetoric uses science whenever possible precisely because of the broad trust in scientists to provide the most reliable answers to questions. This trust exists for good reasons. 
+
+
 
 ## Causal stories as problem definition
 
 > The natural world is the realm of fate...The social world is the realm of control and intent...In everyday discourse, as Erving Goffman points out, we use the term causality to refer to both "the blind effect of nature and intended effect of man, the first seen as an infinitely extended causal chain of caused and causing effects and the second something that somehow begins with a mental decision." - Stone, p. 207, citing Goffman, "[Frame Analysis](https://www.nytimes.com/1975/02/16/archives/frame-analysis.html)," p. 23 
 
-Know: Types of Causal Theories (p. 208)
+See: Types of Causal Theories (p. 208)
 
----
 
 <!--## Accidental causes-->
 
@@ -408,23 +451,16 @@ Know: Types of Causal Theories (p. 208)
 
 ## When is calculated risk "malicious intent" to harm?
 
-Stone cites the case of *Grinshaw v. Ford Motor Co.*, where the court held that
+Stone cites the case of *Grimshaw v. Ford Motor Co.*, where the court held that
 
-> Ford's business decision to trade safety for cost was "conscious disregard for the probability that its conduct will result in injury to others."
+> Ford's business decision to trade safety for cost was a "conscious disregard for the probability that its conduct will result in injury to others."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gKQ-U-rnLdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://www.motherjones.com/wp-content/uploads/1977/09/20221019_fordpinto-master.jpg)
 
-Actual Ford Pinto crash test:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lgOxWPGsJNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
+<!--
 ## Conspiracy stories frame problems as having intentional causes
 
-<iframe src="https://www.npr.org/player/embed/803766743/803869550" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
-
----
 
 ## Shifting blame: ignorance to known (and thus avoidable) consequences
 
@@ -432,14 +468,15 @@ Consider how this story from the author of [The Great Influenza: The Story of th
 
 > We are arguably as vulnerable—or more vulnerable—to another pandemic as we were in 1918...especially since the most crucial lessons to be learned from the disaster have yet to be absorbed.
 ...
-> When the United States entered the war, Woodrow Wilson demanded that “the spirit of ruthless brutality...enter into the very fiber of national life.” So he created the Committee on Public Information, which was inspired by an adviser who wrote, “Truth and falsehood are arbitrary terms....The force of an idea lies in its inspirational value. It matters very little if it is true or false.”
+> When the United States entered the war, Woodrow Wilson demanded that “the spirit of ruthless brutality...enter into the very fiber of national life.” So he created the Committee on Public Information, which was inspired by an adviser who wrote, “Truth and falsehood are arbitrary terms...The force of an idea lies in its inspirational value. It matters very little if it is true or false.”
 ...
 > At Wilson’s urging, Congress passed the Sedition Act, making it punishable with 20 years in prison to “utter, print, write or publish any disloyal, profane, scurrilous, or abusive language about the form of government of the United States...or to urge, incite, or advocate any curtailment of production in this country of anything or things...necessary or essential to the prosecution of the war.” Government posters and advertisements urged people to report to the Justice Department anyone “who spreads pessimistic stories...cries for peace, or belittles our effort to win the war.”
 ...
 >Against this background, while influenza bled into American life, public health officials, determined to keep morale up, began to lie.
 
+--> 
 
----
+
 
 ## Inadvertent causes
 
@@ -451,21 +488,31 @@ Consider how this story from the author of [The Great Influenza: The Story of th
 
 ## Mechanical and complex causes as anti-politics
 
-For example, climate change has moved from **mechanical cause** in the Holocene to **intentional cause** in the Anthropocene. (perhaps a *conspiracy* if one is explicitly for more ambitious climate policy, or a *calculated risk* if one is explicitly opposed to such policy--both explicitly political positions. Or, for people implicitly against climate policy, but who want to strategically frame the issue out of political discourse, perhaps the climate is such a **complex system** that it is impossible to make policy, and thus we should not try--an anti-political position.)
+For example, climate change has moved from **mechanical cause** in the Holocene to **intentional cause** in the Anthropocene.
+
+- Perhaps a *conspiracy* if one is explicitly for more ambitious climate policy or a *calculated risk* if one is explicitly opposed to such policy---both explicitly political positions.
+
+- Or, for those who want to strategically frame the issue out of political discourse, perhaps the climate is such a **complex system** that it is impossible to make policy, and thus, we should not try. We are helpless---an anti-political position using a story of **control**.
 
 <!-- ![](https://imgs.xkcd.com/comics/earth_temperature_timeline.png) -->
 
 ![](figs/deniers.jpg)
 
+---
+
+## Nature
+
 > While social scientists find intriguing puzzles in complex causes, and political actors take refuge in them, environmental scientists have created an intellectual revolution in our understanding of causation. 
 
 > "One thing people always loved about the Weather Channel was that it was nobody's fault," said Dr. Heidi Cullen, the channel's climate scientist. "And then [Hurricane] Katrina came along, and suddenly the weather was potentially our fault." 
 
-> The idea that natural phenomena are "uncaused" and have no relation to human decision making is outmoded. - Stone, p. 218
+> The idea that natural phenomena are "uncaused" and have no relation to human decision-making is outmoded. - Stone, p. 218
 
-???
+## Are pandemics natural disasters?
 
-Are pandemics natural disasters? Into which box(es) in Table 9.1 has the COVID-19 pandemic been framed?
+Into which box(es) in Table 9.1 has the COVID-19 pandemic been framed?
+
+![](figs/stone9.1.png)
 
 <!--
 
@@ -475,21 +522,23 @@ Are pandemics natural disasters? Into which box(es) in Table 9.1 has the COVID-1
 
 ## The Banality of Evil
 
-The podcast, [Death by a Thousand Cuts](https://scholars.org/podcast/death-thousand-cuts) talked about "Administrative Evil" in Flint, Michigan, applying the philosopher Hannah Arendt's concept of "the Banality of Evil" to agency decisions. 
+The podcast [Death by a Thousand Cuts](https://scholars.org/podcast/death-thousand-cuts) talked about "Administrative Evil" in Flint, Michigan.
 
-The language of "evil" is an issue frame that evokes certain social obligations--e.g. to not poison people with lead or to not put people at risk when they fly, but policy often permits some level of toxins or some level of risk; when does it cross the threshold to unacceptable? These are very difficult and unavoidable policy questions that, Stone would say, science can inform but not answer these questions. For what kinds of harms should elected officials be liable? For what kinds of harms should bureaucrats be held liable?  For what kinds of harms should the organizations be held liable? For what kinds of harms should employees be liable? For what kinds of harms should business owners be liable?
+:::{.notes}
+The language of "evil" is an issue frame that evokes certain social obligations--e.g., to not poison people with lead or to not put people at risk when they fly, but policy often permits some level of toxins or some level of risk; when does it cross the threshold to unacceptable? These are very difficult and unavoidable policy questions that, Stone would say, science can inform but not answer these questions. For what kinds of harm should elected officials be liable? For what kinds of harm should bureaucrats be held liable? For what kinds of harm should the organizations be held liable? For what kinds of harm should employees be liable? For what kinds of harm should business owners be liable?
+:::
 
 > "I was just following orders" is the classic defense of low-level bureaucrats and soldiers - Stone, p. 213
 
-Arendt wrote about the Banality of Evil while covering the trial of Adolf Eichmann for the *New Yorker*, see [*Eichmann in Jerusalem*](https://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i).
+Arendt wrote about the Banality of Evil while covering the trial of Adolf Eichmann for the *New Yorker*. See [*Eichmann in Jerusalem*](https://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WTQNWgZVctM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-???
+---
 
 > What is an individual's duty to question authority? 
 
-If Eichmann's work, as a bureaucrat, is seen as a mechanical process of following orders, then he is not a policy **actor** and thus not responsible for deaths (and ** inadvertent cause**, not an **intentional cause**). How might we draw lines between people who are simply following orders and thus blameless and those who act consciously, and are thus responsible?
+If Eichmann's work as a bureaucrat is seen as a mechanical process of following orders, then he is not a policy **actor** and thus not responsible for deaths (and **inadvertent cause**, not an **intentional cause**). How might we draw lines between people who are simply following orders and thus blameless and those who act consciously and are thus responsible?
 
 ---
 
@@ -497,13 +546,13 @@ If Eichmann's work, as a bureaucrat, is seen as a mechanical process of followin
 
 **Path dependence** is the idea that decisions in one period determine the choices available in future periods.
 
-Sometimes, historical and institutional causes can be used to avoid blam because they imply that outcomes are not the result of **intentional** actions in the present. 
+Sometimes, historical and institutional causes can be used to avoid blame because they imply that outcomes are not the result of **intentional** actions in the present. 
 
 However, they can also be used to transform **conditions** into **problems** that require a remedy. For example, if some inequality is the result of historical or institutional disadvantage, then it moves from the realm of "just the way things are" to unintended consequences (**inadvertent cause**) or accepted consequences (similar to calculated risk, an **intentional cause**), opening the door for advocates to demand a solution to the historical or institutional problem.
 
 Civil rights advocates have (somewhat) achieved just such a transformation. Where once disparate impacts that were not intended (or where intent could not be proven) were not considered discrimination, now policy with disparate impacts is considered institutional discrimination.
 
-> In 1971, the Supreme Court, for the first time, allowed statistical evidence of a rule's "disproportionate impact" on a minority group to stand as proof of discrimination, without a showing of intent to discriminate...In effect, advocates successfully created the problem of "institutional discrimination" by pushing a causal story from the realm of intent to the realm of inadvertence. - Stone, p. 222
+> In 1971, the Supreme Court, for the first time, allowed statistical evidence of a rule's "disproportionate impact" on a minority group to stand as proof of discrimination without a showing of intent to discriminate...In effect, advocates successfully created the problem of "institutional discrimination" by pushing a causal story from the realm of intent to the realm of inadvertence. - Stone, p. 222
 
 > Bringing a condition under human control often poses a challenge to old hierarchies of wealth, privilege, or status. - Stone, p. 224
 
@@ -513,19 +562,20 @@ Civil rights advocates have (somewhat) achieved just such a transformation. Wher
 
 ## The legitimacy of causal claims
 
-> The political success of causal theories is also influenced by two powerful institutions for determining cause and legitimizing claims about harms: law and science. - Stone, p. 224 
+> The political success of causal theories is also influenced by two powerful institutions for determining cause and legitimizing claims about harm: law and science. - Stone, p. 224 
 
 From a strategic perspective, this is why good research and understanding of legal authority are so important for writing policy memos. Without evidence and authority that your audience sees as legitimate, they will not take your recommendations seriously. 
 
-![](https://imgs.xkcd.com/comics/cell_phones.png)
 
 # Interests
 
+## Stakeholder analysis
+
 Identifying stakeholders (interests) is a vital part of issues analysis and the comparison of policy options in a policy memo.
 
-An effective policy memo analyzes the political terrain (to use that metaphor again) of existing stakeholder groups and anticipates how stakeholder interests that might be mobilized by policy, *even interest groups that are not yet mobilized or do not yet exist* because *policy proposals create interests*.
+An effective policy memo analyzes the political terrain (to use that metaphor again) of existing stakeholder groups and anticipates how stakeholder interests might be mobilized by policy, *even interest groups that are not yet mobilized or do not yet exist* because *policy proposals create interests*.
 
-Indeed in writing a memo, one inevitably defines interests in the way they present the issue. 
+Indeed, in writing a memo, one inevitably defines interests in the way they present the issue. 
 
 ## Mobilizing interests
 
@@ -533,29 +583,31 @@ In defining an interest, analysts, organizers, and political leaders highlight s
 
 ![](figs/women-unite.jpg)
 
-![](figs/women-working.png)
+##  {background-image="figs/women-working.png" background-size="contain"}
 
-![](figs/women-boss.png)
+##  {background-image="figs/women-boss.png" background-size="contain"}
 
-![](figs/women-communist.jpg)
+##  {background-image="figs/women-communist.jpg" background-size="contain"}
 
-![](figs/women-gop.png)
+##  {background-image="figs/women-gop.png" background-size="contain"}
 
-![](figs/women-mask.jpg)
+##  {background-image="figs/women-mask.jpg" background-size="contain"}
 
-![](figs/women-cancer.jpeg)
+##  {background-image="figs/women-cancer.jpeg" background-size="contain"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28dHbIR_NB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+
+<iframe width="1000" height="1000" src="https://www.youtube.com/embed/28dHbIR_NB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## Collective action 
 
-> [People] have relationships with parents, friends, partners, teachers, bosses, and cultural heroes. These ties create strong mechanisms of influence and moral leadership. In turn, these mechanisms create **norms** of altruism, reciprocity, cooperation, and ready channels for collective action...If a community has a dense network of voluntary associations, these serve channels of participation for the collective good. All of these factors create *social capital*, which, like physical assets or material wealth, can be used to harness individual energies for the common good. - Stone, p. 236-237, citing [Elinor Ostrom](http://theconversation.com/the-grand-philosopher-of-the-commons-in-memory-of-elinor-ostrom-7621)'s [*Governing the Commons: The Evolution of Institutions for Collective Action*](Governing the Commons: The Evolution of Institutions for Collective Action) and Robert Putnam's [*Bowling Alone*](https://books.google.com/books?id=rd2ibodep7UC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)
+> [People] have relationships with parents, friends, partners, teachers, bosses, and cultural heroes. These ties create strong mechanisms of influence and moral leadership. In turn, these mechanisms create **norms** of altruism, reciprocity, cooperation, and ready channels for collective action...If a community has a dense network of voluntary associations, these serve as channels of participation for the collective good. All of these factors create *social capital*, which, like physical assets or material wealth, can be used to harness individual energies for the common good. - Stone, p. 236-237, citing [Elinor Ostrom](http://theconversation.com/the-grand-philosopher-of-the-commons-in-memory-of-elinor-ostrom-7621)'s [*Governing the Commons: The Evolution of Institutions for Collective Action*](Governing the Commons: The Evolution of Institutions for Collective Action) and Robert Putnam's [*Bowling Alone*](https://books.google.com/books?id=rd2ibodep7UC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)
 
 > “The issues of how best to govern natural resources used by many individuals in common are no more settled in academia than in the world of politics.” - Ostrom, [*Governing the Commons: The Evolution of Institutions for Collective Action*]
 
-> Collective action in politics is more like a sports competition than a bargain hunt. One plays to win, and winning gives the game its direction and structure, but one place even more just to play, and the greater satisfaction comes from being in the game. Seen in this light, the costs of collective action such as the time and effort *are* its benefits. - Stone, p. 237, citing Hirshman, [Shifting involvement: Private Interest and Public Action](https://books.google.com/books?id=uPZJDAAAQBAJ&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)
+> Collective action in politics is more like a sports competition than a bargain hunt. One plays to win, and winning gives the game its direction and structure, but one plays even more just to play, and the greater satisfaction comes from being in the game. Seen in this light, the costs of collective action, such as the time and effort *are* its benefits. - Stone, p. 237, citing Hirshman, [Shifting involvement: Private Interest and Public Action](https://books.google.com/books?id=uPZJDAAAQBAJ&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)
 
 ---
 
@@ -572,24 +624,25 @@ This typology describes the kind of politics generated by different [policy tool
 | **Concentrated costs** | Interest group politics | Entrepeneurial politis |
 | **Distributed costs**  | Clintele politics       | Majoritarian politics  |
 
+---
+
 > In practice, the two types of unequal contests [clintele politics and entrepreneurial politics] are really only one, depending on whether we look at the issue from the vantage point of the proposed change or the status quo. - Stone, p. 240
 
-???
+:::{.notes}
 
-To what extent to the characteristics of issues or policies shape the resulting politics (as Wilson argues)?
+To what extent do the characteristics of issues or policies shape the resulting politics (as Wilson argues)?
 
 To what extent do politics shape the characteristics that policies and issues are portrayed and perceived as having in the first place (as Stone argues)? 
 
 Stone claims that "Programs don't themselves have inherent distributions of costs and benefits. Rather, political actors strategically represent programs as contests between different types of costs and benefits." (Stone, p. 243) To me, the second sentence seems much more plausible than the first. 
 
-No doubt, both would likely concede some ground, but it is worth considering the extent to which the structure of policy tools shape politics versus their perception. 
-For a social scientist, one's answer likely shapes one's research agenda. Should we study the distributions of costs and benefits that institutions and policies impose, or focus more on people's perceptions of those costs and benefits? 
-
----
+No doubt, both would likely concede some ground, but it is worth considering the extent to which the structure of policy tools shapes politics versus their perception. 
+For a social scientist, one's answer likely shapes one's research agenda. Should we study the distributions of costs and benefits that institutions and policies impose or focus more on people's perceptions of those costs and benefits? 
+:::
 
 ## "Good" vs. "Bad" interests
 
-> In American political culture, where the government is viewed as properly a referee among interests rather than a strong power itself, the most important source of outside help is government. Ironically, then, portraying one's own side as weaker becomes strategically useful in order to attract both government support and broad support from as-yet-uninvolved groups who share your values. - Stone, p. 245
+> In American political culture, where the government is viewed as properly a referee among interests rather than a strong power itself, the most important source of outside help is the government. Ironically, then, portraying one's own side as weaker becomes strategically useful in order to attract both government support and broad support from as-yet-uninvolved groups who share your values. - Stone, p. 245
 
 
 
@@ -605,15 +658,17 @@ https://virginialawreview.org/sites/virginialawreview.org/files/Seifter_Book_fin
 
 ![](figs/voting_referendum.png)
 
+## Policy reasoning 
+
 > "It is only in combination with particular, non-rational impulses that reason can determine what to do."
-*- Deborah Stone*
+*- Stone*
 
 ---
 
 
-## Policy reasoning example: COVID-19
+## Policy reasoning example: the next pandemic
 
-Suppose that scientists estimate that COVID-19 has a mortality rate of 2% and will infect 50% of UW-Madison's 40,000 students, meaning that 600 UW-Madison students are expected to die. The Wisconsin Department of Health Services is deciding between two vaccination programs and can choose only one:
+Suppose that scientists estimate that COVID-24 has a mortality rate of 2% and will infect 50% of U-M's 40,000 students, meaning that 600 U-M students are expected to die. The Michigan Department of Health & Human Services-M is deciding between two vaccination programs and can choose only one:
 
 - Program A would use a conventional vaccine that can be counted on to save 200 people.
 - Program B would use an experimental vaccine that has a 1/3 chance of saving all 600 people and a 2/3 chance of saving no one.
@@ -623,70 +678,79 @@ Which would you choose?
 
 ---
 
-Now suppose the Wisconsin Department of Health Services is considering two other possible vaccination programs:
+Now, suppose the Michigan Department of Health & Human Services-M is considering two other possible vaccination programs:
 
 - Program C would use a conventional vaccine that we know from experience will result in the death of 400 people
 - Program D would use an experimental vaccine that would offer a 1/3 chance no one would die and a 2/3 chance that all 600 students would die.
 
 Which would you choose? 
 
---
+---
 
-Changing labels ("lives saved" vs. "deaths") can turn most people from *risk-tolerant* to *risk-averse*. This is the power of **issue framing**.
+## The power of **issue framing**
 
-
-From *[The Psychology of Prefrences](https://www.jstor.org/stable/24966506?seq=1#metadata_info_tab_contents)* by Daniel Kahneman and Amos Tversky
+Changing labels ("lives saved" vs. "deaths") can turn most people from *risk-tolerant* to *risk-averse*.  (See *[The Psychology of Prefrences](https://www.jstor.org/stable/24966506?seq=1#metadata_info_tab_contents)* by Daniel Kahneman and Amos Tversky.)
 
 ---
 
-**Issue framing**: The process of focusing attention on a particular slice of an extended causal chain is called issue framing.
+## Issue framing
 
-Like it or not, Stone argues, any issue analysis also involves issue framing. Stone asks us to think carefully about how we frame problems and solutions because it matters. 
+The process of focusing attention on a particular slice of an extended causal chain is called issue framing.
 
-In this example, the consequence (or at least its **expected value**--the expected number of deaths) is exactly the same in all cases, but some of these policies seem more appropriate than others. This suggests that choices among policy options depend on more than their expected outcomes.
+- Like it or not, Stone argues, any issue analysis also involves issue framing. Stone asks us to think carefully about how we frame problems and solutions because it matters. 
 
-???
+- In this pandemic example, the consequence (or at least its **expected value**---the expected number of deaths) is exactly the same in all cases, but some of these policies seem more appropriate than others. This suggests that choices among policy options depend on more than their expected outcomes.
 
-When should framing effects be considered errors in judgement? When should they be considered biases?
+---
 
-For example, public opinion flips depending on whether a policy is characterized as an "expansion of government *power*" or an an "expansion of government *spending*" (Gallup, 2009). If a policy was characterized using the word "welfare," support dropped by 40%. ([Smith, 1987](https://www.jstor.org/stable/2749059#metadata_info_tab_contents))
+## Framing and bias
+
+When should framing effects be considered errors in judgment? When should they be considered biases?
+
+For example, public opinion flips depending on whether a policy is characterized as an "expansion of government *power*" or an "expansion of government *spending*" (Gallup, 2009). If a policy was characterized using the word "welfare," support dropped by 40%. ([Smith, 1987](https://www.jstor.org/stable/2749059#metadata_info_tab_contents))
 
 ---
 
 ## Selecting alternatives
 
-Perhaps your reaction to the choice between A and B was "no! those can't be our only options!"
+Perhaps your reaction to the choice between A and B was, "No! Those can't be our only options!"
 
-> Whether you are wearing your citizen hat or your analyst hat, be on the lookout for **Hobson's choices**. Whenever you are presented with an either-or choice, you should be tiped off to a trap. You can disengage it by imagining different alternatives other than thos presented (there are always more), and by giving new attributes to the ones presented. 
+> Whether you are wearing your citizen hat or your analyst hat, be on the lookout for **Hobson's choices**. Whenever you are presented with an either-or choice, you should be tipped off to a trap. You can disengage it by imagining different alternatives other than those presented (there are always more) and by giving new attributes to the ones presented. 
 
-Policymakers are smart and will often see through false choices (even my friend's 2 year old does not always fall for the "eat this or eat that" trick). This is why it is important to compare good options--that is, options your reader will agree are some of the best things they might do. If the options you present apear to bias the decision, they are not going to take your analysis seriously. But, of coures, the options you choose will always affect the decision! The trick is to present options that don't make your analysis seem pre-judged or tilted to a particular outcome. 
+---
+
+## Implications for policy analysis
+
+Policymakers are smart and will often see through false choices (even my friend's 2-year-old does not always fall for the "eat this or eat that" trick). This is why it is important to compare good options--that is, options your reader will agree are some of the best things they might do. If the options you present appear to bias the decision, they are not going to take your analysis seriously. But, of course, the options you choose will always affect the decision! The trick is to present options that don't make your analysis seem pre-judged or tilted to a particular outcome. 
 
 ---
 
 ## Cost-Benefit Analysis
 
+> The clever analyst can throw the decision one way by including enough negative consequences to outweigh the positive ones or throw it the other way by including more positive consequences...If you understand how malleable cost-benefit analysis can be, you can more effectively critique other analyses and construct analyses that will support your political goals. - Stone p. 264
+
+## Quantification bias
+
+- Analysts force themselves to measure all the consequences in the same terms.
+- This pressures analysts to ignore what they can't count.
+
+> Depending on the proposal, **intangible cost** might be accidental deaths, adverse health effects, damaged political reputations, urban decline, or loss of a wilderness area. Intangible benefits might be psychological security from safety measures, enhanced political credibility, urban revitalization, species diversity, or spiritual nourishment. - Stone, age 261
+
+
+
+## Putting costs and benefits in context
+
 Stone offers some advice on the comparison of options in a policy memo: 
 
-> Evaluating different options should include how the options are and could be *characterized and what they reptresetn--or might represent--symbollically, as well as practically. - Stone, p. 261
+> Evaluating different options should include how the options are and could be *characterized* and what they represent---or might represent--- symbolically, as well as practically. - Stone, p. 261
 
-Costs often rely on prices in markets as currently structured, rather than how the market might price things after reform. 
+Costs often rely on prices in markets as currently structured rather than how the market might price things after reform. 
 
-> Instead of taking prices as a given, policy reformers should analyze the forces that create prices and sometimes put their efforts into changing prices by chagning the power relations that set them. - Stone, p. 262
-
----
-
-- Analyists force themseves to measure all the consequences in the same terms.
-- This pressures analysists to ignore what they can't count.
-
-> Depending on the proposal, **intangible cost might be accidental deaths, adverse health effects, damaged political reputations, urban decline, or loss of a wilderness area. Intangable benefits might be psychological secutrity from saftety meausres, enhanced political credibility, urban revitalization, species diversity, or spritual nurishment. - Stone, age 261
-
-Recall the [Mercury Rule example](https://judgelord.github.io/PS272/stone2.html#is_regulating_mercury_efficient). 
-
-> The clever analyst can throw the decision one way by including enought negative consequenes to outweitght the posititive ones, or throw it the other way by including more positve consequences...If you undersand how malleable cost-benefit analysis can be, you can more effectively critique other anslyses and construct analysis that will support your political goals. - Stone p. 264
+> Instead of taking prices as a given, policy reformers should analyze the forces that create prices and sometimes put their efforts into changing prices by changing the power relations that set them. - Stone, p. 262
 
 
 
----
+## Logics of appropriateness and consequences
 
 From March and Olson [*Rediscovering Institutions*](https://books.google.com/books?id=PptVLvIoSWwC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)
 
@@ -696,17 +760,16 @@ vs.
 
 > Logics of appropriateness: "What does someone like me do in this context?"
 
-???
 
 How might ideas of appropriateness change by 2050? 
 
----
+
 
 ## Utilitarian vs. deontological decision-making
 
 What makes policy good or bad?
 
-**Deontology** is a normative ethical theory that the morality of an action should be based on whether that action itself is right or wrong under a series of rules, rather than based on the consequences of the action.
+**Deontology** is a normative ethical theory that the morality of an action should be based on whether that action itself is right or wrong under a series of rules rather than based on the consequences of the action.
 
 **Utilitarianism** is a normative ethical theory that the morality of an action should be based on the consequences, specifically maximizing the resulting good or utility.
 
