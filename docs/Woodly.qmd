@@ -1,0 +1,83 @@
+---
+title: "The Politics of Common Sense"
+subtitle: "How Social Movements Use Public Discourse to Change Politics and Win Acceptance"
+author: "Deva Woodly"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://workersunited.org/uploads/attachments/ckv89jtbt0058oldzbrd4mewk-fredsign.full.png"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+        data-background-position: "top"
+---
+
+
+> Political conflict is not like an intercollegiate debate in which the opponents agree in advance on a definition of the issues. As a matter of fact, the definition of the alternatives is the supreme instrument of power; antagonists can rarely agree on what the issues are because power is involved in the definition. 
+
+> He who determines what politics is about runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power.
+
+-- E. E. Schattschneider, The Semisovereign People (1975)
+
+---
+
+## Words matter
+
+1) Description implies prescription 
+
+2) Stories allocate blame, moving problems in or out of politics
+
+3) Defining of alternatives defines political possibilities
+
+. . . 
+
+> Changing public discourse changes power relations...rewriting the common understandings present in the discursive field upon which political possibilities are considered 
+
+> [An] indispensable resource for political challengers (Woodly, p. 1)
+
+## Politics 
+
+> the principles and policy that are at stake in the struggle over who shall govern and how.
+
+
+## The Living Wage Movement 
+
+> over 120 local ordinances, guaranteeing municipal employees and contractors wage raises 
+
+but
+
+> the public's ideas about the relationship between government, capital, and citizens remained unchanged
+
+## Marriage Equality 
+
+> judicial and legislative defeats
+
+but
+
+> forcing them to articulate argumetns for or against what had prevoiusly been **unthinkable**
+
+
+## Lessons 
+
+Politics as outcome
+
+> There is more to being a successful social movement than winning immediate or direct favorable outcomes 
+
+Discourse as mechanism of 
+
+> without a ready-made apparatus of Washington-based interest organizations or routine access to elected officials *must* go through the pubic sphere...to communicate the definition of the problem they see and the contours of the "common-sense" logic that leads them to their preffered solutions.
+
+(problem definition and analysis)
+
+
+## Political acceptance
+
+- covered by the media 
+- addressed by elected officials 
+- opponents, must begin talking about their issue, taking into account the way they have framed the debate
+
+
+
