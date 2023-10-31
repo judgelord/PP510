@@ -254,7 +254,7 @@ compare: https://www.blackpast.org/african-american-history/primary-documents-af
 
 One way to define a problem is to measure it. Bardach told us that problems are best stated as "too much" or "too little" of something. Numbers allow definitions of too much or too little.
 
-![]("https://academic.oup.com/view-large/figure/422619563/biad080fig1.jpg")
+![](figs/climate.jpeg)
 
 ## Measuring occurs with goals in mind
 
@@ -382,7 +382,7 @@ In science (especially social science), we confront *observer effects*---the fac
 
 ---
 
-## Policy feedback 
+## Policy Feedback 
 
 Stone's concept of **reactive effects** incorporates concepts from studies of *policy feedback*, where the policy creates, empowers, and/or demobilizes political actors, thus affecting the political terrain (to use a metaphor) on which future policy is made. 
 
@@ -737,7 +737,7 @@ Which would you choose?
 
 ## The power of **issue framing**
 
-Changing labels ("lives saved" vs. "deaths") can turn most people from *risk-tolerant* to *risk-averse*.  (See *[The Psychology of Preferences](https://www.jstor.org/stable/24966506?seq=1#metadata_info_tab_contents)* by Daniel Kahneman and Amos Tversky.)
+Changing labels ("lives saved" vs. "deaths") can turn most people from *risk-tolerant* to *risk-averse*. (See *[The Psychology of Preferences](https://www.jstor.org/stable/24966506?seq=1#metadata_info_tab_contents)* by Daniel Kahneman and Amos Tversky.)
 
 ---
 
