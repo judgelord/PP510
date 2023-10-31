@@ -254,6 +254,10 @@ compare: https://www.blackpast.org/african-american-history/primary-documents-af
 
 One way to define a problem is to measure it. Bardach told us that problems are best stated as "too much" or "too little" of something. Numbers allow definitions of too much or too little.
 
+![]("https://academic.oup.com/view-large/figure/422619563/biad080fig1.jpg")
+
+## Measuring occurs with goals in mind
+
 Yet, there are many possible ways to measure something, and the choice among them depends on one's purpose for measuring.
 
 
