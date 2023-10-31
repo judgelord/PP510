@@ -374,7 +374,7 @@ Further reading on science and "safe" standards:  [The Science Charade in Toxic 
 
 ![](https://imgs.xkcd.com/comics/decline.png)
 
----
+## Reactive effects
 
 In science (especially social science), we confront *observer effects*---the fact that things, and especially people, behave differently when observed. 
 
@@ -386,7 +386,9 @@ In science (especially social science), we confront *observer effects*---the fac
 
 Stone's concept of **reactive effects** incorporates concepts from studies of *policy feedback*, where the policy creates, empowers, and/or demobilizes political actors, thus affecting the political terrain (to use a metaphor) on which future policy is made. 
 
-By counting people as part of a group, a policy may induce them to act as a group (whereby policy that creates a **statistical community** leads to the formation of a **natural (social) community**). Group theories of politics (e.g., **pluralism**) tell us to expect these groups to then advocate for resources, privileges, or protection in future policy processes.
+By counting people as part of a group, a policy may induce them to act as a group (whereby policy that creates a **statistical community** leads to the formation of a **natural (social) community**). 
+
+Group theories of politics (e.g., **pluralism**) tell us to expect these groups to then advocate for resources, privileges, or protection in future policy processes.
 
 ---
 
@@ -415,10 +417,11 @@ If the Department of Justice Antitrust Division measures market concentration to
 See numerical Strategies in Problem Definition (p. 203)
 
 
----
 
 
 # To Know the Causes of Things 
+
+. . . 
 
 (Or, to *feel* the causes of things?)
 
@@ -426,21 +429,35 @@ See numerical Strategies in Problem Definition (p. 203)
 
 ## Issue analysis
 
-I often say that issue analysis in policy memos must identify "root causes" that can be targeted by policy. Stone's critique demands that we see the *prescriptive* power in causal analysis. Like numbers, causes highlight some aspects of a problem and ignore others. Causal chains are stories that define problems and assign blame.
+I often say that issue analysis in policy memos must identify "root causes" that can be targeted by policy. 
+
+Stone's critique demands that we see the *prescriptive* power in causal analysis. 
+
+Like numbers, causes highlight some aspects of a problem and ignore others. Causal chains are stories that define problems and assign blame.
 
 > We look for causes not only to understand how the world works but to *assign responsibility* for problems. - Stone, p. 206
 
 ---
 
+<!--
+
 > "People do not think they know a thing till they have grasped the "why" of it (which is to grasp its primary cause)"- Aristotle 
 
 ![](https://imgs.xkcd.com/comics/correlation.png)
+
+-->
 
 ## Are causes determined more by science or rhetoric? 
 
 . . .
 
-Perhaps this question is unfair because rhetoric often uses the cultural authority of science and numbers, and conversely, science must be communicated in language that has been shaped by political rhetoric. This does not mean that science is worthless. On the contrary, political rhetoric uses science whenever possible precisely because of the broad trust in scientists to provide the most reliable answers to questions. This trust exists for good reasons. 
+Perhaps this question is unfair because rhetoric often uses the cultural authority of science and numbers, and conversely, science must be communicated in language that has been shaped by political rhetoric. 
+
+This does not mean that science is worthless. 
+
+On the contrary, political rhetoric uses science whenever possible precisely because of the broad trust in scientists to provide the most reliable answers to questions. 
+
+This trust exists for good reasons. 
 
 
 
@@ -508,7 +525,9 @@ For example, climate change has moved from **mechanical cause** in the Holocene 
 
 ## Nature
 
+<!--
 > While social scientists find intriguing puzzles in complex causes, and political actors take refuge in them, environmental scientists have created an intellectual revolution in our understanding of causation. 
+-->
 
 > "One thing people always loved about the Weather Channel was that it was nobody's fault," said Dr. Heidi Cullen, the channel's climate scientist. "And then [Hurricane] Katrina came along, and suddenly the weather was potentially our fault." 
 
@@ -536,15 +555,19 @@ The language of "evil" is an issue frame that evokes certain social obligations-
 
 > "I was just following orders" is the classic defense of low-level bureaucrats and soldiers - Stone, p. 213
 
+. . . 
+
 Arendt wrote about the Banality of Evil while covering the trial of Adolf Eichmann for the *New Yorker*. See [*Eichmann in Jerusalem*](https://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WTQNWgZVctM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-> What is an individual's duty to question authority? 
+## What is an individual's duty to question authority? 
 
-If Eichmann's work as a bureaucrat is seen as a mechanical process of following orders, then he is not a policy **actor** and thus not responsible for deaths (and **inadvertent cause**, not an **intentional cause**). How might we draw lines between people who are simply following orders and thus blameless and those who act consciously and are thus responsible?
+If Eichmann's work as a bureaucrat is seen as a mechanical process of following orders, then he is not a policy **actor** and thus not responsible for deaths (and **inadvertent cause**, not an **intentional cause**). 
+
+How might we draw lines between people who are simply following orders and thus blameless and those who act consciously and are thus responsible?
 
 ---
 
@@ -554,11 +577,21 @@ If Eichmann's work as a bureaucrat is seen as a mechanical process of following 
 
 Sometimes, historical and institutional causes can be used to avoid blame because they imply that outcomes are not the result of **intentional** actions in the present. 
 
-However, they can also be used to transform **conditions** into **problems** that require a remedy. For example, if some inequality is the result of historical or institutional disadvantage, then it moves from the realm of "just the way things are" to unintended consequences (**inadvertent cause**) or accepted consequences (similar to calculated risk, an **intentional cause**), opening the door for advocates to demand a solution to the historical or institutional problem.
+However, they can also be used to transform **conditions** into **problems** that require a remedy. 
+
+## Institutional structure and historical causes
+
+For example, if some inequality is the result of historical or institutional disadvantage, then it moves from the realm of "just the way things are" to unintended consequences (**inadvertent cause**) or accepted consequences (similar to calculated risk, an **intentional cause**), opening the door for advocates to demand a solution to the historical or institutional problem.
+
+## Institutional structure and historical causes
 
 Civil rights advocates have (somewhat) achieved just such a transformation. Where once disparate impacts that were not intended (or where intent could not be proven) were not considered discrimination, now policy with disparate impacts is considered institutional discrimination.
 
 > In 1971, the Supreme Court, for the first time, allowed statistical evidence of a rule's "disproportionate impact" on a minority group to stand as proof of discrimination without a showing of intent to discriminate...In effect, advocates successfully created the problem of "institutional discrimination" by pushing a causal story from the realm of intent to the realm of inadvertence. - Stone, p. 222
+
+---
+
+## Causal stories allocate blame and power
 
 > Bringing a condition under human control often poses a challenge to old hierarchies of wealth, privilege, or status. - Stone, p. 224
 
@@ -620,7 +653,7 @@ In defining an interest, analysts, organizers, and political leaders highlight s
 ## Issues and interests define each other
 
 Know: Wilson's  Cost-Benefit Policy Typology of Political Contests
-(p. 239 in Stone, p. 267 in Birkland ( [Birkland slide here](https://judgelord.github.io/PS272/birkland#84) ))
+(p. 239 in Stone, p. 267 in Birkland)
 
 This typology describes the kind of politics generated by different [policy tools](https://judgelord.github.io/PS272/bardach#1) (we will return to policy tools in part 4 of Sone).
 
@@ -630,9 +663,16 @@ This typology describes the kind of politics generated by different [policy tool
 | **Concentrated costs** | Interest group politics | Entrepeneurial politis |
 | **Distributed costs**  | Clintele politics       | Majoritarian politics  |
 
----
+## Issues and interests define each other
 
 > In practice, the two types of unequal contests [clintele politics and entrepreneurial politics] are really only one, depending on whether we look at the issue from the vantage point of the proposed change or the status quo. - Stone, p. 240
+
+
+|                    | **Concentrated benefits**   | **Distributed Benefits**   |
+|--------------------|-------------------------|------------------------|
+| **Concentrated costs** | Interest group politics | Entrepeneurial politis |
+| **Distributed costs**  | Clintele politics       | Majoritarian politics  |
+
 
 :::{.notes}
 
@@ -647,6 +687,8 @@ For a social scientist, one's answer likely shapes one's research agenda. Should
 :::
 
 ## "Good" vs. "Bad" interests
+
+"Weak" vs. "Strong" interests
 
 > In American political culture, where the government is viewed as properly a referee among interests rather than a strong power itself, the most important source of outside help is the government. Ironically, then, portraying one's own side as weaker becomes strategically useful in order to attract both government support and broad support from as-yet-uninvolved groups who share your values. - Stone, p. 245
 
@@ -674,20 +716,20 @@ https://virginialawreview.org/sites/virginialawreview.org/files/Seifter_Book_fin
 
 ## Policy reasoning example: the next pandemic
 
-Suppose that scientists estimate that COVID-24 has a mortality rate of 2% and will infect 50% of U-M's 40,000 students, meaning that 600 U-M students are expected to die. The Michigan Department of Health & Human Services-M is deciding between two vaccination programs and can choose only one:
+Suppose that scientists estimate that COVID-24 has a mortality rate of 0.2% and will infect 50% of U-M's 40,000 students, meaning that 60 U-M students are expected to die. The Michigan Department of Health & Human Services is deciding between two vaccination programs and can choose only one:
 
-- Program A would use a conventional vaccine that can be counted on to save 200 people.
-- Program B would use an experimental vaccine that has a 1/3 chance of saving all 600 people and a 2/3 chance of saving no one.
+- Program A would use a conventional vaccine that can be counted on to save 20 people.
+- Program B would use an experimental vaccine that has a 1/3 chance of saving all 60 people and a 2/3 chance of saving no one.
 
 Which would you choose? 
 
 
 ---
 
-Now, suppose the Michigan Department of Health & Human Services-M is considering two other possible vaccination programs:
+Now, suppose the Michigan Department of Health & Human Services is considering two other possible vaccination programs:
 
-- Program C would use a conventional vaccine that we know from experience will result in the death of 400 people
-- Program D would use an experimental vaccine that would offer a 1/3 chance no one would die and a 2/3 chance that all 600 students would die.
+- Program C would use a conventional vaccine that we know from experience will result in the death of 40 people
+- Program D would use an experimental vaccine that would offer a 1/3 chance no one would die and a 2/3 chance that all 60 students would die.
 
 Which would you choose? 
 
@@ -695,7 +737,7 @@ Which would you choose?
 
 ## The power of **issue framing**
 
-Changing labels ("lives saved" vs. "deaths") can turn most people from *risk-tolerant* to *risk-averse*.  (See *[The Psychology of Prefrences](https://www.jstor.org/stable/24966506?seq=1#metadata_info_tab_contents)* by Daniel Kahneman and Amos Tversky.)
+Changing labels ("lives saved" vs. "deaths") can turn most people from *risk-tolerant* to *risk-averse*.  (See *[The Psychology of Preferences](https://www.jstor.org/stable/24966506?seq=1#metadata_info_tab_contents)* by Daniel Kahneman and Amos Tversky.)
 
 ---
 
