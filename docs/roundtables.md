@@ -5,6 +5,10 @@
 
 This year, roundtables are structured as expert panel presentations assembled for a Michigan House Committee informational hearing. Here is a [summary of testimony from a recent informational haring on racial and ethnic disparities in maternal and infant health](https://stateofreform.com/featured/2023/03/michigan-senate-committee-discusses-racial-and-ethnic-disparities-in-maternal-and-infant-health/) and the [full audio from that committee meeting](https://www.senate.michigan.gov/committeeaudio/2023-2024/Health%20Policy/Health-Policy-03-22-2023_1232PM_28_72.mp3). Given their official positions, these presenters have more time and slightly different goals than your goals, but I hope it is helpful. 
 
+Here is a nice summary of some research on trends in expert hearings by US House committees: 
+
+- https://www.washingtonpost.com/politics/2022/01/28/congress-expert-testimony-public-policy/
+
 We have six topics on which various committees would like more information and policy analysis to make informed decisions about potential legislation that may end up in front of them. As members of the committee, they have the ability to mark up and shape legislation and then vote to send it out of committee to the full chamber for debate and votes. On some of these issues, they may be considering proposed legislation on some of these topics for many years to come, so they are not only interested in current draft legislation but also a general understanding of the problem and the pros and cons of different policy solutions that might be advanced. 
 
 ## Reflection and peer critique 
