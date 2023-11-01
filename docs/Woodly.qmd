@@ -30,7 +30,7 @@ format:
 
 2) Stories allocate blame, moving problems in or out of politics
 
-3) Defining of alternatives defines political possibilities
+3) Defining alternatives defines political possibilities
 
 . . . 
 
@@ -42,6 +42,10 @@ format:
 
 > the principles and policy that are at stake in the struggle over who shall govern and how.
 
+. . . 
+
+> The activity through which relatively large and permanent groups of people determine what they will collectively do, settle how they will live together, and decide their future” (Pitkin 1981, 343).
+
 
 ## The Living Wage Movement 
 
@@ -49,15 +53,15 @@ format:
 
 but
 
-> the public's ideas about the relationship between government, capital, and citizens remained unchanged
+> The public's ideas about the relationship between government, capital, and citizens remained unchanged
 
 ## Marriage Equality 
 
-> judicial and legislative defeats
+> Judicial and legislative defeats
 
 but
 
-> forcing them to articulate argumetns for or against what had prevoiusly been **unthinkable**
+> forcing them to articulate arguments for or against what had previously been **unthinkable**
 
 
 ## Lessons 
@@ -66,12 +70,20 @@ Politics as outcome
 
 > There is more to being a successful social movement than winning immediate or direct favorable outcomes 
 
-Discourse as mechanism of 
+Discourse as a mechanism of 
 
-> without a ready-made apparatus of Washington-based interest organizations or routine access to elected officials *must* go through the pubic sphere...to communicate the definition of the problem they see and the contours of the "common-sense" logic that leads them to their preffered solutions.
+> Without a ready-made apparatus of Washington-based interest organizations or routine access to elected officials *must* go through the public sphere...to communicate the definition of the problem they see and the contours of the "common-sense" logic that leads them to their preferred solutions.
 
 (problem definition and analysis)
 
+
+## Emergence 
+
+> [A] concern *emerges* from a marginal community into the mainstream occurs when the press, officials, and other elites take notice.
+
+However,  
+
+> Media gatekeepers and public officials may choose to dismiss or ignore or merely fail to prioritize challengers' claims, and the assertions of grass-roots communities may fall back into the category of "noise." 
 
 ## Political acceptance
 
@@ -79,5 +91,62 @@ Discourse as mechanism of
 - addressed by elected officials 
 - opponents must begin talking about the issue, taking into account the way challengers have framed the debate
 
+It is not the same as political agreement or acceptance of a policy position.
+
+## What we think of as political
+
+> What we think of as political is both *contingent* and *constrained* by common-sense notions
+
+. . . 
+
+>  that develop out of the interactions among our background conceptions of the way the world is....with new ideas, practices, and laws. 
 
 
+
+## Perssusion
+
+> Success for social movements hinges on persuading 
+
+> Political persuasion is primarily a public process
+
+## Going public 
+
+> Conflicts are taken into the public arena precisely because someone wants to make certain that the power ratio among the private interests most immediately involved shall not prevail" (Schattschneidcr 1975, p. 37)
+
+## Public meaning 
+
+> the common currency of ideas, logic, and practices that are intelligible to most people most of the time---even those who do not agree with them
+
+- contested in mainstream/popular/public discourse
+
+## How public meaning affects behavior: 
+
+(1) New public meanings make new possibilities
+
+> Public speech has power because it can bring new understandings into being, and new understandings precipitate new possibilities for political action.
+
+(2) People care about how others will interpret their choices
+
+> People's choices and actions [are] always enabled and constrained by what they understand those choices to signify to others (p. 23)
+
+## Public meanings can change 
+
+> Framing can create shifts...with one set of associations becoming commonsensical and the other left open to (re)definition and contestation.
+
+That is, things that were contested can become common sense, and things that were common sense can become contested. 
+
+
+## Agenda democracy 
+
+> National political agendas do not merely develop; they are made by and through the
+speech and action of officials, elite opinion leaders, news media, interpersonal
+interactions, and the organized efforts of grass-roots political challengers.
+
+
+
+## Methodological individualism
+
+> Unless we consider the changing and polysemous reality of meaning, social scientists run the risk of treating values and attitudes as antecedent, given and fixed.
+
+
+<!--"our" and Americans-->
