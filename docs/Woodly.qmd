@@ -11,7 +11,7 @@ format:
       title-slide-attributes:
         data-background-image: "https://workersunited.org/uploads/attachments/ckv89jtbt0058oldzbrd4mewk-fredsign.full.png"
         data-background-size: cover
-        data-background-opacity: "0.5"
+        data-background-opacity: "0.3"
         data-background-position: "top"
 ---
 
@@ -46,6 +46,9 @@ format:
 
 > The activity through which relatively large and permanent groups of people determine what they will collectively do, settle how they will live together, and decide their future” (Pitkin 1981, 343).
 
+## Methodological individualism
+
+> Unless we consider the changing and polysemous reality of meaning, social scientists run the risk of treating values and attitudes as antecedent, given and fixed.
 
 ## The Living Wage Movement 
 
@@ -144,9 +147,6 @@ interactions, and the organized efforts of grass-roots political challengers.
 
 
 
-## Methodological individualism
-
-> Unless we consider the changing and polysemous reality of meaning, social scientists run the risk of treating values and attitudes as antecedent, given and fixed.
 
 
 <!--"our" and Americans-->
