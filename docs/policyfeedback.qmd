@@ -1,0 +1,111 @@
+---
+title: "Policy Feedback"
+date: ""
+output:
+    html_document:
+      toc: true
+      toc_float: true
+#   xaringan::moon_reader:
+#     lib_dir: libs
+#     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+#     css: xaringan-themer.css
+#     nature:
+#       highlightStyle: github
+#       highlightLines: true
+#       countIncrementalSlides: false
+# editor_options: 
+#   chunk_output_type: console
+---
+
+```{r setup, include = FALSE, cache = TRUE, echo = FALSE}
+# chunks options:
+# hide code and messages by default (warning, message)
+# cache everything 
+knitr::opts_chunk$set(eval = TRUE, 
+                      warning = FALSE, message = FALSE,
+                      cache = TRUE,
+                      fig.retina = 2,
+                      fig.align = "center", dpi = 100)
+# Xaringan: https://slides.yihui.name/xaringan/
+library("xaringan")
+library("xaringanthemer")
+library("here")
+
+
+mono_light(#base_color = "#003333",
+          #link_color = "#000080",
+          #background_color = "#FAF0E6", # linen
+          header_font_google = google_font("PT Sans"), 
+          text_font_google = google_font("Old Standard"), 
+          text_font_size = "30px",
+          padding = "10px",
+          code_font_google = google_font("Inconsolata"), 
+          code_inline_background_color    = "#F5F5F5", 
+          table_row_even_background_color = "#E6F0FA",
+          extra_css = 
+            list(".remark-slide-number" = list("display" = "none")))
+
+```
+
+```{r, eval = FALSE, include= FALSE}
+# setup
+devtools::install_github("yihui/xaringan")
+devtools::install_github("gadenbuie/xaringanthemer")
+install.packages("webshot")
+# webshot::install_phantomjs()
+
+library(webshot)
+
+# export to pdf
+file <- here("talk/stone.html")
+webshot(file, "talk/stone.pdf")
+```
+
+
+
+
+
+
+---
+
+## Rules and rulemaking reshape coalitions
+
+Political scientists call this "policy feedback."
+
+> “a new policy creates a new politics"--E.E. Schattschneider
+
+- Civil War veterans' and widows' pensions (Theda Skocpol, *Protecting Soldiers and Mothers*)
+- G.I. Bill after World War II, (Susan Mettler, *Soldiers to Citizens*)
+- Medicaid rules affect political participation (Jamila Michener, *Fragmented Democracy*)
+
+<!-- Policy feedback lit -->
+
+---
+
+## Policies reshape coalitions
+
+### "Bootleggers and Baptists" coalitions
+
+Rules can create coalitions with off bedfellows
+
+![](figs/bootleggers.jpg)
+
+![](figs/baptists.png)
+
+---
+
+### "The Delaware Effect" 
+
+![](figs/delaware.jpg)
+
+??? 
+
+Why is are so many credit card companies incorporated in Delaware or Idaho?
+
+---
+
+"The California Effect"
+
+![](figs/california-effect.png)
+
+---
