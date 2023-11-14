@@ -31,7 +31,7 @@ format:
 
 . . . 
 
-Stone lumps policy instruments into incentives, rules, information and persuasion, rights, and powers. You should be able to more or less map these onto the policy instruments described in Bardach Appendix B.
+Stone groups policy instruments into incentives, rules, information and persuasion, rights, and powers. You should be able to more or less map these onto the policy instruments described in Bardach Appendix B.
 
 
 
@@ -175,7 +175,7 @@ These are often dominated by passions rather than science -->
 
 (On the first three, see Morris P. Fiorina *Congress: Keystone of the Washington Establishment*)
 
-In making rules, **delegation** is the most important. Is the delegation of authority broad or narrow? Is it ambiguous? To whom is the authority delegated? Is it ambiguous? How are they likely to use this discretion? 
+In making rules, **delegation** is the most important. Is the delegation of authority broad or narrow? How ambiguous is the authority? To whom is the authority delegated? Is that ambiguous? How are they likely to use this discretion? 
 
 ---
 
@@ -248,7 +248,7 @@ Hayek's example is traffic laws. Do traffic laws affect all people equally? Do t
 
 ---
 
-"Positive" economics: 
+## "Positive" economics: 
 
 ("Positive" in the sense that it is about truth, not norms. Not "positive" vs. negative)
 
@@ -274,6 +274,9 @@ Legal positivism
 
 What does Cardozo mean?
 
+. . . 
+
+
 To what extent should algorithms enforce laws? 
 
 . . . 
@@ -287,6 +290,8 @@ For example:
 ---
 
 Is AI good or bad for law enforcement? (see the ["risk score" sentencing debate](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/))
+
+. . . 
 
 We might also ask: What is the **public interest**? Who is innocent? What does it mean to uphold? 
 
@@ -361,7 +366,7 @@ Does who said it affect whether you find it persuasive?
 
 
 
-## <mark>[IMPORTANT NOTE ABOUT THE ABOVE QUOTES: PLEASE READ AFTER RANKING THEM](https://judgelord.github.io/PS272/political_economists.html) </mark>
+## <mark>[IMPORTANT NOTE ABOUT THE ABOVE QUOTES: PLEASE READ AFTER RANKING THEM](https://judgelord.github.io/PP510/political_economists.html) </mark>
 
 
 
@@ -494,7 +499,7 @@ Sometimes, principles overrule policy and court precedent.
 
 <!-- podcast on brown -- amicus? --> 
 
----
+
 
 
 # Rights
@@ -673,7 +678,7 @@ But in Germany, the label 'terrorism' does not affect the policy response. With 
 
 ---
 
-Because of the importance of the label in the US, it becomes a subject of political conflict. For example, the FBI created a brand new label, presumably in an attempt to label black lives matter protesters as terrorists. 
+Because of the importance of the label in the US, it becomes a subject of political conflict. For example, the FBI created a new label ("black identity extreamists"), presumably in an attempt to label racial justice protesters as terrorists. 
 
 ![](figs/terrorists-bim.png) 
 

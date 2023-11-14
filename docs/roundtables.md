@@ -13,7 +13,19 @@ We have six topics on which various committees would like more information and p
 
 ## Reflection and peer critique 
 
+For every roundtable in which you will not be presenting, you will be assigned a
+person to critique (5 total). Each should be three paragraphs (about half a page, no more than one page) addressing (1) strengths,  (2) opportunities for improvement, and (3) connections to things we studied in this class, especially the Bardach, Blackhawk, Carpenter, Dwidar, Leech, Seifter, Stone, Woodly, Weimer and Vining, and Weaver readings and the Mettler and Nickels podcasts. 
+
+Submit each critique as a seperate file to Canvas by the next class session WITHOUT YOUR
+NAME. Do not put your name on the critique. 
+
+Your critique will be graded according to
+the thoroughness and helpfulness of the critique. (Don't be mean, but don't hesitate to be
+critical. Be clear about what the presenter did well and how
+they might improve in the future.)
+
 After three days of presentations, we will have one final day of structured peer critique. I will ask each of you to comment on something from the presentations or answers to questions that you found particularly effective, so please pay close attention to the other presentations and make multiple notes so that we don't get duplicate feedback. 
+
 
 ## Structure
 
