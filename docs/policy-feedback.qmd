@@ -1,0 +1,268 @@
+---
+title: "Policy Feedback"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://onlinelibrary.wiley.com/cms/asset/7e13c41d-00b5-4722-9106-14ef8c036e85/psj12424-fig-0001-m.jpg"
+        data-background-size: contain
+        data-background-opacity: "0.5"
+---
+
+
+## {#loops data-menu-title="Feedback Loops" background-iframe="https://www.youtube.com/embed/ZDOIzDPuojc"}
+
+
+## Policy feedback
+
+> “A new policy creates a new politics"--E.E. Schattschneider
+
+> "Policy makes mass politics" - [Andrea Campbell](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-012610-135202)
+
+> "Policies function as institutions, imposing particular norms and rules on recipients, and thus, in turn, reshaping politics itself. Furthering these ideas, scholars have noted that policies convey to citizens their rights and privileges as well as their duties and obligations as members of the community." - Mettler, page 252, citing Schanttschneider (1935), Lowi (1965), Landy (1993), and Mead (1986)
+
+## Policy feedback
+
+Policy feedback is the idea that policies affect the likelihood that other policies will be enacted. Most researchers studying policy feedback focus on how policies shape politics in ways that enable or constrain future policymaking. 
+
+For example, by creating a benefit for a defined group of people, policies like Social Security create incentives for new interest groups like the AARP to form and lobby to protect that benefit ("lock-in" effects) or even expand it ("positive feedback" effects) (See Campbell, 2000)
+
+<iframe width="460" height="215" src="https://www.youtube.com/embed/9eeQeGg5mxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Policy can empower
+
+Positive feedback dynamics often occur when an interest group lobbies for a policy that then empowers them to lobby to further expand those benefits in the future. For example, when private prison companies successfully lobby governments to privatize prisons, those contracts give them more resources with which to lobby for more privatization. 
+
+## Policy can disempower
+
+Policies may also disempower a group of people. For example, a policy restricting the rights of unions to bargain with employers on behalf of workers may reduce the ability of the union to collect dues and lobby in the future. This may lead an organized interest group to become a disorganized interest group, possibly to the point where people no longer see themselves as having a common interest (because the policy that granted them rights **as a group** no longer exists). (See ["Policy Feedback as Political Weapon"](https://doi.org/10.1017/S1537592717004236) Hertel-Fernandez, 2018)
+
+<!--
+![](figs/mettler1.png)
+
+From [*The Government-Citizen Disconnect*](https://www.google.com/books/edition/The_Government_Citizen_Disconnect/CzNcDwAAQBAJ?hl=en&gbpv=1)
+--> 
+
+## Policy can keep people out of power
+
+Similar dynamics often prevent interest groups from forming or gaining power to affect policy in the first place. Prisoners, for example, are a large group of people in the United States whose lives are greatly affected by policies, but policies that prevent or discourage them from voting or participating in civic life inhibit their ability to organize to shape policy processes that affect them (See Weaver and Lerman, 2010).
+
+## Feedback dynamics are often complex 
+
+Most policies affect group mobilization (or de-mobilization) and future policymaking in ways that are extremely complex and difficult to predict. 
+
+Obviously, policy feedback effects are important outcomes to consider in policy design. They are likely more important than immediate substantive outcomes but are much more difficult to anticipate. 
+
+
+## Major studies of policy feedback
+
+- Civil War veterans' and widows' pensions (Theda Skocpol, *Protecting Soldiers and Mothers*)
+- The GI Bill after World War II (Susan Mettler, *Soldiers to Citizens*)
+- Medicaid rules affect political participation (Jamila Michener, *Fragmented Democracy*)
+
+
+# Education 
+
+## The GI Bill 
+
+It takes more than a group with a shared interest to affect policy. The group must be 
+
+- persuaded to see its common interest
+- mobilized to take action
+- organized to successfully influence policy
+
+. . . 
+
+Veterans have a number of groups doing this mobilization, organization, and advocacy.
+
+<iframe width="460" height="215" src="https://www.youtube.com/embed/29c_uL1VEa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">⚖️Consumer Protection Update! In 2018, we filed an Amicus Brief regarding the importance of Public Service Loan Forgiveness (PSLF) and opposing loan servicers’ active misrepresentations to students about PSLF. There was an important development last week. (1/3)</p>&mdash; Veterans Education Success (@GIBillRights) <a href="https://twitter.com/GIBillRights/status/1249736313512787968?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+These groups also lobby at [committee hearings](https://www.youtube.com/watch?v=Uxu4Fj4qT5E&feature=youtu.be&t=4514).
+
+. . . 
+
+> One of the most important effects of a public program is whether it promotes or discourages citizen involvement in the day-to-day activities of American Democracy. - Mettler, page 351
+
+
+# Healthcare
+
+## Medicaid
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tBnjhxyOPg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tf1oZbg7UeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+## The Affordable Care Act 
+
+Policy feedback was anticipated may be frustrated by [self-undermining policy feedback effects](https://www.degruyter.com/view/journals/for/13/1/article-p37.xml?language=en).
+
+>  In contrast to Medicare, the ACA is not a social insurance program with a clearly identified constituency that has a clear connection to benefits (Marmor and Oberlander 2011). The ACA treats different groups of Americans in different ways at different times, and that fragmented structure makes it harder to build support for the law, harder to recognize benefits that do exist, and easier to attack since the law’s constituency is diffuse and many intended beneficiaries, including many of the uninsured, do not understand the benefits available to them. - ["Unraveling from Within? The Affordable Care Act and Self-Undermining Policy Feedbacks"](https://www.degruyter.com/view/journals/for/13/1/article-p37.xml?language=en) 
+
+---
+
+## {#ACA-opinion data-menu-title="ACA Opinion"}
+
+
+<iframe height="915px" width="820px" src="https://www.kff.org/interactive-frameless/kff-health-tracking-poll-the-publics-views-on-the-aca/#?response=Favorable--Unfavorable&aRange=all-frameless"></iframe>
+
+---
+
+The law has been slow to gain popularity, even among those who are benefiting from the expanded healthcare: 
+
+<iframe height="915px" width="820px" src="https://www.kff.org/interactive-frameless/kff-health-tracking-poll-the-publics-views-on-the-aca/#?response=Favorable&group=Income::Less%2520than%2520%252440%252C000::%252440%252C000-%252489%252C999::%252490%252C000%2520or%2520more&aRange=all-frameless"></iframe>
+
+---
+
+A major factor may be partisan effects:
+
+<iframe height="915px" width="820px" src="https://www.kff.org/interactive-frameless/kff-health-tracking-poll-the-publics-views-on-the-aca/#?response=Favorable&aRange=all&group=Party%2520ID::Democrat::Republican"></iframe>
+
+# Visibility 
+
+## Visible policies
+
+
+In her research, Mettler found that one of the major predictors of people's attitudes toward policy (and government in general) was the visibility of the policies they benefit from. (See her recent book, [*The Government-Citizen Disconnect*](https://www.google.com/books/edition/The_Government_Citizen_Disconnect/CzNcDwAAQBAJ?hl=en&gbpv=1))
+
+## Visibility causes a disconnect between perception and reality
+
+People perceive that taxes have gone up, but what people think the money is being spent on is more a feature of policy visibility than of what the money is actually spent on. 
+
+Almost all of the increase in spending has gone to Social Security and Medicare, which both remain very popular, even as "government" has become less popular. 
+
+This disconnect leads people to oppose taxes, even as they support the programs that those taxes would fund. 
+
+
+## Program design affects whether programs change with conditions
+
+<!--
+In part because of the lack of support for government spending on social programs, programs that are based on eligibility criteria (Medicaid, Food Stamps (SNAP), Earned Income Tax Credit) have grown with need, whereas others have not.
+--> 
+
+![](figs/mettler2.png)
+
+From [*The Government-Citizen Disconnect*](https://www.google.com/books/edition/The_Government_Citizen_Disconnect/CzNcDwAAQBAJ?hl=en&gbpv=1).
+
+## All policies have unequal impacts 
+
+In the United States, the largest social programs are used by White citizens at a greater rate than their percentage of the population, while smaller programs are used by non-White groups at a greater rate than their percentage of the population.
+
+## All policies have unequal impacts 
+
+
+![](figs/michener1.png)
+
+## Some groups may benefit more from a program than they pay in taxes
+
+Others may pay more to support a program than they receive 
+
+![](figs/michener2.png)
+
+Old-Age Social Insurance (OASI) is known as Social Security.
+
+---
+
+(Note that it is possible for all groups to receive less than they contributed to a program if there are inefficiencies and waste. Likewise, all groups can often receive more than they put in if their gains to collective action.)
+
+<!---
+
+![](figs/michener3.png)
+
+( Disability Insurance is often called Social Security Disability Insurance or SSDI.)
+-->
+
+# Program design
+
+## Program design affects whether programs empower or disempower
+
+In part, because of the scrutiny that "welfare" programs face (because they are one of the first things many people think of when they think of what the government does and because they are associated with non-white people), they often treat beneficiaries with suspicion.
+
+> social-welfare program designs can influence levels of civic and political engagement among the poor. 
+
+## Hiden (submerged) benefits
+
+In contrast, benefits designed to incentivize homeownership (federal mortgage loan guarantees, mortgage tax credits), investment (capital gains tax rates and deductions), and healthcare spending (healthcare tax deduction) are hidden. 
+
+Many are hidden in the tax code. Instead of going to a government office to apply for a mortgage subsidy, people check a box when they file taxes to receive this benefit. 
+
+This leads people to not perceive these incentives as the government's doing. Homeowners do not consider how that mortgage would be much more expensive without federal support for their loan or the ability to deduct mortgage interest payments on their tax liability.
+
+From [*The Government-Citizen Disconnect*](https://www.google.com/books/edition/The_Government_Citizen_Disconnect/CzNcDwAAQBAJ?hl=en&gbpv=1)
+
+
+
+# Imprisonment
+
+## How Mass Imprisonment Burdens the United States with a Distrustful Civic Underclass
+
+by Vesla M. Weaver
+
+> Citizens with prison experience are much less likely to be registered to vote or to report having voted in the past presidential election. 
+
+
+Also, see [Political Consequences of the Carceral State](https://doi.org/10.1017/S0003055410000456) by Vesla Weaver and Amy Lerman.
+
+---
+
+![](figs/weaver.png)
+
+## Encounters with Authoritarian Institutions Heighten Citizen Distrust
+
+- People imprisoned for more than a year trust the government nearly 40 percent less than those without any contact with the criminal justice system. 
+
+- What scholars call “racial pessimism” is also heightened by criminal justice encounters. Compared to other socioeconomically similar blacks, African Americans who have had experiences with police or prisons perceive more racism, feel less equal, and are more likely to point to “the system” as responsible for black disadvantages. 
+
+##  Policies reshape coalitions 
+
+Policy feedback can take many forms. In ["Policy Feedback as Political Weapon"](https://doi.org/10.1017/S1537592717004236) Alex Hertel-Fernandez posits several types of feedback: 
+
+![](figs/feedbackweapon1.gif)
+
+# Types of coalitions created by policy
+
+## "Bootleggers and Baptists" coalitions
+
+Policies can create coalitions with "odd bedfellows." 
+
+For example, once enacted, the prohibition of alcohol sales was supported by a coalition of bootleggers who had built profitable illicit businesses selling illegal alcohol and religious groups who were morally opposed to alcohol. 
+
+![](figs/bootleggers.jpg)
+
+---
+
+![](figs/baptists.png)
+
+
+## "The California Effect"
+
+Businesses are most profitable when policies give them a competitive advantage, so they will lobby for policies that advantage them and against their retrenchment. 
+
+Conversely, businesses will lobby against policies that put them at a competitive disadvantage. 
+
+One result is that businesses that have already adapted their operations to stricter regulations in one jurisdiction will lobby other jurisdictions to subject their competitors to the same regulatory standards. Because California often has higher environmental standards than other states, businesses operating in California often lobby for higher national standards to match those in California. This dynamic has been called "The California Effect."
+
+---
+
+![](figs/california-effect.png)
+
+## "The Delaware Effect" 
+
+![](figs/delaware.jpg)
+
+. . .  
+
+Why are so many credit card companies incorporated in Delaware or Idaho?
+
