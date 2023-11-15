@@ -1,0 +1,63 @@
+---
+title: "Second-Order Participation in Administrative Law"
+author: "Miriam Seifter"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://i0.wp.com/jocoreport.com/wp-content/uploads/2023/04/Riouzer-Farm-Bill-Meeting-04-25-23-2C.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Administrative Law
+
+Policy that governs agencies
+
+- Your state-level policy recommendations are all #adlaw
+
+- Legislation instructing agencies to do things, especially processes they must follow 
+
+- Agency rules, processes, and other interpretations of their statutory authority
+
+-  Court opinions on all of the above, as well as on constitutional issues relating to agency actions, appointments, and policymaking
+
+- Does not include criminal law, property law, contract law, liability law, except to the extent that agencies define, adjudicate, or enforce such laws (which they often do)
+
+## First-order participation 
+
+
+
+## Second-order participation 
+
+
+## Argument 
+
+Public participation in policymaking is often seen as key to democracy. 
+
+. . .
+
+BUT, because organized groups dominate public participation, the value of participation __also depends on democracy *within* interest groups__. 
+
+. . . 
+
+THUS, a close study of interest groups is essential to understanding or reforming, public participation processes.
+
+## Organized groups
+
+- Lifeblood of politics
+- Wide spectrum of internal governance rules
+  - Member involvement varies
+  - Some have no members at all
+- Seldom transparent 
+
+. . . 
+
+> "the most effective lobbyists tending to have less internal participation" 
+
+
+
+
