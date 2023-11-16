@@ -25,15 +25,15 @@ Policy that governs agencies
 
 -  Court opinions on all of the above, as well as on constitutional issues relating to agency actions, appointments, and policymaking
 
-- Does not include criminal law, property law, contract law, liability law, except to the extent that agencies define, adjudicate, or enforce such laws (which they often do)
+- Does not include criminal law, property law, contract law, or liability law, except to the extent that agencies define, adjudicate, or enforce such laws (which they often do)
 
 ## Editoral 
 
-While Seifter focuses on administrative law, the core insight applies to all forms of public participation, including legislative lobbying, town halls, public hearings, stakeholder processes, amicus briefs, etc. IMHO.
+*While Seifter focuses on administrative law, the core insight applies to all forms of public participation, including legislative lobbying, town halls, public hearings, stakeholder processes, amicus briefs, etc. IMHO.
 
 ## First-order participation 
 
-> "the engagement by interested parties in the many avenues for public involvement in policymaking"
+> "the engagement by interested parties in the many avenues for public involvement in policymaking."
 
 Celebrated as democratic 
 
@@ -54,8 +54,13 @@ Interest groups dominate
 - enhances agency expertise
 - enriches civic experience
 
-## Pluralism 
+. . . 
 
+*Descriptive and normative claims, both more aligned with pluralism than elite theories 
+
+## 
+
+<iframe width="1000" height="1000" src="https://putnamdoc.com/#trailer" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Second-order participation 
@@ -68,24 +73,25 @@ Public participation in policymaking is often seen as key to democracy.
 
 . . .
 
-BUT, because organized groups dominate public participation, the value of participation __also depends on democracy *within* interest groups__. 
+But, because organized groups dominate public participation, the value of participation __also depends on democracy *within* interest groups__. 
 
 . . . 
 
-THUS, a close study of interest groups is essential to understanding or reforming, public participation processes.
+Thus, a close study of interest groups is essential to understanding or reforming public participation processes.
 
-# The intersection of first- and second-order participation
+# I. The intersection of first- and second-order participation
 
 ## The intersection 
 
 - fosters democracy
   - or do groups speak only for a select few? 
 - checks government power
-  - or do groups use participatory process to hinder government power? 
+  - or do groups use participatory processes to hinder government power? 
 - enhances agency expertise
   - or do groups mislead by pretending to have expertise? 
 - enriches civic experience
   - or do groups hinder individual engagement? 
+  
 
 ## Organized groups 
 
@@ -97,7 +103,18 @@ Many are governed by various aspects of nonprofit law:
 - think tanks
 - unions 
 
+. . . 
+
 *Seifter does not consider individual companies to be interest groups, but I think her argument applies just as well to them
+
+---
+
+## {fullscreen=true}
+
+![](https://gray-kmov-prod.cdn.arcpublishing.com/resizer/gPHs-pZsLLzSbqSyEOnpIiFbKp8=/1920x1080/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ODY2Z77K7FHINFCC5WANHR5TNI.jpg)
+
+
+
 
 ## Organized groups
 
@@ -109,13 +126,38 @@ Many are governed by various aspects of nonprofit law:
 
 . . . 
 
-> "the most effective lobbyists tending to have less internal participation"
+> "The most effective lobbyists tend to have less internal participation."
 
-> "engaging with members can impede a group’s ability to take focused positions, to act quickly, and to appeal to donors" (1305)
+> "Engaging with members can impede a group’s ability to take focused positions, to act quickly, and to appeal to donors" (1305)
 
 # II. Understanding Second-Order Participation
 
 ## Voice and Exit
+
+> [Policymakers] did not find it necessary to impose any specific representational obligations on groups because it is assumed that, in order to survive, an organization must effectively represent the interests of a substantial proportion of its members, and that any member who objects strenuously to the representation afforded can resign. (1333)
+
+##  Interest groups fuel the myth of representation
+
+> The claim to speak for a constituency---sometimes a numerous or powerful constituency---is often an interest group’s strongest currency. (1333)
+
+## {background-image="https://www.desmog.com/wp-content/uploads/files/EPA_Map_Chamber_Commerce.jpg" background-size="contain"}
+
+## Varieties of second-order participation
+
+- no members (e.g., thinktanks, many advocacy groups, especially astroturf ones)
+- unstructured participation (e.g., Chambers of Commerce, AARP, most nonprofits with a self-perpetuating leadership, many churches)
+- election-based participation (e.g., unions, Sierra Club chapters, many clubs and associations, many churches)
+- issue-based participation (e.g., ad hoc groups of state officials, League of Women Voters, change.org petitions)
+
+## Beyond membership
+
+Who else might a group speak for, and what biases may shape the group’s contributions? 
+
+- Funding structure and major donors
+- The role of funders in governance 
+- Dissent with the organization
+
+
 
 # III. Implications 
 

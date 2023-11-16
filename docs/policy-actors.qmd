@@ -169,7 +169,7 @@ Related terms: *advocacy network*, *issue network*, *policy subsystem*, *policy 
 
 **Pluralism:** Policy results from many groups competing and negotiating with each other in a relatively open political system.
 
-**Elite theory:** Policy results from negotiations among a relatively closed network of elites--those with high social status (elite educational credentials, wealth, etc.).
+**Elite theory:** Policy results from negotiations among a relatively closed network of elites---those with high social status (elite educational credentials, wealth, etc.).
 
  *Who Governs?* by Robert A. Dahl vs. *The Power Elite* by C. Wright Mills (building on Max Weber)
  
@@ -208,41 +208,48 @@ AP US GOV version:
 
 Businesses that comment on proposed regulations see significant bumps in profits.
 
-From [What’s at Stake in Rulemaking? Financial Market Evidence for Banks’ Influence on Administrative Agencies](https://libgober.files.wordpress.com/2018/09/libgober-and-carpenter-unblinded-what-at-stake-in-rulemaking.pdf) by Brian Libgober and Daniel Carpenter 
 
 ![](figs/libgober1.png)
 
+From [What’s at Stake in Rulemaking? Financial Market Evidence for Banks’ Influence on Administrative Agencies](https://libgober.files.wordpress.com/2018/09/libgober-and-carpenter-unblinded-what-at-stake-in-rulemaking.pdf) by Brian Libgober and Daniel Carpenter 
+
+
 ---
 
-background-image: url(figs/bonica-lawers-income.png)
-background-size: contain
+Inequality rises with the share of lawyers in legislators
+
+![](figs/bonica-lawers-income.png)
+
 
 From [Professional Networks, Early Fundraising, and Electoral Success](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics) by Adam Bonica
 
 ---
 
-From [Professional Networks, Early Fundraising, and Electoral Success](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics) by Adam Bonica
 
 ![](figs/bonica-lawyers-money.png)
 
+From [Professional Networks, Early Fundraising, and Electoral Success](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics) by Adam Bonica
+
+
 ---
 
-[How Every Member Got to Congress](https://www.nytimes.com/interactive/2019/01/26/opinion/sunday/paths-to-congress.html) By Sahil Chinoy and Jessia Ma
-
-[The Cash Ceiling](https://www.vox.com/policy-and-politics/2018/10/24/18009856/working-class-income-inequality-randy-bryce-alexandria-ocasio-cortez) by Nick Carnes 
+The working class is poorly represented in the US Congress
 
 ![](figs/carnes-workers.png)
 
 
+From [The Cash Ceiling](https://www.vox.com/policy-and-politics/2018/10/24/18009856/working-class-income-inequality-randy-bryce-alexandria-ocasio-cortez) by Nick Carnes. 
+Also see [How Every Member Got to Congress](https://www.nytimes.com/interactive/2019/01/26/opinion/sunday/paths-to-congress.html) By Sahil Chinoy and Jessia Ma.
+
 
 ---
 
-The likelihood that a policy change will be made is correlated with the preferences of high-income individuals (controlling for the preferences of low-income individuals), but the reverse is not true. 
+The likelihood of a policy change is correlated with the preferences of high-income voters, controlling for the preferences of low-income voters, but the reverse is not true. 
 
-From [Affluence & Influence: Economic Inequality and Political Power in America](https://themonkeycage.org/2012/08/economic-inequality-and-political-power-part-1/) by Martin Gilens
 
 ![](figs/gilens2.png)
 
+From [Affluence & Influence: Economic Inequality and Political Power in America](https://themonkeycage.org/2012/08/economic-inequality-and-political-power-part-1/) by Martin Gilens
 
 ---
 
