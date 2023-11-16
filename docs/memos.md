@@ -225,9 +225,9 @@ There is no required number of questions; in this half page, try to balance havi
 
 In this second half of the memo, both questions and points are probably best kept to one line.
 
-Ideas for anticipating questions:
+## Ideas for anticipating questions:
 
-- Give your presentation to (or just talk about your proposal with) other and write down the questions they ask you 
+- Give your presentation to (or just talk about your proposal with) others and write down the questions they ask you 
 - Gather questions from feedback on your memos and ask yourself if any of them are likely to be asked in response to your presentation
 
 ---

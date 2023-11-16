@@ -17,7 +17,7 @@ format:
 
 Policy that governs agencies
 
-- Your state-level policy recommendations are all #adlaw
+- Your state-level policy recommendations are all #AdLaw
 
 - Legislation instructing agencies to do things, especially processes they must follow 
 
@@ -27,14 +27,42 @@ Policy that governs agencies
 
 - Does not include criminal law, property law, contract law, liability law, except to the extent that agencies define, adjudicate, or enforce such laws (which they often do)
 
+## Editoral 
+
+While Seifter focuses on administrative law, the core insight applies to all forms of public participation, including legislative lobbying, town halls, public hearings, stakeholder processes, amicus briefs, etc. IMHO.
+
 ## First-order participation 
 
+> "the engagement by interested parties in the many avenues for public involvement in policymaking"
+
+Celebrated as democratic 
+
+- Used to justify policymaking by unelected agency officials 
+
+Interest groups dominate
+
+- meeting with and lobbying agency officials
+- commenting on rules
+- petitioning for agency action
+- setting standards that agencies adopt as rules
+- filing and settling lawsuits against agencies
+
+## Praise for first-order participation 
+
+- fosters democracy
+- checks government power
+- enhances agency expertise
+- enriches civic experience
+
+## Pluralism 
 
 
-## Second-order participation 
 
+# Second-order participation 
 
-## Argument 
+Are organized groups effective or ineffective representatives? 
+
+## Seifter's argument 
 
 Public participation in policymaking is often seen as key to democracy. 
 
@@ -46,6 +74,31 @@ BUT, because organized groups dominate public participation, the value of partic
 
 THUS, a close study of interest groups is essential to understanding or reforming, public participation processes.
 
+# The intersection of first- and second-order participation
+
+## The intersection 
+
+- fosters democracy
+  - or do groups speak only for a select few? 
+- checks government power
+  - or do groups use participatory process to hinder government power? 
+- enhances agency expertise
+  - or do groups mislead by pretending to have expertise? 
+- enriches civic experience
+  - or do groups hinder individual engagement? 
+
+## Organized groups 
+
+Many are governed by various aspects of nonprofit law: 
+
+- trade associations
+- chambers of commerce
+- public interest groups, 
+- think tanks
+- unions 
+
+*Seifter does not consider individual companies to be interest groups, but I think her argument applies just as well to them
+
 ## Organized groups
 
 - Lifeblood of politics
@@ -56,8 +109,20 @@ THUS, a close study of interest groups is essential to understanding or reformin
 
 . . . 
 
-> "the most effective lobbyists tending to have less internal participation" 
+> "the most effective lobbyists tending to have less internal participation"
 
+> "engaging with members can impede a group’s ability to take focused positions, to act quickly, and to appeal to donors" (1305)
 
+# II. Understanding Second-Order Participation
+
+## Voice and Exit
+
+# III. Implications 
+
+## What do we do? 
+
+1. Require second-order participation 
+
+2. Require disclosure of second-order participation 
 
 
