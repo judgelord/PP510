@@ -161,10 +161,25 @@ Who else might a group speak for, and what biases may shape the group’s contri
 
 # III. Implications 
 
-## What do we do? 
+ What do we do? 
 
-1. Require second-order participation 
+## 1. Require second-order participation 
 
-2. Require disclosure of second-order participation 
+- Decision-making in standard-setting organizations
+- Quality of representation for groups appointed to advisory committees, public-interest interveners in adjudications, and negotiated rulemaking "stakeholders" 
+
+## 2. Require disclosure 
+
+- White House OMB OIRA meetings are disclosed under E.O. 12866, but little more than a group acronym is given
+  - Reform: require a one-page statement from each group explaining whom it represents, how it is funded, and how it is internally governed.
+- Federal agencies are to consult with "states" under E.O. 13132---who represents "the states?"
+- The National Environmental Policy Act (NEPA) has stricter requirements for "highly controversial" actions ---how do we measure controversy? The number of opposing comments? 
+- Settlements and consent decrees: with whom are agencies settling? Should other groups be part of settlement negotiations?
+
+## Other benefits and ideas
+
+- Requirements and disclosures might reform interest group behavior
+- What else might we do? 
+
 
 
