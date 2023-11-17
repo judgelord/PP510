@@ -52,7 +52,8 @@ Alternatively, implementation questions might be addressed in a less analytic wa
 
 Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and new help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
 
-**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
+**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [
+[Shevon Desai](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
 ## Notes that I frequently give on policy memos:
 
@@ -233,6 +234,8 @@ In this second half of the memo, both questions and points are probably best kep
 ---
 
 # Resources 
+
+[Public policy research guide](https://guides.lib.umich.edu/publicpolicy()
 
 
 [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)

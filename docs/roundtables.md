@@ -3,7 +3,7 @@
 
 ## Overview
 
-This year, roundtables are structured as expert panel presentations assembled for a Michigan House Committee informational hearing. Here is a [summary of testimony from a recent informational haring on racial and ethnic disparities in maternal and infant health](https://stateofreform.com/featured/2023/03/michigan-senate-committee-discusses-racial-and-ethnic-disparities-in-maternal-and-infant-health/) and the [full audio from that committee meeting](https://www.senate.michigan.gov/committeeaudio/2023-2024/Health%20Policy/Health-Policy-03-22-2023_1232PM_28_72.mp3). Given their official positions, these presenters have more time and slightly different goals than your goals, but I hope it is helpful. 
+This year, roundtables are structured as expert panel presentations assembled for a Michigan House or Senate Committee informational hearing. Here is a [summary of testimony from a recent informational haring on racial and ethnic disparities in maternal and infant health](https://stateofreform.com/featured/2023/03/michigan-senate-committee-discusses-racial-and-ethnic-disparities-in-maternal-and-infant-health/) and the [full audio from that committee meeting](https://www.senate.michigan.gov/committeeaudio/2023-2024/Health%20Policy/Health-Policy-03-22-2023_1232PM_28_72.mp3). Given their official positions, these presenters have more time and slightly different goals than your goals, but I hope it is helpful. 
 
 Here is a nice summary of some research on trends in expert hearings by US House committees: 
 
@@ -31,7 +31,7 @@ After three days of presentations, we will have one final day of structured peer
 
 ### Opening statements: <mark> 3 minutes </mark> per person
 
-(possibly two additional minutes for clarifying questions)
+(possibly an additional minute for a clarifying question)
 
 Please coordinate with members of your panel to provide opening statements that do not overlap too much and, instead, add value based on the unique expertise each of you has developed. 
 
@@ -42,10 +42,18 @@ I will likely ask one question from your talking points memo and expect a concis
 The class, playing the part of the Michigan House Committee members, will ask additional questions. Again, responses should be concise. 
 
 
+# Schedule 
 
-## Michigan House Committee on Agriculture
+## Nov. 21st: Salt and Plastics 
 
-### Informational hearing on nutrient runoff
+Confirmed guests:
+
+- David Lossing (Huron River Watershed Council) 
+- Art Hirsch (Michigan Sierra Club)
+
+### Informational Hearing on Road Salt
+
+Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
 
 Chair: Devin Judge-Lord
 
@@ -53,19 +61,108 @@ Clerk: Caroline Leland
 
 Expert witnesses:  
 
-- John Blake
--  Kathleen Bryant
--  Major Stevens
--  Kelly Rogers Victor
--  Katrina Wheelan
+- Garit Frye
+- Shannon Eileen Gielow
+- Nia Knox
+- Hank Peters-Wood
+- Madison Lynne Prinzing
+
+Members: the rest of the class
+
+### Informational Hearing on Microplastics in Wastewater
+
+Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
+
+Chair: Devin Judge-Lord
+
+Clerk: Caroline Leland
+
+Expert witnesses:  
+
+- Charlotte Bronwyn Hovey
+- Samuel Owusu
+- Natalia Rice
+- Danielle Sockin
 
 Members: the rest of the class
 
 ---
 
-## Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
+## Nov. 28th: PFAS
 
-### Informational hearing on septics
+Confirmed guests:
+
+- Dan Brown  (Huron River Watershed Council) 
+- Bentley Johnson (League of Conservation Voters)
+
+### Informational Hearing on PFAS in Municipal Drinking Water
+
+Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
+
+
+Chair: Devin Judge-Lord
+
+Clerk: Caroline Leland
+
+Expert witnesses:  
+
+-  Georgina Bailey
+-  Maria Manansala
+- Farah Lynn Pitcher
+- Laura Stroud
+
+Members: the rest of the class
+
+### Informational Hearing on PFAS in Wastewater
+
+Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
+
+
+Chair: Devin Judge-Lord
+
+Clerk: Caroline Leland
+
+Expert witnesses:  
+
+-   Lauren Fuller
+- Annie Henseler
+- Tejal Patel
+- Dwiky Putra
+
+Members: the rest of the class
+
+
+
+---
+
+
+## Nov. 30th: Septics and Agriculture
+
+Confirmed guests:
+
+- [Rep. Donavan McKinney](https://www.donavanmckinney.com)
+  - Appropriations, Member
+  - Appropriations Subcommittee on Agriculture and Rural Development and Natural Resources, Member
+  - Appropriations Subcommittee on Environment, Great Lakes, and Energy,  Vice Chair
+ 
+
+- [Senator Sue Shink](https://senatedems.com/shink)
+  - Natural Resources and Agriculture, Chair
+  - Agriculture & Natural Resources Appropriations Subcommittee, Vice Chair
+  - Appropriations, Member
+  - Energy & Environment, Member
+  - Environment, Great Lakes, and Energy (EGLE) Appropriations Subcommittee, Member
+  - Local Government, Member
+ 
+
+- Hudson Villeneuve (League of Conservation Voters)
+ 
+ 
+ 
+### Informational Hearing on Septics
+
+Michigan House Appropriations Subcommittee on Environment, Great Lakes, and Energy,  Vice Chair
+
 
 Chair: Devin Judge-Lord
 
@@ -83,31 +180,9 @@ Members: the rest of the class
 
 ---
 
-## Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
+### Informational Hearing on Nutrient Runoff
 
-### Informational hearing on road salt
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
-- Garit Frye
-- Shannon Eileen Gielow
-- Nia Knox
-- Hank Peters-Wood
-- Madison Lynne Prinzing
-
-Members: the rest of the class
-
----
-
-
-
-## Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-### Informational hearing on PFAS in municipal drinking water
+Michigan Senate Committee on Natural Resources and Agriculture
 
 Chair: Devin Judge-Lord
 
@@ -115,49 +190,10 @@ Clerk: Caroline Leland
 
 Expert witnesses:  
 
--  Georgina Bailey
--  Maria Manansala
-- Farah Lynn Pitcher
-- Laura Stroud
-
-Members: the rest of the class
-
----
-
-
-## Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-### Informational hearing on PFAS in wastewater
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
--   Lauren Fuller
-- Annie Henseler
-- Tejal Patel
-- Dwiky Putra
-
-Members: the rest of the class
-
----
-
-
-## Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-### Informational hearing on Microplastics in wastewater
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
--    Charlotte Bronwyn Hovey
-- Samuel Owusu
-- Natalia Rice
-- Danielle Sockin
+- John Blake
+-  Kathleen Bryant
+-  Major Stevens
+-  Kelly Rogers Victor
+-  Katrina Wheelan
 
 Members: the rest of the class
