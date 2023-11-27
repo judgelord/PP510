@@ -1,0 +1,59 @@
+---
+title: "Informational Hearings on Water Quality in Michigan"
+author: ""
+format: 
+  revealjs:
+      incremental: false  
+      theme: [default, michigan.scss]
+      footer:  "University of Michigan Ford School of Public Policy Informational Hearings on Water Quality in Michigan"
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+
+## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+
+8:35 Road Salt 
+
+- Cost-sharing to Repair County Salt Storage Facilities - Nia Knox
+- Road Salt Reduction - Garit Frye
+- Reducing Road Salt Use - Madison Prinzing
+- Street Sweeping to Address Road Salt - Shannon Gielow
+- Runoff from Road Salt - Hank Peters-Wood
+
+9:15: Break
+
+9:20 Microplastics
+
+- Storm Water Operator Certification - Danielle Sockin
+ 
+- Tire Particle Research - Charlotte Hovey
+
+- Residential Microplastic Pollution - Sam Owusu
+
+---
+
+# Informational Hearing on PFAS and Water Quality in Michigan {background-opacity="0.5" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+
+### Ford School of Public Policy
+
+## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+
+8:35 Industrial Sources of PFAS
+
+- Compliance Through Discharge Transparency - Dwiky Putra
+- - Tejal Patel
+- Long-term Preventative Measures to Address PFAS - Lauren Fuller
+- - Annie Henseler
+
+9:15: Break
+
+9:20 PFAS in Municipal Drinking Water
+
+- Laura
+- Setting Cumulative Limits on PFAS in Michigan’s Drinking Water - Georgina  
+- Farah 
+- Maria 

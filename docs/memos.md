@@ -58,9 +58,9 @@ Either type of memo is fine. Which is better largely depends on where the policy
 
 **Clarity**
 
-- Avoid passive voice
-- Use a grammar checker like Microsoft Word or Grammarly to catch missing commas, etc.
-- Have someone read your memo and mark each sentence as clear or not clear
+- **Avoid passive voice**; it obscures who is doing or ought to do things. This is critical because issue analysis assigns blame and all policies are made and implemented by certain officials (often different ones). Policies do not face oposition; *someone* opposes them. Policies are not drafted; *someone* drafts them. Policies are not implemented; *someone* implements them. These are essential points on which to be extremely clear. 
+- **Use a grammar checker** like Microsoft Word or Grammarly to catch missing commas, etc. (They may also check for passive voice.)
+- **Have someone read your memo** and mark each sentence as clear or not clear (including passive voice)
 
 **Formatting**
 
