@@ -36,7 +36,7 @@ We will be checking to make sure that the source is appropriate for a policy mem
 
 **2. Know your audience:** First, they must see themselves as having the **authority** to take the actions you propose. Be very explicit about what authority you are expecting them to use and how. As the history of the commerce clause shows, the legality of major policy changes is often debated. It is fine if your proposal falls in the legal grey area at the boundary of a policymaker’s presently recognized authority. You just need the policymaker to see it as worth their time, even if their legal authority is uncertain. However, our existing legal institutions and the power allocation embedded in those institutions is a major constraint on pretty much every policymaker, especially the more local ones to whom we have the best shot of being useful. Thus, legal structures, while malleable, are real constraints on the options we propose because they have to be options perceived as worthwhile by busy and pragmatic policymakers. Memos are not an exercise in crafting theoretically ideal policies. They are exercises in practical policy craft. This does not mean that we cannot be creative and innovative, but it does mean that we are highly constrained by institutions as they are and by the people who occupy them.
 
-Be clear on how you talk about what you are asking them to do. Some people (legislators) have the ability to propose legislation. Agency officials do not. 
+Be clear about what you are asking them to do. Some people (legislators) have the ability to propose legislation. Agency officials do not. 
 
 Second, all policymakers have **passions, priorities, and stakeholders** that affect the relevant facts, framing, and recommendations. To influence people, you must know what they care about and believe.
 
@@ -52,7 +52,8 @@ Alternatively, implementation questions might be addressed in a less analytic wa
 
 Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and new help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
 
-**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [Jungwon Yang](https://www.lib.umich.edu/users/yangjw). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
+**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [
+[Shevon Desai](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
 ## Notes that I frequently give on policy memos:
 
@@ -233,6 +234,8 @@ In this second half of the memo, both questions and points are probably best kep
 ---
 
 # Resources 
+
+[Public policy research guide](https://guides.lib.umich.edu/publicpolicy()
 
 
 [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
