@@ -34,26 +34,25 @@ format:
 
 - Residential Microplastic Pollution - Sam Owusu
 
----
 
-# Informational Hearing on PFAS and Water Quality in Michigan {background-opacity="0.5" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+# PFAS and Water Quality in Michigan {background-opacity="0.5" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
 
-### Ford School of Public Policy
+Ford School of Public Policy
 
 ## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
 
 8:35 Industrial Sources of PFAS
 
 - Compliance Through Discharge Transparency - Dwiky Putra
-- - Tejal Patel
-- Long-term Preventative Measures to Address PFAS - Lauren Fuller
-- - Annie Henseler
+- A Targeted PFAS Ban in Certain Consumer Goods  - Tejal Patel
+- Preventative Measures to Address PFAS - Lauren Fuller
+- Citizen Suits in Polluter Pay Legislation - Annie Henseler
 
-9:15: Break
+9:10: Break
 
-9:20 PFAS in Municipal Drinking Water
+9:15 PFAS in Municipal Drinking Water
 
-- Laura
-- Setting Cumulative Limits on PFAS in Michigan’s Drinking Water - Georgina  
-- Farah 
-- Maria 
+- PFAS Reporting and Compliance Orders - Laura Stroud
+- Cumulative Limits on PFAS Drinking Water - Georgina Bailey  
+- Redefining Disadvantaged Communities - Farah Pitcher 
+- PFAS Destruction - Maria Manasala
