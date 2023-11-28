@@ -5,7 +5,7 @@ format:
   revealjs:
       incremental: false  
       theme: [default, michigan.scss]
-      footer:  "University of Michigan Ford School of Public Policy Informational Hearings on Water Quality in Michigan"
+      footer:  "University of Michigan Ford School of Public Policy Informational Hearings on Water Quality"
       fontsize: "40px"
       title-slide-attributes:
         data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
@@ -44,7 +44,7 @@ Ford School of Public Policy
 8:35 Industrial Sources of PFAS
 
 - Compliance Through Discharge Transparency - Dwiky Putra
-- A Targeted PFAS Ban in Certain Consumer Goods  - Tejal Patel
+- A Targeted PFAS Ban on Certain Consumer Goods  - Tejal Patel
 - Preventative Measures to Address PFAS - Lauren Fuller
 - Citizen Suits in Polluter Pay Legislation - Annie Henseler
 
