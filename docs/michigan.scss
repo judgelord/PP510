@@ -32,14 +32,14 @@ $header_h2_font_size: 1.5rem;
 $header_h3_font_size: 1.25rem;
 $code_inline_background_color: #E6F0FA;
 $table_row_even_background_color:#E6F0FA;
-$presentation-font-size-root: 35px !default;
-$base_font_size: 35px !default;
+$presentation-font-size-root: 30px !default;
+$base_font_size: 30px !default;
 
 /*-- scss:rules --*/
 .reveal pre code {
   background-color: #E6F0FA;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 0.5em;
   line-height: 1.1em;
 }
 
@@ -87,7 +87,8 @@ mark {
 }
 
 p {
-    margin-top:-5px;
+    margin-top: -5px;
+    margin-bottom: 0px;
 }
 
 
