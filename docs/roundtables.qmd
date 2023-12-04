@@ -1,118 +1,27 @@
 ---
-title: "Informational Hearings on Water Quality in Michigan"
+title: "Roundtable Instructions"
 author: ""
-format: 
-  revealjs:
-      incremental: false  
-      scrollable: true
-      theme: [default, michigan.scss]
-      footer:  "University of Michigan Ford School of Public Policy Informational Hearings on Water Quality"
-      fontsize: "40px"
-      title-slide-attributes:
-        data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
-        data-background-size: cover
-        data-background-opacity: "0.5"
+# format: 
+#   revealjs:
+#       incremental: false  
+#       scrollable: true
+#       theme: [default, michigan.scss]
+#       footer:  "University of Michigan Ford School of Public Policy"
+#       fontsize: "40px"
+#       title-slide-attributes:
+#         data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
+#         data-background-size: cover
+#         data-background-opacity: "0.5"
 ---
 
 
-## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
-
-8:35 Road Salt 
-
-- Cost-sharing to Repair County Salt Storage Facilities - Nia Knox
-- Road Salt Reduction - Garit Frye
-- Reducing Road Salt Use - Madison Prinzing
-- Street Sweeping to Address Road Salt - Shannon Gielow
-- Runoff from Road Salt - Hank Peters-Wood
-
-9:15: Break
-
-9:20 Microplastics
-
-- Storm Water Operator Certification - Danielle Sockin
- 
-- Tire Particle Research - Charlotte Hovey
-
-- Residential Microplastic Pollution - Sam Owusu
-
-
-# PFAS and Water Quality in Michigan {background-opacity="0.5" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
-
-Ford School of Public Policy
-
-## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
-
-8:35 Industrial Sources of PFAS
-
-- Compliance Through Discharge Transparency - Dwiky Putra
-- A Targeted PFAS Ban on Certain Consumer Goods  - Tejal Patel
-- Preventative Measures to Address PFAS - Lauren Fuller
-- Citizen Suits in Polluter Pay Legislation - Annie Henseler
-
-9:10: Break
-
-9:15 PFAS in Municipal Drinking Water
-
-- PFAS Reporting and Compliance Orders - Laura Stroud
-- Cumulative Limits on PFAS in Drinking Water - Georgina Bailey  
-- Redefining Disadvantaged Communities - Farah Pitcher 
-- PFAS Destruction - Maria Manasala
-
-
-# Farm Runoff and Leaking Septics {background-opacity="0.5" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
-
-Ford School of Public Policy
-
-## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
-
-8:35 - Agricultural Runoff
-
-- Requiring Disclosure of CAFO Phosphorus  -  Major Stevens
-- Reducing Fertilizer Use on Saturated Soil - Katrina Wheelan
-- Requiring Nutrient Management Plans - Kathleen Bryant
-- Improving Farmer Education - Kelly Rogers Victor
-- Agricultural Runoff in Southeast Michigan - John Blake
-
-9:10 - Break 
-
-9:15 - Leaking Septic Systems 
-
-- Investment in  Septic Inspection Backlog - Sarah Procario
-- Equitable Funding for Septic Compliance - Harrison Parker 
-- Water Well Inspections - Nicholas Dengler Dechant
-- Water-Adjacent Septic Systems - Harrison Dengler Dechant
-- Reducing Pharmaceuticals in Septics - Mya Ruth Walters
-
-
----
-
-[Rep. Donavan McKinney](https://www.donavanmckinney.com)
-
-- Appropriations, Member
-- Appropriations Subcommittee on Agriculture and Rural Development and Natural Resources, Member
-- Appropriations Subcommittee on Environment, Great Lakes, and Energy,  Vice Chair
- 
-
-[Senator Sue Shink](https://senatedems.com/shink)
-
-- Natural Resources and Agriculture, Chair
-- Agriculture & Natural Resources Appropriations Subcommittee, Vice Chair
-- Appropriations, Member
-- Energy & Environment, Member
-- Environment, Great Lakes, and Energy (EGLE) Appropriations Subcommittee, Member
-- Local Government, Member
-  
-  
-
-# Roundtables Instructions
-
-## Overview
+## Overview 
 
 This year, roundtables are structured as expert panel presentations assembled for a Michigan House or Senate Committee informational hearing. Here is a [summary of testimony from a recent informational haring on racial and ethnic disparities in maternal and infant health](https://stateofreform.com/featured/2023/03/michigan-senate-committee-discusses-racial-and-ethnic-disparities-in-maternal-and-infant-health/) and the [full audio from that committee meeting](https://www.senate.michigan.gov/committeeaudio/2023-2024/Health%20Policy/Health-Policy-03-22-2023_1232PM_28_72.mp3). Given their official positions, these presenters have more time and slightly different goals than your goals, but I hope it is helpful. 
 
 Here is a nice summary of some research on trends in expert hearings by US House committees: 
 
-- https://www.washingtonpost.com/politics/2022/01/28/congress-expert-testimony-public-policy/
+- <https://www.washingtonpost.com/politics/2022/01/28/congress-expert-testimony-public-policy/>
 
 We have six topics on which various committees would like more information and policy analysis to make informed decisions about potential legislation that may end up in front of them. As members of the committee, they have the ability to mark up and shape legislation and then vote to send it out of committee to the full chamber for debate and votes. On some of these issues, they may be considering proposed legislation on some of these topics for many years to come, so they are not only interested in current draft legislation but also a general understanding of the problem and the pros and cons of different policy solutions that might be advanced. 
 
@@ -144,161 +53,9 @@ Please coordinate with members of your panel to provide opening statements that 
 
 I will likely ask one question from your talking points memo and expect a concise response. 
 
-The class, playing the part of the Michigan House Committee members, will ask additional questions. Again, responses should be concise. 
+The class, playing the part of the Committee members, will ask additional questions. Again, responses should be concise. 
 
+ **Ideas for anticipating questions:**
 
-# Schedule 
-
-## Nov. 21st: Salt and Plastics 
-
-Confirmed guests:
-
-- David Lossing (Huron River Watershed Council) 
-- Art Hirsch (Michigan Sierra Club)
-
-### Informational Hearing on Road Salt
-
-Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
-- Garit Frye
-- Shannon Eileen Gielow
-- Nia Knox
-- Hank Peters-Wood
-- Madison Lynne Prinzing
-
-Members: the rest of the class
-
-### Informational Hearing on Microplastics in Wastewater
-
-Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
-- Charlotte Bronwyn Hovey
-- Samuel Owusu
-- Natalia Rice
-- Danielle Sockin
-
-Members: the rest of the class
-
----
-
-## Nov. 28th: PFAS
-
-Confirmed guests:
-
-- Dan Brown  (Huron River Watershed Council) 
-- Bentley Johnson (League of Conservation Voters)
-
-### Informational Hearing on PFAS in Municipal Drinking Water
-
-Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
--  Georgina Bailey
--  Maria Manansala
-- Farah Lynn Pitcher
-- Laura Stroud
-
-Members: the rest of the class
-
-### Informational Hearing on PFAS in Wastewater
-
-Michigan House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation
-
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
--   Lauren Fuller
-- Annie Henseler
-- Tejal Patel
-- Dwiky Putra
-
-Members: the rest of the class
-
-
-
----
-
-
-## Nov. 30th: Septics and Agriculture
-
-Confirmed guests:
-
-- [Rep. Donavan McKinney](https://www.donavanmckinney.com)
-  - Appropriations, Member
-  - Appropriations Subcommittee on Agriculture and Rural Development and Natural Resources, Member
-  - Appropriations Subcommittee on Environment, Great Lakes, and Energy,  Vice Chair
- 
-
-- [Senator Sue Shink](https://senatedems.com/shink)
-  - Natural Resources and Agriculture, Chair
-  - Agriculture & Natural Resources Appropriations Subcommittee, Vice Chair
-  - Appropriations, Member
-  - Energy & Environment, Member
-  - Environment, Great Lakes, and Energy (EGLE) Appropriations Subcommittee, Member
-  - Local Government, Member
- 
-
-- Hudson Villeneuve (League of Conservation Voters)
- 
- 
- 
-### Informational Hearing on Septics
-
-Michigan House Appropriations Subcommittee on Environment, Great Lakes, and Energy,  Vice Chair
-
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
--  Harrison Dengler Dechant
-- Nicholas Dengler Dechant
-- Harrison Parker 
-- Sarah Procario
-- Mya Ruth Walters
-
-Members: the rest of the class
-
----
-
-### Informational Hearing on Nutrient Runoff
-
-Michigan Senate Committee on Natural Resources and Agriculture
-
-Chair: Devin Judge-Lord
-
-Clerk: Caroline Leland
-
-Expert witnesses:  
-
-- John Blake
--  Kathleen Bryant
--  Major Stevens
--  Kelly Rogers Victor
--  Katrina Wheelan
-
-Members: the rest of the class
+- Give your presentation to (or just talk about your proposal with) others and write down the questions they ask you 
+- Gather questions from feedback on your memos and ask yourself if any of them are likely to be asked in response to your presentation
