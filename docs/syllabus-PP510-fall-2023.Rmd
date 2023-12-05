@@ -36,7 +36,7 @@ style_mono_light(base_color = "#00274C",
           #extra_css = list(".remark-slide-number" = list("display" = "none"))
           )
 ```
-<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class; If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
+<!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class. If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
 I grew up on a small farm in central Wisconsin, where rainfall and groundwater make all the difference. Did anyone else grow up on a farm? A diary? Does anyone have hogs? 
 
@@ -281,7 +281,7 @@ You may access the Ford School’s embedded counselor Paige Ziegler (contact inf
 <!--By enrolling in this course, each student assumes the responsibilities of an active participant in the Ford School's community of scholars in which everyone’s academic work and behavior are held to the highest academic integrity standards. Academic misconduct compromises the integrity of the university. Cheating, fabrication, plagiarism, unauthorized collaboration, and helping others commit these acts are examples of academic misconduct, which can result in disciplinary action. This includes but is not limited to failure on the assignment/course, disciplinary probation, or suspension. -->
 
 
-**Use of Technology:**  Students should follow instructions from their instructor as to acceptable use of technology in the classroom, including laptops, in each course. All course materials (including slides, assignments, handouts, pre-recorded lectures, or recordings of class) are to be considered confidential material and are not to be shared in full or part with anyone outside of the course participants. Likewise, your own personal recording (audio or video) of your classes or office hour sessions is allowed only with the express written permission of your instructor.  If you wish to post course materials or photographs/videos of classmates or your instructor to third-party sites (e.g. social media), you must first have informed consent. Without explicit permission from the instructor and in some cases your classmates, the public distribution or posting of any photos, audio/video recordings, or pre-recordings from class, discussion section, or office hours, even if you have permission to record, is not allowed and could be considered academic misconduct.
+**Use of Technology:**  Students should follow instructions from their instructor as to acceptable use of technology in the classroom, including laptops, in each course. All course materials (including slides, assignments, handouts, pre-recorded lectures, or recordings of class) are to be considered confidential material and are not to be shared in full or part with anyone outside of the course participants. Likewise, your own personal recording (audio or video) of your classes or office hour sessions is allowed only with the express written permission of your instructor.  If you wish to post course materials or photographs/videos of classmates or your instructor to third-party sites (e.g., social media), you must first have informed consent. Without explicit permission from the instructor and in some cases your classmates, the public distribution or posting of any photos, audio/video recordings, or pre-recordings from class, discussion section, or office hours, even if you have permission to record, is not allowed and could be considered academic misconduct.
 
 Please review additional information and policies regarding [academic expectations and resources](https://intranet.fordschool.umich.edu/academic-expectations) at the Ford School of Public Policy.
 
@@ -310,7 +310,7 @@ In addition to attending class, we will continue the conversation by discussing 
 - Week 4: **Gather evidence:** Find a policy-relevant peer-reviewed research paper and post 100-200 words about it on Canvas  
 - Week 5: **Ask a question about federalism or how local government works in practice**  
 - Week 6: **Engage in policymaking:** Write to a public official or agency (not one to whom you are writing a memo). Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
-- Week 7: **Engage others in policymaking**: Write 100-200 words about why it is important to engage in a particular policy process (not one on which you are writing a memo) and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least 5 other people on a public forum---post a link or screenshots to Canvas
+- Week 7: **Engage others in policymaking**: Write 100-200 words about why it is important to engage in a particular policy process (not one on which you are writing a memo) and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least five other people on a public forum---post a link or screenshots to Canvas
 
 ---
 
@@ -388,7 +388,7 @@ If you use people or tools other than your brain and spelling/grammar checkers t
 
 I am not yet sure if LLMs are a helpful tool for the craft of writing policy memos or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
 
-As mentioned in the memo template, <mark>**references must be hyperlinked**</mark> whenever possible, we will be checking to make sure sources of evidence are used appropriately. 
+As mentioned in the memo template, <mark>**references must be hyperlinked**</mark> whenever possible. We will be checking to make sure sources of evidence are used appropriately. 
 
 I reserve the right to discuss your papers in length with you if I have concerns.
 
@@ -415,7 +415,7 @@ Thursday: Crash course in the distribution of authority in the U.S. federal syst
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
-The foundation structure of the policymaking system in the United States, the Constitution sets out, in broad (ambiguous) language, which institutions have what kind of authority to make policy. 
+As the foundational structure of the policymaking system in the United States, the Constitution sets out, in broad (ambiguous) language, which institutions have what kind of authority to make policy. 
 
 > Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) 
 
@@ -445,7 +445,7 @@ Carpenter reviews research on the power of being able to set the agenda for poli
 
 Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
 
-Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting.” American Political Science Review 114:638-659
+Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
 
 Recommended Context: Birkland, Chapter 1-3
 
@@ -453,9 +453,9 @@ Recommended Context: Birkland, Chapter 1-3
 
 ## Week three: Institutions
 
-> Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e. Part III is optional reading, as are footnotes)
+> Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e., Part III is optional reading, as are footnotes)
 
-How should we distribute and limit power across institutions? Why does power to make policy shift among institutions over time? Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
+How should we distribute and limit power across institutions? Why does the power to make policy shift among institutions over time? Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
 
 <!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
 
@@ -563,7 +563,7 @@ Recommended Context:
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
-What are the biases of policymaking in the U.S.? One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like policy analysis based on economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
+What are the biases of policymaking in the U.S.? One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
 
 <!-- chevron + dissertation 
 
@@ -593,7 +593,7 @@ Thursday:
 
 > Listen: [SSN: Death by a Thousand Cuts - Ashley E. Nickels](https://scholars.org/podcast/death-thousand-cuts)
 
-> Context:  Stone, remainder of Part II (Chapters 3-6)
+> Context:  Stone, the remainder of Part II (Chapters 3-6)
 
 > Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)
 
@@ -631,9 +631,9 @@ Thursday:
 > Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
 -->
 
-Reccomended 
+Recommended 
 
-- Research: [Mettler, Suzanne. 2002. "Bringing the state back in to civic engagement: Policy feedback effects of the GI Bill for World War II veterans." *American Political Science Review* 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
+- Research: [Mettler, Suzanne. 2002. "Bringing the state back into civic engagement: Policy feedback effects of the GI Bill for World War II veterans." *American Political Science Review* 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
 
 ---
 
@@ -664,9 +664,9 @@ oversight-correspondence
 
 Tuesday: Course wrap-up, reflection, and responses to roundtable presentations
 
-- How has your understanding of the polics of polcymaking changed since the start of the semester? 
-- Which reading stands out to us most and why? 
-- What connections do you see between the memos/roundtables amd the readings? 
+> - How has your understanding of the politics of policymaking changed since the start of the semester? 
+> - Which reading stands out to us most and why? 
+> - What connections do you see between the memos/roundtables and the readings? 
 
 Thursday: No class, Winter Break
 
@@ -692,14 +692,14 @@ Students who email to request an office hour appointment should expect to receiv
 
 We will choose meeting locations and conduct meetings with student and instructor safety in mind.
 
-We will ensure that all individual meetings between instructor/student will take place at university venues.
+We will ensure that all individual meetings between instructors/students will take place at university venues.
 
 We will ensure that all off-campus meetings, trips, or events must engage with course material.
 
 Off-campus meetings will not involve alcohol or take place at locations that serve alcohol. If the class goes out for a meal, it will be at a cafe or restaurant that does not serve alcohol. The location/day/time of any off-campus meetings between the instructor and students will be documented in Google Calendar (or other software).
 
-We the instructors, will conduct all individual communications using the University platforms of email, Canvas, Slack, or Piazza, with the caveat that we may use non-University platforms set up by students (such as GroupMe) only if they include all students in the class.
+We, the instructors, will conduct all individual communications using the University platforms of email, Canvas, Slack, or Piazza, with the caveat that we may use non-university platforms set up by students (such as GroupMe) only if they include all students in the class.
 
-There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, What’s App, etc.
+There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, WhatsApp, etc.
 
 For more information on resources for reporting sexual misconduct, please see [the faculty senate best practices for faculty interactions](https://facultysenate.umich.edu/wp-content/uploads/2022/08/BEST-PRACTICES-FOR-FACULTY-_-STUDENT-INTERACTIONS.pdf) and [U-M's page on Sexual and Gender-Based Misconduct](https://sexualmisconduct.umich.edu/).
