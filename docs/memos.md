@@ -1,8 +1,12 @@
+
+
 # Policy Memo Instructions
 
 **General Instructions:**  This document provides the exact template for the policy memo assignments. Your memo should include a memo header, executive summary, background summary, analysis of the issues, review of options, recommendation, arguments and counterarguments, and conclusion. You are limited to four double-spaced pages, excluding source citations. You should use four pages---no more, rarely less. Because you are limited to four pages, consider the most efficient methods to convey necessary information:  charts, bullet points, tables, graphs, or text. Please use a consistent citation style. Given the page limit, endnotes are best. Use 1-inch margins and 12-point font.
 
 In preparing your memo, consider your reader. What does the reader already know? What does your reader need to know to understand your analysis and recommendation? Because policy memoranda are brief--no more than a few pages---avoid restating the obvious or discussing at any length that is well known or well understood by your reader. Your job is not to tell the reader everything that you know on the issue; it is to tell the reader **what they need to know to make a policy decision**.  
+
+The multiple memos you write for this class are exercises in practicing a craft. Yes, they are addressed to real people, but I will give you feedback, and you will have a chance to revise it before sending it to them (if you want to do so). The purpose of doing iterations on the same memo form and subject is to get practice, workshop, and improve. For both reasons, I hope you can see the policy memo assignments as practice. I know this is a new form of writing for most of you and new subject matter for nearly all of you.   Please be careful not to be too hard on yourself or hold yourselves to unreasonable expectations. There is no way anyone can become a true expert in any subject or craft in this short time. I've read and graded hundreds of students' policy memos, and I am not expecting perfection on the first attempt. I expect a good first effort at doing something new and challenging, and I know you can all do that well. In the next itteration, I expect improvement, and I know you can do that as well.
 
 ## Policy Memo Template
 
