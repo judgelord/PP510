@@ -2,9 +2,8 @@
 title: "Public Policy 510"
 subtitle: The Politics of Public Policy
 #date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
-urlcolor: blue
-editor_options: 
-   chunk_output_type: console
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
 format:
 # pdf: default
  html:
@@ -60,7 +59,10 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 The primary objective of this core course in the MPP curriculum is to equip students with the knowledge and skills needed for effective political analysis of public policy issues and decisions.  The course covers conceptual and analytic frameworks for understanding political processes, institutions, stakeholders, contexts, and policy decision-making.  In addition, the course builds written and verbal communication skills, emphasizing the ability to convey clear and concise political analyses in a variety of formats, including policy memos.  
 
-This section of 510 focuses on the politics of policymaking in the U.S. federal system, with special emphasis on environmental policy.  Students will learn how policy agendas are shaped and enacted within and across institutions of local, state, and U.S. federal government, as well as Native nations. We will study the roles of different actors, types of authority, and advocacy strategies and develop skills required to inform and influence policy. We will apply this conceptual understanding to policy challenges related to water quality in the Great Lakes region, which we will use as working examples throughout the semester.
+This section of 510 focuses on the politics of policymaking in the U.S. federal system, with special emphasis on environmental policy.  Students will learn how policy agendas are shaped and enacted within and across institutions of local, state, and U.S. federal government, as well as Native nations. We will study the roles of different actors, types of authority, and advocacy strategies and develop skills required to inform and influence policy. We will apply this conceptual understanding to policy challenges related to 
+energy infrastructure in Michigan,
+<!--water quality in the Great Lakes region, -->
+which we will use as working examples throughout the semester.
 
 Public policy is defined in many ways.  I think of public policy as the government’s statement of what it intends to do. The government part makes it public, and the stated course of action makes it policy. Policy is more than a single decision, it is a statement about how future decisions will be made. Public policy is made at the international, national, state, regional, county, city, and even more local levels and across different types of institutions (legislative, executive, judicial, etc.) at each level.  
 
@@ -217,6 +219,10 @@ For background on the U.S. policymaking system and policy analysis, I recommend 
 - Michael E. Kraft and Scott R. Furlong, *Public Policy: Politics, Analysis, and Alternatives*. Any Edition.
 - Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition.
 
+For background on energy siting policy 
+
+- https://emp.lbl.gov/publications/laws-order-inventory-state-renewable
+
 ---
 
 ### Technology in Class
@@ -343,7 +349,10 @@ The first assignment is your opportunity to set the agenda for this course. It i
 
 Please submit a <mark>**1-page** single-spaced</mark> [issues memo](https://judgelord.github.io/PP510/memos.html) on the following question: 
 
-What are the most pressing water quality issues in the Great Lakes region? Please identify **three issues** and **three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials** who are in a position to advance policies addressing each issue.
+What are the most pressing 
+<!--water quality issues in the Great Lakes region?-->
+energy siting in Michigan? 
+Please identify **three issues** and **three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials** who are in a position to advance policies addressing each issue.
 
 ---
 
@@ -456,9 +465,10 @@ Additional listening:
 
 Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
 
-> Research: Egan, Part 1
+<!--> Research: Egan, Part 1
 
 Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
+--> 
 
 Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
 
@@ -468,13 +478,16 @@ Recommended Context: Birkland, Chapter 1-3
 
 ## Week three: Institutions
 
+> News: [State law could end bitter local fights over bans of large-scale renewable energy on farmland From Mich Public](https://www.michiganpublic.org/2024-07-23/state-law-could-end-bitter-local-fights-over-bans-of-large-scale-renewable-energy-on-farmland)
+
+
 > Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e., Part III is optional reading, as are footnotes)
 
 How should we distribute and limit power across institutions? Why does the power to make policy shift among institutions over time? Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
 
 <!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
 
-> Research: Egan, Part 2
+<!--> Research: Egan, Part 2
 
 > Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
@@ -483,7 +496,7 @@ Differing views of the approach that the Supreme Court should take on water poll
 > Listen: [Harvard Environmental & Energy Law Program: Sackett v. EPA Decision: What the Justices Said and What this Means for Water](https://eelp.law.harvard.edu/cleanlaw-our-podcast/)
 
 A post-decision review of big changes in water quality and wetlands protection law as a result of new Justices being appointed to the Supreme Court. These new interpretations (policies) constraining which wetlands and streams federal agencies can regulate under authority delegated in the Clean Water Act and what Congress can do with Commerce Clause authority reflect broader shifts in the distribution of policymaking power across institutions.   
-
+-->
 
 ---
 
@@ -493,7 +506,7 @@ A post-decision review of big changes in water quality and wetlands protection l
 
 <!-- whymail + FERC + CBFA + SOFO--> 
 
-> Research: Egan, Part 3
+<!--> Research: Egan, Part 3-->
 
 > Research: [Leech, Beth. 2010. Lobbying and Influence. In *The Oxford Handbook of American Political Parties and Interest Groups*, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. *Oxford University Press* pp. 696–719.](https://doi.org/10.1093/oxfordhb/9780199542628.001.0001)
 
