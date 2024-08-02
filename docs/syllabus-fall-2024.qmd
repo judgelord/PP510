@@ -1,6 +1,5 @@
 ---
-title: "Public Policy 510"
-subtitle: The Politics of Public Policy
+title: PubPol 510
 #date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
@@ -9,12 +8,15 @@ format:
  html:
    toc: true
    toc-location: left
+   toc-title: Contents
    theme: michigan.scss
 css: styles.css
 execute:
   echo: false
   engine: knitr
 ---
+
+## The Politics of Public Policy {.unnumbered .unlisted}
 
 <!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class. If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
