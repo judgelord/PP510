@@ -329,6 +329,7 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
+- Weeek 1: Introduce yourself to the class
 - Weeks 2 and 3: **Ask a question:** Post a response and question **from the readings** ( 100-200 words). 
 - Week 4: **Gather evidence:** Find a policy-relevant peer-reviewed research paper and post 100-200 words about it on Canvas  
 - Week 5: **Ask a question about federalism or how local government works in practice**  
@@ -353,12 +354,12 @@ Please submit a <mark>**1-page** single-spaced</mark> [issues memo](https://judg
 
 What are the most pressing 
 <!--water quality issues in the Great Lakes region?-->
-energy siting in Michigan? 
-Please identify **three issues** and **three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials** who are in a position to advance policies addressing each issue.
+energy siting issues in Michigan? 
+Please identify **three issues** and **three local, state, tribal, or inter-tribal** <mark? government officials </mark> who are in a position to advance policies addressing each issue.
 
 ---
 
-### Policy memoranda (3 X 20% = 60%)
+### Policy memoranda (5% + 2 X 20% = 45%)
 
 You will write three <mark>**4-page** double-spaced</mark> policy memos to public officials following [the policy memo template](https://judgelord.github.io/PP510/memos.html) exactly.
 
@@ -463,16 +464,28 @@ Additional listening:
 
 ## Week two: The Policy Process
 
+### Tuesday
 
+> Short Circuiting Policy Chapter 1. Introduction and Chapter 2. When New Policies Fail to Create a New Politics
 
 Recommended Context: Birkland, Chapter 1-3
+
+
+### Thursday
+
+In-class memo workshop
 
 ---
 
 ## Week three: Institutions
 
+### Tuesday 
+
 > News: [State law could end bitter local fights over bans of large-scale renewable energy on farmland From Mich Public](https://www.michiganpublic.org/2024-07-23/state-law-could-end-bitter-local-fights-over-bans-of-large-scale-renewable-energy-on-farmland)
 
+> Research: Short Circuiting Policy Chapter 3. An Institutional History of Electricity Politics and Climate Inaction
+
+### Thursday
 
 > Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e., Part III is optional reading, as are footnotes)
 
@@ -500,6 +513,8 @@ A post-decision review of big changes in water quality and wetlands protection l
 <!-- whymail + FERC + CBFA + SOFO--> 
 
 <!--> Research: Egan, Part 3-->
+
+> Research: Short Circuiting Policy Chapter 4. Policy Feedback: Networked and Influential Advocates Use the Public to Drive Clean Energy Leadership in Texas
 
 > Research: [Leech, Beth. 2010. Lobbying and Influence. In *The Oxford Handbook of American Political Parties and Interest Groups*, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. *Oxford University Press* pp. 696–719.](https://doi.org/10.1093/oxfordhb/9780199542628.001.0001)
 
@@ -580,6 +595,8 @@ Recommended Context:
 
 > **Memo 1 due Tuesday 7 PM**
 
+> Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas
+
 > Research: [Drutman, Lee. There are too many lawyers in politics. Here’s what to do about it.](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
@@ -642,6 +659,10 @@ Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Prot
 > Research: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
 
 > Context:  Stone, Part III
+
+### Thursday
+
+GUEST LECTURE 
 
 ---
 

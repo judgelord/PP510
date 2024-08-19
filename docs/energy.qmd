@@ -23,9 +23,19 @@ execute:
 
 [MI Healthy Climate Plan](https://www.michigan.gov/egle/about/organization/climate-and-energy/mi-healthy-climate-plan)
 
+## Public meetings
+
+[MPSC Renewable Energy and Energy Storage Siting Meeting 04-26-2024](https://www.youtube.com/watch?v=Z9IK_tm6f28)
+
 ## Legislation
 
+### Passed 
 
+- [Public Act No. 233, Approved by the Governor, November 28, 2023](https://www.legislature.mi.gov/documents/2023-2024/publicact/htm/2023-PA-0233.htm)
+
+### In the works 
+
+The Michigan Association of Planning (MAP) Law Committee were approached by legislators in April 2024 seeking simple fixes to PA 233 that wouldn't change the meaning/intent of the law, but would make it clearer to implement and resolve some of the ambiguities.  Sarah Mills was part of a MAP subcommittee that worked to draft these. Most of these changes are what appeared in the staff straw proposal.  MAP is continuing to work with the legislators, MAC, MTA, and MML. [PDF](INSERT LINK)
 
 # News
 
@@ -36,6 +46,8 @@ execute:
 ](https://www.bridgemi.com/guest-commentary/opinion-michigans-system-approve-green-energy-projects-broken)
 
 # Reports
+
+## [MPPS Report: Most Michigan local government officials say control over renewable energy projects should stay local](https://closup.umich.edu/news/2024/new-mpps-report-most-michigan-local-government-officials-say-control-over-renewable)
 
 ## [Laws in Order: An Inventory of State Renewable Energy Siting Policies](https://emp.lbl.gov/publications/laws-order-inventory-state-renewable)
 
@@ -113,6 +125,9 @@ Local authorities typically control siting standards. Solar or wind projects mus
 [Community-based wind energy development does not work? Empirical evidence from residents in Canada and Ireland](https://www.sciencedirect.com/science/article/pii/S0301421524002192?dgcid=raven_sd_via_email)
 
 [Renewable energy requirements on the ballot: An analysis of county-level voting results](https://www.sciencedirect.com/science/article/pii/S0301421520306601)
+
+[Preserving Agriculture through Wind Energy Development: A Study of the Social, Economic, and Land Use Effects of Windfarms on Rural Landowners and Their Communities by Sarah Mills, PhD Thesis, University of Michigan, 2015](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/111508/sbmills_1.pdf?sequence=1&isAllowed=y)
+- See passage on Ohio siting authority, starts on page 164 of the pdf/149 marked on the bottom of the page
 
 
 # [Wiki](https://docs.google.com/document/d/1JXMjQyCxCCgnQ9jALE8k8rdS4N8TuESqwbBY0Y950ek/edit?usp=sharing)
