@@ -123,11 +123,12 @@ Minor: It is clear why you chose the option you chose, but more details are need
 
 # Issues Memo Instructions
 
-The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
+The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system and the state of Michigan.
 
 You will craft a 1-page memo on the following question: 
 
-What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
+What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
+
 
 ## Issues Memo Template 
 

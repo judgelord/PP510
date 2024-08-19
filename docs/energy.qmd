@@ -1,0 +1,119 @@
+---
+title: Resources for Policy Memos on Energy Project Siting
+#date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   toc-title: Contents
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+
+# Michigan policy 
+
+## Plans 
+
+[MI Healthy Climate Plan](https://www.michigan.gov/egle/about/organization/climate-and-energy/mi-healthy-climate-plan)
+
+## Legislation
+
+
+
+# News
+
+
+# Opinion
+
+- [Michigan’s system to approve green energy projects is broken
+](https://www.bridgemi.com/guest-commentary/opinion-michigans-system-approve-green-energy-projects-broken)
+
+# Reports
+
+## [Laws in Order: An Inventory of State Renewable Energy Siting Policies](https://emp.lbl.gov/publications/laws-order-inventory-state-renewable)
+
+Before a large-scale solar or wind project can be built, its developers face the complicated siting and permitting processes. A project could require approvals from multiple levels of government (federal, tribal, state, and local) that consider project aesthetics, economics, land use, and effects on water quality and wildlife habitat.
+
+ 
+
+To simplify this complex web of energy regulations for policymakers, developers, and renewable energy stakeholders, Lawrence Berkeley National Laboratory and the U.S. Department of Energy’s (DOE) Office of Renewable Energy and Energy Efficiency collaborated with a research team that included the Regulatory Assistance Project, Clean Air Task Force, and the Consensus Building Institute to publish a new inventory of state renewable energy siting policies, permitting authorities, and an accompanying interactive map that profiles all 50 states plus Puerto Rico.
+
+ 
+
+The inventory includes summary material, findings, and individual reports for each state.
+
+It also provides an improved understanding of the regulatory landscape for large-scale wind and solar siting across U.S. states and territories by documenting, among other aspects:
+
+ 
+
+The entity or entities in each state or territory that have jurisdictional authority to make siting and permitting decisions and set standards for large-scale renewables siting and construction;
+The presence or lack thereof of siting and permitting timelines;
+Public involvement requirements; and
+The availability of permitting guides and model ordinances to support local jurisdictional decision-making.
+ 
+
+A key finding in the report is that a majority of states (37) give local governments the authority to set siting standards (tip heights, setbacks, etc.). Beyond that, our research confirms that state approaches to siting and permitting can vary widely and are often difficult to categorize.
+
+
+
+Additional observations from the report include:
+
+ 
+
+The level of government with principal authority for renewable energy siting and permitting often depends on project size. In 27 states, principal authority for siting and permitting depends on project size (shown below as “contingent”), with larger projects typically sited at the state level—though project size thresholds differ significantly from state to state.
+
+ 
+![](figs/emp-report-1.png) 
+Figure 1: Principal renewable energy siting and permitting authority categories by state
+
+
+Note: “Local” refers to states where local governments have principal jurisdiction over renewable energy siting and permitting; “State” refers to when a state or territorial government has principal jurisdiction; “Both” refers to scenarios in which both the state and the local government have some authority; and, “Contingent” scenarios are when either the state or local government has principal authority, nearly always depending upon the size of the project.
+
+ 
+
+Timelines for permitting vary widely.  In 31 states, there are defined timelines for the permitting process, ranging from 30 days to a year. These timelines are often triggered by a specific initiation point, such as the developer applying for permission to build a project.
+
+ 
+
+Most states have public involvement requirements. In 34 states – mostly those where the state has authority by default or based on project – the state has a statutory or regulatory requirement within the permitting process to include public meetings or hearings.
+
+ 
+
+Published guidance is available in many states. We found that 29 states have published guides for siting and permitting solar, 33 for wind, and 25 for both solar and wind (Figure 2). These guides typically summarize the siting process, involved parties, and relevant policies, are often published by a state agency, but can sometimes be the product of nonprofits or working groups serving a state or region.
+
+
+
+![](figs/emp-report-2.png) (Figure 2: Renewable energy permitting guides available)
+
+
+Model ordinances are available in many states. Because local governments have a key role in setting siting rules in most states, some have developed model ordinances for local authorities to use as guides. Model ordinances are available in 27 states for solar, 18 for wind, and 15 for both.
+
+ 
+
+Local authorities typically control siting standards. Solar or wind projects must meet standards to manage land use and regulate their development and construction. For example, there may be restrictions on how much land a project can use, where it can be built, or on wind turbine height and noise. These standards can be included in state law or a local zoning ordinance, but our research finds that 37 states give local authorities the jurisdiction to set siting standards.
+
+
+# Secondary sources 
+
+(Reviews of research)
+
+- [It’s the economics: Red states embracing wind energy don’t do it for the climate - Sarah Mills in The Conversation](https://theconversation.com/its-the-economics-red-states-embracing-wind-energy-dont-do-it-for-the-climate-104899)
+
+# Peer-reviewed research 
+
+[Community-developer collaboration and voluntary community benefits in Scotland: Are community benefits a gift or compensation?](https://www.sciencedirect.com/science/article/pii/S0301421524001848?dgcid=raven_sd_via_email)
+
+[Community-based wind energy development does not work? Empirical evidence from residents in Canada and Ireland](https://www.sciencedirect.com/science/article/pii/S0301421524002192?dgcid=raven_sd_via_email)
+
+[Renewable energy requirements on the ballot: An analysis of county-level voting results](https://www.sciencedirect.com/science/article/pii/S0301421520306601)
+
+
+# [Wiki](https://docs.google.com/document/d/1JXMjQyCxCCgnQ9jALE8k8rdS4N8TuESqwbBY0Y950ek/edit?usp=sharing)
+
