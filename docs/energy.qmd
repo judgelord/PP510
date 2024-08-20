@@ -1,6 +1,5 @@
 ---
 title: Resources for Policy Memos on Energy Project Siting
-#date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:

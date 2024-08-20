@@ -1,4 +1,19 @@
-
+---
+title: Memo Instructions
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   toc-title: Contents
+#   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
 
 # Policy Memo Instructions
 
@@ -240,22 +255,24 @@ In this second half of the memo, both questions and points are probably best kep
 
 # Resources 
 
-[Public policy research guide](https://guides.lib.umich.edu/publicpolicy()
+- [Public policy research guide](https://guides.lib.umich.edu/publicpolicy)
 
 
-[Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
+- [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
 
-[The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
+- [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
 
 
-[Writing theory-driven policy analysis by Paul Cairney](https://paulcairney.wordpress.com/2017/11/13/how-to-write-theory-driven-policy-analysis/)
+- [Writing theory-driven policy analysis by Paul Cairney](https://paulcairney.wordpress.com/2017/11/13/how-to-write-theory-driven-policy-analysis/)
 
-Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 1995.
+-  Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 1995.
 The Craft of Research. Chicago: University of Chicago Press, Chapter 7: "Making Good Arguments: An Overview," pp. 88-93.
 
-From Electronic Hallway: "Memo Writing"; "Brief Guidelines for Writing Action Memos"; "Writing Effective Memoranda: Planning, Drafting, & Revising."
+- From Electronic Hallway: "Memo Writing"; "Brief Guidelines for Writing Action Memos"; "Writing Effective Memoranda: Planning, Drafting, & Revising."
 
 - [Harvard Kennedy School Library Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) to find think tank policy briefs with keyword search. 
+
+- [Wiki](https://docs.google.com/document/d/1QQA9bfutvYD1jsSrCBUW3OICc7PgKK7C-jj9BMeyFM8/edit?usp=sharing) (additional resources from 510 GSIs and students)
 
 
 
