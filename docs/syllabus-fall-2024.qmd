@@ -27,7 +27,7 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 GSI: Sarah Procario <sprocar@umich.edu>
   
-- Office hours: Mondays and Wednesdays, 1:00-2:00p, 3204 Weill Hall 
+- Office hours: Mondays and Wednesdays, 1:00-2:00 PM, 3204 Weill Hall 
 
 
 ---
@@ -767,7 +767,7 @@ Thursday: No class, Winter Break
 
 ## Ammendments 
 
-Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [on github](https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html).
+Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [on github](https://github.com/judgelord/PP510/commits/main/docs/syllabus-fall-2024.html).
 
 ---
 
