@@ -1,5 +1,5 @@
 ---
-title: PubPol 510
+title: "PubPol 510 <br>The Politics of Public Policy<br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
@@ -14,8 +14,6 @@ execute:
   echo: false
   engine: knitr
 ---
-
-## The Politics of Public Policy {.unnumbered .unlisted}
 
 Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
 
