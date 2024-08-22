@@ -1,6 +1,5 @@
 ---
 title: PubPol 510
-#date: Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
@@ -17,6 +16,22 @@ execute:
 ---
 
 ## The Politics of Public Policy {.unnumbered .unlisted}
+
+Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
+
+
+Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
+
+- Office hours: Tuesday and Thursday 2:30-3:30 PM, 3215 Weill Hall
+
+
+GSI: Sarah Procario <sprocar@umich.edu>
+  
+- Office hours: Mondays and Wednesdays, 1:00-2:00p, 3204 Weill Hall 
+
+
+---
+
 
 <!-- Welcome to Introduction to Public Policy. My aim for today is for you all to be clear about the goals and requirements for this class. If we have time, we will start on the topic of Federalism and the U.S. Constitution. This is my first time teaching this class, but I taught a similar class at the University of Wisconsin for 5 years. Each semester we ground our studies in a theme. This semester it will be about water quality issues in the Great Lakes region, especially local watersheds and municipal water infrastructure. I chose this because it is important and aligns with my professional policy experience. 
 
@@ -37,21 +52,11 @@ Five years later, I am working on a book about whether regular people's voices m
 --> 
 
 
-Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
-
-- Office hours: Tuesday and Thursday 2:30-3:30 PM, 3215 Weill Hall
-
-
-  GSI: Sarah Procario <sprocar@umich.edu>
-  
-- Office hours: Mondays and Wednesdays, 1:00-2:00p, 3204 Weill Hall 
-
-
----
-
 <!--exclude: true-->
 
-> 🚧 [Updated `r Sys.Date() |> format("%B %d, %Y")`](https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html) 🚧 
+🚧 [Updated `r Sys.Date() |> format("%B %d, %Y")`](https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html) 🚧 
+
+---
 
 ## Objectives
  
@@ -508,6 +513,9 @@ In-class memo workshop
 
 ## Week three: Institutions
 
+> **Agenda setting issues memo due Monday at 7 PM**
+
+
 ### Tuesday 
 
 > News: [State law could end bitter local fights over bans of large-scale renewable energy on farmland From Mich Public](https://www.michiganpublic.org/2024-07-23/state-law-could-end-bitter-local-fights-over-bans-of-large-scale-renewable-energy-on-farmland)
@@ -537,7 +545,6 @@ A post-decision review of big changes in water quality and wetlands protection l
 
 ## Week four: Policy Actors and Evidence
 
-> **Agenda setting issues memo due Monday at 7 PM**
 
 <!-- whymail + FERC + CBFA + SOFO--> 
 
@@ -622,7 +629,7 @@ Recommended Context:
 
 ## Week seven: Politics and Rationality
 
-> **Memo 1 due Tuesday 7 PM**
+<!--  **Memo 1 due Tuesday 7 PM**-->
 
 > Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas
 
@@ -683,7 +690,7 @@ Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Prot
 
 ## Week nine: Framing Problems
 
-> **Memo 2 due Tuesday 7 PM**
+<!-- **Memo 2 due Tuesday 7 PM**-->
 
 > Research: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
 
@@ -705,7 +712,7 @@ GUEST LECTURE
 
 ## Week eleven: Policy Design & Feedback 
 
-> **Memo 3 due Tuesday 7 PM**
+<!-- **Memo 3 due Tuesday 7 PM**--> 
 
 > Research: [Weaver, Vesla M. "How Mass Imprisonment Burdens the United States with a Distrustful Underclass"](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
 
