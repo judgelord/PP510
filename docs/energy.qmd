@@ -55,6 +55,7 @@ PA 235
 - Directed staff to engage with UP utilities and interconnection groups to develop the study, conduct at least one public hearing in the UP, and provide an opportunity for public comments
 
 PA 231 
+
 - Allows MPSC to consider climate, equity, and affordability in Integrated Resource Plans (IRPs)
 - Directed staff to commence studies on the potential for energy waste reduction, transportation electrification, demand response, buildings, and industry. Directed staff to update IRP filing requirements.
 
@@ -77,7 +78,7 @@ The Michigan Association of Planning (MAP) Law Committee were approached by legi
 
 # Opinion
 
-- [Michigan’s system to approve green energy projects is broken](https://www.bridgemi.com/guest-commentary/opinion-michigans-system-approve-green-energy-projects-broken)
+[Michigan’s system to approve green energy projects is broken](https://www.bridgemi.com/guest-commentary/opinion-michigans-system-approve-green-energy-projects-broken)
 
 # Reports
 
@@ -152,7 +153,7 @@ Local authorities typically control siting standards. Solar or wind projects mus
 
 (Reviews of research)
 
-- [It’s the economics: Red states embracing wind energy don’t do it for the climate - Sarah Mills in The Conversation](https://theconversation.com/its-the-economics-red-states-embracing-wind-energy-dont-do-it-for-the-climate-104899)
+[It’s the economics: Red states embracing wind energy don’t do it for the climate - Sarah Mills in The Conversation](https://theconversation.com/its-the-economics-red-states-embracing-wind-energy-dont-do-it-for-the-climate-104899)
 
 # Peer-reviewed research 
 
