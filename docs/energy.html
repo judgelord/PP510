@@ -40,6 +40,35 @@ ul.task-list li input[type="checkbox"] {
       }
 </style>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -82,6 +111,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#opinion" id="toc-opinion" class="nav-link" data-scroll-target="#opinion">Opinion</a></li>
   <li><a href="#reports" id="toc-reports" class="nav-link" data-scroll-target="#reports">Reports</a>
   <ul class="collapse">
+  <li><a href="#roadmap-to-clean-equitable-power-in-michigan-by-university-of-michigan-law-school-problem-solving-initiative-course---winter-2024" id="toc-roadmap-to-clean-equitable-power-in-michigan-by-university-of-michigan-law-school-problem-solving-initiative-course---winter-2024" class="nav-link" data-scroll-target="#roadmap-to-clean-equitable-power-in-michigan-by-university-of-michigan-law-school-problem-solving-initiative-course---winter-2024">Roadmap to Clean &amp; Equitable Power in Michigan By University of Michigan Law School Problem Solving Initiative Course - Winter 2024</a></li>
   <li><a href="#mpps-report-most-michigan-local-government-officials-say-control-over-renewable-energy-projects-should-stay-local" id="toc-mpps-report-most-michigan-local-government-officials-say-control-over-renewable-energy-projects-should-stay-local" class="nav-link" data-scroll-target="#mpps-report-most-michigan-local-government-officials-say-control-over-renewable-energy-projects-should-stay-local">MPPS Report: Most Michigan local government officials say control over renewable energy projects should stay local</a></li>
   <li><a href="#laws-in-order-an-inventory-of-state-renewable-energy-siting-policies" id="toc-laws-in-order-an-inventory-of-state-renewable-energy-siting-policies" class="nav-link" data-scroll-target="#laws-in-order-an-inventory-of-state-renewable-energy-siting-policies">Laws in Order: An Inventory of State Renewable Energy Siting Policies</a></li>
   </ul></li>
@@ -104,6 +134,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="plans" class="level2">
 <h2 class="anchored" data-anchor-id="plans">Plans</h2>
 <p><a href="https://www.michigan.gov/egle/about/organization/climate-and-energy/mi-healthy-climate-plan">MI Healthy Climate Plan</a></p>
+<p><a href="https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx"><span class="math inline">\(A^2ZERO\)</span> — Building a just transition to community-wide carbon neutrality by 2030.</a></p>
 </section>
 <section id="public-meetings" class="level2">
 <h2 class="anchored" data-anchor-id="public-meetings">Public meetings</h2>
@@ -113,9 +144,28 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="legislation">Legislation</h2>
 <section id="passed" class="level3">
 <h3 class="anchored" data-anchor-id="passed">Passed</h3>
+<p><a href="https://www.legislature.mi.gov/documents/2023-2024/publicact/htm/2023-PA-0233.htm">Public Act No.&nbsp;233, Approved by the Governor, November 28, 2023</a></p>
 <ul>
-<li><a href="https://www.legislature.mi.gov/documents/2023-2024/publicact/htm/2023-PA-0233.htm">Public Act No.&nbsp;233, Approved by the Governor, November 28, 2023</a></li>
+<li>Expands renewables siting authority to the MPSC for wind farms with a nameplate capacity over 100 MW and solar farms with a nameplate capacity over 50 MW</li>
+<li>Directed MPSC staff to engage with developers, local governments, and experts to produce recommendations for filings, ordinance guidance, and more.</li>
 </ul>
+<p>PA 229</p>
+<ul>
+<li>Increases the energy waste reduction target for utilities, requires program participation for cooperative and municipal utilities, and requires spending on low-income customers</li>
+<li>Directed MPSC staff to work with utilities, state government, and low-income advocacy groups to develop income verification strategies and program coordination to minimize barriers to participation</li>
+</ul>
+<p>PA 235</p>
+<ul>
+<li>Increases the RES to 50% by 2030 and 60% by 2035 and requires 100% clean energy by 2040</li>
+<li>Distributed Generation (DG) floor increase to 10%</li>
+<li>Establish a 2,500-megawatt storage standard by 2030</li>
+<li>Requires that MPSC study and report electric issues unique to the Upper Peninsula (UP)</li>
+<li>Set dates for all Michigan electricity providers to file amended REPs in 2024 and 2025</li>
+<li>Seek comments on issues related to the DG cap and other relevant matters</li>
+<li>Directed staff to draft a proposal to aid in determining a standard methodology for determining energy suppliers’ energy storage targets and to develop a report on energy storage resources. They will also require IOUs to file energy storage reports</li>
+<li>Directed staff to engage with UP utilities and interconnection groups to develop the study, conduct at least one public hearing in the UP, and provide an opportunity for public comments</li>
+</ul>
+<p>PA 231 - Allows MPSC to consider climate, equity, and affordability in Integrated Resource Plans (IRPs) - Directed staff to commence studies on the potential for energy waste reduction, transportation electrification, demand response, buildings, and industry. Directed staff to update IRP filing requirements.</p>
 </section>
 <section id="in-the-works" class="level3">
 <h3 class="anchored" data-anchor-id="in-the-works">In the works</h3>
@@ -125,6 +175,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="news" class="level1">
 <h1>News</h1>
+<p><a href="https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/">Michigan Gov.&nbsp;Gretchen Whitmer might notch a big climate win</a></p>
+<p><a href="https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/">Clean energy package policy changes earn a mixed response from environmental advocates</a></p>
 </section>
 <section id="opinion" class="level1">
 <h1>Opinion</h1>
@@ -134,6 +186,9 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="reports" class="level1">
 <h1>Reports</h1>
+<section id="roadmap-to-clean-equitable-power-in-michigan-by-university-of-michigan-law-school-problem-solving-initiative-course---winter-2024" class="level2">
+<h2 class="anchored" data-anchor-id="roadmap-to-clean-equitable-power-in-michigan-by-university-of-michigan-law-school-problem-solving-initiative-course---winter-2024"><a href="LINK%20WHEN%20PUBLIC">Roadmap to Clean &amp; Equitable Power in Michigan By University of Michigan Law School Problem Solving Initiative Course - Winter 2024</a></h2>
+</section>
 <section id="mpps-report-most-michigan-local-government-officials-say-control-over-renewable-energy-projects-should-stay-local" class="level2">
 <h2 class="anchored" data-anchor-id="mpps-report-most-michigan-local-government-officials-say-control-over-renewable-energy-projects-should-stay-local"><a href="https://closup.umich.edu/news/2024/new-mpps-report-most-michigan-local-government-officials-say-control-over-renewable">MPPS Report: Most Michigan local government officials say control over renewable energy projects should stay local</a></h2>
 </section>

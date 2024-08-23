@@ -22,6 +22,9 @@ execute:
 
 [MI Healthy Climate Plan](https://www.michigan.gov/egle/about/organization/climate-and-energy/mi-healthy-climate-plan)
 
+[$A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
+
+
 ## Public meetings
 
 [MPSC Renewable Energy and Energy Storage Siting Meeting 04-26-2024](https://www.youtube.com/watch?v=Z9IK_tm6f28)
@@ -30,7 +33,32 @@ execute:
 
 ### Passed 
 
-- [Public Act No. 233, Approved by the Governor, November 28, 2023](https://www.legislature.mi.gov/documents/2023-2024/publicact/htm/2023-PA-0233.htm)
+[Public Act No. 233, Approved by the Governor, November 28, 2023](https://www.legislature.mi.gov/documents/2023-2024/publicact/htm/2023-PA-0233.htm) 
+
+- Expands renewables siting authority to the MPSC for wind farms with a nameplate capacity over 100 MW and solar farms with a nameplate capacity over 50 MW
+- Directed MPSC staff to engage with developers, local governments, and experts to produce recommendations for filings, ordinance guidance, and more. 
+
+PA 229
+
+- Increases the energy waste reduction target for utilities, requires program participation for cooperative and municipal utilities, and requires spending on low-income customers
+- Directed MPSC staff to work with utilities, state government, and low-income advocacy groups to develop income verification strategies and program coordination to minimize barriers to participation
+
+PA 235
+
+- Increases the RES to 50% by 2030 and 60% by 2035 and requires 100% clean energy by 2040
+- Distributed Generation (DG) floor increase to 10%
+- Establish a 2,500-megawatt storage standard by 2030
+- Requires that MPSC study and report electric issues unique to the Upper Peninsula (UP)
+- Set dates for all Michigan electricity providers to file amended REPs in 2024 and 2025
+- Seek comments on issues related to the DG cap and other relevant matters
+- Directed staff to draft a proposal to aid in determining a standard methodology for determining energy suppliers’ energy storage targets and to develop a report on energy storage resources. They will also require IOUs to file energy storage reports
+- Directed staff to engage with UP utilities and interconnection groups to develop the study, conduct at least one public hearing in the UP, and provide an opportunity for public comments
+
+PA 231 
+- Allows MPSC to consider climate, equity, and affordability in Integrated Resource Plans (IRPs)
+- Directed staff to commence studies on the potential for energy waste reduction, transportation electrification, demand response, buildings, and industry. Directed staff to update IRP filing requirements.
+
+
 
 ### In the works 
 
@@ -38,13 +66,22 @@ The Michigan Association of Planning (MAP) Law Committee were approached by legi
 
 # News
 
+[Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
+
+[Clean energy package policy changes earn a mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)
+
+
+
+
+
 
 # Opinion
 
-- [Michigan’s system to approve green energy projects is broken
-](https://www.bridgemi.com/guest-commentary/opinion-michigans-system-approve-green-energy-projects-broken)
+- [Michigan’s system to approve green energy projects is broken](https://www.bridgemi.com/guest-commentary/opinion-michigans-system-approve-green-energy-projects-broken)
 
 # Reports
+
+## [Roadmap to Clean & Equitable Power in Michigan By  University of Michigan Law School Problem Solving Initiative Course - Winter 2024](LINK WHEN PUBLIC)
 
 ## [MPPS Report: Most Michigan local government officials say control over renewable energy projects should stay local](https://closup.umich.edu/news/2024/new-mpps-report-most-michigan-local-government-officials-say-control-over-renewable)
 
