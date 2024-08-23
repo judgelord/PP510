@@ -18,6 +18,7 @@ This section of 510 focuses on the politics of policymaking in the U.S. federal 
 ## - [Background Resources on Energy Policy](energy.html)
 
 
-Past syllabi: 
+Past syllabi and memo topics: 
 
 - [Fall 2023 Syllabus](https://judgelord.github.io/PP510/syllabus-PP510-fall-2023.html)
+  - [Fall 2023 Memo Topics](https://docs.google.com/document/d/1Q5UkRXhVh6LrdI4QpwUeLgKjEyeRIbZD2nHnWFubbaQ/edit?usp=sharing)
