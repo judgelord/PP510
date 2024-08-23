@@ -236,7 +236,7 @@ Class attendance is required.
 
 We will take attendance at the beginning of each class. 
 
-If you are going to miss class, please **notify BOTH CAROLINE AND ME by email in advance**. 
+If you are going to miss class, please **notify BOTH SARAH AND ME by email in advance**. 
 
 <!-- otherwise, I'll be looking for you. 
 In part, this is an accountability mechanism, but it is also a way for me to know when people are struggling. 
@@ -524,7 +524,7 @@ How should we distribute and limit power across institutions? Why does the power
 
 <!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
 
-<!--> Research: Egan, Part 2
+<!-- > Research: Egan, Part 2
 
 > Listen: [The Federalist Society: "A Preview of County of Maui, Hawaii v. Hawaii Wildlife Fund"](https://fedsoc.org/commentary/podcasts/deep-dive-episode-82-a-preview-of-county-of-maui-hawaii-v-hawaii-wildlife-fund)
 
@@ -542,7 +542,7 @@ A post-decision review of big changes in water quality and wetlands protection l
 
 <!-- whymail + FERC + CBFA + SOFO--> 
 
-<!--> Research: Egan, Part 3-->
+<!-- > Research: Egan, Part 3-->
 
 > Research: Short Circuiting Policy Chapter 4. Policy Feedback: Networked and Influential Advocates Use the Public to Drive Clean Energy Leadership in Texas
 
@@ -673,7 +673,7 @@ Thursday:
 
 Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
 
-<!--> Research: Egan, Part 1
+<!-- > Research: Egan, Part 1
 
 Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
 --> 
