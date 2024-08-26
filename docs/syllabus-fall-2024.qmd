@@ -568,11 +568,15 @@ How do actors outside government shape policy? Leech reviews what social science
 > Research: [Leech, Beth. 2010. Lobbying and Influence. In *The Oxford Handbook of American Political Parties and Interest Groups*, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. *Oxford University Press* pp. 696–719.](https://doi.org/10.1093/oxfordhb/9780199542628.001.0001)
 
 
-### Thursday: Coalitions and Evidence
+### Thursday: Coalitions, money, and evidence
 
 How do minority groups get heard in the policy process? Dwidar examines the role of lobbying coalitions in advancing minority views. 
 
 > Research: [Dwidar, Miraam. 2022. "Coalitional Lobbying and Intersectional Representation in American Rulemaking." *American Political Science Review*, 116(1), 301-321](http://doi.org/10.1017/S0003055421000794)
+
+Who is able to participate? Who has influence? Carpenter et al. examine the role of financial resources and expertise in lobbying. 
+
+> Research: SKIM: [Carpenter et al. "Inequality in Administrative Democracy"](https://judgelord.github.io/research/finreg/)
 
 
 How is evidence used in the policy process? 
