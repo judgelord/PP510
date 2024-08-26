@@ -161,7 +161,9 @@ My objective in teaching this course is to encourage your understanding of the p
 
 > "Trust yourself! It will get overwhelming, especially during the memo writing and roundtable processes, but you will feel so proud of yourself at the end."
 
-> "Go to the writing center before every memo, and think hard about which topics you can see yourself researching for two months when ranking them for the group selection. Try to do some preliminary research on all of them to see how easy they are to find information about and their relevance."
+> "Go to the writing center before every memo
+
+<!--, and think hard about which topics you can see yourself researching for two months when ranking them for the group selection. Try to do some preliminary research on all of them to see how easy they are to find information about and their relevance."-->
 
 > "Be prepared for a heavier reading and research load compared to other classes. Go to office hours to clarify how you should structure your memos." 
 
@@ -194,7 +196,7 @@ If you are looking for more foundation in how government works, the Ford School 
 
 Two texts are required. **Any edition of Stone is fine**, but more recent editions have more contemporary examples.
 
-> [Short Circuiting Policy](https://academic.oup.com/book/32159)
+> [Short Circuiting Policy](https://academic.oup.com/book/32159) by Leah Stokes
 
 
 > Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
@@ -208,15 +210,21 @@ We will read several chapters from
 
 - Deva Woodly's *The Politics of Common Sense*.
 
-We will post these selected chapters and other readings on Canvas or the class website. 
+These selected chapters and other readings are on either on Canvas. 
 
 Other readings (e.g., journal articles) are available online, though you may need to access them through the library website. I do not upload these to Canvas because finding material that you have access to through a library is a valuable research skill. Accessing the course readings via the library website is good practice. Your downloads also helps the library and journals know that this content is being used and thus that maintaining access to it is valuable.
+
+If you hit a paywall on a link from the syllabus:
+
+1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
+2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
+3. If 1 & 2 don't work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don't pop up for me because of some cached credentials, and I don't realize that the content is paywalled. You should not pay for any of the online content for this course. 
 
 ---
 
 #### Recommended
 
-For background on the U.S. policymaking system and policy analysis, I recommend two additional textbooks: 
+For background on the U.S. policymaking system and policy analysis, I recommend these textbooks: 
 
 - Michael E. Kraft and Scott R. Furlong, *Public Policy: Politics, Analysis, and Alternatives*. Any Edition.
 - Thomas A. Birkland, *An Introduction to the Policy Process:  Theories, Concepts, and Models of Public Policy Making*. Any Edition.
@@ -342,6 +350,8 @@ In addition to attending class, we will continue the conversation by discussing 
 
 ::: {.callout-note}
 
+<mark>Discussion questions are graded</mark> on a 0-3 scale. 
+
 Advice on writing good questions from Professor Rohde: 
 
 Questions should model good intellectual practice; that is, not just a one-sentence question, but a few sentences providing some important framing or context. This could include, for example, an explanation of why the question is important (the stakes), an elaboration on the nuances of the question, etc. Reference to specific language in the text(s) is encouraged and quotes are welcome. For material on the syllabus, simply cite the author and page; for materials beyond the syllabus, please include a full reference. Be sure to reflect on the bulk of the readings for the day; i.e., demonstrate that you’ve read all of the assigned material.
@@ -353,12 +363,15 @@ Questions should represent two specific types according to the following classif
 - Synthetic/Evaluative (e.g., Are you convinced by the author’s argument that X)
 - Connective/Comparative (e.g. How does X’s argument compare to Y’s we read last week?)
 - Provocative/Argumentative (e.g., Doesn’t evidence X undermine author’s point Y?!)
-- Applied/Extended (e.g. What light does X point shed upon current problem Y?) If you choose this - question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a - mindless invitation to extend an analysis across policy problems.
+- Applied/Extended (e.g. What light does X point shed upon current problem Y?) If you choose this question, be sure to indicate why or how the comparison is relevant. I.e., don’t use this as a mindless invitation to extend an analysis across policy problems.
 :::
 
 
 
 #### Every week: Attend lectures or let me know *ahead of time* if you must miss.
+
+- If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **with your discussion post.**
+- If you unexpectedly miss class, post a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
 ---
 
@@ -389,7 +402,7 @@ The first will be more of a practice attempt and thus be worth fewer points.
 
 ### Practice presentation (1%)
 
-Pitch one of your memo arguments to the class (2-3 minutes). Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
+Pitch one of your memo arguments to the class (2-3 minutes). From Week 3 on, 2-3 students will pitch their ideas each class. This will give you practice testing out your argument and presentation skills
 
 ---
 
@@ -445,7 +458,7 @@ I am not yet sure if LLMs are a helpful tool for the craft of writing policy mem
 
 As mentioned in the memo template, <mark>**references must be hyperlinked**</mark> whenever possible. We will be checking to make sure sources of evidence are used appropriately. 
 
-I reserve the right to discuss your papers in length with you if I have concerns.
+I reserve the right to discuss your work in length with you if I have concerns.
 
 ---
 
@@ -462,11 +475,13 @@ Each week, we will read some original research and portions of a book for a broa
 
 ## Week one: Federalism
 
-Tuesday: Course goals and expectations
+#### Tuesday: Course goals and expectations
 
 > [Syllabus](https://judgelord.github.io/PP510/) and [memo assigment guide](https://judgelord.github.io/PP510/memos.html)
 
-Thursday: Crash course in the distribution of authority in the U.S. federal system
+### Thursday: The U.S. federal system
+
+Crash course in the distribution of authority in the U.S. federal system.
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
@@ -492,16 +507,14 @@ Additional listening:
 
 ## Week two: The Policy Process
 
-### Tuesday
+### Tuesday: Policy and politics
 
-> Short Circuiting Policy Chapter 1. Introduction and Chapter 2. When New Policies Fail to Create a New Politics
+> Short Circuiting Policy Chapter 1: Introduction and Chapter 2: When New Policies Fail to Create a New Politics
 
 Recommended Context: Birkland, Chapter 1-3
 
 
-### Thursday
-
-In-class memo workshop
+### Thursday: In-class memo workshop
 
 ---
 
@@ -509,18 +522,19 @@ In-class memo workshop
 
 > **Agenda setting issues memo due Monday at 7 PM**
 
+How should we distribute and limit power across institutions? Why does the power to make policy shift among institutions over time? 
 
-### Tuesday 
+### Tuesday: Shifting power among institutions
 
-> News: [State law could end bitter local fights over bans of large-scale renewable energy on farmland From Mich Public](https://www.michiganpublic.org/2024-07-23/state-law-could-end-bitter-local-fights-over-bans-of-large-scale-renewable-energy-on-farmland)
+> News: [State law could end bitter local fights over bans of large-scale renewable energy on farmland From Michigan Public](https://www.michiganpublic.org/2024-07-23/state-law-could-end-bitter-local-fights-over-bans-of-large-scale-renewable-energy-on-farmland)
 
 > Research: Short Circuiting Policy Chapter 3. An Institutional History of Electricity Politics and Climate Inaction
 
-### Thursday
+### Thursday: Lessons from history
 
 > Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e., Part III is optional reading, as are footnotes)
 
-How should we distribute and limit power across institutions? Why does the power to make policy shift among institutions over time? Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
+Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
 
 <!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
 
@@ -544,15 +558,25 @@ A post-decision review of big changes in water quality and wetlands protection l
 
 <!-- > Research: Egan, Part 3-->
 
+### Tuesday: Lobbying
+
+How do actors outside government shape policy? Leech reviews what social science has learned to date.
+
+
 > Research: Short Circuiting Policy Chapter 4. Policy Feedback: Networked and Influential Advocates Use the Public to Drive Clean Energy Leadership in Texas
 
 > Research: [Leech, Beth. 2010. Lobbying and Influence. In *The Oxford Handbook of American Political Parties and Interest Groups*, ed. Sandy L. Maisel, Jeffrey M. Berry, and George C. Edwards. *Oxford University Press* pp. 696–719.](https://doi.org/10.1093/oxfordhb/9780199542628.001.0001)
 
-How do actors outside government shape policy? Leech reviews what social science has learned to date.
+
+### Thursday: Coalitions and Evidence
+
+How do minority groups get heard in the policy process? Dwidar examines the role of lobbying coalitions in advancing minority views. 
 
 > Research: [Dwidar, Miraam. 2022. "Coalitional Lobbying and Intersectional Representation in American Rulemaking." *American Political Science Review*, 116(1), 301-321](http://doi.org/10.1017/S0003055421000794)
 
-How do minority groups get heard in the policy process? Dwidar examines the role of lobbying coalitions in advancing minority views. 
+
+How is evidence used in the policy process? 
+
 
 > Listen: [SSN: Moonshots - Thomas Kalil](https://scholars.org/podcast/moonshots)
 
@@ -560,7 +584,6 @@ Practical lessons on policy advocacy from Kalil's experience in the White House.
 
 > Listen: [SSN: Informing Policy - Jenni W. Owen](https://scholars.org/podcast/informing-policy)
 
-How is evidence used in the policy process? 
 
 Recommended Context:  Birkland, Part II, Chapters 4-7
 
@@ -596,6 +619,25 @@ Resources:
 
 ## Week six: Policy Tools
 
+### Tuesday: Tools
+
+<!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
+
+> Context:  [Bardach, Appendix B](https://umich.instructure.com/courses/625083/files/folder/reading?preview=31825264) 
+
+A helpful list of policy tools you might think about using to solve problems. 
+
+> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition.  `(Canvas)`
+
+The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas.
+
+Recommended Context: 
+
+- Weimer and Vining, Chapter 10, "Generic Policies"
+- Birkland Part III, Chapters 8-11
+
+### Thursday: Policy as a bundle of tools
+
 > Research: [Judge-Lord, McDermott, and Cashore. 2020. Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change."   *Organization & Environment* 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
 
 Most policies are bundles of various policy tools. To assess how a policy (e.g., a forestry certification standard) is changing, we must disaggregate and first assess change in its component parts. 
@@ -604,34 +646,25 @@ Most policies are bundles of various policy tools. To assess how a policy (e.g.,
 
 Different policy tools face different political and implementation challenges. Raymond reviews the case of pollution credit markets as a policy approach. 
 
-<!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
-
-> Context:  [Bardach, Appendix B](https://umich.instructure.com/courses/625083/files/folder/reading?preview=31825264) 
-
-A helpful list of policy tools you might think about using to solve problems. 
-
-> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition. 
-
-The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas for next week.
-
-Recommended Context: 
-
-- Weimer and Vining, Chapter 10, "Generic Policies"
-- Birkland Part III, Chapters 8-11
-
 ---
 
 ## Week seven: Politics and Rationality
 
 <!--  **Memo 1 due Tuesday 7 PM**-->
 
-> Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas
+What are the biases of policymaking in the U.S.? 
+
+
+### Tuesday: Rationality
+
+One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
+
+> Context:  Stone, Introduction + Chapters 1, 2, and 11
 
 > Research: [Drutman, Lee. There are too many lawyers in politics. Here’s what to do about it.](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
-What are the biases of policymaking in the U.S.? One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
 
 <!-- chevron + dissertation 
 
@@ -641,56 +674,55 @@ e Popp
 
 > Listen: [NPR: Obama Office Alters More Federal Rules Than Bush - Ari Shapiro](https://www.npr.org/2011/11/28/142721675/obama-office-alters-more-federal-rules-than-bush)
 
-> Context:  Stone, Introduction + Chapters 1 & 2
 
 <!--https://www.newyorker.com/magazine/2013/08/12/taken-->
 
-Recommended Context: Birkland, Part IV, Chapters 12-13
+Recommended Context: 
 
-Recommended Research: [Thinking Like an Economist: How Economics Became the Language of U.S. Public Policy by Elizabeth Popp Berman](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist#preview)
+- Birkland, Part IV, Chapters 12-13
+
+Recommended Research: 
+
+- [Thinking Like an Economist: How Economics Became the Language of U.S. Public Policy by Elizabeth Popp Berman](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist#preview)
+
+
+### Thursday: Politics
+
+> Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas
 
 ---
 
 ## Week eight: Goals and Tradeoffs
 
-Tuesday: **FALL BREAK**
+### Tuesday: **FALL BREAK**
 
 <!-- > Research: TBD -->
 
-Thursday:
-
-> Listen: [SSN: Death by a Thousand Cuts - Ashley E. Nickels](https://scholars.org/podcast/death-thousand-cuts)
+### Thursday: Efficiency, Welfare, Liberty, Security, Loyalty, Objectivity
 
 > Context:  Stone, the remainder of Part II (Chapters 3-6)
 
-> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)
+> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)  `(Canvas)`
 
----
-
-## Policy Agendas
-
-> Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
-
-Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
-
-<!-- > Research: Egan, Part 1
-
-Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
+<!--
+> Listen: [SSN: Death by a Thousand Cuts - Ashley E. Nickels](https://scholars.org/podcast/death-thousand-cuts)
 --> 
 
-Recommended Research: Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
 
-
+---
 
 ## Week nine: Framing Problems
 
 <!-- **Memo 2 due Tuesday 7 PM**-->
 
+> Context:  Stone, Part III, Ch. 7- 9 (Symbols, Numbers, Causes)
+
 > Research: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
 
-> Context:  Stone, Part III
 
 ### Thursday
+
+> Context:  Stone, Part III, Ch. 7- 9 (Symbols, Numbers, Causes)
 
 GUEST LECTURE 
 
@@ -698,35 +730,34 @@ GUEST LECTURE
 
 ## Week ten: Framing Demands
 
-> Research: [Woodly, Deva. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance. Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1
+> Context:  Stone, Part III, Ch. 10  (Interests)
 
-> Context:  Stone, Part III
+> Research: [Woodly, Deva. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance. Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1  `(Canvas)`
+
 
 ---
 
-## Week eleven: Policy Design & Feedback 
 
-<!-- **Memo 3 due Tuesday 7 PM**--> 
+## Week eleven: Policy Design 
 
-> Research: [Weaver, Vesla M. "How Mass Imprisonment Burdens the United States with a Distrustful Underclass"](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
 
-> Listen: [SSN: 147: In Government We Distrust - Suzanne Mettler](https://scholars.org/podcast/government-we-distrust)
+### Tuesday: Incentives, rules, facts
 
-> Context:  Stone, Part IV
+> Context:  Stone, Part IV, Ch. 12-14
 
 <!--
 > Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
 -->
 
-Recommended 
+### Thursday: Rights and powers
 
-- Research: [Mettler, Suzanne. 2002. "Bringing the state back into civic engagement: Policy feedback effects of the GI Bill for World War II veterans." *American Political Science Review* 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
+> Context:  Stone, Part IV, Ch. 15-16
 
----
+
 
 ## Week twelve: Laws that Govern Lawmaking
 
-> Research: [Seifter. 2016. "Second-Order Participation in Administrative Law." *UCLA Law Review* 63](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662504)
+> Research: SKIM: [Seifter. 2016. "Second-Order Participation in Administrative Law." *UCLA Law Review* 63](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662504)
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
@@ -741,21 +772,54 @@ oversight-correspondence
 
 ---
 
-## Weeks thirteen and fourteen: Roundtables
+## Weeks thirteen: Agenda Democracy & Feedback 
+
+<!-- **Memo 3 due Tuesday 7 PM**--> 
+
+### Tuesday: Agenda Democracy
+
+> Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
+
+Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
+
+<!-- > Research: Egan, Part 1
+
+Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
+--> 
+
+Recommended Research: 
+
+- Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
+
+### Thursday: Feedback 
+
+> Research: [Weaver, Vesla M. "How Mass Imprisonment Burdens the United States with a Distrustful Underclass"](https://scholars.org/brief/how-mass-imprisonment-burdens-united-states-distrustful-civic-underclass)
+
+> Listen: [SSN: 147: In Government We Distrust - Suzanne Mettler](https://scholars.org/podcast/government-we-distrust)
+
+
+Recommended 
+
+- Research: [Mettler, Suzanne. 2002. "Bringing the state back into civic engagement: Policy feedback effects of the GI Bill for World War II veterans." *American Political Science Review* 96(2): 351-365.](https://doi.org/10.1017/S0003055402000217)
+
+---
+
+
+
+
+## Weeks fourteen: Roundtables
 
 > **Talking Points Memo due 24 hours before your roundtable presentation**
 
 ---
 
-## Week fifteen: Reflection
+## Week fifteen: Final Roundtables & Reflection
 
-Tuesday: Course wrap-up, reflection, and responses to roundtable presentations
+### Thursday: Course wrap-up, reflection, and responses to roundtable presentations
 
 > - How has your understanding of the politics of policymaking changed since the start of the semester? 
 > - Which reading stands out to us most and why? 
 > - What connections do you see between the memos/roundtables and the readings? 
-
-Thursday: No class, Winter Break
 
 ---
 
