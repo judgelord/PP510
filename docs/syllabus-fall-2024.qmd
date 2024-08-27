@@ -549,9 +549,74 @@ Differing views of the approach that the Supreme Court should take on water poll
 A post-decision review of big changes in water quality and wetlands protection law as a result of new Justices being appointed to the Supreme Court. These new interpretations (policies) constraining which wetlands and streams federal agencies can regulate under authority delegated in the Clean Water Act and what Congress can do with Commerce Clause authority reflect broader shifts in the distribution of policymaking power across institutions.   
 -->
 
+
+
 ---
 
-## Week four: Policy Actors and Evidence
+## Week four: Policy Writing
+
+> **Memo assignments and round table groups announced Tuesday**
+
+**Review policy memo research and writing assistance resources from Writing Center staff**
+
+### Tuesday
+
+> Context: Weimer and Vining, Chapter 1 FROM THE 5th EDITION, not the 6th (current) edition.  `(Canvas)`
+
+The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas.
+
+> [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
+
+> [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
+
+### Thursday
+
+> In-class policy memo research/workshop
+
+Resources: 
+
+- [Library Research Guide: Local News Sources](https://guides.lib.umich.edu/c.php?g=283063&p=1885958)  to find issues currently being discussed in Michigan.
+
+- [University of Michigan Library Databases - Local News](https://search.lib.umich.edu/databases?filter.academic_discipline=Michigan+News&sort=title_asc) to find issues currently being discussed in Michigan.
+
+- [Harvard Kennedy School Library Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) to find think tank policy briefs with keyword search. 
+
+
+
+
+---
+
+
+## Week five: Policy Tools
+
+### Tuesday: Tools
+
+<!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
+
+> Context:  [Bardach, Appendix B](https://umich.instructure.com/courses/625083/files/folder/reading?preview=31825264) 
+
+A helpful list of policy tools you might think about using to solve problems. 
+
+
+Recommended Context: 
+
+- Weimer and Vining, Chapter 10, "Generic Policies"
+- Birkland Part III, Chapters 8-11
+
+### Thursday: Policy as a bundle of tools
+
+> Research: [Judge-Lord, McDermott, and Cashore. 2020. Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change."   *Organization & Environment* 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
+
+Most policies are bundles of various policy tools. To assess how a policy (e.g., a forestry certification standard) is changing, we must disaggregate and first assess change in its component parts. 
+
+> Listen: [SSN: Paying for Pollution - Leigh Raymond](https://scholars.org/podcast/paying-pollution)
+
+Different policy tools face different political and implementation challenges. Raymond reviews the case of pollution credit markets as a policy approach. 
+
+
+---
+
+## Week six: Policy Actors and Evidence
 
 
 <!-- whymail + FERC + CBFA + SOFO--> 
@@ -594,61 +659,6 @@ Recommended Context:  Birkland, Part II, Chapters 4-7
 Recommended Listen: [Niskanan Center: "How Bureaucrats Make Good Policy"]( https://www.niskanencenter.org/how-bureaucrats-make-good-policy/)
 
 <!--https://onlinelibrary.wiley.com/doi/10.1111/psq.12843-->
-
----
-
-## Week five: Policy Writing
-
-> **Memo assignments and round table groups announced Tuesday**
-
-**Review policy memo research and writing assistance resources from Writing Center staff**
-
-> [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
-
-> [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
-
-Resources: 
-
-- [Library Research Guide: Local News Sources](https://guides.lib.umich.edu/c.php?g=283063&p=1885958)  to find issues currently being discussed in Michigan.
-
-- [University of Michigan Library Databases - Local News](https://search.lib.umich.edu/databases?filter.academic_discipline=Michigan+News&sort=title_asc) to find issues currently being discussed in Michigan.
-
-- [Harvard Kennedy School Library Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) to find think tank policy briefs with keyword search. 
-
-
-
-
----
-
-
-## Week six: Policy Tools
-
-### Tuesday: Tools
-
-<!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
-
-> Context:  [Bardach, Appendix B](https://umich.instructure.com/courses/625083/files/folder/reading?preview=31825264) 
-
-A helpful list of policy tools you might think about using to solve problems. 
-
-> Context: Weimer and Vining, Chapter 1 ***FROM THE 5th EDITION***, not the 6th (current) edition.  `(Canvas)`
-
-The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas.
-
-Recommended Context: 
-
-- Weimer and Vining, Chapter 10, "Generic Policies"
-- Birkland Part III, Chapters 8-11
-
-### Thursday: Policy as a bundle of tools
-
-> Research: [Judge-Lord, McDermott, and Cashore. 2020. Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change."   *Organization & Environment* 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
-
-Most policies are bundles of various policy tools. To assess how a policy (e.g., a forestry certification standard) is changing, we must disaggregate and first assess change in its component parts. 
-
-> Listen: [SSN: Paying for Pollution - Leigh Raymond](https://scholars.org/podcast/paying-pollution)
-
-Different policy tools face different political and implementation challenges. Raymond reviews the case of pollution credit markets as a policy approach. 
 
 ---
 
@@ -695,6 +705,8 @@ Recommended Research:
 > Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas
 
 ---
+
+<!--INSERT ACTORS WEEK HERE AND MOVE EVERYTHING UP?--> 
 
 ## Week eight: Goals and Tradeoffs
 
