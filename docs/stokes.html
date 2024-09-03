@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="bardach_files/libs/clipboard/clipboard.min.js"></script>
-<script src="bardach_files/libs/quarto-html/tabby.min.js"></script>
-<script src="bardach_files/libs/quarto-html/popper.min.js"></script>
-<script src="bardach_files/libs/quarto-html/tippy.umd.min.js"></script>
-<link href="bardach_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="bardach_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="bardach_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="bardach_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<script src="stokes_files/libs/clipboard/clipboard.min.js"></script>
+<script src="stokes_files/libs/quarto-html/tabby.min.js"></script>
+<script src="stokes_files/libs/quarto-html/popper.min.js"></script>
+<script src="stokes_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="stokes_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="stokes_files/libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="stokes_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="stokes_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.555">
 
-  <meta name="author" content="Eugene S. Bardach and Eric M. Patashnik">
-  <title>A Practical Guide for Policy Analysis</title>
+  <meta name="author" content="Leah Stokes">
+  <title>Short Circuiting Policy</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="bardach_files/libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="bardach_files/libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="stokes_files/libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="stokes_files/libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -30,11 +30,11 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="bardach_files/libs/revealjs/dist/theme/quarto.css">
-  <link href="bardach_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="bardach_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="bardach_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="bardach_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link rel="stylesheet" href="stokes_files/libs/revealjs/dist/theme/quarto.css">
+  <link href="stokes_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="stokes_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="stokes_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="stokes_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -325,240 +325,253 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="https://www.researchgate.net/publication/269410148/figure/fig5/AS:646059520970771@1531044001617/Bardach-Eight-Fold-Policy-Analysis-Model.png" data-background-opacity="0.5" data-background-size="cover" class="quarto-title-block center">
-  <h1 class="title">A Practical Guide for Policy Analysis</h1>
+<section id="title-slide" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188" data-background-opacity="0.5" data-background-size="cover" class="quarto-title-block center">
+  <h1 class="title">Short Circuiting Policy</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Eugene S. Bardach and Eric M. Patashnik 
+Leah Stokes 
 </div>
 </div>
 </div>
 
 </section>
+<section id="why-i-like-this-book" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Why I like this book</h2>
+<ul>
+<li class="fragment"><p>Centers interest groups</p></li>
+<li class="fragment"><p>Focuses on policy failures–critical to theory and empirically neglected!</p></li>
+<li class="fragment"><p>Deep dive into an important policy domain</p></li>
+<li class="fragment"><p>Relevant to the survival of millions of species, including ours</p></li>
+</ul>
+<aside class="notes">
+<p>as Andrea Campbel notes, policy failure is empirically neglected</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<div class="fragment">
+<blockquote>
+<p>“You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and the tides are manifestations of energy. Do we use them? Oh no! We burn up wood and coal as renters burn up the front fence for fuel. We live like squatters, not as if we owned the property.” — Thomas Edison, 1910</p>
+</blockquote>
+<aside class="notes">
+<p>Continuing a project that is critical to our survival - the role of a scientist in explaining the failure of the past century so that we might do better.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</div>
+</section>
+<section id="stokes-brings-important-questions-from-the-periphery-to-the-core-of-political-science" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Stokes brings important questions from the periphery to the core of political science</h2>
+<blockquote>
+<p>“Electricity pricing is a function of both government policy and interest group privilege; it is not a simple function of economics.” (p.&nbsp;70).</p>
+</blockquote>
+<blockquote>
+<p>“Conflict rages in legislatures and public utility commissions … Just because a coal plant is uneconomic does not mean it will close; if utilities have debt and equity in that plant, they will work hard to keep it open.”</p>
+</blockquote>
+<aside class="notes">
+<p>Following Karl Polanyi</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="organized-combat-over-organized-power-on-unequal-terrain" class="title-slide slide level1 center">
+<h1>organized combat over organized power on unequal terrain</h1>
+
+</section>
+
 <section>
-<section id="appendix-b" class="title-slide slide level1 center">
-<h1>Appendix B</h1>
-<p>Things Governments Do</p>
-</section>
-<section id="taxes" class="slide level2">
-<h2>Taxes</h2>
-<ul>
-<li class="fragment">add or abolish a tax</li>
-<li class="fragment">change tax rates</li>
-<li class="fragment">change who pays a tax</li>
-<li class="fragment">increase or reduce collection/enforcement</li>
-</ul>
-</section>
-<section id="irs" class="slide level2" data-menu-title="irs" data-background-image="figs/irs.png" data-background-size="contain">
-<h2></h2>
-</section>
-<section id="tax-evasion" class="slide level2" data-menu-title="tax evasion" data-background-image="figs/taxes.jpeg" data-background-size="contain">
-<h2></h2>
-</section>
-<section id="regulation" class="slide level2">
-<h2>Regulation</h2>
-<ul>
-<li class="fragment">create or abolish a regulatory scheme</li>
-<li class="fragment">shift limits (e.g., speed, the concentration of a chemical)</li>
-<li class="fragment">ban something or lift a ban</li>
-<li class="fragment">add or remove exceptions</li>
-<li class="fragment">change reporting or auditing procedures</li>
-<li class="fragment">increase or decrease enforcement</li>
-<li class="fragment">shift the targets of enforcement</li>
-<li class="fragment">raise or lower penalties</li>
-<li class="fragment">add or remove appeals procedures</li>
-<li class="fragment">add or remove complaint processes</li>
-</ul>
-</section>
-<section id="subsidies-and-grants" class="slide level2">
-<h2>Subsidies and Grants</h2>
-<ul>
-<li class="fragment">add or abolish a subsidy</li>
-<li class="fragment">change the level of a subsidy</li>
-<li class="fragment">expand or reduce outreach to potential beneficiaries</li>
-<li class="fragment">change the formula by which subsidies are allocated <!--farm subsidies--></li>
-<li class="fragment">change eligibility conditions</li>
-<li class="fragment">change enforcement of compliance with conditions</li>
-</ul>
-</section>
-<section id="service-provision" class="slide level2">
-<h2>Service Provision</h2>
-<ul>
-<li class="fragment">add or abolish a service</li>
-<li class="fragment">expand or reduce a service</li>
-<li class="fragment">expand or reduce outreach to potential beneficiaries</li>
-<li class="fragment">increase or decrease the ease of access (“<a href="https://twitter.com/search?q=%23administrativeburdens">administrative burdens</a>”)</li>
-<li class="fragment">expand or limit services to a particular population</li>
-<li class="fragment">increase or decrease the number of service providers</li>
-<li class="fragment">change eligibility conditions</li>
-<li class="fragment">change enforcement of compliance with conditions</li>
-</ul>
-</section>
-<section id="agency-budgets" class="slide level2">
-<h2>Agency Budgets</h2>
-<p>See <a href="https://www.washingtonpost.com/graphics/politics/budget-history/">40 years of budgets show shifting national priorities</a></p>
-<ul>
-<li class="fragment">increase, decrease, or maintain funding levels</li>
-<li class="fragment">shift allocation from one line item to another</li>
-</ul>
-</section>
-<section id="EPA" class="slide level2" data-menu-title="EPA" data-background-image="figs/budget-epa-climate.png" data-background-size="contain">
-<h2></h2>
-</section>
-<section id="budget" class="slide level2" data-menu-title="Budget" data-background-image="figs/budget-2018.png" data-background-size="contain">
-<h2></h2>
-</section>
-<section id="the-structure-of-rights" class="slide level2">
-<h2>The Structure of Rights</h2>
-<ul>
-<li class="fragment">contract rights (rules governing which exchanges are backed by the government, the foundation of any legal market)</li>
-<li class="fragment">property rights and duties</li>
-<li class="fragment">liability (torts)</li>
-<li class="fragment">family rights and duties</li>
-<li class="fragment">constitutional rights</li>
-<li class="fragment">labor law (can workers strike or vote to form a union?)</li>
-<li class="fragment">corporate law (rules of incorporation, duties, liability)</li>
-<li class="fragment">criminal law</li>
-<li class="fragment">dispute-resolving institutions</li>
-</ul>
-</section>
-<section id="the-framework-of-economic-activity" class="slide level2">
-<h2>The Framework of Economic Activity</h2>
-<ul>
-<li class="fragment">protect from competition</li>
-<li class="fragment">encourage competition (protect from anti-competitive practices)</li>
-<li class="fragment">set or modify minimum, maximum, or standardized prices, wages, or profits</li>
-<li class="fragment">set or modify limits on production</li>
-<li class="fragment">increase or decrease public-sector jobs</li>
-</ul>
-</section>
-<section id="information" class="slide level2">
-<h2>Information</h2>
-<ul>
-<li class="fragment">require disclosure</li>
-<li class="fragment">require rating or certification</li>
-<li class="fragment">make information accessible</li>
-<li class="fragment">fund the production of information</li>
-<li class="fragment">fund the dissemination of information</li>
-</ul>
-</section>
-<section id="Smoking" class="slide level2" data-menu-title="Smoking" data-background-image="figs/smoking.jpg" data-background-size="cover">
-<h2></h2>
-</section>
-<section id="education-and-consultation" class="slide level2">
-<h2>Education and Consultation</h2>
-<ul>
-<li class="fragment">warn of dangers</li>
-<li class="fragment">raise consciousness</li>
-<li class="fragment">provide technical assistance</li>
-<li class="fragment">change values (e.g., loyalty, animosity)</li>
-<li class="fragment">require certification or licensing</li>
-<li class="fragment">increase or decrease funding for general education</li>
-<li class="fragment">increase or decrease funding for job skills training</li>
-<li class="fragment">increase or decrease funding for civic education</li>
-</ul>
-</section>
-<section id="financing-and-contracting" class="slide level2">
-<h2>Financing and Contracting</h2>
-<ul>
-<li class="fragment">create or abolish a market</li>
-<li class="fragment">alter procurement practices</li>
-<li class="fragment">alter payment rates, criteria, or formulas</li>
-<li class="fragment">alter user fees for public resources</li>
-<li class="fragment">lease public assets (land, buildings, vehicles, etc.)</li>
-<li class="fragment">loan money or guarantee private loans</li>
-<li class="fragment">subsidize loans or modify interest rates</li>
-<li class="fragment">set up, dismantle, or modify government-provided insurance</li>
-<li class="fragment">set up or dismantle a public enterprise</li>
-<li class="fragment">privatize a public enterprise or <a href="https://thenextsystem.org/history-of-nationalization-in-the-us">nationalize</a> a private enterprise</li>
-</ul>
-</section>
-<section id="nationalization" class="slide level2" data-menu-title="nationalization" data-background-image="figs/nationalization.png" data-background-size="contain">
-<h2></h2>
-</section>
-<section class="slide level2">
+<section id="discussion-questions" class="title-slide slide level1 center" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h1>Discussion Questions</h1>
 
-<div class="tns-plotly__iframe-wrapper" style="padding-top: 100%; position: relative; overflow: hidden; height: 0;">
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1sDjYVrbQRp9rbQGKBwDd1kEKM-xdZhlOnHeCZmVN4K0&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;default_bg_color=fff6f6?autosize=True&amp;modebar=false&amp;link=false" style="position: absolute; display: block; top: 0; left: 0; width: 100%; height: 100%; border: none;">
-</iframe>
+</section>
+<section id="fog-of-enactment" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Fog of Enactment</h2>
+<p>“opponent interest groups and politicians struggle to predict policies’ consequences” (p.&nbsp;35)</p>
+<ul>
+<li class="fragment">Novelty</li>
+<li class="fragment">Ambiguity</li>
+<li class="fragment">Technical complexity</li>
+<li class="fragment">Multiple institutions</li>
+</ul>
+</section>
+<section id="fog-of-enactment-1" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Fog of Enactment</h2>
+<ul>
+<li class="fragment"><p>Stokes states that the fog of enactment decreases when we learn how a policy will play out. (Ch. 2, pg. 81). What are the motivations for states to be the first to pass a policy reform?</p></li>
+<li class="fragment"><p>Is there a way to reduce the amount of uncertainty around novel policies?</p></li>
+<li class="fragment"><p>Is it unethical for an interest group to withhold information that would benefit all affected parties in the initial policy-making process? (Weimer and Vining, Ch. 3)</p></li>
+<li class="fragment"><p>How do political parties and interest groups amplify or represent the interests of the public to politicians? (Drutman 2015)</p></li>
+</ul>
+</section>
+<section id="veto-points" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Veto points</h2>
+<blockquote>
+<p>“The United States may have institutions that are particularly supportive of political losers’ repeated efforts to dismantle policies” (p.60).</p>
+</blockquote>
+<blockquote>
+<p>“The U.S. federalist system supports this search for new venues to oppose policy through its shared governance across levels of government” (p.62).</p>
+</blockquote>
+<p>To what extent are the avenues of policy opposition Stokes identifies intentionally designed parts of a federalist system?</p>
+<div class="fragment">
+<p>To what extent is it capitalism? (i.e.. now much should we blame the structure of government vs.&nbsp;the structure of ownership over energy production?)</p>
 </div>
-<p>
-<em>Source: <a href="https://thenextsystem.org/history-of-nationalization-in-the-us?mc_cid=924b478fba&amp;mc_eid=dd42d5c1c5&amp;fbclid=IwAR3W7QPGIMgttbNFpraR-jXiHMU03jri6d8aXkhuZ62EwCTygeLIHaLZd34">A History of Nationalization in the United States: 1917-2009</a></em>
-</p>
 </section>
-<section id="institutional-and-political-reforms" class="slide level2">
-<h2>Institutional and Political Reforms</h2>
-<p>(Powers!)</p>
+<section id="policy-feedback" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Policy Feedback</h2>
+<p>Policy makes politics: policy as “terrain” rather than policy as “prize” the explanatory variable rather than the dependent variable.</p>
 <ul>
-<li class="fragment">create, abolish, or shift authority to make decisions</li>
-<li class="fragment">avoid making a decision</li>
-<li class="fragment">empower or disempower a group in the policy process
-<ul>
-<li class="fragment">Note: I filled this in for Bardarch, who simply says: “The number of possibilities is too great to list.” Why does Bardach give relatively little attention to this?</li>
-</ul></li>
+<li class="fragment"><p>In design: Are there specific actions advocates should take during the implementation stage to increase the likelihood of positive feedback at state and local levels?</p></li>
+<li class="fragment"><p>Technology &amp; Policy: It’s tempting to think of technology as separate from politics; indeed, Stokes describes innovation as simply “occurring - or failing to occur” (53). Do interest groups shape technological innovation? Public trust in the technologies?</p></li>
 </ul>
-</section></section>
-<section>
-<section id="part-iii" class="title-slide slide level1 center">
-<h1>Part III</h1>
-
 </section>
-<section id="best-practices" class="slide level2">
-<h2>“Best” practices</h2>
-<p>-&gt; Good ideas from somewhere else</p>
+<section id="retrenchment" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Retrenchment</h2>
+<ul>
+<li class="fragment">Stokes notes that interest groups’ ability to “shape the parties through primaries is [more] pronounced at the subnational level” (p.&nbsp;64). Does this mean that retrenchment is more likely to occur for policies passed at a state or local level, as opposed to national policies?</li>
+</ul>
 </section>
-<section id="free-lunches" class="slide level2">
-<h2>Free lunches</h2>
-<!-- Unlike sports, there are often win-win policies. For example, in my first job out of college, I worked for a county government in regulatory affairs. One of the big regulatory issues we faced was from the Clean Water Act--we were a major point source polluter--every time you shower or flush the toilet, that water goes to a wastewater treatment plant that discharges that water somewhere. 
-
-The first free lunch was getting regulators to agree to allow us to plant trees alongside farm fields. This was cheaper and had twice the benefit of water quality, so it was a win-win.
-
-The second thing they did was invest in research and technology. They found a way to turn human waste into this stuff, a high-grade fertilizer--pure phosphorus, which they then sold and made a ton of money for the county.
-
-I remember the head of the wastewater plant was this old, kind of Sopranos boss kind of guy. To "prove" that this stuff was safe, he would take a few and eat them like candy. 
-
-
-education 
-
-preventative care
-
--->
+<section id="explaining-policy-failure" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Explaining policy failure</h2>
+<p>To what extent did these new policies fail to create new politics vs.&nbsp;create politics that were bad for them?</p>
+<ul>
+<li class="fragment">“disrupted”/“failure of positive feedback”</li>
+</ul>
+<p>or (and?)</p>
+<ul>
+<li class="fragment">incumbent advantage to <strong>resist</strong> policy change and <strong>retrenchment</strong> through negative feedback</li>
+</ul>
+<div class="fragment">
+<blockquote>
+<p>“The federal Surface Mining Control and Reclamation Act was structured initially and then became amplified through policy feedback processes to support coal production over other values” (Bozzi 2013)</p>
+</blockquote>
+<aside class="notes">
+<p>Clarification about the theory</p>
+<p>Talk about the relationship between several concepts. Maybe the example shows how they co-occur or are distinct.</p>
+<p>At times, there is positive feedback that empowers the utilities. For example, you noted that Ohio HB6 was able to get through in part because past policies had weakened renewable advocates; this policy would further weaken them, so that seems like positive feedback even while it is also a failure of positive feedback for the renewable policy.</p>
+<p>Perhaps this is a matter of semantics.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</div>
 </section>
-<section id="cws" class="slide level2" data-menu-title="cws" data-background-image="figs/cws.jpg" data-background-size="cover">
+<section id="how-durable-are-energy-sector-alliances-with-the-right-and-left" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>How durable are energy-sector alliances with the right and left?</h2>
+<p>Political economy shapes party politics:</p>
+<blockquote>
+<p>“fossil fuel-dependent utilities and industries worked over several years to erode Republican support for clean energy.” (p.&nbsp;196)</p>
+</blockquote>
+<p>[ideological?] networks also shape the political economy:</p>
+<blockquote>
+<p>“many important opponents working to undermine Kansas’s clean energy laws came from outside the state, brought into the conflict through right-wing interest group networks. (p.&nbsp;150).</p>
+</blockquote>
+<div class="fragment">
+<ul>
+<li class="fragment">libertarian defectors on the right? Industry power among liberals? (beyond Democrats with companies or plants in their district)</li>
+</ul>
+</div>
+</section>
+<section id="astroturf-and-conflict-expansion" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Astroturf and conflict expansion</h2>
+<blockquote>
+<p>“Groups <strong>construct</strong> public opinion both by working with the public and by creating fake public campaigns through astroturfing.” (p.&nbsp;46).</p>
+</blockquote>
+<blockquote>
+<p>“The public is often a <strong>tool</strong> that advocates and opponents use to try to influence decision-makers.”</p>
+</blockquote>
+<blockquote>
+<p>“The public’s <strong>voice</strong> can be heard through organizing and activism. Still, in contemporary American policymaking, interest groups’ voices are usually much louder than the public’s. Increasingly, the public is used as a <strong>tool</strong> by interest groups in their battles over policy.” (p.&nbsp;66).</p>
+</blockquote>
+</section>
+<section id="astroturf-and-conflict-expansion-1" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Astroturf and conflict expansion</h2>
+<blockquote>
+<p>“The opponents relied heavily on fake grassroots campaigns—sometimes called “astroturfing”—while advocates tried to bolster and communicate genuine support from rural and Republican parts of the state. Interest groups on <strong>both sides</strong> aimed to expand the scope of conflict.”</p>
+</blockquote>
+<blockquote>
+<p>“Opponent interest groups can simultaneously deploy all of these <strong>direct and indirect</strong> strategies. When <strong>better-resourced</strong> opponents continually attack a policy, policy retrenchment can occur by a thousand cuts. (p.&nbsp;66)</p>
+</blockquote>
+<aside class="notes">
+<p>Hertle-Fernandez &amp; Stokes vs.&nbsp;Schattschneider?!?</p>
+<p>This is a question I wrestle with - how do we tell them apart - do groups use resources to expand conflict – if so, this goes against Schattschneider!</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="ohio-hb-6" class="slide level2" data-background-opacity="0.2" data-background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188">
+<h2>Ohio HB 6</h2>
+<blockquote>
+<p>“The unions got duped because after they supported the legislation, [FirstEnergy Solutions] said we are going to gut the pensions. So I think the Democrats and the labor unions were duped.” (Stokes, p.&nbsp;220).</p>
+</blockquote>
+<div class="fragment">
+<blockquote>
+<p>“In political systems where organized labor was allied with the largest left-wing party and emissions-intensive businesses were allied with the largest right-wing party, a ‘double representation’ of emissions-intensive economic interests resulted. In these cases, parties on both sides of the ideological spectrum had factions representing the interests of carbon-intensive constituencies” (Mildenberger 2020)</p>
+</blockquote>
+<aside class="notes">
+<blockquote>
+<p>“Several unions lobbied in support of the bill, given the existing workforce at the nuclear and coal plants. After a decade of attacks on the clean energy laws, there were few clean energy advocates or jobs in the state to contest these opponents. These Democrats would rather side with the utilities and the unions than nurture a new clean economy, even if it meant subsidies for coal. Just six days after the bill was passed, Governor DeWine signed it into law. Despite claiming that they would maintain the union contracts at their plants, FirstEnergy Solutions filed a scheduled update to the bankruptcy proceedings just 12 hours after the final bill passed. In this update, the utility walked back their commitment to union contracts, including pensions.” (p.&nbsp;220)</p>
+</blockquote>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</div>
+</section>
+<section id="organized-interest-groups" class="slide level2" data-background-opacity="0.2" data-background-image="https://cdn.prod.website-files.com/61a541d59c08986610e0d170/61bfc88e44e284f01ce5fbe7_hero-map.jpg">
+<h2>Organized interest groups</h2>
+<blockquote>
+<p>“[The United States’] institutional terrain advantages political actors with the capacity to work across multiple venues, over extended periods, and in a political environment where coordinated government action is difficult, and strategies of evasion and exit from regulatory constraints are often successful. These capacities are characteristic of organized groups, not individual voters.”- Hacker, Hertel-Fernandez, Pierson, and Thelen (2021)</p>
+</blockquote>
+</section>
+<section id="section" class="slide level2" data-background-opacity="0.8" data-background-image="https://cdn.prod.website-files.com/61a541d59c0898e83ee0d1a5/61f17f7bc3b7b96eaf7b9f3b_spotlight-Rethinking-American-Political-Economy.jpg">
 <h2></h2>
-</section>
-<section id="functions" class="slide level2">
-<h2>Functions</h2>
-<ul>
-<li class="fragment">setting</li>
-<li class="fragment">verifying</li>
-<li class="fragment">creating</li>
-</ul>
-</section>
-<section id="postbureaucratic-managements-core-ideas" class="slide level2">
-<h2>“Postbureaucratic” management’s “core ideas”</h2>
-<ul>
-<li class="fragment">service</li>
-<li class="fragment">customer focus</li>
-<li class="fragment">quality</li>
-<li class="fragment">incentives</li>
-<li class="fragment">creating value</li>
-<li class="fragment">empowerment</li>
-</ul>
-<!-- This all sounds good enough at first blush. A lot of people might like them until you get into specifics. But what would Stone say about each of these?  -->
-</section>
-<section id="new-public-management" class="slide level2">
-<h2>“New Public Management”</h2>
-<ul>
-<li class="fragment">The government should provide quality services that citizens value</li>
-<li class="fragment">The autonomy of public managers should be increased</li>
-<li class="fragment">Evaluate and reward for meeting performance targets</li>
-<li class="fragment">Managers should have the human and technological resources they need</li>
-<li class="fragment">Appreciate the value of competition and the private sphere</li>
-</ul>
-<!-- what would Stone say about each of these?  -->
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
@@ -569,19 +582,19 @@ preventative care
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="bardach_files/libs/revealjs/dist/reveal.js"></script>
+  <script src="stokes_files/libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="bardach_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="bardach_files/libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/search/search.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="bardach_files/libs/revealjs/plugin/math/math.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/search/search.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="stokes_files/libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>

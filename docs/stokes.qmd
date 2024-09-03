@@ -1,0 +1,218 @@
+---
+title: "Short Circuiting Policy"
+subtitle: ""
+author: "Leah Stokes"
+format: 
+  revealjs:
+      incremental: true  
+      theme: [default, michigan.scss]
+      #footer:  
+      fontsize: "40px"
+      title-slide-attributes:
+        data-background-image: "https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+
+
+## Why I like this book {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+- Centers interest groups
+
+- Focuses on policy failures--critical to theory and empirically neglected!
+
+- Deep dive into an important policy domain
+
+- Relevant to the survival of millions of species, including ours
+
+::: {.notes}
+as Andrea Campbel notes, policy failure is empirically neglected
+:::
+
+. . .
+
+> "You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and the tides are manifestations of energy. Do we use them? Oh no! We burn up wood and coal as renters burn up the front fence for fuel. We live like squatters, not as if we owned the property." — Thomas Edison, 1910
+
+
+::: {.notes}
+
+Continuing a project that is critical to our survival - the role of a scientist in explaining the failure of the past century so that we might do better.
+
+:::
+
+## Stokes brings important questions from the periphery to the core of political science {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+> “Electricity pricing is a function of both government policy and interest group privilege; it is not a simple function of economics.” (p. 70). 
+
+
+> "Conflict rages in legislatures and public utility commissions ... Just because a coal plant is uneconomic does not mean it will close; if utilities have debt and equity in that plant, they will work hard to keep it open."
+
+::: {.notes}
+
+Following Karl Polanyi 
+
+:::
+
+# organized combat over organized power on unequal terrain
+
+# Discussion Questions {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+"opponent interest groups and politicians struggle to predict policies' consequences" (p. 35)
+
+- Novelty
+- Ambiguity 
+- Technical complexity
+- Multiple institutions
+
+## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+- Stokes states that the fog of enactment decreases when we learn how a policy will play out. (Ch. 2, pg. 81). What are the motivations for states to be the first to pass a policy reform?  
+
+- Is there a way to reduce the amount of uncertainty around novel policies? 
+
+- Is it unethical for an interest group to withhold information that would benefit all affected parties in the initial policy-making process? (Weimer and Vining, Ch. 3)
+
+- How do political parties and interest groups amplify or represent the interests of the public to politicians? (Drutman 2015) 
+
+
+## Veto points {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+> “The United States may have institutions that are particularly supportive of political losers’ repeated efforts to dismantle policies” (p.60). 
+
+> “The U.S. federalist system supports this search for new venues to oppose policy through its shared governance across levels of government” (p.62). 
+
+To what extent are the avenues of policy opposition Stokes identifies intentionally designed parts of a federalist system?
+
+
+. . . 
+
+To what extent is it capitalism? (i.e.. now much should we blame the structure of government vs. the structure of ownership over energy production?)
+
+## Policy Feedback {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+Policy makes politics: policy as "terrain" rather than policy as "prize" the explanatory variable rather than the dependent variable. 
+
+- In design: Are there specific actions advocates should take during the implementation stage to increase the likelihood of positive feedback at state and local levels?
+
+- Technology & Policy: It’s tempting to think of technology as separate from politics; indeed, Stokes describes innovation as simply “occurring - or failing to occur" (53). Do interest groups shape technological innovation? Public trust in the technologies? 
+
+
+## Retrenchment {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+- Stokes notes that interest groups’ ability to “shape the parties through primaries is [more] pronounced at the subnational level” (p. 64). Does this mean that retrenchment is more likely to occur for policies passed at a state or local level, as opposed to national policies?
+
+
+
+## Explaining policy failure {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+To what extent did these new policies fail to create new politics vs. create politics that were bad for them?
+
+- “disrupted”/“failure of positive feedback”
+
+or (and?)
+
+- incumbent advantage to **resist** policy change and **retrenchment** through negative feedback 
+
+
+
+. . .
+
+>"The federal Surface Mining Control and Reclamation Act was structured initially and then became amplified through policy feedback processes to support coal production over other values" (Bozzi 2013)
+
+::: {.notes}
+
+Clarification about the theory 
+
+Talk about the relationship between several concepts. Maybe the example shows how they co-occur or are distinct. 
+
+At times, there is positive feedback that empowers the utilities. For example, you noted that Ohio HB6 was able to get through in part because past policies had weakened renewable advocates; this policy would further weaken them, so that seems like positive feedback even while it is also a failure of positive feedback for the renewable policy.
+
+Perhaps this is a matter of semantics. 
+
+:::
+
+
+
+## How durable are energy-sector alliances with the right and left? {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+Political economy shapes party politics:
+
+> "fossil fuel-dependent utilities and industries worked over several years to erode Republican support for clean energy." (p. 196)
+
+[ideological?] networks also shape the political economy:
+
+> "many important opponents working to undermine Kansas’s clean energy laws came from outside the state, brought into the conflict through right-wing interest group networks. (p. 150). 
+
+. . .
+
+- libertarian defectors on the right? Industry power among liberals? (beyond Democrats with companies or plants in their district)
+
+
+## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+> "Groups **construct** public opinion both by working with the public and by creating fake public campaigns through astroturfing." (p. 46). 
+
+> “The public is often a **tool** that advocates and opponents use to try to influence decision-makers.”
+
+> “The public’s **voice** can be heard through organizing and activism. Still, in contemporary American policymaking, interest groups’ voices are usually much louder than the public’s. Increasingly, the public is used as a **tool** by interest groups in their battles over policy.”
+(p. 66).
+
+
+
+## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+> “The opponents relied heavily on fake grassroots campaigns—sometimes called “astroturfing”—while advocates tried to bolster and communicate genuine support from rural and Republican parts of the state. Interest groups on **both sides** aimed to expand the scope of conflict.”
+
+> “Opponent interest groups can simultaneously deploy all of these **direct and indirect** strategies. When **better-resourced** opponents continually attack a policy, policy retrenchment can occur by a thousand cuts. (p. 66)
+
+
+::: {.notes}
+
+Hertle-Fernandez & Stokes vs. Schattschneider?!?
+
+This is a question I wrestle with 
+- how do we tell them apart 
+- do groups use resources to expand conflict -- if so, this goes against Schattschneider! 
+
+:::
+
+
+
+## Ohio HB 6 {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+> “The unions got duped because after they supported the legislation, [FirstEnergy Solutions] said we are going to gut the pensions. So I think the Democrats and the labor unions were duped.”  (Stokes, p. 220). 
+
+. . . 
+
+> "In political systems where organized labor was allied with the largest left-wing party and emissions-intensive businesses were allied with the largest right-wing party, a 'double representation' of emissions-intensive economic interests resulted. In these cases, parties on both sides of the ideological spectrum had factions representing the interests of carbon-intensive constituencies" (Mildenberger 2020) 
+
+::: {.notes}
+
+> “Several unions lobbied in support of the bill, given the existing workforce at the nuclear and coal plants. After a decade of attacks on the clean energy laws, there were few clean energy advocates or jobs in the state to contest these opponents. These Democrats would rather side with the utilities and the unions than nurture a new clean economy, even if it meant subsidies for coal. Just six days after the bill was passed, Governor DeWine signed it into law. Despite claiming that they would maintain the union contracts at their plants, FirstEnergy Solutions filed a scheduled update to the bankruptcy proceedings just 12 hours after the final bill passed. In this update, the utility walked back their commitment to union contracts, including pensions." (p. 220)
+
+:::
+
+
+
+## Organized interest groups {background-opacity="0.2" background-image="https://cdn.prod.website-files.com/61a541d59c08986610e0d170/61bfc88e44e284f01ce5fbe7_hero-map.jpg"}
+
+
+>"[The United States'] institutional terrain advantages political actors with the capacity to work across multiple venues, over extended periods, and in a political environment where coordinated government action is difficult, and strategies of evasion and exit from regulatory constraints are often successful. These capacities are characteristic of organized groups, not individual voters."- Hacker, Hertel-Fernandez, Pierson, and Thelen (2021)
+
+## {background-opacity="0.8" background-image="https://cdn.prod.website-files.com/61a541d59c0898e83ee0d1a5/61f17f7bc3b7b96eaf7b9f3b_spotlight-Rethinking-American-Political-Economy.jpg"}
+
+
+
+
+

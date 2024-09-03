@@ -8,6 +8,9 @@ format:
       theme: [default, michigan.scss]
       footer:  "University of Michigan Ford School of Public Policy Informational Hearings on Water Quality"
       fontsize: "40px"
+      data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
+      data-background-size: cover
+      data-background-opacity: "0.1"
       title-slide-attributes:
         data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
         data-background-size: cover
