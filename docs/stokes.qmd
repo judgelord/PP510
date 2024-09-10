@@ -71,10 +71,12 @@ Following Karl Polanyi
 
 ## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
+"In each state, the politics of enacting clean energy laws has been different than the politics of implementation" - (Stokes, p. 105)
+
 
 - Stokes states that the fog of enactment decreases when we learn how a policy will play out. (Ch. 2, pg. 81). What are the motivations for states to be the first to pass a policy reform?  
 
-- Would we expect federal policymakers to experience the less fog relative to their state and local peers due to their greater resources?
+> Would we expect federal policymakers to experience less fog relative to their state and local peers due to their greater resources?
 
 - Is there a way to reduce the amount of uncertainty around novel policies? 
 
@@ -107,8 +109,67 @@ Policy makes politics: policy as "terrain" rather than policy as "prize" the exp
 
 ## Retrenchment {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
-- Stokes notes that interest groups’ ability to “shape the parties through primaries is [more] pronounced at the subnational level” (p. 64). Does this mean that retrenchment is more likely to occur for policies passed at a state or local level, as opposed to national policies?
+Electric utilities “used their privileged position to rollback clean energy laws” (Stokes, p. 107).
 
+>  What lessons from other areas of policy addressing institutional resistance apply to advancing clean energy laws? <!--Amaya-->
+
+
+
+
+> Stokes notes that interest groups’ ability to “shape the parties through primaries is [more] pronounced at the subnational level” (p. 64). Does this mean that retrenchment is more likely to occur for policies passed at a state or local level, as opposed to national policies?
+
+
+# INSTITUTIONS {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+What is an institution?  
+
+
+
+
+## Expertise and Quiet Politics {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+> How do we approach policymaking for more dense, technical policy issues such as energy policy, where political authorities defer to whichever interest group can most convincingly portray themselves as subject matter experts? (even if their credibility is unfounded or used to push misinformation).
+<!--KATE--> 
+
+
+
+
+
+
+
+
+## Incentives to shape policy
+
+> Has the culture around and response to lobbying changed?
+
+## Incentives as policy tools to shape behavior
+
+
+(Also see Stone Chapter 12) 
+
+
+> Why did energy utilities stop investing in improving technologies? (p. 83) What attempts were made to restart or re-incentivize this behavior? 
+
+> What kind of regulatory policies need to be enacted at the local/state/federal level to change the way utilities behave? 
+
+## Institutionalized power
+
+> What is a democracy when the interests of the powerful, elite, and money are centered?
+
+> What modern policy tools could release state governments from electric utility regulatory capture? <!--Ann--> 
+
+## Changing institutional powers as a policy tool 
+
+> Why does the power to make policy shift among institutions over time?
+What are the implications of moving authority? 
+
+> When it comes to renewable energy projects, who benefits when state law supersedes municipal authority? Are public organizations/public actors "better?"
+
+> Is a return to municipal-controlled utility distribution feasible?
+
+## Lesson-drawing 
+
+> What insights does the history of renewable energy policy provide for other sectors that deal with public goods? 
 
 
 ## Explaining policy failure {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
@@ -139,6 +200,8 @@ At times, there is positive feedback that empowers the utilities. For example, y
 Perhaps this is a matter of semantics. 
 
 :::
+
+
 
 
 
