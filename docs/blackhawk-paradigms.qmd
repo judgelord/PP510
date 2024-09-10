@@ -9,23 +9,23 @@ format:
       footer:  ""
       fontsize: "40px"
       title-slide-attributes:
-        data-background-image: ""
+        data-background-image: "https://wisconsinpublictv.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/10/The-Ways_Tribal-Map.png"
         data-background-size: cover
         data-background-opacity: "0.5"
 ---
 
-## Why did I assign this? 
+## Why did I assign Blackhawk's article? 
 
-Key takeaways
+Key takeaways:  
 
 - The distribution of powers across policymaking institutions is rooted in the (told and untold) history of those institutions.
-- The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. 
-  - For example:
-    - Civil rights success stories teach that protecting minorities requires strong national government whereas success in Indian Country required limiting national power.
+- The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. For example:
+    - Civil rights success stories teach that protecting minorities requires strong national government 
+    - Whereas success in Indian Country required limiting national power
     
 <!--    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. -->
 
-- Reading law review articles is a useful skill, and this one is on the accessible side.
+- Reading law review articles is a useful skill, and this one is on the accessible side!
 
 ## 1. How colonialism shaped U.S. law
 

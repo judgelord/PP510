@@ -8,7 +8,7 @@
 <link href="blackhawk-paradigms_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="blackhawk-paradigms_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="blackhawk-paradigms_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.353">
+  <meta name="generator" content="quarto-1.5.57">
 
   <meta name="author" content="Maggie Blackhawk">
   <title>FEDERAL INDIAN LAW AS PARADIGM WITHIN PUBLIC LAW</title>
@@ -156,7 +156,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -324,7 +325,7 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="" data-background-opacity="0.5" data-background-size="cover" class="quarto-title-block center">
+<section id="title-slide" data-background-image="https://wisconsinpublictv.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/10/The-Ways_Tribal-Map.png" data-background-opacity="0.5" data-background-size="cover" class="quarto-title-block center">
   <h1 class="title">FEDERAL INDIAN LAW AS PARADIGM WITHIN PUBLIC LAW</h1>
 
 <div class="quarto-title-authors">
@@ -336,22 +337,20 @@ Maggie Blackhawk
 </div>
 
 </section>
-<section id="why-did-i-assign-this" class="slide level2">
-<h2>Why did I assign this?</h2>
-<p>Key takeaways</p>
+<section id="why-did-i-assign-blackhawks-article" class="slide level2">
+<h2>Why did I assign Blackhawk’s article?</h2>
+<p>Key takeaways:</p>
 <ul>
 <li class="fragment">The distribution of powers across policymaking institutions is rooted in the (told and untold) history of those institutions.</li>
-<li class="fragment">The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on.
+<li class="fragment">The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. For example:
 <ul>
-<li class="fragment">For example:
-<ul>
-<li class="fragment">Civil rights success stories teach that protecting minorities requires strong national government whereas success in Indian Country required limiting national power.</li>
-</ul></li>
+<li class="fragment">Civil rights success stories teach that protecting minorities requires strong national government</li>
+<li class="fragment">Whereas success in Indian Country required limiting national power</li>
 </ul></li>
 </ul>
 <!--    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. -->
 <ul>
-<li class="fragment">Reading law review articles is a useful skill, and this one is on the accessible side.</li>
+<li class="fragment">Reading law review articles is a useful skill, and this one is on the accessible side!</li>
 </ul>
 </section>
 <section id="how-colonialism-shaped-u.s.-law" class="slide level2">
@@ -542,8 +541,10 @@ Maggie Blackhawk
 <blockquote>
 <p>What is the process for implementing policy within what we “recognize” to be sovereign nations? If there was a watershed on both indigenous and US land, does the United States government hold power to regulate what happens within that watershed on indigenous land as it affects “waters of the United States?” How might a disagreement on the treatment be handled between the governments?</p>
 </blockquote>
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section>
     </div>
@@ -572,7 +573,6 @@ Maggie Blackhawk
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -789,18 +789,7 @@ Maggie Blackhawk
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -832,11 +821,50 @@ Maggie Blackhawk
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
-      function tippyHover(el, contentFn) {
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -846,8 +874,17 @@ Maggie Blackhawk
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
@@ -861,7 +898,11 @@ Maggie Blackhawk
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {
