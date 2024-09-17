@@ -19,7 +19,9 @@ format:
 
 > "The product of policy analysis is advice"
 
-Policy analysis, as a professional activity, is client-oriented. Ethical issues flow from this orientation (see Chapter 3).
+- Policy analysis, as a professional activity, is client-oriented. 
+
+- Ethical issues flow from this orientation (see Chapter 3).
 
 # Chapter 1
 

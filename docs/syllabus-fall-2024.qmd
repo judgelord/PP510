@@ -567,7 +567,7 @@ Background:
 
 > Context: Weimer and Vining, Chapter 1 FROM THE 5th EDITION, not the 6th (current) edition.  `(Canvas)`
 
-The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas.
+- The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas.
 
 > [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
 
