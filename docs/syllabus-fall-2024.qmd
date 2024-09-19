@@ -597,7 +597,7 @@ Resources:
 
 <!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
 
-> Context:  [Bardach, Appendix B](https://umich.instructure.com/courses/625083/files/folder/reading?preview=31825264) 
+> Context:  [Bardach, Appendix B] `(Canvas)`
 
 A helpful list of policy tools you might think about using to solve problems. 
 
