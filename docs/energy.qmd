@@ -15,14 +15,25 @@ execute:
   engine: knitr
 ---
 
+# Ann Arbor policy 
+
+
+[$A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
+
+- [Solarize](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Families-Individuals/Pages/Ann-Arbor-Solarize.aspx)
+
+
+# Washtenaw policy 
+
+[Resilient Washtenaw ](https://res.cloudinary.com/courbanize-production/image/upload/v1/information_plans/usthmg3wwemxznliub8a)
+
+[County document center](https://www.washtenaw.org/DocumentCenter)
 
 # Michigan policy 
 
 ## Plans 
 
 [MI Healthy Climate Plan](https://www.michigan.gov/egle/about/organization/climate-and-energy/mi-healthy-climate-plan)
-
-[$A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
 
 
 ## Public meetings
