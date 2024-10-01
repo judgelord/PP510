@@ -15,6 +15,43 @@ execute:
   engine: knitr
 ---
 
+# Issues Memo Instructions
+
+The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system and the state of Michigan.
+
+You will craft a 1-page memo on the following question: 
+
+What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue.
+
+
+## Issues Memo Template 
+
+<mark> NO HEADER </mark>
+
+<mark> Single spaced  </mark>
+
+<mark> A sentence or two about each policy issue and three bullets with a sentence or two about each policymaker's authority to address it: </mark>
+
+Issue 1 
+
+- Policymaker 1.a: Legal authority to address issue 1
+- Policymaker 1.b: Legal authority to address issue 1
+- Policymaker 1.c: Legal authority to address issue 1
+
+Issue 2
+
+- Policymaker 2.a: Legal authority to address issue 2
+- Policymaker 2.b: Legal authority to address issue 2
+- Policymaker 2.c: Legal authority to address issue 2
+
+Issue 3
+
+- Policymaker 3.a: Legal authority to address issue 3
+- Policymaker 3.b: Legal authority to address issue 3
+- Policymaker 3.c: Legal authority to address issue 3
+
+---
+
 # Policy Memo Instructions
 
 **General Instructions:**  This document provides the exact template for the policy memo assignments. Your memo should include a memo header, executive summary, background summary, analysis of the issues, review of options, recommendation, arguments and counterarguments, and conclusion. You are limited to four double-spaced pages, excluding source citations. You should use four pages---no more, rarely less. Because you are limited to four pages, consider the most efficient methods to convey necessary information:  charts, bullet points, tables, graphs, or text. Please use a consistent citation style. Given the page limit, endnotes are best. Use 1-inch margins and 12-point font.
@@ -137,40 +174,12 @@ Minor: It is clear why you chose the option you chose, but more details are need
 
 ---
 
-# Issues Memo Instructions
 
-The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system and the state of Michigan.
+# Peer Reviews 
 
-You will craft a 1-page memo on the following question: 
+My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
 
-What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue.
-
-
-## Issues Memo Template 
-
-<mark> NO HEADER </mark>
-
-<mark> Single spaced  </mark>
-
-<mark> A sentence or two about each issue and three bullets with a sentence or two about each policymaker: </mark>
-
-Issue 1 
-
-- Policymaker 1.a: Legal authority to address issue 1
-- Policymaker 1.b: Legal authority to address issue 1
-- Policymaker 1.c: Legal authority to address issue 1
-
-Issue 2
-
-- Policymaker 2.a: Legal authority to address issue 2
-- Policymaker 2.b: Legal authority to address issue 2
-- Policymaker 2.c: Legal authority to address issue 2
-
-Issue 3
-
-- Policymaker 3.a: Legal authority to address issue 3
-- Policymaker 3.b: Legal authority to address issue 3
-- Policymaker 3.c: Legal authority to address issue 3
+This means at least a page of written feedback (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), as well as some notes or markup of their writing. Writing can always be improved. 
 
 ---
 
