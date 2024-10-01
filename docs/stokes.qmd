@@ -58,6 +58,37 @@ Following Karl Polanyi
 
 # organized combat over organized power on unequal terrain
 
+# Chapter 2
+
+## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+> "Groups **construct** public opinion both by working with the public and by creating fake public campaigns through astroturfing." (p. 46). 
+
+> “The public is often a **tool** that advocates and opponents use to try to influence decision-makers.”
+
+> “The public’s **voice** can be heard through organizing and activism. Still, in contemporary American policymaking, interest groups’ voices are usually much louder than the public’s. Increasingly, the public is used as a **tool** by interest groups in their battles over policy.”
+(p. 66).
+
+
+## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+> “The opponents relied heavily on fake grassroots campaigns—sometimes called “astroturfing”—while advocates tried to bolster and communicate genuine support from rural and Republican parts of the state. Interest groups on **both sides** aimed to expand the scope of conflict.”
+
+> “Opponent interest groups can simultaneously deploy all of these **direct and indirect** strategies. When **better-resourced** opponents continually attack a policy, policy retrenchment can occur by a thousand cuts. (p. 66)
+
+
+::: {.notes}
+
+Hertle-Fernandez & Stokes vs. Schattschneider?!?
+
+This is a question I wrestle with 
+- how do we tell them apart 
+- do groups use resources to expand conflict -- if so, this goes against Schattschneider! 
+
+:::
+
 # Discussion Questions {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
 ## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
@@ -80,7 +111,7 @@ Following Karl Polanyi
 
 - Is there a way to reduce the amount of uncertainty around novel policies? 
 
-- Is it unethical for an interest group to withhold information that would benefit all affected parties in the initial policy-making process? (Weimer and Vining, Ch. 3)
+- Is it unethical for an interest group to withhold information that would benefit all affected parties in the initial policymaking process? (Weimer and Vining, Ch. 3)
 
 - How do political parties and interest groups amplify or represent the interests of the public to politicians? (Drutman 2015) 
 
@@ -92,6 +123,7 @@ Following Karl Polanyi
 > “The U.S. federalist system supports this search for new venues to oppose policy through its shared governance across levels of government” (p.62). 
 
 To what extent are the avenues of policy opposition Stokes identifies intentionally designed parts of a federalist system?
+
 
 
 . . . 
@@ -107,9 +139,10 @@ Policy makes politics: policy as "terrain" rather than policy as "prize" the exp
 - Technology & Policy: It’s tempting to think of technology as separate from politics; indeed, Stokes describes innovation as simply “occurring - or failing to occur" (53). Do interest groups shape technological innovation? Public trust in the technologies? 
 
 
+
 ## Retrenchment {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
-Electric utilities “used their privileged position to rollback clean energy laws” (Stokes, p. 107).
+Electric utilities “used their privileged position to roll back clean energy laws” (Stokes, p. 107).
 
 >  What lessons from other areas of policy addressing institutional resistance apply to advancing clean energy laws? <!--Amaya-->
 
@@ -140,7 +173,9 @@ What is an institution?
 
 ## Incentives to shape policy
 
+<!--
 > Has the culture around and response to lobbying changed?
+--> 
 
 ## Incentives as policy tools to shape behavior
 
@@ -150,7 +185,7 @@ What is an institution?
 
 > Why did energy utilities stop investing in improving technologies? (p. 83) What attempts were made to restart or re-incentivize this behavior? 
 
-> What kind of regulatory policies need to be enacted at the local/state/federal level to change the way utilities behave? 
+> What kind of regulation might change the way utilities behave? 
 
 ## Institutionalized power
 
@@ -171,6 +206,104 @@ What are the implications of moving authority?
 
 > What insights does the history of renewable energy policy provide for other sectors that deal with public goods? 
 
+
+
+<!--
+
+# Chapter 3: An Institutional History of Electricity Politics and Climate Inaction
+
+<!--starts on 68-->
+
+
+
+# Chapter 4: Policy Feedback Takes Hold {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+Networked Advocates Use the Public to Drive Clean Energy Leadership in Texas
+
+<!-- 108-154--> 
+
+## Policy Feedback  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+- 1990s - Restructuring creates a window of opportunity 
+- 1999 - Advocates get a clean energy target
+- 2005 - A Republican whose rural district had benefited from wind energy sponsored a bill to increase the target and state funds for renewable
+  - Big Wind was key to passing this bill
+
+## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+Fossil fuel companies anticipated costs for new laws, but these costs were uncertain and the industry was not mobilized to oppose them. 
+
+- Thus, clean energy was not yet polarized
+- Fossil fuel companies and utilities were distracted by fighting each other over deregulation (the big prize)
+- The restructuring bill was complex and technical
+- Renewable portfolio standards and efficiency were new
+- Renewables were not the main issue in the deregulation debate
+- Utilities thought transmission investments might benefit them
+- Costs were unclear
+
+
+## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+
+Environmental advocates saw the future more clearly, in part due to networks with advocates in other states.
+
+## Federalism {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+- The Texas grid does not cross state lines to avoid federal regulation 
+
+- No public utility commission until 1975.
+
+- Legislature meets every other year. 
+
+
+## Insider Lobbying {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+Environmental Defense Fund 
+
+- Direct access to Democrats
+- Appealed to Republicans using pro-market language
+- Helped craft the language for the RPS provision in the final bill
+  - included an energy credit trading mechanism
+
+
+## Public Participation  & "Outside" Lobbying {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+Public Citizen 
+
+Advocates used the public to get clean energy laws on the agenda. 
+The Integrated Resource Planning (IRP) process called for public engagement, testing deliberative polling in 1995. 
+
+Environmental groups shaped and communicated public preferences to push renewable energy onto the agenda during the deregulation debate.
+
+
+
+## Deregulation / "Restructuring" {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+
+- Enron (traders), fossil fuel companies (manufacturers), and [rural electric cooperatives](https://www.electriccooporganizing.org/rec101) (non-profit electricity providers) blocked a 1997 attempt 
+
+- Environmental advocates and clean energy companies joined with the fossil fuel industry to support restructuring, succeeding in 1999
+
+## Territory served by energy co-ops {background-opacity="0.7" background-image="https://www.thenation.com/wp-content/uploads/2017/05/Distribution_AEC_Green-02-FINALv2-img.jpg" background-size="contain"}
+
+## "Bootleggers and Baptists" coalitions
+
+Policies can create coalitions with "odd bedfellows." 
+
+For example, once enacted, the prohibition of alcohol sales was supported by a coalition of bootleggers who had built profitable illicit businesses selling illegal alcohol and religious groups who were morally opposed to alcohol. 
+
+![](figs/bootleggers.jpg)
+
+---
+
+![](figs/baptists.png)
+
+<!--
+
+## Organized combat continues into implementation
+
+In 
+-->
 
 ## Explaining policy failure {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
@@ -202,7 +335,9 @@ Perhaps this is a matter of semantics.
 :::
 
 
+# Chapter 5: A Direct Line to Legislators and Regulators 
 
+Fossil Fuel Corporations Undermine Texas's Solar Energy Law
 
 
 ## How durable are energy-sector alliances with the right and left? {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
@@ -221,35 +356,7 @@ Political economy shapes party politics:
 - libertarian defectors on the right? Industry power among liberals? (beyond Democrats with companies or plants in their district)
 
 
-## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
-
-> "Groups **construct** public opinion both by working with the public and by creating fake public campaigns through astroturfing." (p. 46). 
-
-> “The public is often a **tool** that advocates and opponents use to try to influence decision-makers.”
-
-> “The public’s **voice** can be heard through organizing and activism. Still, in contemporary American policymaking, interest groups’ voices are usually much louder than the public’s. Increasingly, the public is used as a **tool** by interest groups in their battles over policy.”
-(p. 66).
-
-
-
-## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
-
-
-> “The opponents relied heavily on fake grassroots campaigns—sometimes called “astroturfing”—while advocates tried to bolster and communicate genuine support from rural and Republican parts of the state. Interest groups on **both sides** aimed to expand the scope of conflict.”
-
-> “Opponent interest groups can simultaneously deploy all of these **direct and indirect** strategies. When **better-resourced** opponents continually attack a policy, policy retrenchment can occur by a thousand cuts. (p. 66)
-
-
-::: {.notes}
-
-Hertle-Fernandez & Stokes vs. Schattschneider?!?
-
-This is a question I wrestle with 
-- how do we tell them apart 
-- do groups use resources to expand conflict -- if so, this goes against Schattschneider! 
-
-:::
 
 
 
