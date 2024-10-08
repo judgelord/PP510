@@ -16,17 +16,18 @@ format:
 
 
 
-# Any "effort to render policymaking more scientific and less political is itself a creature of politics."
+# Any "effort to render policymaking more scientific and less political is itself a creature of politics." 
 
 
 ## Bias
 
-1 From a default 
+1 - From a default 
+
 
 - descriptive representation
 - substantive representation
 
-2 Relative to others
+2 - Relative to others
 
 - e.g., professional biases
    -  engineers vs. scientists vs. lawyers vs. social workers...
@@ -69,6 +70,8 @@ Stone:
 ## The public interest
 
 - Assumed!
+
+. . . 
 
 ### Asserted to be:
 
@@ -157,20 +160,52 @@ Stone wants policy analysts to think more about the struggle over ideas.
 
 - Stone asks us to think carefully about how we frame problems and solutions because it matters. 
 
+  - `Description implies prescription`
+  
+  
+## {background-opacity="1" background-image="figs/ai-overview.png" background-size="contain"}
 
+
+## Added to [dictionary.com](https://time.com/6694485/bed-rotting-girl-dinner-barbiecore-dictionary-words/) in 2024 {.scrollable}
+
+
+- `Enshittification` noun. The gradual degradation of an online platform or service’s functionality, as part of a cycle in which the platform or service first offers benefits to users to attract them, then pursues more and more profits at the expense of users.
+
+
+- `Pretty privilege` noun. An unearned and mostly unacknowledged societal advantage that a person has by fitting into the beauty standards of their culture.
+
+- `Barbiecore:` noun. An aesthetic or style featuring playful pink outfits, accessories, decor, etc., celebrating and modeled on the wardrobe of the Barbie doll.
+
+- `Slow fashion` noun. A movement among clothing producers and consumers that emphasizes eco-friendly, well-made clothing, maintenance and repair of garments to extend their lifespan, and a general reduction of one’s consumption of new clothing items.
+
+- `Greedflation` noun. a rise in prices, rents, or the like, that is not due to market pressure or any other factor organic to the economy, but is caused by corporate executives or boards of directors, property owners, etc., solely to increase profits that are already healthy or excessive.
+
+- `Climate breakdown` noun. The collective effects of harmful and potentially irreversible trends in climate, specifically those resulting from unchecked global warming.
+
+- `Extreme heat event` noun. Meteorology, Climatology. A heat event classified as being excessive enough to pose a serious threat to public health.
+
+- `Food insecure` adjective. Having or characterized by limited or uncertain access to adequate food.
+
+- `Bag holder` noun. Someone who retains an unprofitable investment rather than selling it at a loss, only to suffer an even worse loss when the investment eventually becomes worthless.
+
+Added to the [Merriam-Webster Dictionary]( https://www.merriam-webster.com/wordplay/new-words-in-the-dictionary)
+ 
+- `nepo baby` noun. A person who gains success or opportunities through familial connections
+
+- `late capitalism` noun. The current stage of capitalism that began in the second half of the 20th century and that is characterized by globalization, the dominance of multinational corporations, broad commodification and consumerism, and extreme wealth inequality
 
 ## Metaphors for Society 
 
 ### Is society better imagined as a market or a polis? 
 
 
-How we see society affects the things we think about when making policy. 
+How we talk about society affects the things we think about when making policy. 
 
 
-- "market failure" vs. market success at multiple goals
+- "market failure" vs.  success at multiple goals
 
 
-- "government failure" vs. market success at multiple goals
+- "government failure" vs.  success at multiple goals
 
 ---
 
@@ -201,11 +236,13 @@ How we see society affects the things we think about when making policy.
 
 ## Other Metaphors
 
-Stone presents these metaphors because she finds them to be powerful frames that shape policymaking and thus policy.
+Stone presents these metaphors because she finds them to be powerful frames that shape policymaking and thus policy. We can consider others: 
 
 - Is policymaking more like math or sports? 
 
-- ![](figs/math.png)
+. . . 
+
+![](figs/math.png)
 
 ## Math
 
