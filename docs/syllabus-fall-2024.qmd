@@ -702,12 +702,14 @@ Recommended Context:
 
 Recommended Research: 
 
-- [Thinking Like an Economist: How Economics Became the Language of U.S. Public Policy by Elizabeth Popp Berman](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist#preview)
+-  [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  discussing [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist)
 
 
 ### Thursday: Politics
 
-> Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas
+> Research: Short Circuiting Policy: Chapter 5. A Direct Line to Legislators and Regulators: Fossil Fuel Corporations and the Limitations of Texas's Renewable Energy Laws 
+
+<!--and Chapter 6.  Retrenchment by a Thousand Cuts: Fossil Fuel Opponents Drive Polarization on Clean Energy in Kansas--> 
 
 ---
 
@@ -723,7 +725,7 @@ Recommended Research:
 
 > Context:  Stone, the remainder of Part II (Chapters 3-6)
 
-> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)  `(Canvas)`
+
 
 <!--
 > Listen: [SSN: Death by a Thousand Cuts - Ashley E. Nickels](https://scholars.org/podcast/death-thousand-cuts)
@@ -736,9 +738,11 @@ Recommended Research:
 
 <!-- **Memo 2 due Tuesday 7 PM**-->
 
+### Tuesday
+
 > Context:  Stone, Part III, Ch. 7- 9 (Symbols, Numbers, Causes)
 
-> Research: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
+> Research: SKIM: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
 
 
 ### Thursday
@@ -749,17 +753,35 @@ GUEST LECTURE
 
 ---
 
-## Week ten: Framing Demands
+## Week ten: Intererests
 
 > Context:  Stone, Part III, Ch. 10  (Interests)
 
+
+
+## Week eleven: Framing Demands
+
+Tuesday: 
+
+No assigned reading or discussion post: get your friends and neighbors out to vote!
+
+Thursday: 
+
 > Research: [Woodly, Deva. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance. Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1  `(Canvas)`
+
+Recommended Research: 
+
+- [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
+
+Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
+
+- Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
 
 
 ---
 
 
-## Week eleven: Policy Design 
+## Week twelve: Policy Design and Ethics
 
 
 ### Tuesday: Incentives, rules, facts
@@ -770,19 +792,30 @@ GUEST LECTURE
 > Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
 -->
 
-### Thursday: Rights and powers
 
-> Context:  Stone, Part IV, Ch. 15-16
+### Thursday: Public Policy as a Vocation
+
+> Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)  `(Canvas)`
+
+<!--Weber poltics as vocation?--> 
 
 
 
-## Week twelve: Laws that Govern Lawmaking
+## Week thirteen: Laws that Govern Lawmaking
+
+### Tuesday: 
 
 > Research: SKIM: [Seifter. 2016. "Second-Order Participation in Administrative Law." *UCLA Law Review* 63](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662504)
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
 > Context: [Mansbridge, "Clarifying the Concept of Representation." *American Political Science Review*, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+
+### Thursday: Rights and powers
+
+> Context:  Stone, Part IV, Ch. 15-16
+
+
 
 
 <!-- Context: *Beyond Adversary Democracy*-Jane Mansbridge--> 
@@ -793,24 +826,24 @@ oversight-correspondence
 
 ---
 
-## Weeks thirteen: Agenda Democracy & Feedback 
+
+<!-- Agenda Democracy & Feedback 
 
 <!-- **Memo 3 due Tuesday 7 PM**--> 
 
+<!--
+
 ### Tuesday: Agenda Democracy
 
-> Research: [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
 
-Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
 
 <!-- > Research: Egan, Part 1
 
 Egan's environmental history of the Great Lakes is full of examples of politics and policymaking. Because it is written as journalism rather than a policy brief or social science, it presents an opportunity to train our eyes to see the policies and shifts in authority to make policy that shape our world.
 --> 
 
-Recommended Research: 
 
-- Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
+<!--
 
 ### Thursday: Feedback 
 
@@ -825,7 +858,7 @@ Recommended
 
 ---
 
-
+-->
 
 
 ## Weeks fourteen: Roundtables
