@@ -5,7 +5,7 @@ author: "Leah Stokes"
 format: 
   revealjs:
       incremental: true  
-      theme: [default, michigan.scss]
+      theme: [default, michigan.scss, energy.scss]
       #footer:  
       fontsize: "40px"
       title-slide-attributes:
@@ -16,7 +16,7 @@ format:
 
 
 
-## Why I like this book {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Why I like this book 
 
 
 - Centers interest groups
@@ -42,7 +42,7 @@ Continuing a project that is critical to our survival - the role of a scientist 
 
 :::
 
-## Stokes brings important questions from the periphery to the core of political science {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Stokes brings important questions from the periphery to the core of political science 
 
 
 > “Electricity pricing is a function of both government policy and interest group privilege; it is not a simple function of economics.” (p. 70). 
@@ -60,7 +60,7 @@ Following Karl Polanyi
 
 # Chapter 2
 
-## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Astroturf and conflict expansion 
 
 
 > "Groups **construct** public opinion both by working with the public and by creating fake public campaigns through astroturfing." (p. 46). 
@@ -71,7 +71,7 @@ Following Karl Polanyi
 (p. 66).
 
 
-## Astroturf and conflict expansion {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Astroturf and conflict expansion 
 
 
 > “The opponents relied heavily on fake grassroots campaigns—sometimes called “astroturfing”—while advocates tried to bolster and communicate genuine support from rural and Republican parts of the state. Interest groups on **both sides** aimed to expand the scope of conflict.”
@@ -89,9 +89,9 @@ This is a question I wrestle with
 
 :::
 
-# Discussion Questions {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+# Discussion Questions 
 
-## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Fog of Enactment  
 
 "opponent interest groups and politicians struggle to predict policies' consequences" (p. 35)
 
@@ -100,7 +100,7 @@ This is a question I wrestle with
 - Technical complexity
 - Multiple institutions
 
-## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Fog of Enactment  
 
 "In each state, the politics of enacting clean energy laws has been different than the politics of implementation" - (Stokes, p. 105)
 
@@ -116,7 +116,7 @@ This is a question I wrestle with
 - How do political parties and interest groups amplify or represent the interests of the public to politicians? (Drutman 2015) 
 
 
-## Veto points {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Veto points 
 
 > “The United States may have institutions that are particularly supportive of political losers’ repeated efforts to dismantle policies” (p.60). 
 
@@ -130,7 +130,7 @@ To what extent are the avenues of policy opposition Stokes identifies intentiona
 
 To what extent is it capitalism? (i.e.. now much should we blame the structure of government vs. the structure of ownership over energy production?)
 
-## Policy Feedback {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Policy Feedback 
 
 Policy makes politics: policy as "terrain" rather than policy as "prize" the explanatory variable rather than the dependent variable. 
 
@@ -140,7 +140,7 @@ Policy makes politics: policy as "terrain" rather than policy as "prize" the exp
 
 
 
-## Retrenchment {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Retrenchment 
 
 Electric utilities “used their privileged position to roll back clean energy laws” (Stokes, p. 107).
 
@@ -152,14 +152,14 @@ Electric utilities “used their privileged position to roll back clean energy l
 > Stokes notes that interest groups’ ability to “shape the parties through primaries is [more] pronounced at the subnational level” (p. 64). Does this mean that retrenchment is more likely to occur for policies passed at a state or local level, as opposed to national policies?
 
 
-# INSTITUTIONS {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+# INSTITUTIONS 
 
 What is an institution?  
 
 
 
 
-## Expertise and Quiet Politics {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Expertise and Quiet Politics 
 
 > How do we approach policymaking for more dense, technical policy issues such as energy policy, where political authorities defer to whichever interest group can most convincingly portray themselves as subject matter experts? (even if their credibility is unfounded or used to push misinformation).
 <!--KATE--> 
@@ -170,14 +170,14 @@ What is an institution?
 
 
 
-
-## Incentives to shape policy
+ 
+## Incentives to shape policy  
 
 <!--
 > Has the culture around and response to lobbying changed?
 --> 
 
-## Incentives as policy tools to shape behavior
+## Incentives as policy tools to shape behavior   
 
 
 (Also see Stone Chapter 12) 
@@ -187,13 +187,13 @@ What is an institution?
 
 > What kind of regulation might change the way utilities behave? 
 
-## Institutionalized power
+## Institutionalized power  
 
 > What is a democracy when the interests of the powerful, elite, and money are centered?
 
 > What modern policy tools could release state governments from electric utility regulatory capture? <!--Ann--> 
 
-## Changing institutional powers as a policy tool 
+## Changing institutional powers as a policy tool   
 
 > Why does the power to make policy shift among institutions over time?
 What are the implications of moving authority? 
@@ -216,21 +216,21 @@ What are the implications of moving authority?
 
 
 
-# Chapter 4: Policy Feedback Takes Hold {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+# Chapter 4: Policy Feedback Takes Hold   
 
 
 Networked Advocates Use the Public to Drive Clean Energy Leadership in Texas
 
 <!-- 108-154--> 
 
-## Policy Feedback  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Policy Feedback  
 
 - 1990s - Restructuring creates a window of opportunity 
 - 1999 - Advocates get a clean energy target
 - 2005 - A Republican whose rural district had benefited from wind energy sponsored a bill to increase the target and state funds for renewable
   - Big Wind was key to passing this bill
 
-## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Fog of Enactment  
 
 Fossil fuel companies anticipated costs for new laws, but these costs were uncertain and the industry was not mobilized to oppose them. 
 
@@ -243,12 +243,12 @@ Fossil fuel companies anticipated costs for new laws, but these costs were uncer
 - Costs were unclear
 
 
-## Fog of Enactment  {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Fog of Enactment  
 
 
 Environmental advocates saw the future more clearly, in part due to networks with advocates in other states.
 
-## Federalism {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Federalism 
 
 - The Texas grid does not cross state lines to avoid federal regulation 
 
@@ -257,7 +257,7 @@ Environmental advocates saw the future more clearly, in part due to networks wit
 - Legislature meets every other year. 
 
 
-## Insider Lobbying {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Insider Lobbying 
 
 Environmental Defense Fund 
 
@@ -267,7 +267,7 @@ Environmental Defense Fund
   - included an energy credit trading mechanism
 
 
-## Public Participation  & "Outside" Lobbying {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Public Participation  & "Outside" Lobbying 
 
 Public Citizen 
 
@@ -278,7 +278,7 @@ Environmental groups shaped and communicated public preferences to push renewabl
 
 
 
-## Deregulation / "Restructuring" {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Deregulation / "Restructuring" 
 
 - Enron (traders), fossil fuel companies (manufacturers), and [rural electric cooperatives](https://www.electriccooporganizing.org/rec101) (non-profit electricity providers) blocked a 1997 attempt 
 
@@ -286,35 +286,102 @@ Environmental groups shaped and communicated public preferences to push renewabl
 
 ## Territory served by energy co-ops {background-opacity="0.7" background-image="https://www.thenation.com/wp-content/uploads/2017/05/Distribution_AEC_Green-02-FINALv2-img.jpg" background-size="contain"}
 
-## "Bootleggers and Baptists" coalitions
+## "Bootleggers and Baptists" coalitions {background-image="https://img.freepik.com/premium-photo/white-wall-with-white-background-that-says-word-it_994023-371201.jpg" background-opacity=1 background-color="white"}
 
 Policies can create coalitions with "odd bedfellows." 
 
-For example, once enacted, the prohibition of alcohol sales was supported by a coalition of bootleggers who had built profitable illicit businesses selling illegal alcohol and religious groups who were morally opposed to alcohol. 
+- For example, once enacted, the prohibition of alcohol sales was supported by a coalition of bootleggers who had built profitable illicit businesses selling illegal alcohol and religious groups who were morally opposed to alcohol. 
 
 ![](figs/bootleggers.jpg)
 
----
+## "Bootleggers and Baptists" coalitions {background-image="https://img.freepik.com/premium-photo/white-wall-with-white-background-that-says-word-it_994023-371201.jpg" background-opacity=1 background-color="white"}
+
 
 ![](figs/baptists.png)
 
-<!--
 
-## Organized combat continues into implementation
+# Chapter 5: A Direct Line to Legislators and Regulators 
 
-In 
--->
+Fossil Fuel Corporations Undermine Texas's Solar Energy Law
 
-## Explaining policy failure {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
 
+
+
+## Structural advantage   
+
+Clean energy opponents did not need to use indirect tools, like the parties, the public, or the courts. They had sufficient influence at the Capitol, with the governor, and with regulators.
+
+- "He sits in Senator Fraser's office. There's an empty desk that he uses. [The lobbyist and the legislator's staffer] are extremely close"
+
+After a mere 6 years, the clean energy industry in Texas could not rival the 100-year-old fossil fuel lobby.
+
+- Renewable energy groups were not invited to the table when the final provisions of the 2005 bill were negotiated. 
+
+. . . 
+
+$\longrightarrow$ failed to achieve "lock-in" (unlike the Affordable Care Act)
+
+
+## Incumbent industry 
+
+> "It finally began to dawn on teh natural gas guys that wind wa starting to cut into their profits and solar was certainly going to cut into their proffits." 
+
+
+## Organized combat continues into implementation  
+
+Fights to frame the negative price "problem" 
+
+- transitioning to wind has cost
+  - government is "subsidizing" transition and "picking winners"
+- transitioning to wind creates jobs 
+
+## Organized combat continues into implementation  
+
+
+Fights over "legislative intent"
+
+- Opponents made the solar RPS a "target" instead of a "goal" so they could later argue to the PUC that it was not binding. 
+
+- Some Republicans joined renewable advocates in arguing they intended to create a mandatory target
+
+- With the power to arbitrate conflict over policy interpretation, the executive branch gains power during implementation (as do courts)
+
+## Organized combat continues into implementation  
+
+1985 Net Metering law aimed to enable distributed generation (e.g., rooftop solar)
+
+- But the PUC did not enforce the law, and utilities refused to connect small-scale generation
+
+
+### Retrenchment (i.e., unmaking policy)  
+
+- 2007 law changed "shall" to "may" purchase electricity from customers
+
+### Equlibrium 
+
+- People won't instal rooftop solar if it does not pay and therefore few customers exist to incentives companies to offer net metering plans.
+
+
+## Retrenchment (i.e., unmaking policy)  
+
+- 2007 law allowed large energy consumers to opt out of the RPS
+  - Swinford intended to neutralize large companies 
+  - Fraser opposed it because he wanted to maintain their stakes in opposing clean energy
+  - Shifted costs of paying for the transition to retail consumers 
+
+- by 2011 polarization on clean energy at the stae and federal level turned most Republicans into opponents
+
+
+
+## Explaining policy failure 
 
 To what extent did these new policies fail to create new politics vs. create politics that were bad for them?
 
-- “disrupted”/“failure of positive feedback”
+- "interrupted"/“disrupted”/“failure of positive feedback”
 
 or (and?)
 
-- incumbent advantage to **resist** policy change and **retrenchment** through negative feedback 
+- incumbent advantage to **resist** policy change and achieve **retrenchment** through negative feedback 
 
 
 
@@ -335,12 +402,7 @@ Perhaps this is a matter of semantics.
 :::
 
 
-# Chapter 5: A Direct Line to Legislators and Regulators 
-
-Fossil Fuel Corporations Undermine Texas's Solar Energy Law
-
-
-## How durable are energy-sector alliances with the right and left? {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## How durable are energy-sector alliances with the right and left? 
 
 
 Political economy shapes party politics:
@@ -360,7 +422,7 @@ Political economy shapes party politics:
 
 
 
-## Ohio HB 6 {background-opacity="0.2" background-image="https://thebreakthrough.imgix.net/_1200x630_crop_center-center_82_none/Short-curcuiting.png?mtime=1614294188"}
+## Ohio HB 6 
 
 
 > “The unions got duped because after they supported the legislation, [FirstEnergy Solutions] said we are going to gut the pensions. So I think the Democrats and the labor unions were duped.”  (Stokes, p. 220). 
@@ -377,12 +439,12 @@ Political economy shapes party politics:
 
 
 
-## Organized interest groups {background-opacity="0.2" background-image="https://cdn.prod.website-files.com/61a541d59c08986610e0d170/61bfc88e44e284f01ce5fbe7_hero-map.jpg"}
+## Organized interest groups {background-opacity="0.5" background-image="https://cdn.prod.website-files.com/61a541d59c08986610e0d170/61bfc88e44e284f01ce5fbe7_hero-map.jpg"}
 
 
->"[The United States'] institutional terrain advantages political actors with the capacity to work across multiple venues, over extended periods, and in a political environment where coordinated government action is difficult, and strategies of evasion and exit from regulatory constraints are often successful. These capacities are characteristic of organized groups, not individual voters."- Hacker, Hertel-Fernandez, Pierson, and Thelen (2021)
+"[The United States'] institutional terrain advantages political actors with the capacity to work across multiple venues, over extended periods, and in a political environment where coordinated government action is difficult, and strategies of evasion and exit from regulatory constraints are often successful. These capacities are characteristic of organized groups, not individual voters."- Hacker, Hertel-Fernandez, Pierson, and Thelen (2021)
 
-## {background-opacity="0.8" background-image="https://cdn.prod.website-files.com/61a541d59c0898e83ee0d1a5/61f17f7bc3b7b96eaf7b9f3b_spotlight-Rethinking-American-Political-Economy.jpg"}
+## {background-opacity="1" background-image="https://cdn.prod.website-files.com/61a541d59c0898e83ee0d1a5/61f17f7bc3b7b96eaf7b9f3b_spotlight-Rethinking-American-Political-Economy.jpg"}
 
 
 
