@@ -309,11 +309,11 @@ Fossil Fuel Corporations Undermine Texas's Solar Energy Law
 
 ## Structural advantage   
 
-Clean energy opponents did not need to use indirect tools, like the parties, the public, or the courts. They had sufficient influence at the Capitol, with the governor, and with regulators.
+Clean energy opponents did not need to use indirect tools like the parties, the public, or the courts. They had sufficient influence at the Capitol, with the governor, and with regulators.
 
 - "He sits in Senator Fraser's office. There's an empty desk that he uses. [The lobbyist and the legislator's staffer] are extremely close"
 
-After a mere 6 years, the clean energy industry in Texas could not rival the 100-year-old fossil fuel lobby.
+After a mere six years, the clean energy industry in Texas could not rival the 100-year-old fossil fuel lobby.
 
 - Renewable energy groups were not invited to the table when the final provisions of the 2005 bill were negotiated. 
 
@@ -331,7 +331,7 @@ $\longrightarrow$ failed to achieve "lock-in" (unlike the Affordable Care Act)
 
 Fights to frame the negative price "problem" 
 
-- transitioning to wind has cost
+- transitioning to wind has costs
   - government is "subsidizing" transition and "picking winners"
 - transitioning to wind creates jobs 
 
@@ -350,26 +350,26 @@ Fights over "legislative intent"
 
 1985 Net Metering law aimed to enable distributed generation (e.g., rooftop solar)
 
-- But the PUC did not enforce the law, and utilities refused to connect small-scale generation
+- But, the PUC did not enforce the law, and utilities refused to connect small-scale generation
 
 
 ### Retrenchment (i.e., unmaking policy)  
 
 - 2007 law changed "shall" to "may" purchase electricity from customers
 
-### Equlibrium 
+### Equilibrium 
 
 - People won't instal rooftop solar if it does not pay and therefore few customers exist to incentives companies to offer net metering plans.
 
 
 ## Retrenchment (i.e., unmaking policy)  
 
-- 2007 law allowed large energy consumers to opt out of the RPS
+- The 2007 law allowed large energy consumers to opt out of the RPS
   - Swinford intended to neutralize large companies 
   - Fraser opposed it because he wanted to maintain their stakes in opposing clean energy
   - Shifted costs of paying for the transition to retail consumers 
 
-- by 2011 polarization on clean energy at the stae and federal level turned most Republicans into opponents
+- by 2011, polarization on clean energy at the state and federal levels turned most Republicans into opponents
 
 
 
@@ -415,7 +415,7 @@ Political economy shapes party politics:
 
 > "fossil fuel-dependent utilities and industries worked over several years to erode Republican support for clean energy." (p. 196)
 
-[ideological?] networks also shape the political economy:
+Political/ideological networks also shape the political economy:
 
 > "many important opponents working to undermine Kansas’s clean energy laws came from outside the state, brought into the conflict through right-wing interest group networks. (p. 150). 
 
