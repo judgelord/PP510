@@ -9,7 +9,7 @@ format:
       footer:  Coalitional Lobbying and Intersectional Representation by Maraam A. Dwidar
       fontsize: "40px"
       title-slide-attributes:
-        #data-background-image: "/figs/prohibition.jpg"
+        #data-background-image: "/figs/prolihibition.jpg"
         data-background-size: cover
         data-background-opacity: "0.5"
 ---
@@ -26,6 +26,7 @@ Organizations representing socially and politically marginalized individuals hav
 ## Theory 
 
 Intersectional advocacy is more influential when pursued as part of a coalition effort
+
 - credibility and expertise 
 - resources
 
@@ -46,6 +47,7 @@ Intersectional advocacy is more influential when pursued as part of a coalition 
 ## Findings
 
 
-- coalitions help
+Coalitions help
+
   - but not larger coalitions 
-- coalitions with more resources
+  - coalitions with more resources

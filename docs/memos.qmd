@@ -1,14 +1,70 @@
+---
+title: Memo Instructions
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   toc-title: Contents
+#   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+# Issues Memo Instructions
+
+The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system and the state of Michigan.
+
+You will craft a 1-page memo on the following question: 
+
+What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue.
+
+
+## Issues Memo Template 
+
+<mark> NO HEADER </mark>
+
+<mark> Single spaced  </mark>
+
+<mark> A sentence or two about each policy issue and three bullets with a sentence or two about each policymaker's authority to address it: </mark>
+
+Issue 1 
+
+- Policymaker 1.a: Legal authority to address issue 1
+- Policymaker 1.b: Legal authority to address issue 1
+- Policymaker 1.c: Legal authority to address issue 1
+
+Issue 2
+
+- Policymaker 2.a: Legal authority to address issue 2
+- Policymaker 2.b: Legal authority to address issue 2
+- Policymaker 2.c: Legal authority to address issue 2
+
+Issue 3
+
+- Policymaker 3.a: Legal authority to address issue 3
+- Policymaker 3.b: Legal authority to address issue 3
+- Policymaker 3.c: Legal authority to address issue 3
+
+---
+
 # Policy Memo Instructions
 
 **General Instructions:**  This document provides the exact template for the policy memo assignments. Your memo should include a memo header, executive summary, background summary, analysis of the issues, review of options, recommendation, arguments and counterarguments, and conclusion. You are limited to four double-spaced pages, excluding source citations. You should use four pages---no more, rarely less. Because you are limited to four pages, consider the most efficient methods to convey necessary information:  charts, bullet points, tables, graphs, or text. Please use a consistent citation style. Given the page limit, endnotes are best. Use 1-inch margins and 12-point font.
 
 In preparing your memo, consider your reader. What does the reader already know? What does your reader need to know to understand your analysis and recommendation? Because policy memoranda are brief--no more than a few pages---avoid restating the obvious or discussing at any length that is well known or well understood by your reader. Your job is not to tell the reader everything that you know on the issue; it is to tell the reader **what they need to know to make a policy decision**.  
 
+The multiple memos you write for this class are exercises in practicing a craft. Yes, they are addressed to real people, but I will give you feedback, and you will have a chance to revise it before sending it to them (if you want to do so). The purpose of doing iterations on the same memo form and subject is to get practice, workshop, and improve. For both reasons, I hope you can see the policy memo assignments as practice. I know this is a new form of writing for most of you and new subject matter for nearly all of you.   Please be careful not to be too hard on yourself or hold yourselves to unreasonable expectations. There is no way anyone can become a true expert in any subject or craft in this short time. I've read and graded hundreds of students' policy memos, and I am not expecting perfection on the first attempt. I expect a good first effort at doing something new and challenging, and I know you can all do that well. In the next itteration, I expect improvement, and I know you can do that as well.
+
 ## Policy Memo Template
 
-TO: 501 Students, Fall Term 2023  
+TO: 501 Students 
 FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the version of the first policy memo you submit on Canvas.)</mark>.  
-DATE: September 1, 2023   
+DATE: September 1, 20XX
 RE: Policy Memo Template
 
 <mark> The rest is double-spaced (excluding references)  </mark>
@@ -52,10 +108,11 @@ Alternatively, implementation questions might be addressed in a less analytic wa
 
 Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and new help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
 
-**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian, [
-[Shevon Desai](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy). The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
+**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian,
+[Shevon Desai](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy).
+The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
-## Notes that I frequently give on policy memos:
+## Notes that I frequently give on policy memos
 
 **Clarity**
 
@@ -117,39 +174,12 @@ Minor: It is clear why you chose the option you chose, but more details are need
 
 ---
 
-# Issues Memo Instructions
 
-The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system. 
+# Peer Reviews 
 
-You will craft a 1-page memo on the following question: 
+My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
 
-What are the most pressing water quality issues in the Great Lakes region? Please identify three issues and three local, state, inter-state, tribal, inter-tribal, or U.S. federal officials who are in a position to advance policies addressing each issue.
-
-## Issues Memo Template 
-
-<mark> NO HEADER </mark>
-
-<mark> Single spaced  </mark>
-
-<mark> A sentence or two about each issue and three bullets with a sentence or two about each policymaker: </mark>
-
-Issue 1 
-
-- Policymaker 1.a: Legal authority to address issue 1
-- Policymaker 1.b: Legal authority to address issue 1
-- Policymaker 1.c: Legal authority to address issue 1
-
-Issue 2
-
-- Policymaker 2.a: Legal authority to address issue 2
-- Policymaker 2.b: Legal authority to address issue 2
-- Policymaker 2.c: Legal authority to address issue 2
-
-Issue 3
-
-- Policymaker 3.a: Legal authority to address issue 3
-- Policymaker 3.b: Legal authority to address issue 3
-- Policymaker 3.c: Legal authority to address issue 3
+This means at least a page of written feedback (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), as well as some notes or markup of their writing. Writing can always be improved. 
 
 ---
 
@@ -226,7 +256,7 @@ There is no required number of questions; in this half page, try to balance havi
 
 In this second half of the memo, both questions and points are probably best kept to one line.
 
-## Ideas for anticipating questions:
+## Ideas for anticipating questions
 
 - Give your presentation to (or just talk about your proposal with) others and write down the questions they ask you 
 - Gather questions from feedback on your memos and ask yourself if any of them are likely to be asked in response to your presentation
@@ -235,22 +265,24 @@ In this second half of the memo, both questions and points are probably best kep
 
 # Resources 
 
-[Public policy research guide](https://guides.lib.umich.edu/publicpolicy()
+- [Public policy research guide](https://guides.lib.umich.edu/publicpolicy)
 
 
-[Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
+- [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
 
-[The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
+- [The Art and Science of Framing and Issue](https://www.lgbtmap.org/file/art-and-science-of-framing-an-issue.pdf)
 
 
-[Writing theory-driven policy analysis by Paul Cairney](https://paulcairney.wordpress.com/2017/11/13/how-to-write-theory-driven-policy-analysis/)
+- [Writing theory-driven policy analysis by Paul Cairney](https://paulcairney.wordpress.com/2017/11/13/how-to-write-theory-driven-policy-analysis/)
 
-Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 1995.
+-  Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 1995.
 The Craft of Research. Chicago: University of Chicago Press, Chapter 7: "Making Good Arguments: An Overview," pp. 88-93.
 
-From Electronic Hallway: "Memo Writing"; "Brief Guidelines for Writing Action Memos"; "Writing Effective Memoranda: Planning, Drafting, & Revising."
+- From Electronic Hallway: "Memo Writing"; "Brief Guidelines for Writing Action Memos"; "Writing Effective Memoranda: Planning, Drafting, & Revising."
 
 - [Harvard Kennedy School Library Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) to find think tank policy briefs with keyword search. 
+
+# [Wiki](https://docs.google.com/document/d/1QQA9bfutvYD1jsSrCBUW3OICc7PgKK7C-jj9BMeyFM8/edit?usp=sharing) (additional resources from 510 GSIs and students)
 
 
 

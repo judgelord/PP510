@@ -9,23 +9,23 @@ format:
       footer:  ""
       fontsize: "40px"
       title-slide-attributes:
-        data-background-image: ""
+        data-background-image: "https://wisconsinpublictv.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/10/The-Ways_Tribal-Map.png"
         data-background-size: cover
         data-background-opacity: "0.5"
 ---
 
-## Why did I assign this? 
+## Why did I assign Blackhawk's article? 
 
-Key takeaways
+Key takeaways:  
 
 - The distribution of powers across policymaking institutions is rooted in the (told and untold) history of those institutions.
-- The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. 
-  - For example:
-    - Civil rights success stories teach that protecting minorities requires strong national government whereas success in Indian Country required limiting national power.
+- The stories we tell about success and failure in the past lead us to empower some institutions over others in the policy and advocacy strategies we bet on. For example:
+    - Civil rights success stories teach that protecting minorities requires strong national government 
+    - Whereas success in Indian Country required limiting national power
     
 <!--    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. -->
 
-- Reading law review articles is a useful skill, and this one is on the accessible side.
+- Reading law review articles is a useful skill, and this one is on the accessible side!
 
 ## 1. How colonialism shaped U.S. law
 
@@ -115,15 +115,16 @@ $\rightsquigarrow$ "regulation by treaty" in the early 1800s
 - courts took this as evidence of diminished sovereignty 
   - "none who would argue, however, that the use of an executive agreement to resolve an issue with Saudi Arabia or Vietnam, rather than an Article II treaty, would somehow indicate that the sovereignty of these nations was diminished." (p. 1815)
 
-## Success: 
+## Success: Recognition of Self Goverance
 
-- Congress reshaped institutions to 
+-  American Indian Defense Association and others pushed Congress reshape institutions to 
+  - reverse the assimilationist policies
   - foster power (self-governance)
   - promote collective action 
   - facilitated participation in executive-branch policymaking
 
 
-e.g. the Indian Reorganization Act, the centerpiece of the Indian New Deal (p. 1813)
+e.g. the Indian Reorganization Act, the centerpiece of the "Indian New Deal" (p. 1813)
 
 ## {background-image="https://assets.editorial.aetnd.com/uploads/2023/04/GettyImages-515151022-2.jpg?width=3840&height=1920&crop=3840%3A1920%2Csmart&quality=75" background-size="cover" title="Confederated Tribes of the Flathead Indian Reservation (Salish and Kootenai)" #slide4-id data-menu-title="Rapanos"}
 
@@ -147,6 +148,10 @@ NLRA aimed to solve the subordination of labor
 -  self-governance supported by rights and an administrative enforcement scheme (p. 1814)
 
 
+## Failure: Plenary power doctrine
+
+> “The inherent powers doctrine has survived into the twenty-first century” in the form of what we know as the “travel ban” (p. 1834).
+
 ## Key concepts 
 
 - treaty power
@@ -169,6 +174,7 @@ NLRA aimed to solve the subordination of labor
 How should we distribute and limit power?
 
  - in order to prevent government abuse of minorities
+ - in order to remedy private power imballence
  - in order to protect ecosystems
  - etc.
 
