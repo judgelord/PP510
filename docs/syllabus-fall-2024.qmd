@@ -785,7 +785,7 @@ Carpenter reviews research on the power of being able to set the agenda for poli
 ## Week twelve: Policy Design and Ethics
 
 
-### Tuesday: Incentives, rules, facts
+### Tuesday: Incentives, Rules, Facts
 
 > Context:  Stone, Part IV, Ch. 12-14
 
@@ -836,7 +836,7 @@ oversight-correspondence
 
 ### Tuesday: Agenda Democracy
 
-
+-->
 
 <!-- > Research: Egan, Part 1
 
