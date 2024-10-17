@@ -15,13 +15,15 @@ execute:
   engine: knitr
 ---
 
-# Issues Memo Instructions
+# Issues Memo 
 
 The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system and the state of Michigan.
 
 You will craft a 1-page memo on the following question: 
 
-What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue.
+> What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue. These must be public officials.
+
+Memos in this genre are what you will be asked to write if you work for a policymaker, think tank, or advocacy group and your boss wants to get a sense of the current issues and key decision makers in a new policy area. 
 
 
 ## Issues Memo Template 
@@ -52,13 +54,19 @@ Issue 3
 
 ---
 
-# Policy Memo Instructions
+# Policy Memo
 
 **General Instructions:**  This document provides the exact template for the policy memo assignments. Your memo should include a memo header, executive summary, background summary, analysis of the issues, review of options, recommendation, arguments and counterarguments, and conclusion. You are limited to four double-spaced pages, excluding endnotes/citations. You should use four pages---no more, rarely less. Because you are limited to four pages, consider the most efficient methods to convey necessary information:  charts, bullet points, tables, graphs, or text. Please use a consistent citation style. Given the page limit, endnotes are best. Use 1-inch margins and 12-point font.
 
 In preparing your memo, consider your reader. What does the reader already know? What does your reader need to know to understand your analysis and recommendation? Because policy memoranda are brief--no more than a few pages---avoid restating the obvious or discussing at any length that is well known or well understood by your reader. Your job is not to tell the reader everything that you know on the issue; it is to tell the reader **what they need to know to make a policy decision**.  
 
-The multiple memos you write for this class are exercises in practicing a craft. Yes, they are addressed to real people, but I will give you feedback, and you will have a chance to revise it before sending it to them (if you want to do so). The purpose of doing iterations on the same memo form and subject is to get practice, workshop, and improve. For both reasons, I hope you can see the policy memo assignments as practice. I know this is a new form of writing for most of you and a new subject matter for nearly all of you.   Please be careful not to be too hard on yourself or hold yourselves to unreasonable expectations. There is no way anyone can become a true expert in any subject or craft in this short time. I've read and graded hundreds of students' policy memos, and I am not expecting perfection on the first attempt. I expect a good first effort at doing something new and challenging, and I know you can all do that well. In the next iteration, I expect improvement, and I know you can do that as well.
+These policy memos involve two kinds of analysis: (1) **issue analysis** that identifies the key policy problem and its causes (identifying the causes of a problem and why it has not already been solved generally includes a political/stakeholder analysis) (2) **policy analysis** comparing policy options on criteria suggested by your issue analysis.  
+
+Memos in this genre are what you will be asked to write if you work for a policymaker, agency, think tank, or advocacy group and your boss asks you to develop and compare policy options. 
+
+The multiple memos you write for this class are exercises in practicing a craft. Yes, they are addressed to real people, but I will give you feedback, and you will have a chance to revise it before sending it to them (if you want to do so). The purpose of doing iterations on the same memo form and subject is to get practice, workshop, and improve. You should approach the policy memo assignments as practice. I know this is a new form of writing for most of you and a new subject matter for nearly all of you.   Please be careful not to be too hard on yourself or hold yourselves to unreasonable expectations. There is no way anyone can become a true expert in any subject or craft in this short time. I've read and graded hundreds of students' policy memos, and I am not expecting perfection on the first attempt. I expect a good first effort at doing something new and challenging, and I know you can all do that well. In the next iteration, I expect improvement, and I know you can do that as well.
+
+
 
 ## Policy Memo Template
 
@@ -69,7 +77,7 @@ RE: Policy Memo Template
 
 <mark> The rest is double-spaced (excluding references)  </mark>
 
-**Executive Summary:**  Your executive summary should be brief. It should state the problem, provide an overview of your memo's organization (e.g., the cause of the problem, options for addressing it, and goals/criteria you use to analyze these options), and summarize your recommendation.
+**Executive Summary:**  Your executive summary should be brief. It should state the problem, provide an overview of your memo's organization (e.g., the cause of the problem, options for addressing it, and goals/criteria you use to analyze these options), and summarize your recommendation. This should be done in **four to seven lines** of text, no more. 
 
 **Background Summary:**  Your background summary should provide a brief history and context of the problem addressed. It might include a few facts to lend a sense of the magnitude/scope of the problem if your audience is not aware, but it should also discuss what we know about relevant policy tools, especially from the social sciences (economics, sociology, political science, law, management studies, policy studies). Background summaries generally answer who, what, and when questions and provide facts on which there is general agreement. Inclusion criteria: Is it necessary for *this policymaker* to (1) understand the issue or (2) decide among the options? In a good policy memo, there is no room for evidence that is not essential to the ultimate analysis (even if it is super interesting!).
 
@@ -95,7 +103,7 @@ A single endnote may contain multiple references and any additional information 
 - Make sure the header is within one-inch margins
 - Use numeric endnotes, not roman numerals (they are easier to read and take up less space)
 - Single-space the header and endnotes, double-space the body text (i.e., everything else).
-- Indent paragraphs to set them apart 
+- Indent paragraphs to set them apart (except the first paragraph of each section)
 - You may use bold and/or underline to highlight the most important things
 - Write out citations (author, year, title, URL) in the endnotes
 
@@ -112,9 +120,9 @@ Second, all policymakers have **passions, priorities, and stakeholders** that af
 
 **3. This is not a campaign or talking points memo:** You are helping policymakers make policy, not write a speech. They want solid evidence from reputable (ideally peer-reviewed or government) sources. The goal is to help them make effective policy, not to accrue power. 
 
-Public policy is inexorably linked to questions of power. Other classes cover how power shifts. This class is about policy: "statements of what the government intends to do." Of course, policy emerges from politics, but it also involves evidence. Political debates define problems, goals, and agendas, but to achieve any goal through policy, evidence about the effects of different policy tools is indispensable. Evidence must come from a source that your audience will trust. Good evidence also ought to be convincing to reasonable opponents of one's policy goals. Your aim is to **win over the policy wonks**.
+Public policy is inexorably linked to questions of power. This memo is about policy: "statements of what the government intends to do." Of course, policy emerges from politics, but it also involves evidence. Political debates define problems, goals, and agendas, but to achieve any goal through policy, evidence about the effects of different policy tools is indispensable. Evidence must come from a source that your audience will trust. Good evidence also ought to be convincing to reasonable opponents of one's policy goals. Your aim is to **win over the policy wonks**.
 
-**4. How to distinguish background facts from issue analysis:** We might distinguish evidence about the state of the world (problems and conditions) from evidence about causes (see Bardach on causal models and Stone on causal stories). Both types of evidence are needed to assess options against your evaluative criteria (the real *policy* analysis that gets us from options to a recommendation). However, compared to background facts, *causal* analysis clearly places blame, i.e., explains why we still have this problem and why it has not been solved. Because a key part of the issue analysis is asserting who or what is responsible for the lack of action to solve the problem, stakeholder analysis generally belongs in the issue analysis section.
+**4. How to distinguish background facts from issue analysis:** We might distinguish evidence about the state of the world (problems and conditions) from evidence about causes (see Bardach and Patashnik on causal models and Stone on causal stories). Both types of evidence are needed to assess options against your evaluative criteria (the real *policy* analysis that gets us from options to a recommendation). However, compared to background facts, *causal* analysis clearly places blame, i.e., explains why we still have this problem and why it has not been solved. Because a key part of the issue analysis is asserting who or what is responsible for the lack of action to solve the problem, stakeholder analysis generally belongs in the issue analysis section.
 
 Another way to distinguish background evidence about the state of the world from arguments about its causes is to consider how opponents of your problem definition will think about it. Background facts are generally things that reasonable people can agree on, even if they disagree about their importance or implications. Issue analysis generally places the blame for a problem in ways that some stakeholders will find objectionable (although not always; sometimes we place blame on new or changing conditions to which stakeholders have yet to react, and thus, no one is yet to blame for this problem). 
 
@@ -230,7 +238,7 @@ From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.h
 
 The purpose of this memo is to guide your roundtable presentation ***and your responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation (I suggest you do). You can bring a script, but try not to read from it. Instead, use the talking points memo to keep you on track. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
 
-The job of a talking points memo is to prepare yourself, a boss, or a senior colleague for a meeting---in this case, a public hearing with policymakers who will ask questions. 
+Memos in this genre are what you will write to prepare yourself, a boss, or a senior colleague for a meeting---in this case, a public hearing with policymakers who will ask questions. 
 
 Your talking points must fit on <mark> one page </mark>. Please follow the formatting guidelines below, which is good practice because most policy institutions require adhering to similar standards.
 
