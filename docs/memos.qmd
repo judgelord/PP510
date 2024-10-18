@@ -70,7 +70,7 @@ The multiple memos you write for this class are exercises in practicing a craft.
 
 ## Policy Memo Template
 
-TO: 501 Students 
+TO: 501 Students   
 FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the version of the first policy memo you submit on Canvas.)</mark>.   
 DATE: September 1, 20XX.  
 RE: Policy Memo Template
@@ -79,18 +79,18 @@ RE: Policy Memo Template
 
 **Executive Summary:**  Your executive summary should be brief. It should state the problem, provide an overview of your memo's organization (e.g., the cause of the problem, options for addressing it, and goals/criteria you use to analyze these options), and summarize your recommendation. This should be done in **four to seven lines** of text, no more. 
 
-**Background Summary:**  Your background summary should provide a brief history and context of the problem addressed. It might include a few facts to lend a sense of the magnitude/scope of the problem if your audience is not aware, but it should also discuss what we know about relevant policy tools, especially from the social sciences (economics, sociology, political science, law, management studies, policy studies). Background summaries generally answer who, what, and when questions and provide facts on which there is general agreement. Inclusion criteria: Is it necessary for *this policymaker* to (1) understand the issue or (2) decide among the options? In a good policy memo, there is no room for evidence that is not essential to the ultimate analysis (even if it is super interesting!).
+**Background:**  Your background summary should provide a brief history and context of the problem addressed. It might include a few facts to lend a sense of the magnitude/scope of the problem if your audience is not aware, but it should also discuss what we know about relevant policy tools, especially from the social sciences (economics, sociology, political science, law, management studies, policy studies). Background summaries generally answer who, what, and when questions and provide facts on which there is general agreement. Inclusion criteria: Is it necessary for *this policymaker* to (1) understand the issue or (2) decide among the options? In a good policy memo, there is no room for evidence that is not essential to the ultimate analysis (even if it is super interesting!).
 
-**Issue Analysis:**  Your memo must include an analysis of the problem. This involves **how** and **why** questions that focus our attention on a cause that might be targeted by policy. Why do these problems exist? How did it come about? Why have policymakers not already addressed this problem? Why is it important to develop strategy and policy around this problem? This is where you tell a causal story about the problem and its politics. Implicitly, at least, this story allocates blame. Who are the stakeholders, and what positions have they taken? Who might be mobilized to block policy, and who who might mobilize to help? You don't need to cover *all* of the reasons that they exist, but your analysis should focus our attention on at least one very specific key cause of the problem that might be a target of policy intervention. This focuses us on stakeholders/politics that need to be addressed in the options and recommendations and should lead you to **criteria** by which to evaluate policy options. You may include charts, tables, bullet points – whatever most concisely lays out information about how the problem came to be (its causes) and the likely consequences of maintaining the status quo and of making change.
+**Issue & Stakeholder Analysis:**  Your memo must include an analysis of the problem. This involves  **why** questions that focus our attention on a cause that might be targeted by policy and the politics that might enable or limit policy options. Why do these problems exist? How did it come about? Why have policymakers not already addressed this problem? Why is it important to develop strategy and policy around this problem? This is where you tell a causal story about the problem and its politics. Implicitly, at least, this story allocates blame. Who are the stakeholders, and what positions have they taken? Who might be mobilized to block policy, and who who might mobilize to help? You don't need to cover *all* of the reasons that they exist, but your analysis should focus our attention on at least one very specific key cause of the problem that might be a target of policy intervention. This focuses us on stakeholders/politics that need to be addressed in the options and recommendations and should lead you to **criteria** by which to evaluate policy options. You may include charts, tables, bullet points – whatever most concisely lays out information about how the problem came to be (its causes) and the likely consequences of maintaining the status quo and of making change.
 
-**Options:**  In this section, briefly present the top policy options, along with a concise but **systematic discussion of pros and cons**, costs and benefits, or arguments and counterarguments for each. Systematic means that you compare options on all of the criteria (the things your issue analysis concludes are important). The more that your options are true *alternative* courses of action, the easier it will be to compare them systematically. The most useful comparisons present hard choices where the conclusion is not obvious (and thus requires policy analysis). Don't include ridiculous options or straw persons that are easily dismissed---these are not helpful. The options that you do not recommend should be the next best things the policymaker might do. Thus, the amount of detail for each should be roughly equal. 
+**Policy Options & Analysis:**  In this section, briefly present the top policy options, along with a concise but **systematic discussion of pros and cons**, costs and benefits, or arguments and counterarguments for each. Systematic means that you compare options on all of the criteria (the things your issue analysis concludes are important). The more that your options are true *alternative* courses of action, the easier it will be to compare them systematically. The most useful comparisons present hard choices where the conclusion is not obvious (and thus requires policy analysis). Don't include ridiculous options or straw persons that are easily dismissed---these are not helpful. The options that you do not recommend should be the next best things the policymaker might do. Thus, the amount of detail for each should be roughly equal. 
 
-- Number and name the options (e.g., "1. Revolving Loan Fund")
+- Number and name the options (e.g., "1. Revolving Loan Fund: ")
 - You may use bullets, charts, tables, or whatever format conveys viable options with an assessment of each
 
 **Recommendation:**  This is the heart of your memorandum. The recommendation should logically flow from the issue analysis and comparison of options. Explain why the option you recommend presents the best strategy. Be clear in discussing strategy implementation: Are you proposing a multi-step strategy/solution? Are there unknowns or contingencies that might arise in a way that may alter the course?  
 
-**Conclusion:**  Here is your one brief opportunity for rhetoric. A conclusion should not rehash what you've written. You might, in one sentence, summarize your recommendation and give it a sense of weight or urgency. This is your opportunity to leave your audience with some compelling impetus to act on the problem by adopting your strategy. Use the conclusion to catalyze your audience.
+**Conclusion:**  Here is your one brief opportunity for rhetoric. A conclusion should not rehash what you've written. You might, in one sentence, summarize your recommendation and give it a sense of weight or urgency. This is your opportunity to leave your audience with some compelling impetus to act on the problem by adopting your strategy. Use the conclusion to catalyze your audience. Good conclusions for memos this short are generally one or two sentences in two lines of text.
 
 **References and other endnotes** (e.g., "^[This is an endnote citing Judge-Lord, 202X, Policy Memo Template, https://judgelord.github.io/PP510/memos]"), which do not count toward the 4-page limit and should be single-spaced. ***References must include a URL wherever possible.*** Please try to link to stable public URLs. For journal articles, DOI URLs are best (e.g., https://doi.org/10.1177/1086026619858874). If you cannot find a DOI, then use some other stable repository like JSTOR or the publisher's web page (e.g., https://www.jstor.org/stable/j.ctt7t5st or https://journals.sagepub.com/doi/10.1177/1086026619858874).
 
@@ -172,7 +172,7 @@ Most memos can use less background on the problem and more background research o
 The best memos are usually the most narrowly focused (a narrowly focused problem definition also makes for easier research) and draw on academic studies of policies/programs implemented in other states. This has the advantage of synthesizing lessons learned (unlike information on another state’s website, academic research is written for an external audience like you) and provides an external analysis of the politics and challenges that may often be missing from reports from the people on the ground. 
 
 
-**Analysis**
+**Issue & Stakeholder Analysis**
 
 Major: There is little analysis of why this problem remains unsolved, only statements about the general causes or nature of the problem that the policymaker already knows and/or little discussion of stakeholders.
 
@@ -181,7 +181,7 @@ Minor: There is a discussion of stakeholders and a focus on specific causes of t
 Almost every memo I read needs to focus more on *why* we are in this situation. Why do these problems exist? You don't need to cover *all* of the reasons that they exist, but your analysis should focus our attention on at least one very specific key cause of the problem that might be a target of policy intervention. Why have policymakers not already addressed this problem? This focuses us on stakeholders/politics that need to be addressed in the options and recommendations. 
  
 
-**Options**
+**Policy Options and Analysis**
 
 Major: Options are vague, and/or pros and cons are not robustly addressed.
 
@@ -196,6 +196,13 @@ Ask yourself: Are these alternative paths to address the problem that I am focus
 Major: It is unclear why you chose the option you chose.
 
 Minor: It is clear why you chose the option you chose, but more details are needed on implementation. 
+
+**Conclusion**
+
+Major: The conclusion is way too long and/or repeats what is above. 
+
+Major: The conclusion is slightly too long and/or repeats what is above. 
+
 
 ---
 
