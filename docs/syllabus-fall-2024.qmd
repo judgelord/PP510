@@ -344,7 +344,7 @@ In addition to attending class, we will continue the conversation by discussing 
 
 <!--exclude: true--> 
 
-- Weeks 8-15: Choose one of the above options. Early posts set the agenda!
+- Weeks 8-15:  **Ask a question:** Post a response and question **from the readings** ( 100-150 words). 
 
 ---
 
@@ -772,7 +772,7 @@ Thursday:
 
 Recommended Research: 
 
-- [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
+- [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter <!--TODO MAKE REQUIRED NEXT TIME--> 
 
 Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
 
@@ -806,11 +806,13 @@ Carpenter reviews research on the power of being able to set the agenda for poli
 
 ### Tuesday: 
 
+> Context: [Mansbridge, "Clarifying the Concept of Representation." *American Political Science Review*, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+
 > Research: SKIM: [Seifter. 2016. "Second-Order Participation in Administrative Law." *UCLA Law Review* 63](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662504)
 
 > Listen: Citizens’ Initiative [SSN 117: The Citizen Expert-John Gastil](https://scholars.org/podcast/citizen-expert)
 
-> Context: [Mansbridge, "Clarifying the Concept of Representation." *American Political Science Review*, Volume 105, Issue 3, August 2011, pp. 621 -630](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/clarifying-the-concept-of-representation/8FCAB056D1AA61DAE84D64D409755C12)
+
 
 ### Thursday: Rights and powers
 
