@@ -428,7 +428,6 @@ See numerical Strategies in Problem Definition (p. 203)
 
 (Or, to *feel* the causes of things?)
 
----
 
 ## Issue analysis
 
@@ -440,7 +439,6 @@ Like numbers, causes highlight some aspects of a problem and ignore others. Caus
 
 > We look for causes not only to understand how the world works but to *assign responsibility* for problems. - Stone, p. 206
 
----
 
 <!--
 
