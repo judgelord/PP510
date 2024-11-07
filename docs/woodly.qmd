@@ -38,6 +38,7 @@ format:
 
 > [An] indispensable resource for political challengers (Woodly, p. 1)
 
+
 ## Politics 
 
 > the principles and policy that are at stake in the struggle over who shall govern and how.
@@ -45,6 +46,10 @@ format:
 . . . 
 
 > The activity through which relatively large and permanent groups of people determine what they will collectively do, settle how they will live together, and decide their future” (Pitkin 1981, 343).
+
+
+## {background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Overton_Window_diagram.svg/330px-Overton_Window_diagram.svg.png" background-size="contain"}
+
 
 ## Methodological individualism
 
@@ -83,6 +88,8 @@ Discourse as a mechanism of
 ## Emergence 
 
 > [A] concern *emerges* from a marginal community into the mainstream occurs when the press, officials, and other elites take notice.
+
+. . . 
 
 However,  
 
@@ -124,11 +131,11 @@ It is not the same as political agreement or acceptance of a policy position.
 
 ## How public meaning affects behavior: 
 
-(1) New public meanings make new possibilities
+(1) New public meanings make `new possibilities`
 
 > Public speech has power because it can bring new understandings into being, and new understandings precipitate new possibilities for political action.
 
-(2) People care about how others will interpret their choices
+(2) People care about `how others will interpret` their actions
 
 > People's choices and actions [are] always enabled and constrained by what they understand those choices to signify to others (p. 23)
 
