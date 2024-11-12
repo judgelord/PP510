@@ -27,7 +27,7 @@ format:
 
 - "Object of government" = Policy goals 
 
-- "The means by which that object can be attained" = policy instruments.
+- "The means by which that object can be attained" = policy instruments
 
 . . . 
 
@@ -43,7 +43,7 @@ Stone groups policy instruments into incentives, rules, information and persuasi
 
 . . . 
 
-*I'd add that, to the extent we make policy to bind our future selves, we are also committing ourselves to choose actions we would desire.
+*I'd add that, to the extent we make policy to bind our future selves, we also commit ourselves to choose actions we desire.
 
 . . . 
 
@@ -156,7 +156,7 @@ Focusing events inspire big promises.
 - Cuyahoga River fire$\rightarrow$Clean Water Act
 - 9/11$\rightarrow$Patriot act, Dept. of Homeland Security
 - Great Recession$\rightarrow$Dodd-Frank
-- COVID$\rightarrow$. . . 
+- COVID$\rightarrow$ CARES Act and American Rescue Plan (~40 x annual spend of the IRA)
 
 <!-- That kind of event never happens again 
 
@@ -177,11 +177,10 @@ These are often dominated by passions rather than science -->
 
 In making rules, **delegation** is the most important. Is the delegation of authority broad or narrow? How ambiguous is the authority? To whom is the authority delegated? Is that ambiguous? How are they likely to use this discretion? 
 
----
 
 ## Precise vs. vague rules
 
-## Precise rules$\rightarrow$no discretion
+## Precise rules $\rightarrow$ no discretion
 
 - aim to make **bright lines**, avoid ambiguity
 - treat like things alike
@@ -197,9 +196,9 @@ In making rules, **delegation** is the most important. Is the delegation of auth
 
 What is the most precise rule you can think of? Now, can you think of cases where it would be ambiguous or clearly undermine the intent? 
 
-. . . 
 
-## Vague rules$\rightarrow$discretion
+
+## Vague rules $\rightarrow$ discretion
 
 - allow sensitivity to context and individual differences 
 - allow officials to respond creatively to new situations
@@ -295,7 +294,7 @@ Is AI good or bad for law enforcement? (see the ["risk score" sentencing debate]
 
 We might also ask: What is the **public interest**? Who is innocent? What does it mean to uphold? 
 
-[Algobias](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/) (bias in automated rules) is rarely conspiratorial; it is almost always rooted in how it is programmed to calculate the public interest, estimate future guilt or innocence, and uphold existing social inequities. 
+[Algobias](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/) (bias in automated rules) is rarely conspiratorial; it is almost always rooted in how a decision tool is programmed to calculate the public interest, estimate future guilt or innocence, and mimic past decisions (which ends up reproducing inequities). 
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Darnell Gates complained that conversations with his probation officers were cold and impersonal. He didn’t realize that an algorithm had tagged him high risk until he was told about it during an interview with The New York Times. <a href="https://t.co/llxhOv8lv2">https://t.co/llxhOv8lv2</a></p>&mdash; NYT Business (@nytimesbusiness) <a href="https://twitter.com/nytimesbusiness/status/1226612773783818241?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -361,7 +360,7 @@ Does who said it affect whether you find it persuasive?
 
 
 <!--
-> C: "The laws of property have made property of things which never ought to be property, and absolute property where only a qualified property ought to exist. They have not held the balance fairly between human beings, but have heaped impediments upon some, to give advantage to others; they have purposely fostered inequalities, and prevented all from starting fair in the race." *- Friedrich Engels, German philosopher and co-author of The Communist Manifesto*
+> C: "The laws of property have made property of things which never ought to be property, and absolute property where only a qualified property ought to exist. They have not held the balance fairly between human beings but have heaped impediments upon some to give advantage to others; they have purposely fostered inequalities and prevented all from starting fair in the race." *- Friedrich Engels, German philosopher and co-author of The Communist Manifesto*
 --> 
 
 
@@ -574,7 +573,7 @@ It is that definition, that classification that made all the difference in wheth
 <!--
 unofficial categories and policy outcomes https://twitter.com/nberpubs/status/1203018769259474945
 
-It is that definition, that classification that made all the difference in whether he had rights.
+It is that definition, that classification, that made all the difference in whether he had rights.
 
 
 TO ADD: TORTS, "REASONABLE MAN RADIOLAB-->
@@ -678,7 +677,7 @@ But in Germany, the label 'terrorism' does not affect the policy response. With 
 
 ---
 
-Because of the importance of the label in the US, it becomes a subject of political conflict. For example, the FBI created a new label ("black identity extreamists"), presumably in an attempt to label racial justice protesters as terrorists. 
+Because of the importance of the label in the US, it becomes a subject of political conflict. For example, the FBI created a new label ("black identity extremists"), presumably in an attempt to label racial justice protesters as terrorists. 
 
 ![](figs/terrorists-bim.png) 
 
