@@ -4,6 +4,7 @@ author: "Weimer and Vining"
 format: 
   revealjs:
       incremental: true  
+      scrollable: true
       theme: [default, michigan.scss]
       footer:  Policy Analysis by David L. Weimer and Aidan R. Vining
       fontsize: "40px"
@@ -120,18 +121,18 @@ Effective communication
 
 ## What is the MPP's professional aim? 
 
-What does this mean for the MPP's role in politics?
 
 - Librarian -> Information
 - Law -> Justice
 - Medicine -> Health
 - Journalism -> Truth
-- Business -> Value
-- Social work -> Well-being
 - Divinity -> Ministry
+- Social work -> Well-being
+- Business -> Value
 - Public Policy -> ?
-- Policy Analysis -> ?
-- Public administration -> ?
+- Public Administration -> ?
+
+What does this mean for the MPP's role in politics?
 
 
 ## Idealized roles in politics 
@@ -140,7 +141,33 @@ What does this mean for the MPP's role in politics?
 - The Client's Advocate
 - The Issue Advocate 
 
+
+## Technicians
+
+![](https://www.cbo.gov/sites/default/files/2020-01/56053-Major-Proposals-Process_0.png)
+
+
+
+## Further reading
+
+
+
+- [VOX: Republicans have chosen a new CBO director. Here's how he'll make it easier to cut taxes](https://www.vox.com/2014/12/7/7315961/dynamic-scoring-tax-reform) Yglesias, 2015
+- [Heritage Foundation: CBO Should Update Its Methodology Before Dynamically Scoring Spending Bills](https://www.heritage.org/budget-and-spending/report/cbo-should-update-its-methodology-dynamically-scoring-spending-bills), 2015
+
+- [CATO: Dynamic Scoring in Congress](https://www.cato.org/blog/dynamic-scoring-congress) Kaeding, 2015
+
+- [VOX: Dynamic scoring is a good idea with big problems ](https://www.vox.com/2015/3/2/8130543/dynamic-scoring-problems), 2015
+
+- [National Review: Cornyn Asks for CBO Score of Build Back Better without Gimmicks](https://www.nationalreview.com/corner/cornyn-asks-for-cbo-score-of-build-back-better-without-gimmicks/)  Pino, 2024
+
+- [A serious case for dynamic scoring](https://www.hks.harvard.edu/more/about/leadership-administration/deans-office/deans-remarks/serious-case-dynamic-scoring) Yglesias, 2023
+ 
+- [The Economist: Fiscal nerds determine the fate of legislation in America A battle under way to remake budget scoring](https://www.economist.com/united-states/2024/05/30/fiscal-nerds-determine-the-fate-of-legislation-in-america), 2024
+
+
 ## {#technician data-menu-title="Technician" background-image="https://www.heritage.org/sites/default/files/inline-images/BG-inflation-reduction-act-chart-page1.gif" background-size="contain"}
+
 
 ## {#issue-advocate data-menu-title="Issue advocate" background-image="https://pbs.twimg.com/media/F7MqgI3XcAAOz12?format=jpg&name=large" background-size="contain"}
 
