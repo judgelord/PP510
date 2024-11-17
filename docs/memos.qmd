@@ -60,6 +60,8 @@ Issue 3
 
 In preparing your memo, consider your reader. What does the reader already know? What does your reader need to know to understand your analysis and recommendation? Because policy memoranda are brief--no more than a few pages---avoid restating the obvious or discussing at any length that is well known or well understood by your reader. Your job is not to tell the reader everything that you know on the issue; it is to tell the reader **what they need to know to make a policy decision**.  
 
+<mark>I will announce the policymakers you are to address in class and on Canvas.</mark> Please ask me if you are uncertain who you are assigned to address. 
+
 These policy memos involve two kinds of analysis: (1) **issue analysis** that identifies the key policy problem and its causes (identifying the causes of a problem and why it has not already been solved generally includes a political/stakeholder analysis) (2) **policy analysis** comparing policy options on criteria suggested by your issue analysis.  
 
 Memos in this genre are what you will be asked to write if you work for a policymaker, agency, think tank, or advocacy group and your boss asks you to develop and compare policy options. 
@@ -75,7 +77,7 @@ FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the versi
 DATE: September 1, 20XX.  
 RE: Policy Memo Template
 
-<mark> The rest is double-spaced (excluding references)  </mark>
+<mark> The rest is double-spaced (excluding endnotes/references)  </mark>
 
 **Executive Summary:**  Your executive summary should be brief. It should state the problem, provide an overview of your memo's organization (e.g., the cause of the problem, options for addressing it, and goals/criteria you use to analyze these options), and summarize your recommendation. This should be done in **four to seven lines** of text, no more. 
 
@@ -124,9 +126,13 @@ Public policy is inexorably linked to questions of power. This memo is about pol
 
 **4. How to distinguish background facts from issue analysis:** We might distinguish evidence about the state of the world (problems and conditions) from evidence about causes (see Bardach and Patashnik on causal models and Stone on causal stories). Both types of evidence are needed to assess options against your evaluative criteria (the real *policy* analysis that gets us from options to a recommendation). However, compared to background facts, *causal* analysis clearly places blame, i.e., explains why we still have this problem and why it has not been solved. Because a key part of the issue analysis is asserting who or what is responsible for the lack of action to solve the problem, stakeholder analysis generally belongs in the issue analysis section.
 
-Another way to distinguish background evidence about the state of the world from arguments about its causes is to consider how opponents of your problem definition will think about it. Background facts are generally things that reasonable people can agree on, even if they disagree about their importance or implications. Issue analysis generally places the blame for a problem in ways that some stakeholders will find objectionable (although not always; sometimes we place blame on new or changing conditions to which stakeholders have yet to react, and thus, no one is yet to blame for this problem). 
+Another way to distinguish background evidence about the state of the world from arguments about its causes is to consider how opponents of your problem definition will think about it. Background facts are generally things that reasonable people can agree on, even if they disagree about their importance or implications. Issue analysis generally places the blame for a problem in ways that some stakeholders will find objectionable (although not always; sometimes, we place blame on new or changing conditions to which stakeholders have yet to react, and thus, no one is yet to blame for this problem). 
 
-**5. Implementation options as options vs. part of a recommendation:** There are multiple ways to implement a policy proposal. If you take a broader policy direction as given, questions about implementation can be *options* to analyze (e.g., "What is the best source of funding for this policy?" or "Should we start with a pilot/demonstration project?" or "on what timeline should we roll this program out"). In this case, your entire memo is just about one aspect of the implementation of a policy direction that you have good reason to believe that the policymaker wants to (or is planning to) implement. 
+**5. Avoid solution-oriented thinking.** Instead, allow your issue analysis to point to **option_s_** and focus on the hard tradeoffs. Our instincts are to focus on the solutions, that thing that sounds like a great idea. Such a focus leads to "reverse-engineered" memos where the issue analysis is weak and focused on the merits of the ultimate recommendation rather than the difficulties and tradeoffs. It also leads to weak alternative options that add little value because it is clear you intend to reject them. This is not helpful. 
+
+Instead, follow the logic of the memo. First, analyze the issue. Come up with options that address the key causes and stakeholder considerations identified by your issue analysis. Don't get attached to any of these options; remain skeptical of all of them and make each the best option it can be. Then, allow your systematic analysis of each option on each criterion to clarify the tradeoffs. Clarifying tradeoffs is much more valuable than selling a particular recommendation. Finally, recommend a particular way to think about making the tradeoffs. The most helpful memos with solid alternative options will offer a helpful way of thinking through tradeoffs that is not obvious.  
+
+**6. Implementation options as options vs. part of a recommendation:** There are multiple ways to implement a policy proposal. If you take a broader policy direction as given, questions about implementation can be *options* to analyze (e.g., "What is the best source of funding for this policy?" or "Should we start with a pilot/demonstration project?" or "on what timeline should we roll this program out"). In this case, your entire memo is just about one aspect of the implementation of a policy direction that you have good reason to believe that the policymaker wants to (or is planning to) implement. 
 
 Alternatively, implementation questions might be addressed in a less analytic way in the *recommendation section* of a memo, where the analysis section focuses on comparing broader policy options. Here, the heart of your analysis is about choosing which policy direction to take, and your advice on implementation is more about suggesting ways to do the thing your analysis recommends. You might suggest that they start with a pilot program, utilize a certain source of funding, or roll out the program on a certain timeline as advice that is more about suggesting helpful ideas than systematically analyzing the pros and cons of this or that implementation strategy. 
 
@@ -134,7 +140,7 @@ Either type of memo is fine. Which is better largely depends on where the policy
 
 Either way, you will want to think carefully about which details belong in the presentation of options versus the recommendation section. Details--including implementation details--belong in the options section is they matter for deciding among the options. Otherwise, they generally fit better as elaborations on the recommendation. 
 
-**6. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian,
+**7. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian,
 [Shevon Desai](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy).
 The [writing center](https://fordschool.umich.edu/writing-center) can help you better communicate your points (writing can always be clearer). Free spelling and grammar checkers like [Grammarly](https://app.grammarly.com/) can help you avoid silly mistakes that can make your writing hard for others to read.
 
@@ -225,7 +231,7 @@ Please let me know if you have any questions. Giving helpful critiques is a nuan
 From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.html): 
 
 - Before you even make your first comment, read the document all the way through.
-- Make sure you leave enough time for you to read through, respond, and for your peer to edit his/her document with your comments before any deadlines.
+- Make sure you leave enough time for you to read through and respond and for your peer to edit their document with your comments before any deadlines.
 - If you are provided with a feedback form to fill out and something is unclear, do not ignore the item but ask the instructor for clarification.
 - Point out the strengths as well as the weaknesses of the document.
 - Offer suggestions, not commands.
@@ -243,7 +249,7 @@ From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.h
 
 ## Talking Points Memo Instructions
 
-The purpose of this memo is to guide your roundtable presentation ***and your responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation (I suggest you do). You can bring a script, but try not to read from it. Instead, use the talking points memo to keep you on track. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
+The purpose of this memo is to guide your roundtable presentation ***and your responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation (I suggest you do). You can bring a script but try not to read from it. Instead, use the talking points memo to keep you on track. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
 
 Memos in this genre are what you will write to prepare yourself, a boss, or a senior colleague for a meeting---in this case, a public hearing with policymakers who will ask questions. 
 
@@ -275,7 +281,7 @@ This is an approximate outline; your needs may vary.
 
 - [Analysis, i.e., why policies will fail and/or why we have failed to make adequate policy]
 
-- Thus, we need policy that [criteria].
+- Thus, we need a policy that [criteria].
 
 I investigated [3] policy options, [Option 1], [Option 2], [Option 3] (You don't need to review all of the options in your policy memo. Do so only if you think it adds value.)
 
