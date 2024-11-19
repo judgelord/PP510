@@ -72,10 +72,10 @@ The multiple memos you write for this class are exercises in practicing a craft.
 
 ## Policy Memo Template
 
-TO: 501 Students   
-FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the version of the first policy memo you submit on Canvas.)</mark>.   
+TO: 501 Students <mark>(I will give you a current public official to address in each memo)</mark>   
+FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the first policy memo you submit on Canvas.)</mark>.   
 DATE: September 1, 20XX.  
-RE: Policy Memo Template
+RE: Policy Memo Template (A one-line summary of the memo)
 
 <mark> The rest is double-spaced (excluding endnotes/references)  </mark>
 

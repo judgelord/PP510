@@ -8,7 +8,7 @@
 <link href="seifter_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="seifter_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="seifter_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.433">
+  <meta name="generator" content="quarto-1.5.57">
 
   <meta name="author" content="Miriam Seifter">
   <title>Second-Order Participation in Administrative Law</title>
@@ -156,7 +156,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -336,6 +337,9 @@ Miriam Seifter
 </div>
 
 </section>
+<section id="section" class="slide level2" data-background-image="https://i0.wp.com/jocoreport.com/wp-content/uploads/2023/04/Riouzer-Farm-Bill-Meeting-04-25-23-2C.jpg">
+<h2></h2>
+</section>
 <section id="administrative-law" class="slide level2">
 <h2>Administrative Law</h2>
 <p>Policy that governs agencies</p>
@@ -381,11 +385,6 @@ Miriam Seifter
 <p>*Descriptive and normative claims, both more aligned with pluralism than elite theories</p>
 </div>
 </section>
-<section id="section" class="slide level2">
-<h2></h2>
-<iframe width="1000" height="1000" src="https://putnamdoc.com/#trailer" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe>
-</section>
 <section>
 <section id="second-order-participation" class="title-slide slide level1 center">
 <h1>Second-order participation</h1>
@@ -400,6 +399,11 @@ Miriam Seifter
 <div class="fragment">
 <p>Thus, a close study of interest groups is essential to understanding or reforming public participation processes.</p>
 </div>
+</section>
+<section id="section-1" class="slide level2">
+<h2></h2>
+<iframe width="1200" height="1200" src="https://putnamdoc.com/#trailer" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
 </section></section>
 <section>
 <section id="i.-the-intersection-of-first--and-second-order-participation" class="title-slide slide level1 center">
@@ -408,6 +412,7 @@ Miriam Seifter
 </section>
 <section id="the-intersection" class="slide level2">
 <h2>The intersection</h2>
+<p>Public participation</p>
 <ul>
 <li class="fragment">fosters democracy
 <ul>
@@ -441,7 +446,7 @@ Miriam Seifter
 <p>*Seifter does not consider individual companies to be interest groups, but I think her argument applies just as well to them</p>
 </div>
 </section>
-<section id="section-1" class="slide level2" data-fullscreen="true">
+<section id="section-2" class="slide level2" data-fullscreen="true">
 <h2></h2>
 
 <img data-src="https://gray-kmov-prod.cdn.arcpublishing.com/resizer/gPHs-pZsLLzSbqSyEOnpIiFbKp8=/1920x1080/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ODY2Z77K7FHINFCC5WANHR5TNI.jpg" class="r-stretch"></section>
@@ -482,7 +487,7 @@ Miriam Seifter
 <p>The claim to speak for a constituency—sometimes a numerous or powerful constituency—is often an interest group’s strongest currency. (1333)</p>
 </blockquote>
 </section>
-<section id="section-2" class="slide level2" data-background-image="https://www.desmog.com/wp-content/uploads/files/EPA_Map_Chamber_Commerce.jpg" data-background-size="contain">
+<section id="section-3" class="slide level2" data-background-image="https://www.desmog.com/wp-content/uploads/files/EPA_Map_Chamber_Commerce.jpg" data-background-size="contain">
 <h2></h2>
 </section>
 <section id="varieties-of-second-order-participation" class="slide level2">
@@ -533,8 +538,20 @@ Miriam Seifter
 <li class="fragment">Requirements and disclosures might reform interest group behavior</li>
 <li class="fragment">What else might we do?</li>
 </ul>
+</section>
+<section id="questions" class="slide level2">
+<h2>Questions</h2>
+<blockquote>
+<p>Are there examples of past governments that have successfully constructed policies to ensure that second-order participation enhances democratic accountability without being dominated by elite or institutional interests? Did the underrepresented constituents feel satisfied with the outcome? - Paulina</p>
+</blockquote>
+<ul>
+<li class="fragment">Union democracy rules</li>
+<li class="fragment">Debates over advisory council member appointments</li>
+</ul>
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section></section>
     </div>
@@ -563,7 +580,6 @@ Miriam Seifter
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -780,18 +796,7 @@ Miriam Seifter
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -823,11 +828,50 @@ Miriam Seifter
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
-      function tippyHover(el, contentFn) {
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -837,8 +881,17 @@ Miriam Seifter
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
@@ -852,7 +905,11 @@ Miriam Seifter
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {
