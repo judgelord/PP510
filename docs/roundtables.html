@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
   </ul>
 </nav>
 </div>
-<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
 </div>
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -128,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Practice makes perfect. Write out a script for your opening statement (or bullet points for it) and practice in front of a roommate, a friend, or the mirror. You can even record a video of yourself and watch it to see if you like the delivery. Practicing will help you sound and feel more confident during your roundtable!</p></li>
 <li><p>Time yourself when you’re practicing, to make sure you’re right around the 3:00 mark. You won’t lose points if you’re a few seconds away from 3 minutes (in either direction), but you will lose points if you’re a full minute off.</p></li>
 <li><p>Speak slowly and clearly. Don’t be afraid to include pauses for emphasis or to give your audience time to process what you’ve just said. A pause will feel way longer to you than it will feel to your audience. Remember this is likely the first time that your audience (except Devin and me) have heard anything about what you’re talking about! They are completely new to the topic. So don’t rush it.</p></li>
-<li><p>Dress the part. Wearing nicer clothes will help you feel more confident and will help you be taken more seriously by our invited guests (and your classmates!).</p></li>
+<li><p>Dress the part. Wearing nicer clothes will help you feel more confident and will help you be taken more seriously.</p></li>
 <li><p>Take a deep breath. Public speaking is the most common fear in the United States, because it’s a hard thing to do! But remember this is all about learning! Showing up is the first step, and giving it your best is all that you can do after that. You’re going to be great! And then you’ll be even greater the next time you have to make a presentation! Everyone in the room will be rooting for your success, and we’re excited to hear you share your knowledge. We are all here learning from each other.</p></li>
 </ol>
 </section>
@@ -170,18 +170,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -213,7 +202,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -221,7 +232,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
