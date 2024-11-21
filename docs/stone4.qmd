@@ -297,7 +297,7 @@ We might also ask: What is the **public interest**? Who is innocent? What does i
 [Algobias](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/) (bias in automated rules) is rarely conspiratorial; it is almost always rooted in how a decision tool is programmed to calculate the public interest, estimate future guilt or innocence, and mimic past decisions (which ends up reproducing inequities). 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Darnell Gates complained that conversations with his probation officers were cold and impersonal. He didn’t realize that an algorithm had tagged him high risk until he was told about it during an interview with The New York Times. <a href="https://t.co/llxhOv8lv2">https://t.co/llxhOv8lv2</a></p>&mdash; NYT Business (@nytimesbusiness) <a href="https://twitter.com/nytimesbusiness/status/1226612773783818241?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Darnell Gates complained that conversations with his probation officers were cold and impersonal. He didn’t realize that an algorithm had tagged him as high-risk until he was told about it during an interview with The New York Times. <a href="https://t.co/llxhOv8lv2">https://t.co/llxhOv8lv2</a></p>&mdash; NYT Business (@nytimesbusiness) <a href="https://twitter.com/nytimesbusiness/status/1226612773783818241?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -441,10 +441,10 @@ has lasting effects ([Grimmer and Yoder](https://cpb-us-w2.wpmucdn.com/web.sas.u
 
 ## How we decide
 
-### Logics of consequences: "What is the optimal action given the costs and benefits?"
+### `Logics of consequences:` "What is the optimal action given the costs and benefits?"
 
 
-### Logics of appropriateness: "What does someone like me do in this context?"
+### `Logics of appropriateness:` "What does someone like me do in this context?"
 
 -- March and Olson *Rediscovering Institutions*
 
@@ -482,7 +482,7 @@ The Supreme Court held that even though Lockean principles of property rights wo
 
 See Carol Rose, "Possession as the Origin of Property" in [*Property and Persuasion, Essays on the History, Theory, and Rhetoric of Ownership*](https://www.law.yale.edu/sites/default/files/documents/pdf/Faculty/propertypersuasion.pdf)
 
-*Johnson v. M’Intosh* was also discussed in the [Ted Talk from last week on Indian Law](https://judgelord.github.io/PS272/stone3.html#policymakers_use_ambiguity_to_do_two_things_at_once).
+*Johnson v. M’Intosh* was also discussed in this [Ted Talk on Indian Law](https://judgelord.github.io/PS272/stone3.html#policymakers_use_ambiguity_to_do_two_things_at_once).
 
 <!-- Contradictions between principles and policies in the US Constitution do not necessarily undermine the legitimacy of the Constitution, but they do suggest that we see it as a policy document, not a religious text. Indeed, this is where all of the amendments come from. This is how Brown v Board of Education overruled Plessey vs. Ferguson. If you go to law school, con law will teach you what the law says, but this class is about how it can change. --> 
 
@@ -548,9 +548,9 @@ Normative rights claims often provide the moral and, thus, a political force to 
 
 ## Limits to rights 
 
-> Right generally don't work as the magic wand portrayed in the myth of rights. Court decisions do not produce social change overnight. But when seen in the wider sense of rights discourse as well as litigation, rights can be transformative. - Stone, page 348
+> Rights generally don't work as the magic wand portrayed in the myth of rights. Court decisions do not produce social change overnight. But when seen in the wider sense of rights discourse as well as litigation, rights can be transformative. - Stone, page 348
 
-> *Brown* changed the moral climate of race and politics in the United States. It could do that, according to Paul Finkelman, because it wasn't a direct assault on the distribution of political and economic power, as a decision about voting rights would have been. - Stone, page 349
+> *Brown* changed the moral climate of race and politics in the United States. It could do that, according to Paul Finkelman, because it wasn't a direct assault on the distribution of political and economic power as a decision about voting rights would have been. - Stone, page 349
 
 
 ## Test cases
@@ -633,7 +633,7 @@ However, I also have a **negative right** to not have my well contaminated (but 
 
 ## Rights must be backed up by the threat of force
 
-> Finally, in order for rights to work as a policy instrument, there must be an **enforcement mechanism**. With incentives and rules, the primary responsibility for monitoring behavior lies with the government (or rulemaker). In practice, law enforcement and regulatory agencies rely heavily on citizen complaints to obtain information about rule violations, but we would consider a police department remiss if it did nothing to stop crime other than answer the telephone. With rights, by contrast, the primary responsibility for monitoring lies with the right-holders. The model of rights assumes that any violations will be discovered by right-holders themselves, as they are harmed. Stone, page 338
+> Finally, in order for rights to work as a policy instrument, there must be an **enforcement mechanism**. With incentives and rules, the primary responsibility for monitoring behavior lies with the government (or rulemaker). In practice, law enforcement and regulatory agencies rely heavily on citizen complaints to obtain information about rule violations, but we would consider a police department remiss if it did nothing to stop crime other than answer the telephone. With rights, by contrast, the primary responsibility for monitoring lies with the right-holders. The model of rights assumes that any violations will be discovered by right-holders themselves as they are harmed. Stone, page 338
 
 
 <!-- picture of James Meredith walking into school -->
@@ -842,6 +842,30 @@ Losing interests will try to change the policy process.
 
  - "Venue shopping" (Baumgartner and Jones, *Agendas and Instability*)
  - "Conflict expansion" (E.E. Schattschneider, *The Semi-sovereign People*)
+
+
+## {background-image="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_End_Book.png" background-size="contain" background-opacity=".1}
+
+:::: {.columns}
+
+::: {.column width="15%"}
+:::
+
+::: {.column width="40%"}
+Course wrap-up & reflection
+
+- How has your understanding of the politics of policymaking changed since the start of the semester?
+- Which reading stands out to us most and why?
+- What connections do you see between the memos/roundtables and the readings?
+
+
+:::
+
+::: {.column width="40%"}
+:::
+
+::::
+
 
 
 ---
