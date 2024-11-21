@@ -441,6 +441,7 @@ has lasting effects ([Grimmer and Yoder](https://cpb-us-w2.wpmucdn.com/web.sas.u
 
 ## How we decide
 
+
 ### `Logics of consequences:` "What is the optimal action given the costs and benefits?"
 
 
@@ -622,13 +623,19 @@ My neighbor's pig farm (with 1000 juvenile pigs) does not qualify:
 <!--background-image: url(figs/runnoff.jpeg)
 background-size: cover-->
 
-Thus, the dairy required a permit for its waste and qualified for a subsidy program to generate electricity from methane. Cool! The pig farm did not require a permit, so the pig manure flows through my backyard. One spring, it seeped into our well and came out of our showerhead one morning. Less cool! 
+Thus, the dairy required a permit for its waste and qualified for a subsidy program to generate electricity from methane. Cool! The pig farm did not require a permit, so the pig manure flows through my backyard. <!--One spring, it seeped into our well and came out of our showerhead one morning. Less cool! --> 
 
 ![](figs/runnoff.jpeg)
 
 ---
 
-However, I also have a **negative right** to not have my well contaminated (but only if it is very clear who is at fault). In this case, it was clear who was at fault, but instead of complaining to the DNR or suing our neighbor (available **grievance processes**), we worked out a neighborly hand-shake agreement where he paid for a new well. Rights often work like this---instead of people constantly going to court, the existence of the right leads to conforming behavior. 
+However, I also have a **negative right** to not have my well contaminated (but only if it is very clear who is at fault). 
+
+. . . 
+
+In this case, it was clear who was at fault, but instead of complaining to the DNR or suing our neighbor (available **grievance processes**), we worked out a neighborly hand-shake agreement where he paid for a new well. 
+
+Rights often work like this---instead of people constantly going to court, the existence of the right leads to conforming behavior. 
 
 
 ## Rights must be backed up by the threat of force
@@ -681,7 +688,7 @@ Because of the importance of the label in the US, it becomes a subject of politi
 
 ![](figs/terrorists-bim.png) 
 
----
+<!--
 
 US State Department designated a Russian White supremacist organization as a terrorist group. However, Meier is skeptical that this represents a significant policy change: 
 
@@ -851,12 +858,12 @@ Losing interests will try to change the policy process.
 ::: {.column width="15%"}
 :::
 
-::: {.column width="40%"}
-Course wrap-up & reflection
+::: {.column width="36%"}
+Reflection
 
-- How has your understanding of the politics of policymaking changed since the start of the semester?
-- Which reading stands out to us most and why?
-- What connections do you see between the memos/roundtables and the readings?
+- How has your understanding of the politics of policymaking changed this semester?
+- Which reading stands out to you most and why?
+- What connections do you see between the memos and the readings?
 
 
 :::
