@@ -20,8 +20,71 @@ format:
 
 ## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
 
-8:35 
+8:35 Community Solar
 
-9:15: Break
 
-9:20 
+Educational Outreach by MPSC – Enabling Funding in SB 152 and 153 - Carly Colen
+
+
+Ensure Community Solar Success through Utility-Consolidated Billing - Megan Connors
+
+Oversight of MPSC Penalties for Electric Companies
+- Amaya Fox
+
+9:00: Break
+
+9:10 Environmental Justice
+
+Overcoming Split Incentives through Rental Energy Efficiency Standards
+												- Txai Sibley
+
+Improved Accessibility of EJIG Program for Tribes
+- Jalen Greene
+
+Improved Environmental Justice Criteria for the UCRF
+											-    Luke Dillingham
+
+Reducing the Cost of Home Temperature Control - Vincent Pinti
+
+
+# Informational Hearings on Energy in Michigan {background-opacity="0.5" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+
+Day 2:  State and Local Energy Siting Process Reforms
+
+
+
+## {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+
+**8:35 State and Local Energy Siting Process Reforms**
+
+[Energy Storage Regulation ]()
+- Ann Wilkinson
+
+[A Pre-application Intervenor Fund for Solar Projects]()
+- Hiro Ohata
+
+[Farmland Preservation while Building Solar]()
+- Rachel Barra
+
+[A Resolution Process for Disputed CREOs]()
+- Kate Lyons
+
+[9:10-9:15 break]
+
+[Empowering Local Renewable Energy Siting]()
+- Chen Lyu
+
+[Stormwater Assessment for Solar]() 
+- Georquel  “Gee” Goodwin
+
+
+[Addressing Energy Shortages from Renewables]()
+- Bill Caroll 
+
+
+[Public Engagement in MPSC Siting Processes]()
+- Paulina Trujillo
+
+
+
+
