@@ -201,8 +201,9 @@ Two texts are required. **Any edition of Stone is fine**, but more recent editio
 
 > Deborah Stone, *Policy Paradox:  The Art of Political Decision Making*. Any Edition (New York:  W.W. Norton and Co.).
 
+<!--
 - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
-
+--> 
 
 We will read several chapters from 
 
@@ -323,7 +324,9 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
+<!--
 [Subscribe to the due dates calendar](https://calendar.google.com/calendar/u/0?cid=Y18xYzE2MDk1N2U5M2ZkZmVhNjQ4Mjg2MzY1YTNjNDM5ZjA4NWFmYjAxMDQyMWZlYmI4ZWJjN2M2MzgxZDFkYmNkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+--> 
 
 ---
 
