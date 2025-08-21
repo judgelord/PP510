@@ -27,6 +27,7 @@ GSI: Luke Dillingham <ldilling@umich.edu>
   
 - Office hours: TBD Weill Hall 
 
+[Course Google calendar](https://calendar.google.com/calendar/u/0?cid=Y18xYzE2MDk1N2U5M2ZkZmVhNjQ4Mjg2MzY1YTNjNDM5ZjA4NWFmYjAxMDQyMWZlYmI4ZWJjN2M2MzgxZDFkYmNkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (For your convenience --- dates in Canvas are authoritative)
 
 ---
 
@@ -943,7 +944,7 @@ Recommended
 
 ## Ammendments 
 
-Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [on github](https://github.com/judgelord/PP510/commits/main/docs/syllabus-fall-2024.html).
+Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [on github](https://github.com/judgelord/PP510/commits/main/docs/syllabus.html).
 
 ---
 
