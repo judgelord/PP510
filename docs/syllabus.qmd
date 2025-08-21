@@ -218,7 +218,7 @@ These selected chapters and other readings are on Canvas.
 
 Other readings (e.g., journal articles) are available online, though you may need to access them through the library website. I do not upload these to Canvas because finding material that you have access to through a library is a valuable research skill. Accessing the course readings via the library website is a good practice. Your downloads also help the library and journals know that this content is being used and, thus, that maintaining access to it is valuable.
 
-If you hit a paywall on a link from the syllabus:
+#### If you hit a **paywall** on a link from the syllabus
 
 1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
 2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
@@ -252,7 +252,7 @@ Class attendance is required.
 
 We will take attendance at the beginning of each class. 
 
-If you are going to miss class, please **notify BOTH YOUR GSI AND ME by email in advance**. 
+If you know that you will miss class, please **notify BOTH YOUR GSI AND ME by email in advance**. 
 
 <!-- otherwise, I'll be looking for you. 
 In part, this is an accountability mechanism, but it is also a way for me to know when people are struggling. 
@@ -504,7 +504,7 @@ Each week, we will read some original research and portions of a book for a broa
 
 ### Thursdays: Studying the politics of policymaking
 
-> V-DEM Democracy Report 2025 (p. 44-53)
+> [V-DEM Democracy Report 2025 (p. 44-53)](https://v-dem.net/documents/54/v-dem_dr_2025_lowres_v1.pdf)
 
 > TBD
 
