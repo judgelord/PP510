@@ -524,11 +524,20 @@ Each week, we will read some original research and portions of a book for a broa
 
 > [Syllabus](https://judgelord.github.io/PP510/) and [memo assigment guide](https://judgelord.github.io/PP510/memos.html)
 
-### Thursdays: Studying the politics of policymaking
+### Thursday: Democracy
+
+What do you think about the various ways of defining more or less democratic government? 
+
+What functions do features such as a constitution, elections, civil rights, and civil liberties play? 
+
+> [The Right of the People Democracy and the Case for a New American Founding By Osita Nwanevu (p. 3-54)](https://www.penguinrandomhouse.com/books/704686/the-right-of-the-people-by-osita-nwanevu/#) (Note: this book is not yet available in via the library, so I have assigned the free sample on the publisher's website.)
 
 > [V-DEM Democracy Report 2025 (p. 44-53)](https://v-dem.net/documents/54/v-dem_dr_2025_lowres_v1.pdf)
 
-> TBD
+Further reading
+
+- [Freedomhouse method for scoring Political Rights and aggregate Civil Liberties](https://freedomhouse.org/sites/default/files/2025-06/FIW25%20Methodology.pdf) (Note: nearly all of Freedomhouse's funding comes from the U.S. federal government, leading to accusations that it is aligned with U.S. foreign policy, especially anti-communism)
+- [Democracy index by source - Our World in Data](https://ourworldindata.org/grapher/democracy-index-by-source)
 
 ---
 
@@ -537,7 +546,7 @@ Each week, we will read some original research and portions of a book for a broa
 
 ### Tuesday: The U.S. federal system
 
-Crash course in the distribution of authority in the U.S. federal system.
+Crash course in the distribution of authority in the U.S. federal system (on paper, at least)
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
