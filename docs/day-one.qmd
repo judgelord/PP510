@@ -33,5 +33,5 @@ format:
 ## Thursday {background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" background-opacity="0.2"}
 
 - Come with questions about political science  jargon 
-- What do you think about the various ways of defining more or less democratic government? 
-- What functions do features such as a constitution, elections, civil rights, and civil liberties play? 
+- What do you think about the various methods of defining more or less democratic government? 
+- What functions do things like a constitution, elections, civil rights, and civil liberties play? 
