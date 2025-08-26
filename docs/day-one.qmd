@@ -1,0 +1,37 @@
+---
+title: "PP 510"
+author: ""
+format: 
+  revealjs:
+      incremental: false  
+      scrollable: true
+      theme: [michigan.scss]
+      footer:  "University of Michigan Ford School"
+      fontsize: "40px"
+      data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
+      data-background-size: cover
+      data-background-opacity: "0.1"
+      title-slide-attributes:
+        data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+---
+
+## Today {background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" background-opacity="0.2"}
+
+- Introductions
+- Purpose
+  - 1. Practical political science
+      - theory (useful jargon) and findings (useful facts)
+      - thinking critically about power
+  - 2. How to give policy useful advice
+     - getting up to speed quickly
+     - innovating policy tools
+     - clear communication
+- [Syllabus](syllabus) & [memo guide](memos)
+
+## Thursday {background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" background-opacity="0.2"}
+
+- Come with questions about political science  jargon 
+- What do you think about the various ways of defining more or less democratic government? 
+- What functions do features such as a constitution, elections, civil rights, and civil liberties play? 

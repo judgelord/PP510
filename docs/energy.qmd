@@ -22,6 +22,9 @@ execute:
 
 - [Solarize](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Families-Individuals/Pages/Ann-Arbor-Solarize.aspx)
 
+## SEU
+
+- [Ann Arbor's experiment with a new kind of utility - A conversation with Missy Stults](https://www.volts.wtf/p/ann-arbors-experiment-with-a-new)
 
 # Washtenaw policy 
 
