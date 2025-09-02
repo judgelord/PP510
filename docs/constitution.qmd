@@ -156,7 +156,7 @@ https://history.house.gov/Historical-Highlights/1901-1950/The-Permanent-Apportio
 
 1.7 - The President is paid, shall not receive any other **Emolument** 
 
-2 - The President shall be **Commander in Chief**, may grant **pardons** (except in Cases of Impeachment), may make **treaties** (with consent of two-thirds of the Senate), appoint all **Officers of the United States** (with consent of the Senate), "but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments." 
+2 - The President shall be **Commander in Chief**, may grant **pardons** (except in Cases of Impeachment), may make **treaties** (with consent of two-thirds of the Senate), appoint all **Officers of the United States** (with consent of the Senate), "but the Congress may by Law **vest** the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments." 
 
 ## Separation of powers
 
