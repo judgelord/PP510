@@ -58,7 +58,7 @@ class: inverse center middle
 -  The distribution of authority to make policy affects policy outcomes
 
 <!-- 
-My goal for today is to wrap up our crash course on the US Constitution as the meta structure of policymaking in the US. That means we are going to be spending more time on some parts, like the commerce clause, than other parts that may be interesting, but less important for understanding the distribution of power to make policy. 
+My goal for today is to wrap up our crash course on the US Constitution as the meta-structure of policymaking in the US. That means we are going to be spending more time on some parts, like the commerce clause, than other parts that may be interesting, but less important for understanding the distribution of power to make policy. 
 
 Before we jump in, I want to check if anyone has questions about the syllabus. 
 
@@ -70,20 +70,20 @@ Also, please raise your hand if you have questions while I am talking.
 
 ???
 
-So today is mostly going to unfold with me putting some policy language from the constitution and asking why is this important 
---- When answering that question think 
+So today is mostly going to unfold with me putting some policy language from the Constitution and asking why this is important 
+--- When answering that question, think 
 both substantively --- 
 What might this enable or constrain? 
 --- and structurally ---
 How does this allocate decision-making authority --- who does this empower or disempower? 
 
-The Constitution is just a prominent example of a policy text. I considered assigning a section of the Ann Arbor Code of Ordinances alongside this. I am not an expert in constitutional law or the Ann Arbor Code of Ordinances. I want us to focus on how these policies allocate authority and structure decision-making --- I'll be asking for examples, but I'm less interested in you all memorizing examples for each clause of the constitution than being able to think, what does this policy language do? We can read any policy text as a basket of tools and divisions of authority over those tools. I want us to try reading the Constitution like that today. 
+The Constitution is just a prominent example of a policy text. I considered assigning a section of the Ann Arbor Code of Ordinances alongside this. I am not an expert in constitutional law or the Ann Arbor Code of Ordinances. I want us to focus on how these policies allocate authority and structure decision-making --- I'll be asking for examples, but I'm less interested in you all memorizing examples for each clause of the Constitution than being able to think, what does this policy language do? We can read any policy text as a basket of tools and divisions of authority over those tools. I want us to try reading the Constitution like that today. 
 
 I probably have more content than we can get to, and that is fine. This is an exercise in reading policy texts, not a masterclass in constitutional law. 
 
 ---
 
-# $\therefore$ The institutional structure of U.S. policymaking
+# $\therefore$ The institutional structure of US policymaking
 
 - is contested
 
@@ -116,8 +116,8 @@ and in other national governments.
 - 1 - A Senate and House  
 - 2.3 - ***Representatives*** and ***Taxes*** shall be apportioned $\rightarrow$ ***Enumeration*** every 10 years  
 - 2.5 - House chooses its ***Officers*** and shall have the sole Power of Impeachment  
-- 3.5 & 3.6 - Senate chooses their Officers and shall have the sole Power to try Impeachments  
-- 4.1 - States prescribe elections, but Congres may alter such Regulations  
+- 3.5 & 3.6 - Senate chooses its Officers and shall have the sole Power to try Impeachments  
+- 4.1 - States prescribe elections, but Congress may alter such Regulations  
 - 5.2 - Two-thirds vote to expel a Member  
 - 6 - Legislators are paid, privileged from Arrest, may hold no other office  
 - 7 - Bills raising revenue start in the House  
@@ -148,7 +148,7 @@ and in other national governments.
 ### Article I Powers - Legislative (cont.)
 
 - 9 - Congress ***may not***: suspend **Habeas Corpus**, issue a bill of **attainder**, pass **ex post facto** law, tax exports, grant Titles of Nobility
-- 9.8 - No person holding any office shall accept any present **Emolument**, Office, or Title, of any kind whatever, from any foreign State
+- 9.8 - No person holding any office shall accept any present, **Emolument**, Office, or Title, of any kind whatever, from any foreign State
 
 - 10 - States **may not**: enter into a treaty, coin Money, pass ex post facto law, grant Titles of Nobility, tax imports or exports (except for inspection), keep troops, or engage in War without the Consent of Congress
 
@@ -180,7 +180,7 @@ and in other national governments.
 
 2 - Cases in **Law** and **Equity**, **appellate Jurisdiction**, "Trial of all Crimes, except in Cases of Impeachment, shall be by Jury."
 
-> In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have **original Jurisdiction**. In all the other Cases before mentioned, the Supreme Court shall have **appellate Jurisdiction**, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.- Article III, Section 2.
+> In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the Supreme Court shall have **original Jurisdiction**. In all the other Cases before mentioned, the Supreme Court shall have **appellate Jurisdiction**, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.- Article III, Section 2.
 
 ---
 
@@ -190,15 +190,15 @@ and in other national governments.
 
 # Division of powers across branches: values
 
-Article 1 and Article 2 are rooted in two different kinds of representative democracy.
+Articles 1 and 2 are rooted in two different kinds of representative democracy.
 
-Article 3 is rooted in the idea of wise arbitration, extended to include the authority to restrain the democratic branches through **judicial review**, where a court strikes laws that it decides are **unconstitutional** (see *Marbury v. Madison*). Judicial review makes the courts a **veto point**.
+Article 3 is rooted in the idea of wise arbitration, extended to include the authority to restrain the democratic branches through **judicial review**, where a court strikes down laws that it decides are **unconstitutional** (see *Marbury v. Madison*). Judicial review makes the courts a **veto point**.
 
 ---
 
 # Division of powers across branches: interaction
 
-- Presidential vetos
+- Presidential vetoes
 
 - Judicial review and **deference** (e.g., the *Chevron* doctrine)
 
@@ -216,7 +216,7 @@ Article 3 is rooted in the idea of wise arbitration, extended to include the aut
 
 - From the federal government (legislative or executive) to states (occasionally also counties, municipalities, nonprofits, companies)
 
-<!-- for example, contractors fighting war make key decisions, sub-delegated from the military) -->
+<!-- for example, contractors fighting a war make key decisions, sub-delegated from the military) -->
 
 ---
 
@@ -224,7 +224,7 @@ Article 3 is rooted in the idea of wise arbitration, extended to include the aut
 
 1 - **Full Faith and Credit shall be given in each state** 
 --
-(the courts of one state will enforce laws or judicial decisions of other states)
+(The courts of one state will enforce laws or judicial decisions of other states)
 
 --
 
@@ -261,18 +261,18 @@ Article 3 is rooted in the idea of wise arbitration, extended to include the aut
 .left-column[
 1905  State of Sequoyah Constitutional Convention
 
-After the [Curtis Act](https://nativeheritageproject.com/2013/08/17/the-curtis-act-of-1898/) claimed to abolish many national governments with which the U.S. had treaties.
+After the [Curtis Act](https://nativeheritageproject.com/2013/08/17/the-curtis-act-of-1898/) claimed to abolish many national governments with which the US had treaties.
 ]
 ???
 
-including:
+Including:
 - Cherokee
 - Choctaw
 - Chickasaw
 - Creek (Muscogee)
 - Seminole
 
-Oklahoma was then admitted as a white state
+Oklahoma was then admitted as a white state.
 
 
 ---
@@ -288,7 +288,7 @@ Read as a policy document, a constitution allocates **authorities** to make, vet
 
 --
 
-The U.S. Constitution and institutions that copy it attempt to separate Legislative, Executive, and Judicial powers. In practice, authorities are often **unclear or contested**.
+The US Constitution and institutions that copy it attempt to separate Legislative, Executive, and Judicial powers. In practice, authorities are often **unclear or contested**.
 
 --
 

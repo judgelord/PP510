@@ -8,7 +8,7 @@ format:
    toc: true
    toc-location: left
    toc-title: Contents
-   theme: michigan.scss
+   theme: [michigan.scss,wethepeople.scss]
 css: styles.css
 execute:
   echo: false
@@ -20,12 +20,12 @@ Tuesdays and Thursdays 8:30-9:50 AM, 1120 Weill Hall
 
 Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
-- Office hours: Tuesday and Thursday, 2:30-3:30 PM, 3215 Weill Hall
+- Office hours: Tuesday, 2:30-3:30 PM and Thursdays 3:30-4:30, 3215 Weill Hall
 
 
 GSI: Luke Dillingham <ldilling@umich.edu>
   
-- Office hours: TBD Weill Hall 
+- Office hours:  Wednesdays, 2:30-3:30 PM and on Thursdays from 10:00-11:00 AM,  3208 Weill Hall. 
 
 [Course Google calendar](https://calendar.google.com/calendar/u/0?cid=Y18xYzE2MDk1N2U5M2ZkZmVhNjQ4Mjg2MzY1YTNjNDM5ZjA4NWFmYjAxMDQyMWZlYmI4ZWJjN2M2MzgxZDFkYmNkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (For your convenience --- dates in Canvas are authoritative)
 
