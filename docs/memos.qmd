@@ -21,9 +21,13 @@ The issue memo is your opportunity to set the agenda for this course. It is also
 
 You will craft a 1-page memo on the following question: 
 
-> What are the most pressing *energy siting* issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue. These must be public officials.
+> What are the most pressing **energy policy** issues in Michigan? Please identify three issues and three local, state, or tribal officials who are in a position to advance policies addressing each issue. These must be **government officials.**
 
 Memos in this genre are what you will be asked to write if you work for a policymaker, think tank, or advocacy group and your boss wants to get a sense of the current issues and key decision makers in a new policy area. 
+
+Citations/hyperlinks/footnotes are not required but are often appreciated, as they can be helpful in understanding the broader context. You can think of me as the audience, so link out just to things that I might find useful in evaluating your issue or officials who might act on it.
+
+There are example memos from prior classes in the "Files/example memos" folder on Canvas. 
 
 
 ## Issues Memo Template 
@@ -51,6 +55,12 @@ Issue 3
 - Policymaker 3.a: Legal authority to address issue 3
 - Policymaker 3.b: Legal authority to address issue 3
 - Policymaker 3.c: Legal authority to address issue 3
+
+## Tips on writing an issues memo
+
+- Remember that this is just a one-page memo (endnotes and references not included). You will be marked down if it is even one single line more than a page. Policy writing prizes concision. 
+
+- **Focus on the problems, not solutions.** Solutions come next in the policy memo. Right now we are mostly just trying to frame up problems that may plausibly be addressed by some policy changes at multiple levels---persuade us that it is a *policy* problem --- i.e., there is a barrier or gap or pathology related to policy or that policy might address, but beyond establishing the plausibility that each official might make some kind of policy that might address the problem, there is no need to get specific on solutions. That comes next, after much more research and careful open-minded analysis. 
 
 ---
 

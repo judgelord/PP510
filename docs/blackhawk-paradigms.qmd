@@ -5,6 +5,7 @@ author: "Maggie Blackhawk"
 format: 
   revealjs:
       incremental: true  
+      scrollable: true
       theme: [default, michigan.scss]
       footer:  ""
       fontsize: "40px"
@@ -25,11 +26,11 @@ Key takeaways:
     
 <!--    - *Brown* teaches that courts can lead. Indian Law teaches that empowering courts can hinder progress. -->
 
-- Reading law review articles is a useful skill, and this one is on the accessible side!
+- Reading law reviews is a useful skill. 
 
 ## 1. How colonialism shaped U.S. law
 
-- the diplomat vs. colonizer view of the U.S. Constitution (p. 1807-8)
+- The diplomat vs. colonizer view of the U.S. Constitution (p. 1807-8)
 
 
 ## Separation of powers
@@ -72,7 +73,7 @@ Constitutions structure conflict over policy
 
 See [Carol Rose, "Possession as the Origin of Property"](https://www.law.yale.edu/sites/default/files/documents/pdf/Faculty/propertypersuasion.pdf)
 
-## *Johnson v. M’Intosh* (1823)
+## Property: *Johnson v. M’Intosh* (1823)
 
 > "rooted national power over Indian affairs not in constitutional text or principles, but in domestic incorporation of the so-called “doctrine of discovery” 
 
@@ -80,14 +81,15 @@ See [Carol Rose, "Possession as the Origin of Property"](https://www.law.yale.ed
 
 Moved the sovereignty of Native Nations to the domain of domestic law (p. 1818-9): "It brought the international power from the doctrine of discovery within constitutional limits, because the power would necessarily be exercised by the government constituted by that document."
 
-## Judicial Review
+## Judicial Review of State Law: *Worcester v. Georgia*
 
 - Georgia asserted authority over Cherokee land 
 - The Indian Removal Act of 1830  authorized President Jackson to unilaterally exchange land in the unorganized territories for land occupied by Native Nations within the borders of the states and appropriated $500,000 to facilitate the exchange.
-- The Supreme Court ruled that the land was Cherokee land by treaty
+- Supreme Court ruled the land was Cherokee land by treaty
 - President Jackson refused to enforce the ruling
-  - “John Marshall has made his decision now let him enforce it.” 
-  - Led federal soldiers and state militiamen to force Cherokee people to walk to Oklahoma Territory (the Trail of Tears)
+  - “Marshall has made his decision now let him enforce it.” 
+  - Led federal soldiers and state militiamen to force Cherokee people to walk to Indian Territory (the Trail of Tears)
+
 
 
 ## 2. "How federal Indian law ought to fit within the constitutional canon and anticanon, offering the doctrines of colonialism as constitutional failure."
@@ -160,14 +162,21 @@ NLRA aimed to solve the subordination of labor
 
 ## Key concepts 
 
+- sovereignty
 - treaty power
-- legal doctrines
-- plenary power doctrine
-- public law
+- nationalist/nationalism
+- colonialism 
+
+- public law vs. private law
+- constitutional law
 - federal Indian Law
+- judicial review 
+- legal doctrines
+- "plenary power" or "inherent powers" doctrine
 - “good law” 
 - canon: examples of legal thinking to uphold and aspire to
 - anticanon: examples of legal thinking to avoid
+
 <!--- 
 - *Brown*, *Plessy*, and *Dred Scott*
  institutionalized violence --> 
@@ -184,25 +193,32 @@ How should we distribute and limit power?
  - in order to remedy private power imballence
  - in order to protect ecosystems
  - etc.
+ 
+:::{.notes}
 
 <!--
-## Empirical questions
+
+Empirical questions
 
 Causes
 
 > What drives variation in power amongst branches and institutions? Is it just political context and the present social institutions or is there something that is baked in to create these dynamics?
 
-<!--Major-->
+
 <!--
-## Empirical/descriptive questions
+
+Empirical/descriptive questions
 
 
 Effects
 
 > What impact would a shift in these doctrines—in this case, from canonical to anti-canonical—have on our interpretation and implementation of future policies and laws? Would there be more of an emphasis on sovereignty for the "minority"? Would this simply establish a precedent for judges to consider, or something more transformative at the systems level?
 
-<!--Natalia-->
+
 <!--
-## Process
+
+Process
 
 > What is the process for implementing policy within what we "recognize" to be sovereign nations? If there was a watershed on both indigenous and US land, does the United States government hold power to regulate what happens within that watershed on indigenous land as it affects "waters of the United States?" How might a disagreement on the treatment be handled between the governments?
+
+:::
