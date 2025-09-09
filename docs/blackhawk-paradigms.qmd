@@ -49,17 +49,22 @@ However, as sovereign nations, government-to-government agreements require treat
 
 ## Federalism 
 
+Constitutions structure conflict over policy
+
 > "[B]ecause our constitutional law shifted power over Natives up the vertical separation of powers to the national government, the exercise and development of national power played a more direct role in colonialism than it did in the context of slavery and segregation where constitutional law shifted power over enslaved peoples down to the states. " (p. 1808)
 
 ## Federal bureaucracy
+
+*American Political Development*
 
 - "In the East, state governments exercised local control, the military consisted of state militias, and federal bureaucracy was limited to the Post Office and the customs house. In the West, the federal government governed all the way down to the local" (p. 1816)
 - "National power over Indian lands...also meant that the national government governed Indian lands within the borders of a state." (p. 1817)
 
 
+
 ## *Johnson v. M’Intosh* (1823)
 
-- Johnson held a title from the local leaders of the Illinois (Illini) and Miami nations.
+- Johnson held a deed to a property from the local leaders of the Illinois (Illini) and Miami nations.
 - M'Intosh later bought the same land from the U.S. Federal Government.
 - The Supreme Court held that, even though Lockean principles of property uphold the earlier title, it could not uphold a principle over an actual title granted by the U.S. Government because the court was a part of that government. 
 
@@ -82,7 +87,7 @@ Moved the sovereignty of Native Nations to the domain of domestic law (p. 1818-9
 - The Supreme Court ruled that the land was Cherokee land by treaty
 - President Jackson refused to enforce the ruling
   - “John Marshall has made his decision now let him enforce it.” 
-  - Led federal soldiers and state militiamen to force the Cherokee people down the Trail of Tears 
+  - Led federal soldiers and state militiamen to force Cherokee people to walk to Oklahoma Territory (the Trail of Tears)
 
 
 ## 2. "How federal Indian law ought to fit within the constitutional canon and anticanon, offering the doctrines of colonialism as constitutional failure."
@@ -117,7 +122,8 @@ $\rightsquigarrow$ "regulation by treaty" in the early 1800s
 
 ## Success: Recognition of Self Goverance
 
--  American Indian Defense Association and others pushed Congress reshape institutions to 
+American Indian Defense Association and others pushed Congress reshape institutions to 
+  
   - reverse the assimilationist policies
   - foster power (self-governance)
   - promote collective action 
@@ -159,11 +165,12 @@ NLRA aimed to solve the subordination of labor
 - plenary power doctrine
 - public law
 - federal Indian Law
+- “good law” 
 - canon: examples of legal thinking to uphold and aspire to
 - anticanon: examples of legal thinking to avoid
-- “good law” 
+<!--- 
 - *Brown*, *Plessy*, and *Dred Scott*
-- institutionalized violence 
+ institutionalized violence --> 
 
 
 
@@ -178,7 +185,7 @@ How should we distribute and limit power?
  - in order to protect ecosystems
  - etc.
 
-
+<!--
 ## Empirical questions
 
 Causes
@@ -186,7 +193,7 @@ Causes
 > What drives variation in power amongst branches and institutions? Is it just political context and the present social institutions or is there something that is baked in to create these dynamics?
 
 <!--Major-->
-
+<!--
 ## Empirical/descriptive questions
 
 
@@ -195,7 +202,7 @@ Effects
 > What impact would a shift in these doctrines—in this case, from canonical to anti-canonical—have on our interpretation and implementation of future policies and laws? Would there be more of an emphasis on sovereignty for the "minority"? Would this simply establish a precedent for judges to consider, or something more transformative at the systems level?
 
 <!--Natalia-->
-
+<!--
 ## Process
 
 > What is the process for implementing policy within what we "recognize" to be sovereign nations? If there was a watershed on both indigenous and US land, does the United States government hold power to regulate what happens within that watershed on indigenous land as it affects "waters of the United States?" How might a disagreement on the treatment be handled between the governments?
