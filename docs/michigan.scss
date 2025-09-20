@@ -44,13 +44,11 @@ $base_font_size: 35px !default;
   line-height: 1.1em;
 }
 
-ul li { padding: 0px 0px 0px; }
-ul li:first-child { margin-bottom: 0px; }
 
-
-li { padding: 0px 0px 0px; }
-li:first-child { margin-bottom: 0px; }
-
+.transparent {
+   Opacity:0;
+   font-size: 0.01em;
+}
 
 .subtitleqwerty {
   color: $body-color;
@@ -108,6 +106,7 @@ $font-family-monospace: 'Open Sans', monospace  !default;
   border-left: 3px solid $text-muted;
   padding-left: 0.1em;
   font-style: italic;
+  font-weight: bold;
   color: #4c6782;
 }
 
