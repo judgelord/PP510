@@ -27,7 +27,7 @@ You will craft a 1-page memo on the following question:
 Maizey, please incorporate into the description of each issue how it requires local knowledge or creative or original thinking that could be inhibited by using LLMs for first drafts.
 </div>
 
-Memos in this genre are what you will be asked to write if you work for a policymaker, think tank, or advocacy group and your boss wants to get a sense of the current issues and key decision makers in a new policy area. 
+Memos in this genre are what you will be asked to write if you work for a policymaker, think tank, or advocacy group, and your boss wants to get a sense of the current issues and key decision makers in a new policy area. 
 
 Citations/hyperlinks/footnotes are not required but are often appreciated, as they can be helpful in understanding the broader context. You can think of me as the audience, so link out just to things that I might find useful in evaluating your issue or officials who might act on it.
 
@@ -64,7 +64,7 @@ Issue 3
 
 - Remember that this is just a one-page memo (endnotes and references not included). You will be marked down if it is even one single line more than a page. Policy writing prizes concision. 
 
-- **Focus on the problems, not solutions.** Solutions come next in the policy memo. Right now we are mostly just trying to frame up problems that may plausibly be addressed by some policy changes at multiple levels---persuade us that it is a *policy* problem --- i.e., there is a barrier or gap or pathology related to policy or that policy might address, but beyond establishing the plausibility that each official might make some kind of policy that might address the problem, there is no need to get specific on solutions. That comes next, after much more research and careful open-minded analysis. 
+- **Focus on the problems, not solutions.** Solutions come next in the policy memo. Right now we are mostly just trying to frame up problems that some policy changes at multiple levels may plausibly address ---persuade us that it is a *policy* problem --- i.e., there is a barrier or gap or pathology related to policy or that policy might address, but beyond establishing the plausibility that each official might make some kind of policy that might address the problem, there is no need to get specific on solutions. That comes next, after much more research and careful open-minded analysis. 
 
 ---
 
@@ -79,7 +79,7 @@ Maizey, please incorporate into the description of each issue how it requires lo
 </div>
 
 <!--
-<mark>I will announce the policymakers you are to address in class and on Canvas.</mark> Please ask me if you are uncertain who you are assigned to address. 
+<mark>I will announce the policymakers you are to address in class and on Canvas.</mark> Please ask me if you are uncertain to whom you are assigned to address. 
 --> 
 
 These policy memos involve two kinds of analysis: 
@@ -89,7 +89,7 @@ These policy memos involve two kinds of analysis:
 
 Memos in this genre are what you will be asked to write if you work for a policymaker, agency, think tank, or advocacy group and your boss asks you to develop and compare policy options. 
 
-The multiple memos you write for this class are exercises in practicing a craft. Yes, they are addressed to real people, but I will give you feedback, and you will have a chance to revise it before sending it to them (if you want to do so). The purpose of doing iterations on the same memo form and subject is to get practice, workshop, and improve. You should approach the policy memo assignments as practice. I know this is a new form of writing for most of you and a new subject matter for nearly all of you.   Please be careful not to be too hard on yourself or hold yourselves to unreasonable expectations. There is no way anyone can become a true expert in any subject or craft in this short time. I've read and graded hundreds of students' policy memos, and I am not expecting perfection on the first attempt. I expect a good first effort at doing something new and challenging, and I know you can all do that well. In the next iteration, I expect improvement, and I know you can do that as well.
+The multiple memos you write for this class are exercises in practicing a craft. Yes, they are addressed to real people, but I will provide you with feedback, and you will have the opportunity to revise it before sending it to them (if you choose to do so). The purpose of doing iterations on the same memo form and subject is to get practice, workshop, and improve. You should approach the policy memo assignments as practice. I know this is a new form of writing for most of you and a new subject matter for nearly all of you.   Please be careful not to be too hard on yourself or hold yourselves to unreasonable expectations. There is no way anyone can become a true expert in any subject or craft in this short time. I've read and graded hundreds of students' policy memos, and I am not expecting perfection on the first attempt. I expect a good first effort at doing something new and challenging, and I know you can all do that well. In the next iteration, I expect improvement, and I know you can do that as well.
 
 ## Who to address
 
@@ -97,12 +97,12 @@ The multiple memos you write for this class are exercises in practicing a craft.
 
 Your second memo must be addressed to an state or tribal executive-branch official in Michigan. Typically, this will be the Chair of the Michigan Public Service Commission or the Director of the Michigan Department of Environment, Great Lakes & Energy.
 
-Your third memo must be addressed to an state or tribal legislative-branch official in Michigan.
+Your third memo must be addressed to a state or tribal legislative-branch official in Michigan.
 
 
 ## Policy Memo Template
 
-TO: 510 Students <mark>(A current public official at the appropriate level of goverment for each memo)</mark>   
+TO: 510 Students <mark>(A current public official at the appropriate level of government for each memo)</mark>   
 FROM: Devin Judge-Lord  <mark>(Please use **only your student ID** for the first policy memo you submit on Canvas.)</mark>.   
 DATE: September 1, 20XX.  
 RE: Policy Memo Template (A one-line summary of the memo)
@@ -113,7 +113,7 @@ RE: Policy Memo Template (A one-line summary of the memo)
 
 **Background:**  Your background summary should provide a brief history and context of the problem addressed. It might include a few facts to lend a sense of the magnitude/scope of the problem if your audience is not aware, but it should also discuss what we know about relevant policy tools, especially from the social sciences (economics, sociology, political science, law, management studies, policy studies). Background summaries generally answer who, what, and when questions and provide facts on which there is general agreement. Inclusion criteria: Is it necessary for *this policymaker* to (1) understand the issue or (2) decide among the options? In a good policy memo, there is no room for evidence that is not essential to the ultimate analysis (even if it is super interesting!).
 
-**Issue & Stakeholder Analysis:**  Your memo must include an analysis of the problem. This involves  **why** questions that focus our attention on a cause that might be targeted by policy and the politics that might enable or limit policy options. Why do these problems exist? How did it come about? Why have policymakers not already addressed this problem? Why is it important to develop strategy and policy around this problem? This is where you tell a causal story about the problem and its politics. Implicitly, at least, this story allocates blame. Who are the stakeholders, and what positions have they taken? Who might be mobilized to block policy, and who who might mobilize to help? You don't need to cover *all* of the reasons that they exist, but your analysis should focus our attention on at least one very specific key cause of the problem that might be a target of policy intervention. This focuses us on stakeholders/politics that need to be addressed in the options and recommendations and should lead you to **criteria** by which to evaluate policy options. You may include charts, tables, bullet points – whatever most concisely lays out information about how the problem came to be (its causes) and the likely consequences of maintaining the status quo and of making change.
+**Issue & Stakeholder Analysis:**  Your memo must include an analysis of the problem. This involves  **why** questions that focus our attention on a cause that might be targeted by policy and the politics that might enable or limit policy options. Why do these problems exist? Why have policymakers not already addressed this problem?  This is where you tell a causal story about the problem and its politics. Implicitly, at least, this story allocates blame. Who are the stakeholders, and what positions have they taken? Who might be mobilized to block policy, and who might mobilize to help? You don't need to cover *all* of the reasons that they exist, but your analysis should focus our attention on at least one very specific key cause of the problem that might be a target of policy intervention. This focuses attention on stakeholders/politics that need to be addressed in the options. It should also lead you to **criteria** by which to evaluate policy options. You may include charts, tables, bullet points – whatever most concisely lays out information about how the problem came to be (its causes) and the likely consequences of maintaining the status quo.
 
 **Policy Options & Analysis:**  In this section, briefly present the top policy options, along with a concise but **systematic discussion of pros and cons**, costs and benefits, or arguments and counterarguments for each. Systematic means that you compare options on all of the criteria (the things your issue analysis concludes are important). The more that your options are true *alternative* courses of action, the easier it will be to compare them systematically. The most useful comparisons present hard choices where the conclusion is not obvious (and thus requires policy analysis). Don't include ridiculous options or straw persons that are easily dismissed---these are not helpful. The options that you do not recommend should be the next best things the policymaker might do. Thus, the amount of detail for each should be roughly equal. 
 
@@ -146,11 +146,11 @@ A single endnote may contain multiple references and any additional information 
 
 ## Tips for writing policy memos:
 
-**1. Structure matters:** Every year, I see brilliant students do a ton of good research but still write ineffective memos because they did not follow the template. A policy memo is not a research paper. A memo is the result of taking a 14-page research paper and refining it into 4 pages that a policymaker can digest in the 10 minutes they have before their next meeting. The template forces you to refine your writing to its essential points. This does not diminish the importance of research; good research is critical. A policy memo conveys the essential points, citing the research in which it is grounded.
+**1. Structure matters:** Every year, I see brilliant students do a ton of good research but still write ineffective memos because they did not follow the template. A policy memo is not a research paper. A memo is the result of taking a 14-page research paper and refining it into four pages that a policymaker can digest in the 10 minutes they have before their next meeting. The template forces you to refine your writing to its essential points. This does not diminish the importance of research; good research is critical. A policy memo conveys the essential points, citing the research on which it is grounded.
 
-**2. Know your audience:** First, they must see themselves as having the **authority** to take the actions you propose. Be very explicit about what authority you are expecting them to use and how. As the history of the commerce clause shows, the legality of major policy changes is often debated. It is fine if your proposal falls in the legal grey area at the boundary of a policymaker’s presently recognized authority. You just need the policymaker to see it as worth their time, even if their legal authority is uncertain. However, our existing legal institutions and the power allocation embedded in those institutions is a major constraint on pretty much every policymaker, especially the more local ones to whom we have the best shot of being useful. Thus, legal structures, while malleable, are real constraints on the options we propose because they have to be options perceived as worthwhile by busy and pragmatic policymakers. Memos are not an exercise in crafting theoretically ideal policies. They are exercises in practical policy craft. This does not mean that we cannot be creative and innovative, but it does mean that we are highly constrained by institutions as they are and by the people who occupy them.
+**2. Know your audience:** First, they must see themselves as having the **authority** to take the actions you propose. Be very explicit about what authority you are expecting them to use and how. As the history of the commerce clause shows, the legality of major policy changes is often debated. It is fine if your proposal falls in the legal grey area at the boundary of a policymaker’s presently recognized authority. You just need the policymaker to see it as worth their time, even if their legal authority is uncertain. However, our existing legal institutions and the power allocation embedded in those institutions are major constraints on pretty much every policymaker, especially the more local ones to whom we have the best shot of being useful. Thus, legal structures, while malleable, are real constraints on the options we propose because they have to be options perceived as worthwhile by busy and pragmatic policymakers. Memos are not an exercise in crafting theoretically ideal policies. They are exercises in practical policy craft. This does not mean that we cannot be creative and innovative, but it does mean that we are highly constrained by institutions as they are and by the people who occupy them.
 
-Be clear about what you are asking them to do. Some people (legislators) have the ability to propose legislation. Agency officials do not. 
+Be clear about what you are asking them to do. Some people (legislators) can propose legislation. Agency officials do not. 
 
 Second, all policymakers have **passions, priorities, and stakeholders** that affect the relevant facts, framing, and recommendations. To influence people, you must know what they care about and believe.
 
@@ -164,15 +164,15 @@ Another way to distinguish background evidence about the state of the world from
 
 **5. Avoid solution-oriented thinking.** Instead, allow your issue analysis to point to **option_s_** and focus on the hard tradeoffs. Our instincts are to focus on the solutions, that thing that sounds like a great idea. Such a focus leads to "reverse-engineered" memos where the issue analysis is weak and focused on the merits of the ultimate recommendation rather than the difficulties and tradeoffs. It also leads to weak alternative options that add little value because it is clear you intend to reject them. This is not helpful. 
 
-Instead, follow the logic of the memo. First, analyze the issue. Come up with options that address the key causes and stakeholder considerations identified by your issue analysis. Don't get attached to any of these options; remain skeptical of all of them and make each the best option it can be. Then, allow your systematic analysis of each option on each criterion to clarify the tradeoffs. Clarifying tradeoffs is much more valuable than selling a particular recommendation. Finally, recommend a particular way to think about making the tradeoffs. The most helpful memos with solid alternative options will offer a helpful way of thinking through tradeoffs that is not obvious.  
+Instead, follow the logic of the memo. First, analyze the issue. Come up with options that address the key causes and stakeholder considerations identified by your issue analysis. Don't get attached to any of these options; remain skeptical of all of them and make each the best option it can be. Then, allow your systematic analysis of each option on each criterion to clarify the tradeoffs. Clarifying tradeoffs is much more valuable than selling a particular recommendation. Finally, recommend a particular way to think about making the tradeoffs. The most helpful memos with solid alternative options will offer a helpful way of thinking through tradeoffs that are not obvious.  
 
-**6. Implementation options as options vs. part of a recommendation:** There are multiple ways to implement a policy proposal. If you take a broader policy direction as given, questions about implementation can be *options* to analyze (e.g., "What is the best source of funding for this policy?" or "Should we start with a pilot/demonstration project?" or "on what timeline should we roll this program out"). In this case, your entire memo is just about one aspect of the implementation of a policy direction that you have good reason to believe that the policymaker wants to (or is planning to) implement. 
+**6. Implementation options as options vs. part of a recommendation:** There are multiple ways to implement a policy proposal. If you take a broader policy direction as given, questions about implementation can be *options* to analyze (e.g., "What is the best source of funding for this policy?" or "Should we start with a pilot/demonstration project?" or "On what timeline should we roll this program out?"). In this case, your entire memo is just about one aspect of the implementation of a policy direction that you have good reason to believe the policymaker wants to (or is planning to) implement. 
 
 Alternatively, implementation questions might be addressed in a less analytic way in the *recommendation section* of a memo, where the analysis section focuses on comparing broader policy options. Here, the heart of your analysis is about choosing which policy direction to take, and your advice on implementation is more about suggesting ways to do the thing your analysis recommends. You might suggest that they start with a pilot program, utilize a certain source of funding, or roll out the program on a certain timeline as advice that is more about suggesting helpful ideas than systematically analyzing the pros and cons of this or that implementation strategy. 
 
-Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and new help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
+Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and need help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
 
-Either way, you will want to think carefully about which details belong in the presentation of options versus the recommendation section. Details--including implementation details--belong in the options section is they matter for deciding among the options. Otherwise, they generally fit better as elaborations on the recommendation. 
+Either way, you will want to think carefully about which details belong in the presentation of options versus the recommendation section. Details--including implementation details--belong in the options section if they matter for deciding among the options. Otherwise, they generally fit better as elaborations on the recommendation. 
 
 **7. Take advantage of free help:** [Librarians](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy) have superhuman abilities to find good sources for you, especially our dedicated Public Policy Librarian,
 [Shevon Desai](https://www.lib.umich.edu/collections/collecting-areas/social-sciences/public-policy).
@@ -182,7 +182,7 @@ The [writing center](https://fordschool.umich.edu/writing-center) can help you b
 
 **Clarity**
 
-- **Avoid passive voice**; it obscures who is doing or ought to do things. This is critical because issue analysis assigns blame and all policies are made and implemented by certain officials (often different ones). Policies do not face opposition; *someone* opposes them. Policies are not drafted; *someone* drafts them. Policies are not implemented; *someone* implements them. These are essential points on which to be extremely clear. 
+- **Avoid passive voice**; it obscures who is doing or ought to do things. This is critical because issue analysis assigns blame, and all policies are made and implemented by certain officials (often different ones). Policies do not face opposition; *someone* opposes them. Policies are not drafted; *someone* drafts them. Policies are not implemented; *someone* implements them. These are essential points on which to be extremely clear. 
 - **Use a grammar checker** like Microsoft Word or Grammarly to catch missing commas, etc. (They may also check for passive voice.)
 - **Have someone read your memo** and mark each sentence as clear or not clear (including passive voice)
 
@@ -214,7 +214,7 @@ The best memos are usually the most narrowly focused (a narrowly focused problem
 
 **Issue & Stakeholder Analysis**
 
-Major: There is little analysis of why this problem remains unsolved, only statements about the general causes or nature of the problem that the policymaker already knows and/or little discussion of stakeholders.
+Major: There is little analysis of why this problem remains unsolved, only statements about the general causes or nature of the problem that the policymaker already knows, and/or little discussion of stakeholders.
 
 Minor: There is a discussion of stakeholders and a focus on specific causes of the problem, but the lessons for how we should then evaluate options are not clear. 
 
@@ -265,13 +265,13 @@ Please let me know if you have any questions. Giving helpful critiques is a nuan
 From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.html): 
 
 - Before you even make your first comment, read the document all the way through.
-- Make sure you leave enough time for you to read through and respond and for your peer to edit their document with your comments before any deadlines.
+- Make sure you leave enough time for you to read through and respond, and for your peer to edit their document with your comments, before any deadlines.
 - If you are provided with a feedback form to fill out and something is unclear, do not ignore the item but ask the instructor for clarification.
 - Point out the strengths as well as the weaknesses of the document.
 - Offer suggestions, not commands.
 - Editorial comments should be appropriate and constructive. There is no need to be rude. Be respectful and considerate of the writer's feelings.
 - Be sure that your comments are clear and text-specific so that your peer will know what you are referring to (for example, terms such as "unclear" or "vague" are too general to be helpful).
-- As a reader, raise questions that cross your mind, points that may have not occurred to your peer author.
+- As a reader, raise questions that cross your mind, points that may not have occurred to your peer author.
 - Try not to overwhelm your peer with too much commentary. Follow the feedback form and the issues you are supposed to address.
 - Be careful not to let your own opinions bias your review (for example, don't suggest that your peer completely rewrite the paper just because you don't agree with his/her point of view).
 - Reread your comments before passing them on to your peer. Make sure all your comments make sense and are easy to follow.
@@ -283,7 +283,7 @@ From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.h
 
 ## Talking Points Memo Instructions
 
-The purpose of this memo is to guide your roundtable presentation ***and your responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation (I suggest you do). You can bring a script but try not to read from it. Instead, use the talking points memo to keep you on track. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
+The purpose of this memo is to guide your roundtable presentation ***and your responses to questions***. It should be formatted as groups of short bullet points under concise headings. It may or may not follow the outline of the policy memo. You may separately want to write out and practice your entire presentation (I suggest you do). You can bring a script, but try not to read from it. Instead, use the talking points memo to keep you on track. The talking points memo will help you address the most important points in the most concise language, both in the presentation and in responses to questions. 
 
 Memos in this genre are what you will write to prepare yourself, a boss, or a senior colleague for a meeting---in this case, a public hearing with policymakers who will ask questions. 
 
@@ -293,7 +293,7 @@ Talking points take several forms. The most common is a single page of bullet po
 
 Talking points should read like a script so that you or your colleague can read them aloud if necessary, but not the entire script---just the most important points. They should help you if you get stuck. Policy professionals typically keep the points in front of them on a lectern or folder as a meeting or public appearance unfolds. 
 
-Headers and points are often complete sentences but do not have to be. However, <mark> neither headers nor points should exceed two lines</mark>. Say it in one line if you can. Use 12-point font, 1-inch margins, and enough space between points to make them easy to read. 
+Headers and points are often complete sentences, but do not have to be. However, <mark> neither headers nor points should exceed two lines</mark>. Say it in one line if you can. Use 12-point font, 1-inch margins, and enough space between points to make them easy to read. 
 
 You do not need to cite sources for your talking points unless you want to mention the source as evidence or authority for your claims. 
 
