@@ -85,7 +85,7 @@ Maizey, please incorporate into the description of each issue how it requires lo
 These policy memos involve two kinds of analysis: 
 
 1. **issue analysis** that identifies the key policy problem and its causes (identifying the causes of a problem and why it has not already been solved, which generally includes a political/stakeholder analysis)
-2. **policy analysis** comparing policy options on criteria suggested by your issue analysis.  
+2. **policy analysis** comparing policy options on the criteria suggested by your issue analysis.  
 
 Memos in this genre are what you will be asked to write if you work for a policymaker, agency, think tank, or advocacy group and your boss asks you to develop and compare policy options. 
 
@@ -95,7 +95,7 @@ The multiple memos you write for this class are exercises in practicing a craft.
 
 <mark>Your first memo must be addressed to a local government official in Michigan.</mark> Typically, this will be the Mayor of Ann Arbor or Chair of the Washtenaw County Board of Commissioners, but it may be any county or municipal official with decision-making power in Michigan. It may also be a tribal government official (as these officials may act as both national leaders and local government leaders).  Please ask me if you are uncertain who to address. 
 
-Your second memo must be addressed to an state or tribal executive-branch official in Michigan. Typically, this will be the Chair of the Michigan Public Service Commission or the Director of the Michigan Department of Environment, Great Lakes & Energy.
+Your second memo must be addressed to a state or tribal executive-branch official in Michigan. Typically, this will be the Chair of the Michigan Public Service Commission or the Director of the Michigan Department of Environment, Great Lakes & Energy.
 
 Your third memo must be addressed to a state or tribal legislative-branch official in Michigan.
 
@@ -162,7 +162,7 @@ Public policy is inexorably linked to questions of power. This memo is about pol
 
 Another way to distinguish background evidence about the state of the world from arguments about its causes is to consider how opponents of your problem definition will think about it. Background facts are generally things that reasonable people can agree on, even if they disagree about their importance or implications. Issue analysis generally places the blame for a problem in ways that some stakeholders will find objectionable (although not always; sometimes, we place blame on new or changing conditions to which stakeholders have yet to react, and thus, no one is yet to blame for this problem). 
 
-**5. Avoid solution-oriented thinking.** Instead, allow your issue analysis to point to **option_s_** and focus on the hard tradeoffs. Our instincts are to focus on the solutions, that thing that sounds like a great idea. Such a focus leads to "reverse-engineered" memos where the issue analysis is weak and focused on the merits of the ultimate recommendation rather than the difficulties and tradeoffs. It also leads to weak alternative options that add little value because it is clear you intend to reject them. This is not helpful. 
+**5. Avoid solution-oriented thinking.** Instead, allow your issue analysis to point to **option_s_** and focus on the hard tradeoffs. Our instincts are to focus on a solution, that thing that sounds like a great idea. Such a focus leads to "reverse-engineered" memos where the issue analysis is weak and focused on the merits of the ultimate recommendation rather than the difficulties and tradeoffs. It also leads to weak alternative options that add little value because it is clear you intend to reject them. This is not helpful. 
 
 Instead, follow the logic of the memo. First, analyze the issue. Come up with options that address the key causes and stakeholder considerations identified by your issue analysis. Don't get attached to any of these options; remain skeptical of all of them and make each the best option it can be. Then, allow your systematic analysis of each option on each criterion to clarify the tradeoffs. Clarifying tradeoffs is much more valuable than selling a particular recommendation. Finally, recommend a particular way to think about making the tradeoffs. The most helpful memos with solid alternative options will offer a helpful way of thinking through tradeoffs that are not obvious.  
 
@@ -170,7 +170,7 @@ Instead, follow the logic of the memo. First, analyze the issue. Come up with op
 
 Alternatively, implementation questions might be addressed in a less analytic way in the *recommendation section* of a memo, where the analysis section focuses on comparing broader policy options. Here, the heart of your analysis is about choosing which policy direction to take, and your advice on implementation is more about suggesting ways to do the thing your analysis recommends. You might suggest that they start with a pilot program, utilize a certain source of funding, or roll out the program on a certain timeline as advice that is more about suggesting helpful ideas than systematically analyzing the pros and cons of this or that implementation strategy. 
 
-Either type of memo is fine. Which is better largely depends on where the policymaker is at. Have they already committed to a new policy direction and need help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
+Either type of memo is fine. Which is better largely depends on where the policymaker is. Have they already committed to a new policy direction and need help figuring out how to implement it? Or are they struggling with which direction to go, and once they make that choice, how to do it is more straightforward? 
 
 Either way, you will want to think carefully about which details belong in the presentation of options versus the recommendation section. Details--including implementation details--belong in the options section if they matter for deciding among the options. Otherwise, they generally fit better as elaborations on the recommendation. 
 
