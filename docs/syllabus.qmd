@@ -526,6 +526,10 @@ Each week, we will read some original research and portions of a book for a broa
 
 ### Thursday: Democracy
 
+::: {.callout-tip title="Key Takeaway"}
+There are many ways of doing democracy and many factors that go into claims about countries being more or less democratic.
+:::
+
 What do you think about the various ways of defining more or less democratic government? 
 
 What functions do features such as a constitution, elections, civil rights, and civil liberties play? 
@@ -543,6 +547,14 @@ Further reading
 
 ## Week two: Federalism
 
+::: {.callout-tip title="Key Takeaway"}
+Constitutions structure fights over policy by distributing power to propose, enact, or veto new policies and interpret or enforce existing ones.
+
+All policy is ambiguous (to varying degrees), especially constitutional provisions.
+
+As the foundational structure of the policymaking system in the United States, the Constitution sets out, in broad (ambiguous) language, which institutions have what kind of authority to make or enforce policy. 
+:::
+
 
 ### Tuesday: The U.S. federal system
 
@@ -550,7 +562,7 @@ Crash course in the distribution of authority in the U.S. federal system (on pap
 
 > Context: [The United States Constitution (as amended, 1992)](https://constitutioncenter.org/interactive-constitution/the-constitution)
 
-As the foundational structure of the policymaking system in the United States, the Constitution sets out, in broad (ambiguous) language, which institutions have what kind of authority to make policy. 
+
 
 > Listen: [More Perfect, "One Nation, Under Money"](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/one-nation-under-money) 
 
@@ -607,8 +619,9 @@ How should we distribute and limit power across institutions? Why does the power
 
 > Research: [Blackhawk, Maggie. 2019. "Federal Indian Law as Paradigm within Public Law" *Harvard Law Review*](https://www.law.nyu.edu/sites/default/files/Blackhawk_FederalIndianLawasParadigm_1_.pdf) pages 1789-1844 (i.e., Part III is optional reading, as are footnotes)
 
+::: {.callout-tip title="Key Takeaway"}
 Blackhawk argues that the examples we hold up as paradigmatic constitutional successes and failures shape the conventional wisdom about how to distribute power. If we look to different examples (e.g., colonialism rather than slavery and Jim Crow), we may arrive at different conclusions about how best to distribute and limit power across institutions. That is, we might advance different policies that empower different sets of institutions depending on what lessons we take from the policy successes and failures we look to in the past.
- 
+:::
 
 <!--https://www.nytimes.com/2019/05/26/opinion/american-indian-law-trump.html-->
 
@@ -642,7 +655,9 @@ Background:
 
 <!-- > **Memo assignments and round table groups announced Tuesday** ---> 
 
-Tools
+::: {.callout-tip title="Key Takeaway"}
+A variety of tools (the building blocks of policy) may often be used to address the same problem.
+:::
 
 <!-- > Listen: [SSN: A Bank for Everyone-Mehrsa Baradaran](https://scholars.org/podcast/bank-everyone) -->
 
@@ -662,6 +677,10 @@ Recommended Context:
 > Context: Weimer and Vining, Chapter 1 FROM THE 5th EDITION, not the 6th (current) edition.  `(Canvas)`
 
 - The [Google Books free preview](https://books.google.com/books?id=v4cVCgAAQBAJ&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false) includes all of Chapter 1 from the 5th edition, but it does not include Chapters 2 and 3, so you will need to get those from Canvas.
+
+::: {.callout-tip title="Key Takeaway"}
+The aim of the profession and professional schools in public policy is the craft of giving useful policy advice. The conventions of useful policy writing and analysis are its discipline.
+:::
 
 > [Policy Writing Overview](https://fordschool.umich.edu/writing-center/policy-writing-overview)
 
@@ -690,7 +709,9 @@ Resources:
 
 > Research: [Judge-Lord, McDermott, and Cashore. 2020. Do Private Regulations Ratchet Up?: How to Distinguish Types of Regulatory Stringency and Patterns of Change."   *Organization & Environment* 33(1), 96–125.](https://doi.org/10.1177/1086026619858874)
 
+::: {.callout-tip title="Key Takeaway"}
 Most policies are bundles of various policy tools. To assess how a policy (e.g., a forestry certification standard) is changing, we must disaggregate and first assess change in its component parts. 
+:::
 
 <!--
 > Listen: [SSN: Paying for Pollution - Leigh Raymond](https://scholars.org/podcast/paying-pollution)
@@ -754,19 +775,29 @@ Recommended Listen: [Niskanen Center: "How Bureaucrats Make Good Policy"]( https
 
 <!--  **Memo 1 due Tuesday 7 PM**-->
 
-What are the biases of policymaking in the U.S.? 
+::: {.callout-tip title="Key Takeaway"}
+No policy is neutral - to treat people equally on one dimension means treating them unequally on another. And in an unequal world, equal treatment requires actions. Without concerted action, policy tends to reproduce hierarchies in an unequal world.
+:::
+
+- What are the biases of policymaking in the U.S.? 
 
 
 ### Tuesday: Rationality
 
-One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
 
 > Context:  Stone, Introduction + Chapters 1, 2, and 11
+
+One bias that is often underappreciated is the disproportionate share of policymakers who are lawyers. Like economic styles of thinking (see recommended reading by Elizabeth Popp Berman), legal styles of thinking often frame good policymaking as an exercise in rational thinking.
+
 
 > Research: [Drutman, Lee. There are too many lawyers in politics. Here’s what to do about it.](https://www.vox.com/polyarchy/2016/6/30/12068490/too-many-lawyers-politics)
 
 > Listen: [SSN: Lawyers, Lawyers, and More Lawyers - Adam Bonica](https://scholars.org/podcast/lawyers-lawyers-and-more-lawyers)
 
+
+::: {.callout-tip title="Key Takeaway"}
+Competence is not neutral. 
+:::
 
 <!-- chevron + dissertation 
 
@@ -800,6 +831,9 @@ Recommended Research:
 
 ## Week eight: Goals and Tradeoffs
 
+
+
+
 ### Tuesday: **FALL BREAK**
 
 <!-- > Research: TBD -->
@@ -829,8 +863,6 @@ Recommended Research:
 ### Thursday
 
 > Context:  Stone, Part III, Ch. 7- 9 (Symbols, Numbers, Causes)
-
-GUEST LECTURE 
 
 ---
 
@@ -870,7 +902,14 @@ Carpenter reviews research on the power of being able to set the agenda for poli
 
 ### Tuesday: Incentives, Rules, Facts
 
+
+
 > Context:  Stone, Part IV, Ch. 12-14
+
+::: {.callout-tip title="Key Takeaway"}
+All policy is ambiguous (to varying degrees)
+There are pros and cons to precision in context, but there are no perfectly precise policies
+:::
 
 <!--
 > Listen: [SSN 143: Trusting the Science-Matthew Motta](https://scholars.org/podcast/trusting-science) 
@@ -878,6 +917,14 @@ Carpenter reviews research on the power of being able to set the agenda for poli
 
 
 ### Thursday: Public Policy as a Vocation
+
+::: {.callout-tip title="Key Takeaway"}
+Competence is not neutral. 
+
+Every person and every policy has biases. 
+
+A client orientation means that professional ethics depend on our relationship with our clients. 
+:::
 
 > Context: Weimer and Vining, Chapters 2 and 3 (5th or 6th ed.)  `(Canvas)`
 
