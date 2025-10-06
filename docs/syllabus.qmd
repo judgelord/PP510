@@ -836,12 +836,10 @@ Recommended Research:
 
 ### Tuesday: **FALL BREAK**
 
-<!-- > Research: TBD -->
 
 ### Thursday: Efficiency, Welfare, Liberty, Security, Loyalty, Objectivity
 
 > Context:  Stone, the remainder of Part II (Chapters 3-6)
-
 
 
 <!--
@@ -853,7 +851,6 @@ Recommended Research:
 
 ## Week nine: Framing Problems
 
-<!-- **Memo 2 due Tuesday 7 PM**-->
 
 ### Tuesday
 
@@ -866,32 +863,49 @@ Recommended Research:
 
 ---
 
-## Week ten: Interests
+## Week ten: Framing Interests
+
+### Tuesday
 
 > Context:  Stone, Part III, Ch. 10  (Interests)
 
+### Thursday
+
+> TBD (Likely go back to catch up on discussing Stokes)
 
 
 ## Week eleven: Framing Demands
 
 Tuesday: 
 
-No assigned reading or discussion post: get your friends and neighbors out to vote!
+
+> [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter
+
+::: {.callout-tip title="Key Takeaway"}
+Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
+:::
 
 Thursday: 
 
+
 > Research: [Woodly, Deva. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance. Oxford University Press](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&), Introduction and Chapter 1  `(Canvas)`
+
+::: {.callout-tip title="Key Takeaway"}
+Woodly argues that outsider movements must rely on persuasion through issue framing. An effective frame draws on deeply held values and undermines key premises of opposing frames. 
+:::
 
 > Research: SKIM: [Judge-Lord. "Making Policy About Distributive Justice: The Environmental Justice Movement’s Impact on Agency Rulemaking"](https://judgelord.github.io/research/ej/)
 
 
 Recommended Research: 
 
-- [Carpenter, Daniel. 2023. "Agenda Democracy." *Annual Review of Political Science* Vol. 26:193-212](https://doi.org/10.1146/annurev-polisci-051921-102533) by Daniel Carpenter <!--TODO MAKE REQUIRED NEXT TIME--> 
+-  <!--TODO MAKE REQUIRED NEXT TIME--> 
 
-Carpenter reviews research on the power of being able to set the agenda for policy discussions and encourages us to ask questions about how democratic agenda-setting processes are.
+
 
 - Wasow, Omar. 2020. “Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting.” American Political Science Review 114:638-659
+
+
 
 
 ---
