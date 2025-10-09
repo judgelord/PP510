@@ -28,17 +28,17 @@ format:
 - Relevant to the survival of millions of species, including ours
 
 ::: {.notes}
-as Andrea Campbel notes, policy failure is empirically neglected
+As Andrea Campbell notes, policy failure is empirically neglected
 :::
 
 . . .
 
-> "You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and the tides are manifestations of energy. Do we use them? Oh no! We burn up wood and coal as renters burn up the front fence for fuel. We live like squatters, not as if we owned the property." — Thomas Edison, 1910
+> "You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and the tides are manifestations of energy. Do we use them? Oh no! We burn up wood and coal, as renters burn up the front fence for fuel. We live like squatters, not as if we owned the property." — Thomas Edison, 1910
 
 
 ::: {.notes}
 
-Continuing a project that is critical to our survival - the role of a scientist in explaining the failure of the past century so that we might do better.
+Continuing a project that is critical to our survival - the role of a scientist in explaining the failure of the past century, so that we might do better.
 
 :::
 
@@ -84,8 +84,8 @@ Following Karl Polanyi
 Hertle-Fernandez & Stokes vs. Schattschneider?!?
 
 This is a question I wrestle with 
-- how do we tell them apart 
-- do groups use resources to expand conflict -- if so, this goes against Schattschneider! 
+- How do we tell them apart 
+- Do groups use resources to expand conflict -- if so, this goes against Schattschneider! 
 
 :::
 
@@ -107,7 +107,9 @@ This is a question I wrestle with
 
 - Stokes states that the fog of enactment decreases when we learn how a policy will play out. (Ch. 2, pg. 81). What are the motivations for states to be the first to pass a policy reform?  
 
+<!--
 > Would we expect federal policymakers to experience less fog relative to their state and local peers due to their greater resources?
+-->
 
 - Is there a way to reduce the amount of uncertainty around novel policies? 
 
@@ -132,9 +134,9 @@ To what extent is it capitalism? (i.e.. now much should we blame the structure o
 
 ## Policy Feedback 
 
-Policy makes politics: policy as "terrain" rather than policy as "prize" the explanatory variable rather than the dependent variable. 
+Policy makes politics: policy as "terrain" rather than policy as "prize" --- the explanatory variable rather than the dependent variable. 
 
-- In design: Are there specific actions advocates should take during the implementation stage to increase the likelihood of positive feedback at state and local levels?
+- In design: Are there specific actions advocates should take during the implementation stage to increase the likelihood of positive feedback at the state and local levels?
 
 - Technology & Policy: It’s tempting to think of technology as separate from politics; indeed, Stokes describes innovation as simply “occurring - or failing to occur" (53). Do interest groups shape technological innovation? Public trust in the technologies? 
 
@@ -144,13 +146,14 @@ Policy makes politics: policy as "terrain" rather than policy as "prize" the exp
 
 Electric utilities “used their privileged position to roll back clean energy laws” (Stokes, p. 107).
 
+<!--
 >  What lessons from other areas of policy addressing institutional resistance apply to advancing clean energy laws? <!--Amaya-->
 
 
 
-
+<!--
 > Stokes notes that interest groups’ ability to “shape the parties through primaries is [more] pronounced at the subnational level” (p. 64). Does this mean that retrenchment is more likely to occur for policies passed at a state or local level, as opposed to national policies?
-
+--> 
 
 # INSTITUTIONS 
 
@@ -158,6 +161,7 @@ What is an institution?
 
 
 
+<!--
 
 ## Expertise and Quiet Politics 
 
@@ -169,13 +173,15 @@ What is an institution?
 
 
 
-
+<!--
  
 ## Incentives to shape policy  
 
 <!--
 > Has the culture around and response to lobbying changed?
 --> 
+
+<!--
 
 ## Incentives as policy tools to shape behavior   
 
@@ -200,7 +206,11 @@ What are the implications of moving authority?
 
 > When it comes to renewable energy projects, who benefits when state law supersedes municipal authority? Are public organizations/public actors "better?"
 
+<!--
 > Is a return to municipal-controlled utility distribution feasible?
+--> 
+
+<!--
 
 ## Lesson-drawing 
 
@@ -227,12 +237,12 @@ Networked Advocates Use the Public to Drive Clean Energy Leadership in Texas
 
 - 1990s - Restructuring creates a window of opportunity 
 - 1999 - Advocates get a clean energy target
-- 2005 - A Republican whose rural district had benefited from wind energy sponsored a bill to increase the target and state funds for renewable
+- 2005 - A Republican whose rural district had benefited from wind energy sponsored a bill to increase the target and state funds for renewables
   - Big Wind was key to passing this bill
 
 ## Fog of Enactment  
 
-Fossil fuel companies anticipated costs for new laws, but these costs were uncertain and the industry was not mobilized to oppose them. 
+Fossil fuel companies anticipated costs for new laws, but these costs were uncertain, and the industry was not mobilized to oppose them. 
 
 - Thus, clean energy was not yet polarized
 - Fossil fuel companies and utilities were distracted by fighting each other over deregulation (the big prize)
@@ -254,7 +264,7 @@ Environmental advocates saw the future more clearly, in part due to networks wit
 
 - No public utility commission until 1975.
 
-- Legislature meets every other year. 
+- The legislature meets every other year. 
 
 
 ## Insider Lobbying 
@@ -311,7 +321,7 @@ Fossil Fuel Corporations Undermine Texas's Solar Energy Law
 
 Clean energy opponents did not need to use indirect tools like the parties, the public, or the courts. They had sufficient influence at the Capitol, with the governor, and with regulators.
 
-- "He sits in Senator Fraser's office. There's an empty desk that he uses. [The lobbyist and the legislator's staffer] are extremely close"
+- "He sits in Senator Fraser's office. There's an empty desk that he uses. [The lobbyist and the legislator's staffer] are extremely close."
 
 After a mere six years, the clean energy industry in Texas could not rival the 100-year-old fossil fuel lobby.
 
@@ -324,7 +334,7 @@ $\longrightarrow$ failed to achieve "lock-in" (unlike the Affordable Care Act)
 
 ## Incumbent industry 
 
-> "It finally began to dawn on teh natural gas guys that wind wa starting to cut into their profits and solar was certainly going to cut into their proffits." 
+> "It finally began to dawn on the natural gas guys that wind was starting to cut into their profits and solar was certainly going to cut into their profits." 
 
 
 ## Organized combat continues into implementation  
@@ -350,7 +360,7 @@ Fights over "legislative intent"
 
 1985 Net Metering law aimed to enable distributed generation (e.g., rooftop solar)
 
-- But, the PUC did not enforce the law, and utilities refused to connect small-scale generation
+- But the PUC did not enforce the law, and utilities refused to connect small-scale generation
 
 
 ### Retrenchment (i.e., unmaking policy)  
@@ -359,14 +369,14 @@ Fights over "legislative intent"
 
 ### Equilibrium 
 
-- People won't install rooftop solar if it does not pay, and therefore few customers exist for companies
+- People won't install rooftop solar if it does not pay, and therefore, few customers exist for companies
 
 
 ## Retrenchment (i.e., unmaking policy)  
 
 - The 2007 law allowed large energy consumers to opt out of the RPS
   - Swinford intended to neutralize large companies 
-  - Fraser opposed it because he wanted to maintain their stakes in opposing clean energy
+  - Fraser opposed it because he wanted to maintain their stake in opposing clean energy
   - Shifted costs of paying for the transition to retail consumers 
 
 - by 2011, polarization on clean energy at the state and federal levels turned most Republicans into opponents
@@ -417,7 +427,7 @@ Political economy shapes party politics:
 
 Political/ideological networks also shape the political economy:
 
-> "many important opponents working to undermine Kansas’s clean energy laws came from outside the state, brought into the conflict through right-wing interest group networks. (p. 150). 
+> "Many important opponents working to undermine Kansas’s clean energy laws came from outside the state, brought into the conflict through right-wing interest group networks. (p. 150). 
 
 . . .
 
@@ -439,7 +449,7 @@ Political/ideological networks also shape the political economy:
 
 ::: {.notes}
 
-> “Several unions lobbied in support of the bill, given the existing workforce at the nuclear and coal plants. After a decade of attacks on the clean energy laws, there were few clean energy advocates or jobs in the state to contest these opponents. These Democrats would rather side with the utilities and the unions than nurture a new clean economy, even if it meant subsidies for coal. Just six days after the bill was passed, Governor DeWine signed it into law. Despite claiming that they would maintain the union contracts at their plants, FirstEnergy Solutions filed a scheduled update to the bankruptcy proceedings just 12 hours after the final bill passed. In this update, the utility walked back their commitment to union contracts, including pensions." (p. 220)
+> “Several unions lobbied in support of the bill, given the existing workforce at the nuclear and coal plants. After a decade of attacks on the clean energy laws, there were few clean energy advocates or jobs in the state to contest these opponents. These Democrats would rather side with the utilities and the unions than nurture a new clean economy, even if it meant subsidies for coal. Just six days after the bill was passed, Governor DeWine signed it into law. Despite claiming that they would maintain the union contracts at their plants, FirstEnergy Solutions filed a scheduled update to the bankruptcy proceedings just 12 hours after the final bill passed. In this update, the utility walked back its commitment to union contracts, including pensions." (p. 220)
 
 :::
 

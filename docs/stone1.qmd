@@ -5,7 +5,7 @@ author: "Deborah Stone"
 format: 
   revealjs:
       incremental: true  
-      theme: [default, michigan.scss]
+      theme: [michigan.scss]
       #footer:  
       fontsize: "40px"
       title-slide-attributes:
