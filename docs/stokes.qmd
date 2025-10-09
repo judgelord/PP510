@@ -89,7 +89,9 @@ This is a question I wrestle with
 
 :::
 
+<!--
 # Discussion Questions 
+--> 
 
 ## Fog of Enactment  
 
