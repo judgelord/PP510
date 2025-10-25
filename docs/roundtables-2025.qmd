@@ -30,13 +30,16 @@ css: styles.css
 
 
 
-## 8:30-9:50 AM Nov. 20 & 25th and Dec. 3rd, 2025  {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+## 8:30-9:50 AM Nov. 20 & 25th and Dec. 2nd, 2025  {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
 
 
 
 
 Walter and Leonore Annenberg Auditorium (Room 1120) Weill Hall, 735 S State St
 
+For parking passes or other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  and GSI  Luke Dillingham <ldilling@umich.edu>
+
+Or call 715-204-4287.
 
 🚧 Two of the following six topics will be addressed each day (TBD which topics will be on which days). Policy memo executive summaries will be available November 14th. 🚧
 
@@ -89,8 +92,8 @@ Walter and Leonore Annenberg Auditorium (Room 1120) Weill Hall, 735 S State St
 
 
 - Climate-Smart Building, Despite PA 230’s Uniform Building Codes <!--Shu Nawawi-->
-- How MDE Can Improve Learning Environments With The Cool Schools Toolkit <!--Claire Smith-->
-- Implementing The 2024 International Energy Conservation Code<!--Grant Bradley-->
+- How MDE Can Improve Learning Environments With the Cool Schools Toolkit <!--Claire Smith-->
+- Implementing the 2024 International Energy Conservation Code<!--Grant Bradley-->
 
 
 ### Energy Affordability and Equity
