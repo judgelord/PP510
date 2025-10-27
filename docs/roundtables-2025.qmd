@@ -41,7 +41,7 @@ For parking passes or other questions, email Professor Devin Judge-Lord, <judgel
 
 Or call 715-204-4287.
 
-🚧 Two of the following six topics will be addressed each day (TBD which topics will be on which days). Policy memo executive summaries will be available November 14th. 🚧
+🚧 Two of the following six topics will be addressed each day (TBD which topics will be on which days). Policy memo executive summaries will be available on November 14th. 🚧
 
 
 ### Data Centers	
@@ -80,7 +80,7 @@ Or call 715-204-4287.
 
 
 - Improving How Brownfield Coordinators Facilitate Renewables<!--Naissa Charles-->
-- Better Technical Asistance Through EGLE, Leo, and MDARD Collaboration <!--Emma Schwartz-->
+- Better Technical Assistance Through EGLE, LEO, and MDARD Collaboration <!--Emma Schwartz-->
 - Building Trust for Utility-Scale Solar: Options From Social Science <!--Haley Marie Jenkins-->
 - An Office of Rural Prosperity and EGLE Joint Task Force <!--Alice Kinney-->
 - Community Outreach Requirements for the MPSC Project Approval<!--Jannes Tiemes-->
@@ -99,7 +99,7 @@ Or call 715-204-4287.
 ### Energy Affordability and Equity
 
 
-- Integrating Ira Home Energy Audit Data and Weatherization Assistance Programs <!--Lilia Eisenstein-->
+- Integrating IRA Home Energy Audit Data and Weatherization Assistance Programs <!--Lilia Eisenstein-->
 - Equity Dashboards, Performance Metrics, and Performance-Based Rates <!--Mericel Mirabel-->
 - Better Data On Disconnection Inequities <!--Leslie Rios-->
 - Comparing Equity Metrics for DTE’s Prioritization Model <!--Anneke Craig-->
