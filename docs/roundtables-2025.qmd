@@ -1,6 +1,6 @@
 ---
 # title: "Informational Hearings on Energy in Michigan"
-title: "MPP Student Presentations on Energy Policy in Michigan"
+title: "MPP Student Presentations on Energy Policy in Michigan <br> <br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 author: ""
@@ -44,17 +44,7 @@ Or call 715-204-4287.
 🚧 Two of the following six topics will be addressed each day (TBD which topics will be on which days). Policy memo executive summaries will be available on November 14th. 🚧
 
 
-### Data Centers	
-
-
-- EGLE Permitting for Behind-The-Meter Energy <!--Isaac Alfernos-->
-- How the MSF Can Address Environmental Impacts From Datacenters <!--Veronica Goonan-->
-- EGLE’s Oversight of Data Center Municipal Water Use <!--Sophia Hashmey-->
-- Clean Energy Tariffs for Data Centers <!--Maya Kapur-->
-- MDHHS Community Health Monitoring for *L. Pneumophila* Outbreaks Near Datacenters <!--Alyssa Marie Prisby-->
-
-
-
+<!-- Nov 20 --> 
 
 ### New Energy Infrastructure Problems
  
@@ -65,15 +55,37 @@ Or call 715-204-4287.
 - Are Permits or Inspections Needed for PFAS in Anaerobic Digesters?<!--Katherine Farnsworth Springer-->
 
 
-
+<!-- Nov 25 --> 
 
 ### Community-Scale Electrification	
 
 
 - Prioritizing EV Infrastructure in Rural and Underserved Areas Via EGLE’s CFCI <!--Norm Bickley-->
 - Reforming MIGreenPower Billing and Fees to Increase Participation <!--Madeleine Gibbons-Shapiro-->
-- Needs Assessments and Pilot Programs for Solar On Condos and Rentals <!--Sowmya Raman-->
+- Needs Assessments and Pilot Programs for Solar on Condos and Rentals <!--Sowmya Raman-->
 - Helping Rural Communities Apply for State and Federal Funds <!--Jacoby Ramsey-->
+
+
+
+### Data Centers	
+
+
+- Permitting for Behind-The-Meter Energy <!--Isaac Alfernos-->
+- How the MSF Can Address Environmental Impacts of Datacenters <!--Veronica Goonan-->
+- Oversight of Data Center Municipal Water Use <!--Sophia Hashmey-->
+- Clean Energy Tariffs for Data Centers <!--Maya Kapur-->
+- MDHHS Community Health Monitoring for *L. Pneumophila* Outbreaks Near Data Centers <!--Alyssa Marie Prisby-->
+
+
+<!-- Dec 2 --> 
+
+### Building Electrification & Efficiency	
+
+
+- Climate-Smart Building, Despite PA 230’s Uniform Building Codes <!--Shu Nawawi-->
+- How MDE Can Improve Learning Environments With the Cool Schools Toolkit <!--Claire Smith-->
+- Implementing the 2024 International Energy Conservation Code<!--Grant Bradley-->
+
 
 
 ### Siting Energy Infrastructure	
@@ -85,15 +97,6 @@ Or call 715-204-4287.
 - An Office of Rural Prosperity and EGLE Joint Task Force <!--Alice Kinney-->
 - Community Outreach Requirements for the MPSC Project Approval<!--Jannes Tiemes-->
 
-
-
-
-### Building Electrification & Efficiency	
-
-
-- Climate-Smart Building, Despite PA 230’s Uniform Building Codes <!--Shu Nawawi-->
-- How MDE Can Improve Learning Environments With the Cool Schools Toolkit <!--Claire Smith-->
-- Implementing the 2024 International Energy Conservation Code<!--Grant Bradley-->
 
 
 ### Energy Affordability and Equity
