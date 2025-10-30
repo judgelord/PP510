@@ -1,6 +1,6 @@
 ---
 # title: "Informational Hearings on Energy in Michigan"
-title: "MPP Student Presentations on Energy Policy in Michigan <br> <br>"
+title: "MPP Student Panels on Michigan Energy Policy <br> <br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 author: ""
