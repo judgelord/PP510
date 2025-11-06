@@ -43,19 +43,18 @@ Or call 715-204-4287.
 
 🚧 Two of the following six topics will be addressed each day (TBD which topics will be on which days). Policy memo executive summaries will be available on November 14th. 🚧
 
-
-<!-- Nov 20 --> 
-
-### New Energy Infrastructure Problems
- 
-- Toxic Waste (Monoethylene Glycol) from Decommissioning Wind Turbines <!--Adiah Bailey-->
-- MDARD BMPs for Soil Health for Projects With Battery Storage <!--Love Lundy -->
-- Expanding E-Waste Facilities for Solar Panel Recycling <!--Margy Hunter-->
-- Universal Waste Classification to Expand Solar Panel Recycling <!--Isabella Valdez Martinez-->
-- Are Permits or Inspections Needed for PFAS in Anaerobic Digesters?<!--Katherine Farnsworth Springer-->
+---
 
 
-<!-- Nov 25 --> 
+Tentatively on Nov 20: 
+
+### Building Electrification & Efficiency	
+
+
+- Climate-Smart Building, Despite PA 230’s Uniform Building Codes <!--Shu Nawawi-->
+- How MDE Can Improve Learning Environments With the Cool Schools Toolkit <!--Claire Smith-->
+- Implementing the 2024 International Energy Conservation Code<!--Grant Bradley-->
+
 
 ### Community-Scale Electrification	
 
@@ -65,6 +64,9 @@ Or call 715-204-4287.
 - Needs Assessments and Pilot Programs for Solar on Condos and Rentals <!--Sowmya Raman-->
 - Helping Rural Communities Apply for State and Federal Funds <!--Jacoby Ramsey-->
 
+---
+
+Tentatively on Nov 25:
 
 
 ### Data Centers	
@@ -76,16 +78,18 @@ Or call 715-204-4287.
 - Clean Energy Tariffs for Data Centers <!--Maya Kapur-->
 - MDHHS Community Health Monitoring for *L. Pneumophila* Outbreaks Near Data Centers <!--Alyssa Marie Prisby-->
 
+### New Energy Infrastructure Problems
+ 
+- Toxic Waste (Monoethylene Glycol) from Decommissioning Wind Turbines <!--Adiah Bailey-->
+- MDARD BMPs for Soil Health for Projects With Battery Storage <!--Love Lundy -->
+- Expanding E-Waste Facilities for Solar Panel Recycling <!--Margy Hunter-->
+- Universal Waste Classification to Expand Solar Panel Recycling <!--Isabella Valdez Martinez-->
+- Are Permits or Inspections Needed for PFAS in Anaerobic Digesters?<!--Katherine Farnsworth Springer-->
 
-<!-- Dec 2 --> 
-
-### Building Electrification & Efficiency	
+---
 
 
-- Climate-Smart Building, Despite PA 230’s Uniform Building Codes <!--Shu Nawawi-->
-- How MDE Can Improve Learning Environments With the Cool Schools Toolkit <!--Claire Smith-->
-- Implementing the 2024 International Energy Conservation Code<!--Grant Bradley-->
-
+Tentatively on Dec 2: 
 
 
 ### Siting Energy Infrastructure	
@@ -111,7 +115,7 @@ Or call 715-204-4287.
 
 
 
-
+---
 
 
 
