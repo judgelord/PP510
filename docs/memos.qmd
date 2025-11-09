@@ -15,6 +15,15 @@ execute:
   engine: knitr
 ---
 
+
+# Learning objectives
+
+1. the ability to identify and focus on a timely, narrow, and tractable policy **problem**
+1. the ability to identify and focus on a **cause** of a perceived problem that policy can address
+1. the ability to get really clear on policymaking **authority** in an unfamiliar area
+3. the ability to do systematic **comparative analysis** of policy options (including stakeholder **politics** that ought to inform our evaluative criteria)
+3. the ability to give clear policy **advice** in both whiten and oral form
+
 # Issues Memo 
 
 The issue memo is your opportunity to set the agenda for this course. It is also a chance to learn about how political authority is distributed in the U.S. federal system and the state of Michigan.
