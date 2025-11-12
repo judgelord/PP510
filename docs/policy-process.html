@@ -8,7 +8,7 @@
 <link href="policy-process_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="policy-process_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="policy-process_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.353">
+  <meta name="generator" content="quarto-1.5.57">
 
   <title>The Policy Process</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -155,7 +155,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -348,7 +349,7 @@
 </section>
 <section id="defining-public-policy" class="slide level2 scrollable">
 <h2>Defining Public Policy</h2>
-<table>
+<table class="caption-top">
 <colgroup>
 <col style="width: 50%">
 <col style="width: 50%">
@@ -538,8 +539,7 @@
 <p>The process by which problems and alternative solutions gain or lose public and elite attention (including the activities or actors to prevent problems or solutions from gaining attention)</p>
 </div><div class="column" style="width:70%;">
 <p><img src="figs/agendas.jpg" alt="agendas" style="width:100%"></p>
-</div>
-</div>
+</div></div>
 </section>
 <section class="slide level2">
 
@@ -644,18 +644,18 @@
 <section class="slide level2">
 
 <p>Acting on inputs: Roll Call Votes in Congress</p>
-
-<img data-src="figs/agendas-internet.png" class="r-stretch quarto-figure-center"></section>
+<p><a href="https://t.co/12TnMyb6iT?amp=1"><img data-src="figs/agendas-internet.png"></a></p>
+</section>
 <section class="slide level2">
 
 <p>Acting on inputs: Roll Call Votes in Congress</p>
-
-<img data-src="figs/agendas-water.png" class="r-stretch quarto-figure-center"></section>
+<p><a href="https://t.co/pVGotUMoDi?amp=1"><img data-src="figs/agendas-water.png"></a></p>
+</section>
 <section class="slide level2">
 
 <p>Acting on inputs: Congressional Oversight of Agencies</p>
-
-<img data-src="figs/oversight-ferc.png" class="r-stretch quarto-figure-center"></section>
+<p><a href="https://twitter.com/SenSchumer/status/1167125835691806720"><img data-src="figs/oversight-ferc.png"></a></p>
+</section>
 <section id="inputs-to-executive-branch-policymaking" class="slide level2">
 <h2>Inputs to executive-branch policymaking</h2>
 <p>Congressional oversight</p>
@@ -676,6 +676,10 @@
 </li>
 <li class="fragment"><a href="https://judgelord.github.io/dissertation/present/whyMail-APW.html#1">Public pressure campaigns</a> and <a href="https://www.niskanencenter.org/how-bureaucrats-make-good-policy/">other interest group lobbying coalitions</a></li>
 </ul>
+<p>https://www.nytimes.com/video/us/100000010135812/how-one-law-is-being-used-to-challenge-trumps-agenda.html?smid=url-share</p>
+</section>
+<section id="more-inputs-to-executive-branch-policymaking-1" class="slide level2">
+<h2>More inputs to executive-branch policymaking</h2>
 <p>Whitehouse oversight over the <em>career civil service</em></p>
 <ul>
 <li class="fragment">Appoint and remove agency heads.</li>
@@ -720,8 +724,10 @@
 </ul>
 <p>See The University of Washington’s <a href="http://www.legex.org/us/process/">Legislative Explorer</a></p>
 <p>See <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12472">More Effective Than We Thought: Accounting for Legislative Hitchhikers Reveals a More Inclusive and Productive Lawmaking Process</a></p>
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section></section>
     </div>
@@ -750,7 +756,6 @@
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -967,18 +972,7 @@
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -1010,11 +1004,50 @@
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
-      function tippyHover(el, contentFn) {
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1024,8 +1057,17 @@
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
@@ -1039,7 +1081,11 @@
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {
