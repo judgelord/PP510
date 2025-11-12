@@ -14,22 +14,12 @@ css: styles.css
 execute:
   echo: false
   engine: knitr
-#   revealjs:
-#       incremental: false  
-#       scrollable: true
-#       theme: [default, michigan.scss]
-#       footer:  "University of Michigan Ford School of Public Policy"
-#       fontsize: "40px"
-#       title-slide-attributes:
-#         data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
-#         data-background-size: cover
-#         data-background-opacity: "0.5"
 ---
 
 
 ## Overview 
 
-Roundtables are structured as expert panel presentations assembled for a Michigan House or Senate Committee informational hearing. Here is a [summary of testimony from a recent informational haring on racial and ethnic disparities in maternal and infant health](https://stateofreform.com/featured/2023/03/michigan-senate-committee-discusses-racial-and-ethnic-disparities-in-maternal-and-infant-health/) and the [full audio from that committee meeting](https://www.senate.michigan.gov/committeeaudio/2023-2024/Health%20Policy/Health-Policy-03-22-2023_1232PM_28_72.mp3). Given their official positions, these presenters have more time and slightly different goals than your goals, but I hope it is helpful. 
+Roundtables are roughly structured as expert panel presentations assembled for a Michigan House or Senate Committee informational hearing. You are presenting as yourself, by now somewhat of an expert on your subject! <!--Here is a [summary of testimony from a recent informational haring on racial and ethnic disparities in maternal and infant health](https://stateofreform.com/featured/2023/03/michigan-senate-committee-discusses-racial-and-ethnic-disparities-in-maternal-and-infant-health/) and the [full audio from that committee meeting](https://www.senate.michigan.gov/committeeaudio/2023-2024/Health%20Policy/Health-Policy-03-22-2023_1232PM_28_72.mp3). Given their official positions, these presenters have more time and slightly different goals than your goals, but I hope it is helpful. --> 
 
 Here is a nice summary of some research on trends in expert hearings by US House committees: 
 
@@ -37,12 +27,14 @@ Here is a nice summary of some research on trends in expert hearings by US House
 
 We have six topics on which various committees would like more information and policy analysis to make informed decisions about potential legislation that may end up in front of them. As members of the committee, they have the ability to mark up and shape legislation and then vote to send it out of committee to the full chamber for debate and votes. On some of these issues, they may be considering proposed legislation on some of these topics for many years to come, so they are not only interested in current draft legislation but also a general understanding of the problem and the pros and cons of different policy solutions that might be advanced. 
 
+You should focus your opening remarks on the part of your work this semester that you feel adds the most value. 
+
 ## Reflection and peer critique 
 
 For every roundtable in which you will not be presenting, you will be assigned a
 person to critique (5 total). Each should be three paragraphs (about half a page, no more than one page) addressing (1) strengths,  (2) opportunities for improvement, and (3) connections to things we studied in this class, especially the Bardach, Blackhawk, Carpenter, Dwidar, Leech, Seifter, Stone, Woodly, Weimer and Vining, and Weaver readings and the Mettler and Nickels podcasts. 
 
-Submit each critique as a seperate file to Canvas by the next class session WITHOUT YOUR
+Submit each critique as a separate file to Canvas by the next class session WITHOUT YOUR
 NAME. Do not put your name on the critique. 
 
 Your critique will be graded according to
