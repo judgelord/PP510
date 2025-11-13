@@ -27,7 +27,15 @@ GSI: Luke Dillingham <ldilling@umich.edu>
   
 - Office hours:  Wednesdays, 2:30-3:30 PM and on Thursdays from 10:00-11:00 AM,  3208 Weill Hall. 
 
-[Course Google calendar](https://calendar.google.com/calendar/u/0?cid=Y18xYzE2MDk1N2U5M2ZkZmVhNjQ4Mjg2MzY1YTNjNDM5ZjA4NWFmYjAxMDQyMWZlYmI4ZWJjN2M2MzgxZDFkYmNkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (For your convenience --- dates in Canvas are authoritative)
+Key links: 
+
+- [Memo Assignment Guide](memos.html)
+
+- [Roundtable Presentation Guide](roundtables.html#/overview)
+
+- [Background Resources on Energy Policy in Michigan](energy.html)
+
+- [Course Google calendar](https://calendar.google.com/calendar/u/0?cid=Y18xYzE2MDk1N2U5M2ZkZmVhNjQ4Mjg2MzY1YTNjNDM5ZjA4NWFmYjAxMDQyMWZlYmI4ZWJjN2M2MzgxZDFkYmNkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (For your convenience --- dates in Canvas are authoritative)
 
 ---
 
@@ -75,7 +83,6 @@ Five years later, I am working on a book about whether regular people's voices m
 
 <!--exclude: true-->
 
-🚧 [Updated `r Sys.Date() |> format("%B %d, %Y")`](https://github.com/judgelord/PP510/commits/main/docs/syllabus.html) 🚧 
 
 ---
 
@@ -104,9 +111,11 @@ Public policy is inexorably linked to questions of power. Policy emerges from an
 1. Understand the history and language of policy studies
 1. Understand how scholarly and public debates inform policy
 1. Conduct policy-relevant research
-1. Write for a policy audience
-1. Engage in public policymaking
-1. Engaging others in the policy process
+1. Identify and focus on a timely, narrow, and tractable policy **problem**
+1. Identify and focus on a **cause** of a perceived problem that policy can address
+1. Know how to get really clear on policymaking **authority** in an unfamiliar area
+3. Do systematic **comparative analysis** of policy options (including stakeholder **politics** that ought to inform our evaluative criteria)
+3. To give clear policy **advice** in both written and oral form
 
 
 > "Practical wisdom includes a knowledge of particular facts, and this is derived from experience" - Aristotle, Nicomachean Ethics
@@ -1066,3 +1075,7 @@ We, the instructors, will conduct all individual communications using the Univer
 There will be no instructor-student private communications on any non-University platforms, such as social media, GroupMe, WhatsApp, etc.
 
 For more information on resources for reporting sexual misconduct, please see [the faculty senate best practices for faculty interactions](https://facultysenate.umich.edu/wp-content/uploads/2022/08/BEST-PRACTICES-FOR-FACULTY-_-STUDENT-INTERACTIONS.pdf) and [U-M's page on Sexual and Gender-Based Misconduct](https://sexualmisconduct.umich.edu/).
+
+
+🚧 [Updated `r Sys.Date() |> format("%B %d, %Y")`](https://github.com/judgelord/PP510/commits/main/docs/syllabus.html) 🚧 
+
