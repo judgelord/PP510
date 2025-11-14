@@ -40,9 +40,9 @@ css: styles.css
 
 Walter and Leonore Annenberg Auditorium (Room 1120) Weill Hall, 735 S State St
 
-For parking passes or other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  and GSI  Luke Dillingham <ldilling@umich.edu>
+For parking passes or other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  and GSI  Luke Dillingham <ldilling@umich.edu> or call 715-204-4287.
 
-Or call 715-204-4287.
+
 
 🚧 Policy memo executive summaries will be available on November 15th. 🚧
 
@@ -96,9 +96,6 @@ Or call 715-204-4287.
 
 ### Siting Energy Infrastructure	
 
-
-Siting Energy Infrastructure
-
 - Community Outreach Requirements for the MPSC Project Approval Process - [Jannes Tiemes]()
 - Building Trust for Utility-Scale Solar: Options From Social Science - [Haley Marie Jenkins]()
 - Coordinating Statewide Technical Assistance for Renewable Energy and Rural Economic Development - [Emma Schwartz]()
@@ -117,8 +114,26 @@ Siting Energy Infrastructure
 
 
 
+---
 
 ---
+
+Thanks to our sponsor! 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+The University of Michigan’s Center for Local, State, and Urban Policy (CLOSUP) is dedicated to serving local communities in Michigan and beyond, combining engaged research with collaborative state and local partnerships to build local capacity and strengthen democracy at its grassroots across rural and urban communities.
+
+:::
+
+::: {.column width="50%"}
+[ ![](https://closup.umich.edu/sites/closup/files/2021-06/CLOSUP-placeholder-teaser-1090x681.png)](https://closup.umich.edu)
+
+:::
+
+::::
+
 
 
 
