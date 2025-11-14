@@ -22,8 +22,10 @@ format:
  html:
    toc: true
    toc-location: left
+   toc-depth: 3
+   toc-expand: true
    toc-title: "Presentations"
-   theme: [michigan.scss,wethepeople.scss]
+   theme: [michigan.scss,ford.scss]
 css: styles.css
 ---
 
@@ -32,7 +34,7 @@ css: styles.css
 
 ## 8:00-10:00 AM Nov. 20 & 25th and Dec. 2nd, 2025  {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
 
-- 8:00-8:30 - Coffee and pastries
+- 8:00-8:30 - Coffee 
 
 - 8:30-9:50 - Presentations and audience questions
 
@@ -47,15 +49,14 @@ Or call 715-204-4287.
 ---
 
 
-# Nov 20 
+### **Nov 20**
 
 ### Building Electrification & Efficiency	
 
 
 - Climate-Smart Building Codes Exemptions - [Shu Nawawi]()
-- Cool Schools in a Warming World - [Claire Smith]()
 - Energy Conservation Codes - [Grant Bradley]()
-
+- Cool Schools in a Warming World - [Claire Smith]()
 
 ### Community-Scale Electrification	
 
@@ -67,7 +68,7 @@ Or call 715-204-4287.
 
 ---
 
-# Nov 25
+### **Nov 25**
 
 
 ### Data Centers	
@@ -90,7 +91,7 @@ Or call 715-204-4287.
 ---
 
 
-# Dec 2 
+### **Dec 2** 
 
 
 ### Siting Energy Infrastructure	
