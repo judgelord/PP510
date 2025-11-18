@@ -74,8 +74,8 @@ For parking passes or other questions, email Professor Devin Judge-Lord, <judgel
 ### Data Centers	
 
 
-- Permitting for Behind-The-Meter Energy - [Isaac Alfernos]()
-- Addressing Environmental Impacts of Datacenters - [Veronica Goonan]()
+- Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
+- Addressing Environmental Impacts of Data centers - [Veronica Goonan]()
 - Oversight of Data Center Municipal Water Use - [Sophia Hashmey]()
 - Clean Energy Tariffs for Data Centers - [Maya Kapur]()
 - Community Health Monitoring for *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
