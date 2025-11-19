@@ -1,16 +1,26 @@
 ---
-# title: "Informational Hearings on Energy in Michigan"
 title: "MPP Student Panels on Michigan Energy Policy <br> <br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 author: ""
-format: 
+format:
+#### RENDER FORMAT = HTML WEB PAGE #### 
+ html:
+  toc: true
+  toc-location: left
+  toc-depth: 3
+  toc-expand: true
+  toc-title: "Presentations"
+  theme: [michigan.scss,ford.scss]
+  css: styles.css
+#### RENDER FORMAT = HTML SLIDESHOW PRESENTATION #### 
   # revealjs:
-  #     incremental: false  
-  #     scrollable: true
-  #     theme: - [default, michigan.scss]
-  #     footer:  "University of Michigan Ford School of Public Policy Informational Hearings on Energy"
-  #     fontsize: "40px"
+  #     incremental: false
+  #     scrollable: false
+  #     theme: [michigan.scss]
+  #     footer:  "University of Michigan Ford School of Public Policy Informational Panels on Energy Policy"
+  #     fontsize: "20px"
+  #     smaller: true
   #     data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
   #     data-background-size: cover
   #     data-background-opacity: "0.1"
@@ -18,21 +28,14 @@ format:
   #       data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
   #       data-background-size: cover
   #       data-background-opacity: "0.5"
+#### RENDER FORMAT = PDF #### 
 # pdf: default
- html:
-   toc: true
-   toc-location: left
-   toc-depth: 3
-   toc-expand: true
-   toc-title: "Presentations"
-   theme: [michigan.scss,ford.scss]
-css: styles.css
 ---
 
 
 
 
-## 8:00-10:00 AM Nov. 20 & 25th and Dec. 2nd, 2025  {background-opacity="0.2" background-image="https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg" }
+## 8:00-10:00 AM Nov. 20 & 25th and Dec. 2nd, 2025
 
 - 8:00-8:30 - Coffee 
 
@@ -58,6 +61,9 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 ### **Nov 20**
 
+---
+
+
 ### Building Electrification & Efficiency	
 
 
@@ -76,6 +82,8 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 ---
 
 ### **Nov 25**
+
+---
 
 
 ### Data Centers	
@@ -100,6 +108,8 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 ### **Dec 2** 
 
+---
+
 
 ### Siting Energy Infrastructure	
 
@@ -123,7 +133,7 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 ---
 
----
+
 
 Thanks to our sponsor! 
 
