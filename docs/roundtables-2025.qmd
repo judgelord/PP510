@@ -6,24 +6,20 @@ author: ""
 format:
 #### RENDER FORMAT = HTML WEB PAGE #### 
  html:
-  toc: true
+  toc: true # Table of Contents formatting
   toc-location: left
   toc-depth: 3
   toc-expand: true
   toc-title: "Presentations"
-  theme: [michigan.scss,ford.scss]
-  css: styles.css
+  theme: [michigan.scss] # fonts and colors
+  css: styles.css # adds logo.png to web page
 #### RENDER FORMAT = HTML SLIDESHOW PRESENTATION #### 
   # revealjs:
   #     incremental: false
   #     scrollable: false
-  #     theme: [michigan.scss]
+  #     theme: [michigan.scss,ford.scss]
   #     footer:  "University of Michigan Ford School of Public Policy Informational Panels on Energy Policy"
-  #     fontsize: "20px"
   #     smaller: true
-  #     data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
-  #     data-background-size: cover
-  #     data-background-opacity: "0.1"
   #     title-slide-attributes:
   #       data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
   #       data-background-size: cover
