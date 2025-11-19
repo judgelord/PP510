@@ -63,7 +63,7 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 ### Building Electrification & Efficiency	
 
 
-- Climate-Smart Building Codes Exemptions - [Shu Nawawi]()
+- Flexibility and Efficiency in Building Codes - [Shu Nawawi]()
 - Energy Conservation Codes - [Grant Bradley]()
 - Cool Schools in a Warming World - [Claire Smith]()
 
@@ -71,8 +71,8 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 
 - Prioritizing EV Infrastructure in Rural and Underserved Areas - [Norm Bickley]()
-- Increasing Participation in MIGreenPower - [Madeleine Gibbons-Shapiro]()
-- Needs Assessments and Pilot Programs for Solar on Condos and Rentals - [Sowmya Raman]()
+- Authorizing Opt-Out Community Choice Aggregation - [Madeleine Gibbons-Shapiro]()
+- Community Solar Access for Condos and Rentals - [Sowmya Raman]()
 - Helping Rural Communities Apply for State and Federal Funds - [Jacoby Ramsey]()
 
 ---
@@ -86,18 +86,18 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 
 - Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
-- Addressing Environmental Impacts of Data centers - [Veronica Goonan]()
-- Oversight of Data Center Municipal Water Use - [Sophia Hashmey]()
+- Addressing Environmental Impacts of Data Centers - [Veronica Goonan]()
+- Data Center Water Consumption and Tiered Pricing - [Sophia Hashmey]()
 - Clean Energy Tariffs for Data Centers - [Maya Kapur]()
-- Community Health Monitoring for *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
+- Data Center Cooling Systems and *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
 
 ### New Energy Infrastructure Problems
  
-- Toxic Waste (Monoethylene Glycol) from Decommissioning Wind Turbines - [Adiah Bailey]()
+- Toxic Waste Moratorium and End-of-life Wind Turbines - [Adiah Bailey]()
 - Soil Health After Solar - [Love Lundy ]()
 - Expanding E-Waste Facilities for Solar Panel Recycling - [Margy Hunter]()
-- Universal Waste Classification to Expand Solar Panel Recycling - [Isabella Valdez Martinez]()
-- Permits or Inspections for PFAS in Anaerobic Digesters? - [Katherine Farnsworth Springer]()
+- Recycling Solar Panels as Universal Waste - [Isabella Valdez Martinez]()
+- PFAS in Anaerobic Digesters - [Katherine Farnsworth Springer]()
 
 ---
 
@@ -109,20 +109,20 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 ### Siting Energy Infrastructure	
 
-- Community Outreach Requirements for the MPSC Project Approval Process - [Jannes Tiemes]()
-- Building Trust for Utility-Scale Solar: Options From Social Science - [Haley Marie Jenkins]()
-- Coordinating Statewide Technical Assistance for Renewable Energy and Rural Economic Development - [Emma Schwartz]()
-- A Legislative Framework for Coordinated Renewable Development in Rural Michigan - [Alice Kinney]()
-- Improving How Brownfield Coordinators Facilitate Renewables - [Naissa Charles]()
+- Empowering Residents in Energy Siting - [Jannes Tiemes]()
+- Trust and Transparency in Utility-Scale Solar - [Haley Marie Jenkins]()
+- Coordinating Technical Assistance for Renewables - [Emma Schwartz]()
+- Renewable Energy Coordination in Rural Michigan - [Alice Kinney]()
+- Prioritizing Community Solar on Brownfields - [Naissa Charles]()
 
 
 ### Energy Affordability and Equity
 
 
-- Improving Weatherization Assistance with State Data  - [Lilia Eisenstein]()
-- Equity Dashboards, Performance Metrics, and Performance-Based Rates - [Mericel Mirabel]()
-- Better Data On Disconnection Inequities - [Leslie Rios]()
-- Comparing Equity Metrics for DTE’s Prioritization Model - [Anneke Craig]()
+- Improving Assistance with a State Energy Affordability Data Clearinghouse  - [Lilia Eisenstein]()
+- Performance-Based vs. Income-Graduated Rates - [Mericel Mirabel]()
+- Targeting Assistance with Data On Disconnection Inequities - [Leslie Rios]()
+- Equity Metrics for Utility Infrastructure Prioritization Models - [Anneke Craig]()
 
 
 
