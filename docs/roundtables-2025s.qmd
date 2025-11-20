@@ -1,0 +1,163 @@
+---
+title: "MPP Student Panels on Michigan Energy Policy <br> <br>"
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+author: ""
+format:
+#### RENDER FORMAT = HTML WEB PAGE #### 
+ # html:
+ #  toc: true # Table of Contents formatting
+ #  toc-location: left
+ #  toc-depth: 3
+ #  toc-expand: true
+ #  toc-title: "Presentations"
+ #  theme: [michigan.scss] # fonts and colors
+ #  css: styles.css # adds logo.png to web page
+#### RENDER FORMAT = HTML SLIDESHOW PRESENTATION #### 
+  revealjs:
+      incremental: false
+      scrollable: false
+      theme: [michigan.scss,ford.scss]
+      footer:  "University of Michigan Ford School of Public Policy Informational Panels on Energy Policy"
+      smaller: true
+      title-slide-attributes:
+        data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
+        data-background-size: cover
+        data-background-opacity: "0.5"
+#### RENDER FORMAT = PDF #### 
+# pdf: default
+---
+
+
+
+
+## 8:00-10:00 AM Nov. 20 & 25th and Dec. 2nd, 2025
+
+- 8:00-8:30 - Coffee 
+
+- 8:30-9:50 - Presentations and audience questions
+
+Annenberg Auditorium (Room 1120) Weill Hall, 735 S State St
+
+
+### Parking 
+
+Invited non-UM guests can park at the Maynard Parking Structure-Republic Parking, 324 Maynard St, Ann Arbor, MI 48104
+
+We will give you a parking validation ticket. 
+
+For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  and GSI  Luke Dillingham <ldilling@umich.edu> or call 715-204-4287.
+
+
+### Policy memo executive summaries are available [here](https://docs.google.com/document/d/1YSZz_HFb84-fTmqmhtaDwlZWMY0UI098MW7Btt-HnG4/edit?usp=sharing). 
+
+
+
+---
+
+## Agenda
+
+
+### **Nov 20**
+
+---
+
+### Welcome 
+
+8:30-8:35
+
+
+### Building Electrification & Efficiency	
+
+8:35
+
+- Flexibility and Efficiency in Building Codes - [Shu Nawawi]()
+- Energy Conservation Codes - [Grant Bradley]()
+- Cool Schools in a Warming World - [Claire Smith]()
+
+Break - 9:05
+
+### Community-Scale Electrification	
+
+9:10
+
+- Prioritizing EV Infrastructure in Rural and Underserved Areas - [Norm Bickley]()
+- Authorizing Opt-Out Community Choice Aggregation - [Madeleine Gibbons-Shapiro]()
+- Community Solar Access for Condos and Rentals - [Sowmya Raman]()
+- Helping Rural Communities Apply for State and Federal Funds - [Jacoby Ramsey]()
+
+---
+
+### **Nov 25**
+
+---
+
+
+### Data Centers	
+
+
+- Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
+- Addressing Environmental Impacts of Data Centers - [Veronica Goonan]()
+- Data Center Water Consumption and Tiered Pricing - [Sophia Hashmey]()
+- Clean Energy Tariffs for Data Centers - [Maya Kapur]()
+- Data Center Cooling Systems and *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
+
+### New Energy Infrastructure Problems
+ 
+- Toxic Waste Moratorium and End-of-life Wind Turbines - [Adiah Bailey]()
+- Soil Health After Solar - [Love Lundy ]()
+- Expanding E-Waste Facilities for Solar Panel Recycling - [Margy Hunter]()
+- Recycling Solar Panels as Universal Waste - [Isabella Valdez Martinez]()
+- PFAS in Anaerobic Digesters - [Katherine Farnsworth Springer]()
+
+---
+
+
+### **Dec 2** 
+
+---
+
+
+### Siting Energy Infrastructure	
+
+- Empowering Residents in Energy Siting - [Jannes Tiemes]()
+- Trust and Transparency in Utility-Scale Solar - [Haley Marie Jenkins]()
+- Coordinating Technical Assistance for Renewables - [Emma Schwartz]()
+- Renewable Energy Coordination in Rural Michigan - [Alice Kinney]()
+- Prioritizing Community Solar on Brownfields - [Naissa Charles]()
+
+
+### Energy Affordability and Equity
+
+
+- Improving Assistance with a State Energy Affordability Data Clearinghouse  - [Lilia Eisenstein]()
+- Performance-Based vs. Income-Graduated Rates - [Mericel Mirabel]()
+- Targeting Assistance with Data On Disconnection Inequities - [Leslie Rios]()
+- Equity Metrics for Utility Infrastructure Prioritization Models - [Anneke Craig]()
+
+
+
+
+---
+
+
+
+Thanks to our sponsor! 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+The University of Michigan’s Center for Local, State, and Urban Policy (CLOSUP) is dedicated to serving local communities in Michigan and beyond, combining engaged research with collaborative state and local partnerships to build local capacity and strengthen democracy at its grassroots across rural and urban communities.
+
+:::
+
+::: {.column width="50%"}
+[ ![](https://closup.umich.edu/sites/closup/files/2021-06/CLOSUP-placeholder-teaser-1090x681.png)](https://closup.umich.edu)
+
+:::
+
+::::
+
+
+
+
