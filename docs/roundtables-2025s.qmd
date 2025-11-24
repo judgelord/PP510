@@ -92,14 +92,7 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 ---
 
 
-### Data Centers	
 
-
-- Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
-- Addressing Environmental Impacts of Data Centers - [Veronica Goonan]()
-- Data Center Water Consumption and Tiered Pricing - [Sophia Hashmey]()
-- Clean Energy Tariffs for Data Centers - [Maya Kapur]()
-- Data Center Cooling Systems and *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
 
 ### New Energy Infrastructure Problems
  
@@ -108,6 +101,16 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 - Expanding E-Waste Facilities for Solar Panel Recycling - [Margy Hunter]()
 - Recycling Solar Panels as Universal Waste - [Isabella Valdez Martinez]()
 - PFAS in Anaerobic Digesters - [Katherine Farnsworth Springer]()
+
+
+### Data Centers	
+
+
+- Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
+- Addressing Environmental Impacts of Data Centers - [Veronica Goonan]()
+- Data Center Water Consumption and Tiered Pricing - [Sophia Hashmey]()
+- Clean Energy Tariffs for Data Centers - [Maya Kapur]()
+- Data Center Cooling Systems and *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
 
 ---
 
