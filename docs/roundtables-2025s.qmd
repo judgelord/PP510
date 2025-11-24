@@ -18,7 +18,7 @@ format:
       incremental: false
       scrollable: false
       theme: [michigan.scss,ford.scss]
-      footer:  "University of Michigan Ford School of Public Policy Informational Panels on Energy Policy"
+      footer:  "University of Michigan Ford School of Public Policy Panels on Energy Policy"
       smaller: true
       title-slide-attributes:
         data-background-image: "https://umaec.umich.edu/wp-content/uploads/2013/10/030630_fordpreferred.jpg"
@@ -91,7 +91,7 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 
 ---
 
-
+Welcome 8:30-8:35
 
 
 ### New Energy Infrastructure Problems
@@ -102,14 +102,14 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 - Recycling Solar Panels as Universal Waste - [Isabella Valdez Martinez]()
 - PFAS in Anaerobic Digesters - [Katherine Farnsworth Springer]()
 
+Break 9:05-9:10
 
 ### Data Centers	
 
-
-- Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
 - Addressing Environmental Impacts of Data Centers - [Veronica Goonan]()
-- Data Center Water Consumption and Tiered Pricing - [Sophia Hashmey]()
 - Clean Energy Tariffs for Data Centers - [Maya Kapur]()
+- Tax Incentives for Data Centers on Brownfields  - [Isaac Alferos]()
+- Data Center Water Consumption and Tiered Pricing - [Sophia Hashmey]()
 - Data Center Cooling Systems and *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
 
 ---

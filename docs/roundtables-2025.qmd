@@ -85,6 +85,15 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 ---
 
 
+### New Energy Infrastructure Problems
+ 
+- Toxic Waste Moratorium and End-of-life Wind Turbines - [Adiah Bailey]()
+- Soil Health After Solar - [Love Lundy ]()
+- Expanding E-Waste Facilities for Solar Panel Recycling - [Margy Hunter]()
+- Recycling Solar Panels as Universal Waste - [Isabella Valdez Martinez]()
+- PFAS in Anaerobic Digesters - [Katherine Farnsworth Springer]()
+
+
 ### Data Centers	
 
 
@@ -94,13 +103,6 @@ For other questions, email Professor Devin Judge-Lord, <judgelor@umich.edu>,  an
 - Clean Energy Tariffs for Data Centers - [Maya Kapur]()
 - Data Center Cooling Systems and *L. Pneumophila* Outbreaks - [Alyssa Marie Prisby]()
 
-### New Energy Infrastructure Problems
- 
-- Toxic Waste Moratorium and End-of-life Wind Turbines - [Adiah Bailey]()
-- Soil Health After Solar - [Love Lundy ]()
-- Expanding E-Waste Facilities for Solar Panel Recycling - [Margy Hunter]()
-- Recycling Solar Panels as Universal Waste - [Isabella Valdez Martinez]()
-- PFAS in Anaerobic Digesters - [Katherine Farnsworth Springer]()
 
 ---
 
