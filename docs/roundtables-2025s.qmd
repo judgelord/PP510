@@ -119,6 +119,8 @@ Break 9:05-9:10
 
 ---
 
+Welcome 8:30-8:35
+
 
 ### Siting Energy Infrastructure	
 
@@ -128,13 +130,15 @@ Break 9:05-9:10
 - Renewable Energy Coordination in Rural Michigan - [Alice Kinney]()
 - Prioritizing Community Solar on Brownfields - [Naissa Charles]()
 
+Break 9:10-9:15
+
 
 ### Energy Affordability and Equity
 
 
 - Improving Assistance with a State Energy Affordability Data Clearinghouse  - [Lilia Eisenstein]()
+- Targeting Assistance with Data on Disconnection Inequities - [Leslie Rios]()
 - Performance-Based vs. Income-Graduated Rates - [Mericel Mirabel]()
-- Targeting Assistance with Data On Disconnection Inequities - [Leslie Rios]()
 - Equity Metrics for Utility Infrastructure Prioritization Models - [Anneke Craig]()
 
 
