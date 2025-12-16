@@ -193,13 +193,13 @@ My objective in teaching this course is to encourage your understanding of the p
 
 > "Trust yourself! It will get overwhelming, especially during the memo writing and roundtable processes, but you will feel so proud of yourself at the end."
 
-> "Go to the writing center before every memo
+> "Go to the writing center before every memo."
 
 <!--, and think hard about which topics you can see yourself researching for two months when ranking them for the group selection. Try to do some preliminary research on all of them to see how easy they are to find information about and their relevance."-->
 
 > "Be prepared for a heavier reading and research load compared to other classes. Go to office hours to clarify how you should structure your memos." 
 
-> "Research, research, research – especially in anticipation of questions during the roundtables. But also, it's okay not to know as long as you can respond professionally.
+> "Research, research, research – especially in anticipation of questions during the roundtables. But also, it's okay not to know as long as you can respond professionally."
 
 <!--(it may be helpful to teach politically correct deflection strategies for use during the roundtable Q&A's).--> 
 
@@ -447,6 +447,8 @@ These three <mark>**4-page** double-spaced</mark> policy memos must follow [the 
 
 The first is more of a practice attempt and is thus worth fewer points.
 
+You may (indeed, are encourged to) stay with the same topic and same ideas, to the extent that they are applicable. You may often keep a significant amount of text from one version to the other, as long as you are revising sufficiently to (1) address the new audience and policymaking authority and (2) incorporate feedback on your prior memo.  See the [memo assignment guide](https://judgelord.github.io/PP510/memos.html).
+
 For each memo, you will first submit a full draft for peer review. These drafts are each worth 1% and are graded on a Pass/Fail basis only on whether it is turned in on time and comply with all formatting requirements. If you submit after the deadline, you will not get peer review feedback on your draft.
 
 The remaining points are on the final version of each memo. 
@@ -498,9 +500,9 @@ F: 0-59
 
 ---
 
-### Policy on Academic Dishonesty/Plagiarism
+### Policy on Academic Dishonesty
 
-Academic dishonesty is broadly defined as submitting work that is not your own without attribution. This is not acceptable in any academic course. I use software tools to detect plagiarism. If you submit written work containing plagiarized material, you will receive a failing grade for the course and be reported to the University.
+Academic dishonesty is broadly defined as submitting work that is not your own without attribution. This is not acceptable in any academic course. If you submit written work that is not your own without attribution, you will receive a failing grade for the course and be reported to the University.
 
 ---
 
